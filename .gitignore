@@ -8,3 +8,4 @@ __pycache__/
 # intermediários da montagem (refeitos pelo montar.py)
 piloto/*/clipes/
 piloto/*/lista.txt
+piloto/*/audio_mix_bruto.wav

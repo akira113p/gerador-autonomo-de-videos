@@ -34,7 +34,7 @@ Candidatos e regras:
 - `docs/handoff/`: resumo de fim de sessão (skill `handoff`), para retomar na semana seguinte.
 - `.claude/skills/`: grill-me, grilling, research, handoff (de mattpocock/skills, MIT; research e handoff adaptados) e duas próprias: `registrar-decisao` (grava decisões em `docs/decisoes.md`) e `retomar-sessao` (lê o estado e propõe o próximo passo; use no começo de cada sessão).
 - `docs/decisoes.md`: decisões tomadas e perguntas pendentes.
-- `piloto/v1-vindolanda/`: primeiro vídeo piloto (2:17, cartas de Vindolanda, voz do professor idoso). Pipeline em scripts, nesta ordem: `gerar_imagens.py` (venv do OpenMontage, ComfyUI ligado), `gerar_voz.py` (venv-qwen), `conferir.py`, `gerar_trilha.py` e `montar.py` (venv-voz). Roteiro, prompts e fontes em `roteiro.json`. Mídia versionada junto.
+- `piloto/v1-vindolanda/`: primeiro vídeo piloto (2:17, cartas de Vindolanda, voz do professor idoso). Pipeline em scripts, nesta ordem: `gerar_imagens.py` (venv do OpenMontage, ComfyUI ligado), `gerar_voz.py` (venv-qwen), `conferir.py`, `gerar_trilha.py` e `montar.py` (venv-voz). O `montar.py` gera `piloto_v1.mp4` (AAC, para publicar) e `piloto_v1_vscode.mp4` (Opus: o preview do VS Code não toca AAC e fica mudo). Roteiro, prompts e fontes em `roteiro.json`. Mídia versionada junto.
 - `piloto/testes-identidade/`: testes de estilo de imagem e de vozes (cópia de `C:/ai-local/piloto`).
 - `identidade/`: vozes do canal (referência de clone do Qwen3-TTS): `narrador/` (britânico grave, principal) e `narrador-professor/` (professor idoso).
 - `ferramentas/`: executores dos modelos locais (rodam no `C:/ai-local/venv-voz`).

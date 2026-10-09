@@ -3,7 +3,7 @@
   C:/ai-local/venv-voz/Scripts/python.exe piloto/v1-vindolanda/montar.py
 
 Precisa de imagens/, voz/ (com duracoes.json) e trilha/ nesta pasta.
-Saída: piloto_v1.mp4 nesta pasta.
+Saída: piloto_v1.mp4 (AAC, para publicar) e piloto_v1_vscode.mp4 (Opus, toca no preview do VS Code).
 """
 
 import json
@@ -19,7 +19,8 @@ AQUI = Path(__file__).resolve().parent
 BASE = AQUI
 SFX_LIB = Path("D:/programacao/projetos/videos/openmontage/.agents/skills/hyperframes-media/assets/sfx")
 SR, FPS = 44100, 30
-LEAD, GAP, TAIL, PIADA = 1.2, 0.45, 3.5, 1.8
+# LEAD: música antes da 1ª fala. GAP: pausa entre cenas; PRE dela fica antes da fala (a imagem entra antes da voz).
+LEAD, GAP, PRE, TAIL, PIADA = 1.2, 0.45, 0.25, 3.5, 1.8
 
 # efeito -> (arquivo, ganho)
 SFX = {
@@ -57,7 +58,7 @@ def main() -> None:
         d = dur[c["id"]] + GAP + (LEAD if k == 0 else 0) + (TAIL if k == len(cenas) - 1 else 0)
         d += PIADA if "batida" in c["sfx"] else 0
         quadros = round(d * FPS)
-        plano.append({"cena": c, "inicio": t / FPS, "quadros": quadros, "voz": t / FPS + (LEAD if k == 0 else 0)})
+        plano.append({"cena": c, "inicio": t / FPS, "quadros": quadros, "voz": t / FPS + (LEAD if k == 0 else PRE)})
         t += quadros
     total = t / FPS
     n = int(total * SR)
@@ -99,7 +100,7 @@ def main() -> None:
     fade = np.clip((total - ts) / 2.5, 0, 1)
     mix = voz + efeitos + musica * ganho * fade
     mix /= max(np.max(np.abs(mix)), 1e-6) / 0.95
-    sf.write(BASE / "audio_mix.wav", mix, SR)
+    sf.write(BASE / "audio_mix_bruto.wav", mix, SR)
 
     # vídeo: um clipe por cena com zoom lento (alterna entrar e sair)
     clipes = BASE / "clipes"
@@ -123,14 +124,22 @@ def main() -> None:
         print("clipe", cid, q, flush=True)
     (BASE / "lista.txt").write_text("\n".join(lista), encoding="utf-8")
 
+    # mix final em estéreo 48 kHz, normalizado para o YouTube (-14 LUFS)
     subprocess.run(
-        ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(BASE / "lista.txt"),
-         "-i", str(BASE / "audio_mix.wav"), "-map", "0:v", "-map", "1:a", "-c:v", "copy",
-         "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "192k", "-ar", "48000",
-         "-shortest", "-movflags", "+faststart", str(BASE / "piloto_v1.mp4")],
+        ["ffmpeg", "-y", "-v", "error", "-i", str(BASE / "audio_mix_bruto.wav"),
+         "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-ac", "2", "-ar", "48000", str(BASE / "audio_mix.wav")],
         check=True,
     )
-    print("ok", BASE / "piloto_v1.mp4")
+    # AAC para YouTube e players comuns; Opus para o preview do VS Code, que não decodifica AAC
+    for nome, audio in [("piloto_v1.mp4", ["-c:a", "aac", "-b:a", "192k"]),
+                        ("piloto_v1_vscode.mp4", ["-c:a", "libopus", "-b:a", "160k"])]:
+        subprocess.run(
+            ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(BASE / "lista.txt"),
+             "-i", str(BASE / "audio_mix.wav"), "-map", "0:v", "-map", "1:a", "-c:v", "copy", *audio,
+             "-movflags", "+faststart", str(BASE / nome)],
+            check=True,
+        )
+        print("ok", BASE / nome)
 
 
 if __name__ == "__main__":
