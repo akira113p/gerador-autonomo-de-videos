@@ -1,0 +1,242 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.18,
+   "text": "In the winter of the year 100, a soldier on the northern edge of the Roman Empire received",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.12,
+     "word": "In"
+    },
+    {
+     "start": 0.12,
+     "end": 0.2,
+     "word": "the"
+    },
+    {
+     "start": 0.2,
+     "end": 0.42,
+     "word": "winter"
+    },
+    {
+     "start": 0.42,
+     "end": 0.62,
+     "word": "of"
+    },
+    {
+     "start": 0.62,
+     "end": 0.72,
+     "word": "the"
+    },
+    {
+     "start": 0.72,
+     "end": 0.88,
+     "word": "year"
+    },
+    {
+     "start": 0.88,
+     "end": 1.24,
+     "word": "100,"
+    },
+    {
+     "start": 1.62,
+     "end": 1.92,
+     "word": "a"
+    },
+    {
+     "start": 1.92,
+     "end": 2.22,
+     "word": "soldier"
+    },
+    {
+     "start": 2.22,
+     "end": 2.4,
+     "word": "on"
+    },
+    {
+     "start": 2.4,
+     "end": 2.5,
+     "word": "the"
+    },
+    {
+     "start": 2.5,
+     "end": 2.74,
+     "word": "northern"
+    },
+    {
+     "start": 2.74,
+     "end": 3.02,
+     "word": "edge"
+    },
+    {
+     "start": 3.02,
+     "end": 3.14,
+     "word": "of"
+    },
+    {
+     "start": 3.14,
+     "end": 3.22,
+     "word": "the"
+    },
+    {
+     "start": 3.22,
+     "end": 3.42,
+     "word": "Roman"
+    },
+    {
+     "start": 3.42,
+     "end": 3.86,
+     "word": "Empire"
+    },
+    {
+     "start": 3.86,
+     "end": 4.18,
+     "word": "received"
+    }
+   ]
+  },
+  {
+   "start": 4.18,
+   "end": 5.04,
+   "text": "a package from home.",
+   "words": [
+    {
+     "start": 4.18,
+     "end": 4.3,
+     "word": "a"
+    },
+    {
+     "start": 4.3,
+     "end": 4.58,
+     "word": "package"
+    },
+    {
+     "start": 4.58,
+     "end": 4.74,
+     "word": "from"
+    },
+    {
+     "start": 4.74,
+     "end": 5.04,
+     "word": "home."
+    }
+   ]
+  },
+  {
+   "start": 5.7,
+   "end": 8.8,
+   "text": "Inside were socks, two pairs of sandals, and underpants.",
+   "words": [
+    {
+     "start": 5.7,
+     "end": 6.1,
+     "word": "Inside"
+    },
+    {
+     "start": 6.1,
+     "end": 6.4,
+     "word": "were"
+    },
+    {
+     "start": 6.4,
+     "end": 6.76,
+     "word": "socks,"
+    },
+    {
+     "start": 6.98,
+     "end": 7.12,
+     "word": "two"
+    },
+    {
+     "start": 7.12,
+     "end": 7.3,
+     "word": "pairs"
+    },
+    {
+     "start": 7.3,
+     "end": 7.44,
+     "word": "of"
+    },
+    {
+     "start": 7.44,
+     "end": 7.88,
+     "word": "sandals,"
+    },
+    {
+     "start": 8.02,
+     "end": 8.24,
+     "word": "and"
+    },
+    {
+     "start": 8.24,
+     "end": 8.8,
+     "word": "underpants."
+    }
+   ]
+  },
+  {
+   "start": 9.04,
+   "end": 11.18,
+   "text": "We know this because the letter that came with it survived.",
+   "words": [
+    {
+     "start": 9.04,
+     "end": 9.34,
+     "word": "We"
+    },
+    {
+     "start": 9.34,
+     "end": 9.5,
+     "word": "know"
+    },
+    {
+     "start": 9.5,
+     "end": 9.68,
+     "word": "this"
+    },
+    {
+     "start": 9.68,
+     "end": 9.92,
+     "word": "because"
+    },
+    {
+     "start": 9.92,
+     "end": 10.1,
+     "word": "the"
+    },
+    {
+     "start": 10.1,
+     "end": 10.3,
+     "word": "letter"
+    },
+    {
+     "start": 10.3,
+     "end": 10.42,
+     "word": "that"
+    },
+    {
+     "start": 10.42,
+     "end": 10.6,
+     "word": "came"
+    },
+    {
+     "start": 10.6,
+     "end": 10.78,
+     "word": "with"
+    },
+    {
+     "start": 10.78,
+     "end": 10.9,
+     "word": "it"
+    },
+    {
+     "start": 10.9,
+     "end": 11.18,
+     "word": "survived."
+    }
+   ]
+  }
+ ]
+}

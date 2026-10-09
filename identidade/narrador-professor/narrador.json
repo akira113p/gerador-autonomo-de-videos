@@ -1,0 +1,10 @@
+{
+ "nome": "professor_idoso",
+ "modelo_design": "Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+ "modelo_producao": "Qwen3-TTS-12Hz-1.7B-Base (clone)",
+ "instruct": "Elderly male scholar in his seventies, slightly gravelly but rich voice, mild British accent. Slow, deliberate, wise and affectionate, with a quiet amused tone when something is funny. Sounds like a beloved history professor.",
+ "seed": 42,
+ "referencia_audio": "narrador_ref.wav",
+ "referencia_texto": "narrador_ref.txt",
+ "uso": "C:/ai-local/venv-qwen/Scripts/python.exe ferramentas/qwen_tts_run.py clone --text-file roteiro.txt --ref identidade/narrador-professor/narrador_ref.wav --ref-text-file identidade/narrador-professor/narrador_ref.txt --out narracao.wav"
+}

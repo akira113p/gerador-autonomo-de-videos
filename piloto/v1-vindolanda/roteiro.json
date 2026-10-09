@@ -1,0 +1,180 @@
+{
+ "titulo": "Socks, Beer and a Birthday: Letters from Rome's Edge",
+ "voz": "identidade/narrador-professor",
+ "fontes": {
+  "Tab.Vindol. 346 (meias, sandálias, cuecas)": "https://romaninscriptionsofbritain.org/inscriptions/TabVindol346",
+  "Tab.Vindol. 628 (Masclus, cerveja)": "https://romaninscriptionsofbritain.org/inscriptions/TabVindol628",
+  "Tab.Vindol. 291 (aniversário, Claudia Severa)": "https://romaninscriptionsofbritain.org/inscriptions/TabVindol291",
+  "British Museum (mais de 1.700 tabuinhas, tamanho de cartão-postal)": "https://www.britishmuseum.org/collection/galleries/roman-britain/vindolanda-tablets"
+ },
+ "cenas": [
+  {
+   "id": "01",
+   "sfx": [
+    "vento"
+   ],
+   "texto": "Picture a cold, wet hillside in the north of Britain, about nineteen hundred years ago.",
+   "imagem": "Wide scene of a Roman timber fort with a wooden palisade and a gate tower on a cold green hillside under a grey rainy sky, light rain falling. A few small Roman soldier stick figures in red tunics and brown cloaks walk along a muddy path toward the gate. Soft flat colors: grey-blue sky, muted green grass, brown mud."
+  },
+  {
+   "id": "02",
+   "sfx": [],
+   "texto": "In a wooden barracks, a Roman soldier opens a parcel from home.",
+   "imagem": "{HERO} He sits on a wooden bench inside a simple timber barracks room and unties a small cloth parcel on his knees, curious hopeful face. A small clay oil lamp glows on a shelf. Warm brown wooden walls and floor."
+  },
+  {
+   "id": "03",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "Inside, according to the letter that came with it: socks.",
+   "imagem": "{HERO} Close-up, he holds up a pair of thick grey wool socks with both hands, huge delighted smile, small sparkles around the socks. Warm brown wooden wall behind him."
+  },
+  {
+   "id": "04",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "Two pairs of sandals. And two pairs of underpants.",
+   "imagem": "Explainer card on a plain white background. On the left, two pairs of brown leather Roman sandals in a neat row. On the right, two neatly folded pieces of plain white linen cloth. A small green check mark under each item. Large hand-lettered black capital text at the top: \"THE PARCEL\"."
+  },
+  {
+   "id": "05",
+   "sfx": [],
+   "texto": "Not exactly the glory of Rome, is it?",
+   "imagem": "{HERO} He holds up a long folded strip of plain white linen cloth with both hands and looks straight at the viewer with an awkward embarrassed smile and one raised eyebrow. A single sweat drop next to his head. Plain cream background."
+  },
+  {
+   "id": "06",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "We know about it because the letter survived, written in ink on a thin slice of wood, about the size of a postcard.",
+   "imagem": "Explainer card on a plain white background. In the center, a thin rectangular slice of pale birch wood with visible wood grain, covered edge to edge with many rows of small handwritten black ink cursive letters. A thin black hand-drawn arrow points at the ink letters with the hand-lettered black capital label \"INK ON WOOD\"."
+  },
+  {
+   "id": "07",
+   "sfx": [
+    "whoosh"
+   ],
+   "texto": "The place was called Vindolanda, a fort on the northern edge of the empire.",
+   "imagem": "A cold green hillside under a grey sky with a simple wooden signpost in front. The signpost has two wooden arrow boards: the top board reads \"VINDOLANDA\" in hand-lettered black capitals, the lower board points far into the distance and reads \"ROME\". A lone Roman soldier stick figure in a red tunic and brown cloak stands next to the signpost hugging himself against the cold. Soft flat colors."
+  },
+  {
+   "id": "08",
+   "sfx": [],
+   "texto": "Hadrian's famous wall had not even been built yet.",
+   "imagem": "An empty green hillside under a pale sky. A small wooden sign stuck in the grass reads \"WALL COMING SOON\" in hand-lettered black capitals. A curious stick figure with a large round white head scratches his head next to the sign. Hand-lettered black capital text at the top: \"THE WALL? NOT YET!\"."
+  },
+  {
+   "id": "09",
+   "sfx": [],
+   "texto": "Since 1973, archaeologists have pulled more than a thousand of these tablets out of the wet ground.",
+   "imagem": "Scene of an archaeological dig: two modern archaeologist stick figures with large round white heads, wearing sun hats and work vests, kneel in a muddy trench with small trowels and brushes. One lifts a thin dark sliver of wood with a surprised happy face. Green grass around the trench, cloudy sky."
+  },
+  {
+   "id": "10",
+   "sfx": [],
+   "texto": "The damp soil, sealed away from the air, had kept them safe for centuries.",
+   "imagem": "Explainer card: a simple cross-section diagram of the ground in flat colors. Green grass strip on top, then several brown and dark brown soil layers. In the darkest wet bottom layer lie three thin flat rectangular wooden slats. Hand-lettered black capital text at the top: \"NO AIR, NO ROT\". White background around the diagram."
+  },
+  {
+   "id": "11",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "And what do they talk about? Not battles. Mostly, ordinary life.",
+   "imagem": "Explainer card on a plain white background divided in two halves by a vertical black dashed line. Left half: a crossed pair of Roman swords with a big red X over them. Right half: a loaf of bread, a clay cup and a pair of grey wool socks with a big green check mark. Hand-lettered black capitals above each half: \"BATTLES\" and \"DAILY LIFE\"."
+  },
+  {
+   "id": "12",
+   "sfx": [],
+   "texto": "One officer, Masclus, wrote to his commander with an urgent request.",
+   "imagem": "A Roman cavalry officer stick figure with a large round white head, short black hair and a red tunic sits at a rough wooden table and holds up a thin rectangular slice of pale birch wood with visible wood grain covered in rows of black ink handwriting, very serious worried face. A bronze helmet and a small brown clay oil lamp with a tiny flame sit on the table. Inside a small timber hut."
+  },
+  {
+   "id": "13",
+   "sfx": [
+    "batida"
+   ],
+   "texto": "My fellow soldiers have no beer. Please order some to be sent.",
+   "imagem": "Four Roman soldier stick figures with large round white heads, red tunics and brown cloaks stand around a single wooden barrel tipped on its side, empty. They stare at it with sad droopy faces, one has a tear. Inside a timber hut, dim light."
+  },
+  {
+   "id": "14",
+   "sfx": [],
+   "texto": "Some problems, it seems, are truly eternal.",
+   "imagem": "Split screen divided by a vertical black dashed line. Left side labeled \"YOU\" in hand-lettered black capitals: a plain stick figure with a large round white head stands at an open modern fridge that is completely empty, sad face. Right side labeled \"HIM\": a Roman soldier stick figure in a red tunic and brown cloak looks into an empty wooden barrel, sad face. White background."
+  },
+  {
+   "id": "15",
+   "sfx": [],
+   "texto": "Another tablet is an invitation, from one woman to her friend.",
+   "imagem": "Two Roman women stick figures with large round white heads in a sunny courtyard of a timber house. One has dark hair in a bun and wears a long blue dress, the other has auburn hair and a long green dress. They hold hands and smile warmly at each other."
+  },
+  {
+   "id": "16",
+   "sfx": [
+    "sino"
+   ],
+   "texto": "Claudia Severa asks Sulpicia Lepidina to come to her birthday, on the eleventh of September.",
+   "imagem": "Explainer card on a plain white background. On the left, a thin rectangular slice of pale birch wood with visible wood grain, with handwritten black ink lines. On the right, a small round golden honey cake on a clay plate. Hand-lettered black capital text at the top: \"11 SEPTEMBER\". A small red heart drawn by hand in the corner."
+  },
+  {
+   "id": "17",
+   "sfx": [],
+   "texto": "A scribe wrote most of it. But at the end, Severa added a few lines in her own hand.",
+   "imagem": "A Roman woman stick figure with a large round white head, dark hair in a bun and a long blue dress sits at a small wooden table and holds up a thin rectangular slice of pale birch wood with visible wood grain covered in rows of black ink handwriting, gentle proud smile. A small clay ink pot on the table. Soft warm daylight from a window."
+  },
+  {
+   "id": "18",
+   "sfx": [],
+   "texto": "I shall expect you, sister. Farewell, sister, my dearest soul.",
+   "imagem": "Close-up of a thin rectangular slice of pale birch wood with visible wood grain, covered with rows of flowing handwritten black ink Latin cursive letters, and a long thin dark brown reed pen with a sharp split tip wet with black ink resting across it next to a small clay ink pot. Warm golden light, plain soft brown background."
+  },
+  {
+   "id": "19",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "Those words are almost certainly the earliest known writing in Latin by a woman.",
+   "imagem": "Explainer card on a plain white background. In the center, a small wooden tablet with handwritten ink, with a gold star above it. Hand-lettered black capital text at the top: \"IN HER OWN HAND\". Small handwritten caption below: \"ABOUT 100 AD\"."
+  },
+  {
+   "id": "20",
+   "sfx": [
+    "pop"
+   ],
+   "texto": "Socks. Beer. A birthday party.",
+   "imagem": "Explainer card on a plain white background with three simple hand-drawn objects in a row: a pair of grey wool socks, a small wooden barrel, and a small round golden honey cake on a clay plate. A green check mark under each object."
+  },
+  {
+   "id": "21",
+   "sfx": [],
+   "texto": "Take away the armour and the marching, and the Roman frontier looks a lot like us.",
+   "imagem": "Split screen divided by a vertical black dashed line. Left side labeled \"YOU\" in hand-lettered black capitals: a plain stick figure with a large round white head opens a cardboard delivery box at a modern front door, happy face. Right side labeled \"HIM\": a Roman soldier stick figure in a red tunic and brown cloak opens a cloth parcel, the same happy face. White background."
+  },
+  {
+   "id": "22",
+   "sfx": [
+    "vento"
+   ],
+   "texto": "People far from home, waiting for a letter, hoping someone still remembers them.",
+   "imagem": "{HERO} He stands alone in the open doorway of a timber barracks at dusk, holding a thin wooden tablet against his chest, looking out at a misty green hillside with a soft hopeful face. Deep blue evening sky, warm lamp light behind him."
+  },
+  {
+   "id": "23",
+   "sfx": [],
+   "texto": "So the next time you open a parcel from someone who loves you,",
+   "imagem": "A plain stick figure with a large round white head sits on a modern sofa and opens a small cardboard box, pulling out a pair of colorful striped socks with a warm smile. Cozy modern living room with a lamp."
+  },
+  {
+   "id": "24",
+   "sfx": [
+    "musica_final"
+   ],
+   "texto": "remember a Roman soldier on a cold hill in Britain, doing exactly the same.",
+   "imagem": "{HERO} He sits on a wooden bench outside a Roman timber fort at sunset, wearing new grey wool socks under his sandals, holding up one foot proudly with a big happy smile. Orange and pink sunset sky over green hills."
+  }
+ ]
+}

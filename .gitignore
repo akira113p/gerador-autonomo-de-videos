@@ -1,0 +1,10 @@
+# configuração pessoal do Claude Code
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# intermediários da montagem (refeitos pelo montar.py)
+piloto/*/clipes/
+piloto/*/lista.txt

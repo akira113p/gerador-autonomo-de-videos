@@ -1,0 +1,10 @@
+{
+ "nome": "britanico_grave",
+ "modelo_design": "Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+ "modelo_producao": "Qwen3-TTS-12Hz-1.7B-Base (clone)",
+ "instruct": "Male narrator in his mid fifties, deep warm baritone, refined British accent. Calm, unhurried documentary storytelling with gentle warmth and a hint of dry wit. Clear articulation, natural pauses, never robotic.",
+ "seed": 42,
+ "referencia_audio": "narrador_ref.wav",
+ "referencia_texto": "narrador_ref.txt",
+ "uso": "C:/ai-local/venv-qwen/Scripts/python.exe ferramentas/qwen_tts_run.py clone --text-file roteiro.txt --ref identidade/narrador/narrador_ref.wav --ref-text-file identidade/narrador/narrador_ref.txt --out narracao.wav"
+}

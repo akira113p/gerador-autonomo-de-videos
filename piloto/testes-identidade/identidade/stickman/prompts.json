@@ -1,0 +1,42 @@
+[
+ {
+  "file": "1_pacote.png",
+  "ok": true,
+  "error": null,
+  "seconds": 74.9,
+  "seed": 7000,
+  "prompt": "The main character is a Roman auxiliary soldier stick figure with short messy dark brown hair, wearing a simple knee-length red wool tunic with a brown leather belt and a brown wool cloak, bare legs and sandals. He sits on a wooden bench inside a plain stone room and opens a small cloth parcel, pulling out a pair of grey wool socks, with a big delighted smile. A small clay oil lamp glows on a shelf. Warm cream walls, brown wooden floor. Simple hand-drawn stickman cartoon illustration for an educational history video. Characters are stick figures with a large perfectly round white head, thick slightly wobbly black marker outline, small dot eyes, simple line mouth, expressive eyebrows, thin black line body. Flat muted colors with a light colored-pencil texture, clean composition, lots of empty space, 16:9 frame."
+ },
+ {
+  "file": "2_tabua.png",
+  "ok": true,
+  "error": null,
+  "seconds": 75.0,
+  "seed": 7001,
+  "prompt": "Explainer card on a plain white background. In the center, a thin pale wooden writing tablet, with neat handwritten black ink words on it: \"SOCKS, SANDALS, UNDERPANTS\". Above it, large hand-lettered black capital text: \"A LETTER FROM HOME\". Small handwritten caption below: \"VINDOLANDA, ABOUT 100 AD\". Simple hand-drawn stickman cartoon illustration for an educational history video. Characters are stick figures with a large perfectly round white head, thick slightly wobbly black marker outline, small dot eyes, simple line mouth, expressive eyebrows, thin black line body. Flat muted colors with a light colored-pencil texture, clean composition, lots of empty space, 16:9 frame."
+ },
+ {
+  "file": "3_mapa.png",
+  "ok": true,
+  "error": null,
+  "seconds": 75.0,
+  "seed": 7002,
+  "prompt": "Explainer card on a plain white background. A simple flat-colored map of the island of Great Britain in soft green, surrounded by pale blue sea. A red map pin in the far north of England with the handwritten black label \"VINDOLANDA\". Large hand-lettered title at the top: \"THE EDGE OF THE EMPIRE\". Simple hand-drawn stickman cartoon illustration for an educational history video. Characters are stick figures with a large perfectly round white head, thick slightly wobbly black marker outline, small dot eyes, simple line mouth, expressive eyebrows, thin black line body. Flat muted colors with a light colored-pencil texture, clean composition, lots of empty space, 16:9 frame."
+ },
+ {
+  "file": "4_voce_ele.png",
+  "ok": true,
+  "error": null,
+  "seconds": 74.9,
+  "seed": 7003,
+  "prompt": "Split screen divided by a vertical black dashed line. Left side labeled \"YOU\" in hand-lettered black capitals: a plain stick figure with a round white head sits at a modern desk looking at a smartphone, bored face. Right side labeled \"HIM\": The main character is a Roman auxiliary soldier stick figure with short messy dark brown hair, wearing a simple knee-length red wool tunic with a brown leather belt and a brown wool cloak, bare legs and sandals. He sits on a wooden stool writing with a reed pen on a thin wooden tablet, focused face. White background. Simple hand-drawn stickman cartoon illustration for an educational history video. Characters are stick figures with a large perfectly round white head, thick slightly wobbly black marker outline, small dot eyes, simple line mouth, expressive eyebrows, thin black line body. Flat muted colors with a light colored-pencil texture, clean composition, lots of empty space, 16:9 frame."
+ },
+ {
+  "file": "5_forte.png",
+  "ok": true,
+  "error": null,
+  "seconds": 68.1,
+  "seed": 7004,
+  "prompt": "Wide scene of a Roman timber fort with a wooden palisade and a gate tower on a cold green hillside under a grey cloudy sky. In front, three Roman auxiliary soldier stick figures in red tunics and brown cloaks carry bundles of firewood along a muddy path, tired faces. Soft flat colors: grey-blue sky, muted green grass, brown mud. Simple hand-drawn stickman cartoon illustration for an educational history video. Characters are stick figures with a large perfectly round white head, thick slightly wobbly black marker outline, small dot eyes, simple line mouth, expressive eyebrows, thin black line body. Flat muted colors with a light colored-pencil texture, clean composition, lots of empty space, 16:9 frame."
+ }
+]
