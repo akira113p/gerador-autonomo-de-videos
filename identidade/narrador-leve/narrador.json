@@ -1,0 +1,11 @@
+{
+ "nome": "L6_sereno_leve",
+ "modelo_design": "Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+ "modelo_producao": "Qwen3-TTS-12Hz-1.7B-Base (clone)",
+ "instruct": "Male, mid thirties, light mid-range voice, relaxed and sincere, slightly slow, thoughtful pauses, like someone sharing something they love. Sounds like a real person talking, not reading: natural, slightly imperfect delivery, small pitch variations, soft breaths between phrases, relaxed unpolished rhythm. Not an announcer, not a radio voice, not smooth or robotic.",
+ "texto_referencia": "narrador_ref.txt",
+ "referencia_audio": "narrador_ref.wav",
+ "seed": "7 (fixada no início de um lote de 6; o arquivo narrador_ref.wav é a referência, não regerar)",
+ "origem": "gerar_leves.py, voz L6 de 6",
+ "uso": "C:/ai-local/venv-qwen/Scripts/python.exe ferramentas/qwen_tts_run.py clone --text-file roteiro.txt --ref identidade/narrador-leve/narrador_ref.wav --ref-text-file identidade/narrador-leve/narrador_ref.txt --out narracao.wav"
+}

@@ -1,4 +1,5 @@
-"""Narra cada cena do roteiro com o clone do professor idoso (Qwen3-TTS Base). Roda no C:/ai-local/venv-qwen.
+"""Narra cada cena do roteiro com o clone de uma voz de identidade/ (Qwen3-TTS Base). Roda no C:/ai-local/venv-qwen.
+Voz padrão: narrador-leve. Outra: NARRADOR=narrador-professor antes do comando.
 
   C:/ai-local/venv-qwen/Scripts/python.exe piloto/v1-vindolanda/gerar_voz.py [ids...]
 
@@ -6,6 +7,7 @@ Grava um WAV por cena e duracoes.json (a duração de cada cena manda no tempo d
 """
 
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -19,7 +21,7 @@ sys.path.insert(0, str(RAIZ / "ferramentas"))
 from qwen_tts_run import BASE_MODEL, load  # noqa: E402
 
 OUT = AQUI / "voz"
-VOZ = RAIZ / "identidade" / "narrador-professor"
+VOZ = RAIZ / "identidade" / os.environ.get("NARRADOR", "narrador-leve")
 
 
 def main() -> None:
@@ -36,9 +38,16 @@ def main() -> None:
         cid = cena["id"]
         if pedidos and cid not in pedidos:
             continue
-        torch.manual_seed(42 + int(cid) + (100 if pedidos else 0))
-        wavs, sr = model.generate_voice_clone(text=cena["texto"], language="English", voice_clone_prompt=prompt)
-        wav = np.asarray(wavs[0], dtype=np.float32)
+        # o modelo às vezes não emite o fim da fala e gera por minutos: limita os tokens e repete com outra seed
+        for tentativa in range(4):
+            torch.manual_seed(42 + int(cid) + (100 if pedidos else 0) + 1000 * tentativa)
+            wavs, sr = model.generate_voice_clone(
+                text=cena["texto"], language="English", voice_clone_prompt=prompt, max_new_tokens=250
+            )
+            wav = np.asarray(wavs[0], dtype=np.float32)
+            if len(wav) / sr <= len(cena["texto"]) / 8 + 1:
+                break
+            print(cid, "longa demais", round(len(wav) / sr, 1), "s, tentando de novo", flush=True)
         sf.write(OUT / f"{cid}.wav", wav, sr)
         duracoes[cid] = round(len(wav) / sr, 3)
         dur_path.write_text(json.dumps(duracoes, indent=1), encoding="utf-8")
