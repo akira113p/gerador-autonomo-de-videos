@@ -1,0 +1,283 @@
+"""Prompts de imagem do vídeo 5 (Revolução Francesa) para o Z-Image local, um por linha numerada do roteiro.md.
+
+prompt() põe o estilo (BASE) e, se a cena tem stick figure, a descrição do boneco (BONECO).
+{CARD} = cartão de fundo branco (palavras curtas, conferir a grafia).
+A guilhotina só aparece de longe, sem execução. Nenhum objeto moderno; época: Paris, maio de 1794.
+"""
+
+BASE = (
+    "Hand-drawn cartoon illustration for an educational explainer video. "
+    "Thick slightly wobbly black marker outlines of even weight on every shape. "
+    "Flat colors with a subtle digital brush texture, large simple color areas, minimal detail, "
+    "the background drawn in the same simple bold outlines and flat fills, everything in sharp focus, "
+    "clean wide 16:9 composition with breathing room."
+)
+
+BONECO = (
+    "All characters are stick figures with a big perfectly round white head with soft light grey shading on one side, "
+    "no nose, small black dot eyes, expressive eyebrows, simple small mouth, "
+    "thin single black line arms and legs, small rounded black mitten hands, "
+    "clothes drawn as simple flat colored shapes over the stick body."
+)
+
+CARTAO = "Explainer card on a plain pure white background: "
+
+T = {
+    "C": "the stick figure carpenter in his thirties with short messy brown hair, long grey trousers, a short brown jacket, "
+         "wooden clogs and a flat dark hat with a small blue-white-red rosette",
+    "W": "his stick figure wife with a white bonnet carrying a small blue-white-red rosette, a long blue skirt, a brown shawl and an apron",
+    "K": "two small stick figure children in simple patched clothes",
+    "L": "the stick figure scientist Lavoisier, a fifty-year-old man with a powdered white wig, a long dark-green coat and white stockings, tired but dignified",
+    "P": "a stick figure man in a neat sky-blue coat, white stockings and a tidy powdered wig, a stern small mouth (Robespierre)",
+    "AR": "a stick figure aristocrat in a pink silk coat, knee breeches, buckled shoes and a tall powdered wig",
+    "F": "a stick figure housewife in a white bonnet and a plain striped skirt with a basket on her arm",
+    "SC": "a stick figure man in long striped trousers, a short jacket and a red wool cap with a blue-white-red rosette (a sans-culotte)",
+    "CARD": CARTAO,
+    "S": "Split screen divided by a vertical black dashed line. ",
+    "CART": "an open wooden cart pulled by one horse, with several stick figures sitting upright inside with their hands tied, seen from a distance",
+}
+
+P = {
+    # 0. Abertura
+    1: "{C} stands in front of a wall calendar with a puzzled face, a big question mark above his head, small shabby Paris room in the morning.",
+    2: "{C} smiles and shrugs at the viewer in a narrow Paris street in spring 1794, tall old narrow buildings with a tricolor flag, pale morning light.",
+    3: "{CARD}a calendar page with a big date circled in red, a crossed-out sun doodle and the hand-lettered black capital words \"8 MAY 1794\" with a small question mark.",
+    4: "{CARD}the hand-lettered black capital words \"19 FLORÉAL, YEAR II\" in the middle with small flower doodles around them.",
+    5: "{CARD}a seven-day weekly calendar crossed out by a big thick red X, a crossed-out word \"MONSIEUR\" and a crossed-out word \"MADAME\" next to it.",
+    6: "{CARD}a round clock face with ten hour marks, the hand pointing straight up at the top mark labeled \"5\", the words \"NOON = 5 O'CLOCK\" in hand-lettered capitals.",
+    7: "A wide panorama of Paris rooftops in 1794 along the river Seine with a stone bridge, narrow old houses with chimneys, and big blue-white-red flags hanging from the buildings, tense grey sky.",
+    8: "A king's gold crown, a speech podium and a guillotine blade drawn as three small icons on a plain cream background.",
+    9: "{C} points at himself with one thumb and smiles at the viewer, plain cream background.",
+    10: "{CARD}four small hand-drawn icons in a row: a loaf of bread, a hammer and saw, a meeting table with candles, and a moon, with the hand-lettered words \"BREAD, WORK, MEETING\".",
+    11: "{L} rides sadly in an open wooden cart along a Paris street at sunset, small crowd watching from the sides, seen from a distance.",
+    12: "{C} holds a big pointing finger toward a wall calendar, plain cream background.",
+    # 1. Um calendário novo
+    13: "{CARD}a gold crown crossed by a thick red X on the left and a tricolor flag with the words \"REPUBLIC\" on the right, the hand-lettered words \"1792\" above.",
+    14: "A stick figure revolutionary in a red cap holds up a big blank white page of a book in front of a crowd, bright hopeful colors.",
+    15: "A big round clock and an old wall calendar stand next to a hammer, ready to be smashed, cartoon.",
+    16: "{CARD}an open book of the new calendar with a quill, the hand-lettered words \"NEW CALENDAR\" and \"1793\".",
+    17: "{CARD}a wall calendar page with the hand-lettered black capital words \"YEAR ONE\" and a small tricolor flag, a date \"22 SEPT 1792\" circled in red.",
+    18: "{CARD}twelve identical month squares in a grid, each one with a big hand-lettered \"30\", a small sun doodle above.",
+    19: "A stick figure holds an open nature book with leaves, a grape, a snowflake and a flower drawn on its pages, soft spring colors.",
+    20: "{CARD}three little illustrated cards side by side: a grape with the word \"VENDÉMIAIRE\", a fog cloud with the word \"BRUMAIRE\", a snowflake with the word \"NIVÔSE\".",
+    21: "{CARD}a big spring flower with the hand-lettered word \"FLORÉAL\" and the label \"MONTH OF FLOWERS\".",
+    22: "{CARD}a seven-day weekly calendar grid crossed out with a thick red X, plain white background.",
+    23: "{CARD}three blocks in a row each made of ten small squares, the hand-lettered word \"DÉCADE\" above and \"10 DAYS\" below.",
+    24: "{CARD}ten small empty square boxes in a row, the last box filled with yellow and labeled \"DÉCADI\".",
+    25: "{C} lies relaxed in a hammock under a tree, eyes closed, a small \"Z z z\" above his head, sunny.",
+    26: "{CARD}a big hand-drawn question mark and a small calculator doodle, the hand-lettered words \"DO THE MATH\".",
+    27: "{CARD}a row of seven small days with a single one highlighted in green, plus a few small saint halo doodles, the hand-lettered words \"1 DAY IN 7\".",
+    28: "{CARD}a row of ten small round day marks with only the tenth one filled in green, and the hand-lettered words \"1 DAY IN 10\" above, clearly spaced.",
+    29: "{C} crosses his arms with a grumpy frown, a few other grumpy stick figure workers behind him.",
+    30: "{CARD}three small icons in a row: a leaf labeled \"PLANT\", a cow labeled \"ANIMAL\", a hoe labeled \"TOOL\".",
+    31: "{CARD}on the left a small calendar page with a small leafy garden plant and the hand-lettered words \"19 FLORÉAL\", on the right a garden hoe with the hand-lettered words \"20 FLORÉAL\", and the words \"ORACHE\" and \"HOE\" under each.",
+    32: "A stick figure clockmaker in an apron at a workbench holds up a strange clock and a notebook, gears all around, thoughtful face.",
+    33: "{CARD}a round clock face divided into ten hours, the hand-lettered words \"10 HOURS · 100 MINUTES · 100 SECONDS\".",
+    34: "{CARD}two round clock faces side by side: the left one points at the top with the label \"MIDNIGHT = 10\", the right one points at the bottom with the label \"NOON = 5\".",
+    35: "A round pocket watch showing two dials on the same face, an old twelve-hour dial and a new ten-hour dial, a small stick figure holding it.",
+    36: "{CARD}a clock with a big red X and the hand-lettered words \"ABANDONED 1795\".",
+    37: "{CARD}a hand-drawn ruler, a small weight and a measuring jug lined up, plain white background.",
+    38: "{CARD}three icons in a row: a ruler labeled \"METER\", a small weight labeled \"GRAM\", a jug labeled \"LITER\".",
+    39: "{L} looks at the viewer with a finger raised, plain cream background, a small brass scale and a ruler beside him.",
+    # 2. Acordar
+    40: "{C} wakes up in a small shabby attic room at dawn, sitting up on a straw mattress, pale blue morning light from a tiny window, the roofs of Paris outside.",
+    41: "A street of furniture workshops in the Faubourg Saint-Antoine, wooden chairs and cabinets stacked outside, stick figure workers sawing, rebels with red caps passing by.",
+    42: "A crowd of stick figures with red caps and pikes marching toward an old stone fortress with round towers (the Bastille), some cheering, drawn as a memory, golden light.",
+    43: "{C} and {W} and {K} sleeping together in one small crowded room with a single bed and a straw mattress on the floor, a candle on a stool.",
+    44: "{CARD}a big hand-drawn crowd of tiny stick figures filling a circle, the hand-lettered words \"600,000 PARISIANS\".",
+    45: "A narrow dark Paris street with tall crooked six-floor buildings, laundry hanging between windows, cobblestones, stick figures squeezed between the walls.",
+    46: "A water tap crossed out with a red X, and a stick figure looking at a dry wall, plain cream background.",
+    47: "A stick figure water carrier climbing narrow stairs carrying two big wooden buckets on a shoulder yoke, a family opening a door to him.",
+    48: "The river Seine at the edge of a city with a laundry boat and a sewer pipe pouring dirty brown water into it, a stick figure filling a bucket downstream with a worried face.",
+    49: "The front door of an old building in Paris with a large white sheet of paper pinned on it, a stick figure reading it with his hand on his chin.",
+    50: "A close-up of a hand-written white sheet pinned to a door with rows of small names written on it, a magnifying glass over one line.",
+    51: "Two stick figure officials in sashes with a clipboard stand in front of a building door, looking at the list of names, a neighbor watching from a window.",
+    52: "{C} stands at his wooden door and reads a sheet of paper pinned on it, with a worried sideways look, a bead of sweat, a small candle lantern in his hand.",
+    # 3. Vestir-se
+    53: "{C} gets dressed in his small room, pulling on one boot, a plain wooden stool and a small framed picture of a red cap on the wall behind him.",
+    54: "{CARD}on the left a pair of plain long working trousers labeled \"LONG TROUSERS\", on the right a pair of fancy silk knee breeches with white stockings labeled \"BREECHES\", a thick red X over the breeches.",
+    55: "A group of stick figures with long striped trousers and red caps marching proudly with pikes, a small banner reading \"SANS-CULOTTES\".",
+    56: "A stick figure in a short jacket, wooden clogs and worn shoes standing, drawn full-body, plain cream background.",
+    57: "A close-up of a flat dark hat with a small round blue-white-red rosette on it, plain cream background.",
+    58: "{C} proudly points at the blue-white-red rosette on his hat with a big smile, plain cream background.",
+    59: "{W} pins a blue-white-red rosette on her bonnet in front of a small mirror, a stern official behind her holding a law paper.",
+    60: "A red wool cap, the Phrygian cap of liberty, with a small blue-white-red rosette on it, on a small wooden stool, plain cream background.",
+    61: "{CARD}a powdered wig, a silk coat with gold buckles and buckled shoes, each with a small red warning triangle.",
+    62: "{AR} stands alone in a crowd of plainly dressed stick figures who all look at him with suspicious eyes.",
+    63: "{AR} walks nervously down a Paris street at dusk while workers with red caps point at him from a doorway, tense mood.",
+    # 4. A fila do pão
+    64: "{W} puts on her shawl and takes an empty basket at the door of the room in the pale early dawn.",
+    65: "A big golden loaf of bread in the middle of a plain cream background with small sparkle lines around it.",
+    66: "A big loaf of bread on one pan of a balance scale and a big stack of coins on the other pan, plain cream background.",
+    67: "A crowd of angry stick figures with raised fists in a Paris street, one holding up a tiny loaf, a baker's shop with an empty window behind them.",
+    68: "A stick figure historian in glasses holds a big pointer in front of a drawing of a tiny loaf with a spark and a tricolor flag exploding in flames behind it.",
+    69: "{CARD}a loaf of bread with a price tag and a hand-drawn ceiling bar above it, the hand-lettered words \"MAXIMUM PRICE\".",
+    70: "{CARD}the single hand-lettered black capital word \"MAXIMUM\" in big clear letters, and below it a simple price tag with a thick red line across it.",
+    71: "A kind stick figure official hands a loaf of bread to a poor mother, warm light, hopeful mood.",
+    72: "A sneaky stick figure merchant in an apron sells hidden goods from under a table in a dark alley, whispering to a customer, a red price tag.",
+    73: "{CARD}a sack of grain with a big red warning triangle and the hand-lettered words \"HOARDING = DEATH\".",
+    74: "{CARD}a small hand-drawn paper card with a loaf of bread printed on it and several squares to tick, the hand-lettered words \"BREAD CARD\".",
+    75: "A long queue of stick figures in the dark before dawn outside a bakery with a closed door, a single lantern, cold pale blue light.",
+    76: "A long line of {F} types talking and gossiping with each other in front of a bakery, small speech bubbles with scribbles, early morning.",
+    77: "Stick figure women in a line leaning toward each other with cupped hands to whisper, lots of small speech bubbles.",
+    78: "{CARD}three speech bubbles in a row with small icons: handcuffs, a baker with a red X, and a building with columns (the Convention).",
+    79: "A loaf of bread with a tiny tricolor flag stuck in it like a political banner, plain cream background.",
+    80: "{CARD}a single big round loaf labeled \"BREAD OF EQUALITY\" with the date \"NOV 1793\", a rich stick figure and a poor stick figure both holding a loaf.",
+    81: "{CARD}a white loaf with a green check on the left (\"WHITE\") and a dark loaf on the right (\"DARK\"), a thick red X across both.",
+    82: "A small cup of coffee and a sugar cube on a saucer with a big question mark above, plain cream background.",
+    83: "{CARD}a coffee bean, a sugar cube and a stylized sailing ship, the hand-lettered words \"SAINT-DOMINGUE 1791\".",
+    84: "A crowd of angry stick figures in a Paris street holding up empty sugar sacks and signs with scribbles, 1792.",
+    85: "{C} sits at a small wooden table with a bowl of thin soup, a piece of bread soaking in it and a small glass of wine, morning light from a window.",
+    # 5. A caminho do trabalho
+    86: "{C} walks briskly along a narrow cobbled Paris street carrying a wooden toolbox on his shoulder, pale morning light.",
+    87: "{C} waves hello to a neighbor stick figure who leans out of a window of a tall building.",
+    88: "{CARD}a speech bubble reading \"BONJOUR, MONSIEUR\" crossed out with a big red X and a small red warning triangle.",
+    89: "{C} shakes hands with a neighbor on a Paris street, a speech bubble reading \"SALUT, CITOYEN!\", friendly.",
+    90: "{CARD}two small speech bubbles: one labeled \"VOUS\" crossed out, one labeled \"TU\" with a green check mark.",
+    91: "A stick figure deputy in a sash stands on a podium in a big hall with a raised arm, other deputies in rows listening, October 1793.",
+    92: "A hall of deputies in 1790s coats, many seated deputies shaking their heads, one standing with his arms folded, a big hand-drawn speech bubble with the hand-lettered word \"NO\", a wooden bench and a tall window.",
+    93: "A small club meeting of stick figures in red caps around a table in a smoky room, a banner on the wall with the word \"TU\".",
+    94: "A Paris wall covered with many posters, decrees and long lists of names, a small stick figure reading with his head tilted back.",
+    95: "A stick figure standing on a wooden crate on a street corner reads a newspaper aloud, a small crowd listening around him, some of them with open mouths.",
+    96: "A tall street sign being replaced by a stick figure on a ladder with a brush, an old sign with a crown crossed out.",
+    97: "{CARD}a crown and a halo of a saint, both crossed out with red X marks.",
+    98: "A grand palace with long arcades and gardens, a big sign above its gate reading \"PALAIS-ÉGALITÉ\", a few stick figures walking.",
+    99: "A big Gothic church with its doors chained shut and a sign pinned on the doors, a few stick figures looking at it, grey sky.",
+    100: "A stick figure official fastens a big chain on the doors of a Paris church, a small crowd watching, a banner above reading \"CLOSED\".",
+    101: "The towers of Notre-Dame with a big banner hung across its front reading \"TEMPLE OF REASON\", stick figures with flowers going in.",
+    102: "A stick figure worker on a scaffold lowers a big church bell on a rope from a church tower, a crowd watching below.",
+    103: "{C} walks down a quiet Paris street and looks up at an empty bell tower with his hand behind his ear, a small \"...\" above his head.",
+    # 6. O trabalho
+    104: "A small carpentry workshop in Paris: an older master, two journeymen and a young apprentice stick figure working at benches with planes and saws.",
+    105: "A stick figure carpenter planes a wooden table next to a half-finished chair and a cabinet, wood shavings on the floor.",
+    106: "A quiet cabinet-maker shop with a few fancy wooden chairs, and a bored stick figure shopkeeper in an apron looking out of the window at the empty street.",
+    107: "{S}Left side: a fancy townhouse with its shutters closed and a small suitcase by the door. Right side: a prison building with barred windows and a stick figure behind the bars.",
+    108: "A busy small workshop with stick figures making all kinds of simple objects, a pile of mixed wood and tools.",
+    109: "A huge cannon on wheels and a stack of muskets in front of a workshop, a big sign reading \"ARMY\" above, stick figures carrying wood.",
+    110: "{CARD}a big hand-lettered capital word \"WAR\" in the center with six small musket-carrying soldier icons around it pointing at it.",
+    111: "A long column of young stick figure recruits in simple coats and flat caps marching with muskets out of an old stone city gate, a family waving goodbye, cobblestones and old narrow houses.",
+    112: "A busy workshop in Paris with stick figures making muskets, stitching blue uniforms, hammering boots and building wagons.",
+    113: "A stick figure with a bucket and a small shovel scrapes the wall of a cellar, a pile of white powder beside him.",
+    114: "Several stick figure citizens scrape the walls of a stable with small tools while another packs a sack marked \"SALTPETER\" onto a cart, a horse watching.",
+    115: "A stick figure holds a big pile of colorful paper banknotes with a small tricolor stamp, a paper note with the word \"ASSIGNAT\" in the foreground.",
+    116: "{CARD}a stack of paper banknotes on the left and, getting smaller step by step to the right, a downward arrow, and the hand-lettered words \"WORTH LESS EVERY MONTH\" in clear letters.",
+    117: "{C} nods and rubs his chin, looking at a thin stack of paper notes in his hand, plain cream background.",
+    118: "{C} stands at the counter of a bakery holding a handful of paper notes while the baker shakes his head at the tiny loaf on the counter.",
+    # 7. Almoço
+    119: "A group of stick figure workers lays down their tools at noon inside the workshop, the sunlight through the window, a clock reading twelve.",
+    120: "A wooden table with a loaf of bread, a bowl of cabbage soup, a small piece of cheese and a few vegetables, workers sitting around it.",
+    121: "A butcher's stall with a few small pieces of meat and a big price tag, a poor stick figure family looking at it from the side.",
+    122: "Stick figure workers around a lunch table whispering to each other with serious faces, one pointing a finger at his lips.",
+    123: "A stick figure with a wide-open mouth and a big speech bubble, while in the background a stern stick figure official writes it down in a notebook, a small red warning triangle.",
+    124: "{CARD}a hand-drawn scroll with the hand-lettered words \"LAW OF SUSPECTS\" and the date \"SEPT 1793\".",
+    125: "A stick figure official in a sash stands behind a big table writing in a thick book, a long list of suspicious names behind him and three pointing fingers at the viewer.",
+    126: "A huge fishing net in the shape of a net covering a whole crowd of stick figures, plain cream background.",
+    127: "A stick figure presents a small paper certificate to a clerk at a counter in an office, a stamp on the table, the clerk examining it with raised eyebrows.",
+    128: "{CARD}a hand-drawn certificate with a tricolor seal and the hand-lettered words \"CERTIFICATE OF CIVISM\", a small signature line below.",
+    129: "A stick figure holding an empty hand stands alone in a pool of spotlight in the middle of a dark street, suspicious stick figures around him.",
+    130: "Two stick figures talking on a street with their hands over their mouths, looking around with worried eyes.",
+    131: "A tall apartment building with stick figures at every window looking at each other, tiny speech bubbles with question marks.",
+    132: "A stick figure landlord points at his tenant while a stick figure official writes in a notebook, a small lightning bolt between the two.",
+    # 8. As mulheres
+    133: "{W} carries a big basket of laundry through a Paris street while {C} is seen working in the background through a workshop window.",
+    134: "A split of three small scenes in one image: a woman selling vegetables at a market stall, a woman sewing at a table, a woman washing clothes on a wooden raft on the Seine.",
+    135: "{W} stands in a cheerful sunny street with her arms open and a small tricolor flag on her bonnet, other stick figure women behind her.",
+    136: "{CARD}two paper rings, one cut in half, next to a stick figure woman smiling, with the hand-lettered black number \"1792\" in large clear digits.",
+    137: "A crowd of stick figure women in the gallery of a political club, cheering with raised arms and small signs, a speaker on a podium below.",
+    138: "A ballot box with a big thick red X over a stick figure woman in a bonnet standing beside it with her arms crossed.",
+    139: "A stick figure official stamps a big \"BANNED\" stamp on a paper marked \"WOMEN'S CLUBS\" on a desk, October 1793.",
+    140: "{CARD}an open book titled \"RIGHTS OF WOMAN\" with a quill pen on top of it, plain white background.",
+    141: "A banner with big letters \"EQUALITY\" hung between two buildings, stick figures cheering under it, bright colors.",
+    142: "{CARD}a group of identical stick figures in a circle with a few of them left outside the circle, a small sad woman and a dark-skinned man outside.",
+    # 9. As carroças
+    143: "A narrow Paris street late in the afternoon with golden light, stick figures looking up toward the sound at the end of the street.",
+    144: "A big wooden cart wheel rolling on cobblestones, close-up, dust and small motion lines.",
+    145: "A grim stone building with round towers, the Conciergerie, next to a big courthouse, a cart waiting at the gate, stick figure guards.",
+    146: "{CART} rolling slowly down a Paris street with a few tall buildings, golden afternoon light.",
+    147: "{CART} rolls along a long street lined with shops while crowds watch from the pavements, a street sign reading \"RUE SAINT-HONORÉ\".",
+    148: "A big open Paris square with an empty stone pedestal in the center where a statue once stood, a grand stone building with columns on the side, trees, and a few small stick figures.",
+    149: "A modest house with a wooden shopfront on a busy street, the cart rolling by in front of it and {P} looking out of a first-floor window.",
+    150: "{P} sits at a small desk in a tidy room writing with a quill, a candle lit, a stack of papers, serious face.",
+    151: "{CART} with a small calendar page above it showing the words \"3 MONTHS LATER\" and a stick figure in a sky-blue coat sitting inside.",
+    152: "A line of five wooden carts rolling along a Paris street one behind the other, crowds on both sides, seen from a distance.",
+    153: "{CARD}twenty-eight small tax-farmer stick figures in rows of four wearing powdered wigs and coats, the hand-lettered number \"28\" above them.",
+    154: "A big stone building with an official sign reading \"GENERAL FARM\" and stick figure tax collectors counting heaps of gold coins at a long table, old king's flag on the wall.",
+    155: "A crowd of stick figure Parisians with crossed arms and cold faces watching a cart go by, a small stick figure child pointing.",
+    156: "{CART} with one man in the cart highlighted by a soft golden spotlight, the others in grey, plain background fading.",
+    # 10. Lavoisier
+    157: "{L} stands in a bright laboratory next to a table full of glass flasks, a scale and a copper instrument, a warm window light.",
+    158: "{CARD}the hand-lettered number \"50\" inside a birthday-cake-style outline and the name \"LAVOISIER\" in capitals, a small powdered wig doodle.",
+    159: "{L} stands on a pedestal with a big laurel wreath behind him and a few small icons of flasks and stars, heroic pose, golden light.",
+    160: "{CARD}a sealed glass flask on a scale with a candle burning inside, a balanced scale in equilibrium, the hand-lettered words \"MATTER IS NOT LOST\".",
+    161: "{CARD}two glass flasks labeled \"OXYGEN\" and \"HYDROGEN\" with tiny bubbles, plain white background.",
+    162: "A burning candle under a glass jar on a lab table, a stick figure breathing in and out beside it, small curved arrows between them.",
+    163: "{CARD}two glass flasks with colored liquid and a small crown of laurels, with the hand-lettered words \"FATHER OF MODERN CHEMISTRY\" in three clear lines on top.",
+    164: "A committee of stick figure scholars in wigs around a table covered with rulers, weights and a globe, one holding a platinum bar, calm light.",
+    165: "{CARD}a ruler, a kilogram weight and a measuring jug, with a small round globe behind them, the hand-lettered words \"USED TODAY\".",
+    166: "A stick figure official strikes a name off a list on a committee table while {L} stands in the doorway with his hat in his hand, dim winter light.",
+    167: "{L} stands at a desk looking at a document with a worried frown, a small red warning triangle above his head.",
+    168: "{L} hands a heavy sack of gold coins to a stick figure clerk of the General Farm across a counter, pointing at a microscope on a table behind him.",
+    169: "A stick figure wearing a tricolor sash points an accusing finger at {L}, who holds a tax ledger in his hands, tense mood.",
+    170: "{CART} with {L} and an older stick figure man, both in dark coats, sitting side by side with their eyes forward.",
+    171: "Two stick figures in dark coats sit shoulder to shoulder in a cart, their eyes toward the horizon, gentle golden light.",
+    172: "A stick figure woman with brown hair in an elegant long dress stands at a laboratory table next to {L}, both looking at a flask, warm light.",
+    173: "A stick figure woman draws detailed lab instruments on a big sheet of paper at a desk, a quill, a stack of books and notes beside her.",
+    174: "A stick figure woman in a long dark dress stands alone in a bright empty laboratory holding a notebook against her chest, head down.",
+    175: "A courtroom of 1794 with a high wooden bench, a judge in a big black hat, a wooden rail and rows of simple stick figure spectators in coats, seen from the audience, candle light.",
+    176: "A stick figure judge with a stern face leans forward from the bench and says something in a speech bubble with only scribbles, a stick figure lawyer pleading with raised hands.",
+    177: "{CARD}a speech bubble with scribbled lines and a big question mark on it, the hand-lettered words \"MAYBE NEVER SAID\".",
+    178: "A stick figure mathematician in a dark coat with a quill and a parchment of equations at a desk, a candle, thoughtful face.",
+    179: "{CARD}a quill pen and an open book with a quote bubble, the hand-lettered words \"A HUNDRED YEARS\" and a small hourglass.",
+    180: "A big public square far in the distance with a tall wooden frame in the middle, a crowd gathered around it, a grey sky and bare trees.",
+    181: "A crowd in a big square: some stick figures stand watching, others walk right past eating bread and looking at their own business.",
+    182: "A stick figure looks at the viewer with a worried face, a crowd of grey stick figures blurred behind him, plain background.",
+    183: "{CARD}a hand-drawn paper daily schedule on a wall with four small icons in a row: a loaf of bread, a hammer, a bowl of soup, and a tall wooden frame far away.",
+    184: "{CARD}a hand-drawn tall tower of small stick figure heads in a column with the hand-lettered number \"2,600+\", plain white background.",
+    185: "{CARD}a map-like silhouette of France made of small stick figure dots with the hand-lettered number \"17,000\" next to it.",
+    186: "A dark prison corridor with small barred windows and a few stick figures sitting on straw, one holding a candle, grey light.",
+    # 11. Assembleia
+    187: "{C} blows out a candle at home after a simple dinner, {W} washes bowls in the background, {K} sleeping in a corner.",
+    188: "{C} puts on his hat and leaves the apartment at dusk with a determined face, {W} waving from the door.",
+    189: "{CARD}a stylized hand-drawn city map-like shape cut into forty-eight small pie slices, the hand-lettered number \"48\".",
+    190: "A section assembly: a long hall, stick figure citizens in red caps raising their hands to vote at a long table, a president ringing a bell, banners on the wall.",
+    191: "An old church interior with long benches and stick figures in plain clothes holding a meeting under a vaulted ceiling, candle light.",
+    192: "A stick figure official hands a few silver coins to a poor stick figure worker at a counter in an old church, a sign above reading \"40 SOUS\".",
+    193: "A lively meeting of stick figures around a long table with several agenda papers, a stick figure secretary writing, candles.",
+    194: "{CARD}four small icons in a row: a loaf of bread, a cannon, a certificate and a speech bubble, with the hand-lettered words \"TONIGHT'S AGENDA\".",
+    195: "A smoky loud meeting hall with stick figures shouting and waving papers, clouds of pipe smoke under the vaulted roof, candles.",
+    196: "A stick figure with a big smile and bright eyes in the middle of the meeting, small stars around him, warm light.",
+    197: "{C} stands on a small stage speaking passionately to a crowd of stick figures in a church, one hand raised, stained glass behind him.",
+    198: "{CARD}a hand-drawn two-sided coin: one side with a smiling face, the other side with a worried face, the hand-lettered words \"1794\".",
+    199: "A big stick figure carpenter with a hand-drawn crown of laurel stands taller than the buildings around him, an open book in his hand.",
+    200: "{C} looks over his shoulder with a worried face, a shadow behind him, dark alley at night.",
+    # 12. Fechamento
+    201: "{C} walks home at night down a quiet Paris street lit by dim oil lanterns hanging on ropes between the buildings, deep blue night sky.",
+    202: "{C} climbs a narrow wooden staircase in the dark with a small candle in his hand, a crooked banister.",
+    203: "{C} tucks the covers around the two sleeping children in the small room, {W} asleep next to them, a candle going out, a calendar on the wall with the date circled.",
+    204: "A sleeping carpenter in bed with a thought bubble above him showing a tiny guillotine blade with a big red \"STOP\" sign, moonlight through the window.",
+    205: "{CARD}a hand-drawn bar chart with a tall bar and the hand-lettered number \"1,376\" and the words \"7 WEEKS\" below, the date \"JUNE 1794\".",
+    206: "{CARD}a hand-drawn bar chart with a much shorter bar and the hand-lettered number \"~1,200\" and the words \"13 MONTHS\" below.",
+    207: "A stormy hall with a crowd of stick figure deputies pointing at one man in a sky-blue coat, who stands alone on a podium with his arms hanging down, the date \"27 JULY 1794\" on a small banner.",
+    208: "{CART} on a Paris street with a stick figure in a sky-blue coat sitting inside, a crowd watching, golden sunset.",
+    209: "A hand-drawn timeline from left to right with small icons being erased one by one: a clock, a calendar and a red cap fading away.",
+    210: "{CARD}a decimal clock and a new calendar both crossed out by thick red X marks, the hand-lettered words \"1 JAN 1806\" with a tiny hat of Napoleon.",
+    211: "{CARD}a seven-day weekly calendar, a speech bubble reading \"MONSIEUR\" and a speech bubble reading \"MADAME\", all with big green check marks.",
+    212: "A big golden star in the center of a plain cream background, lots of tiny sparkles around it.",
+    213: "{CARD}a ruler, a one-kilogram weight and a measuring jug standing proudly in a row, with the hand-lettered words \"METER, KILOGRAM, LITER\".",
+    214: "{CARD}a globe covered with small green check marks, a small ruler and a weight next to it, the hand-lettered words \"METRIC SYSTEM\".",
+    215: "A modern stick figure buys a bag of rice at a modern supermarket, a small ruler and a stopwatch icon next to it, a runner in the background on a track.",
+    216: "{L} stands in front of a big stone monument shaped like a ruler with an old brass scale and a quill beside it, soft golden light.",
+    217: "{CARD}a speech bubble reading \"WHICH DAY IN HISTORY NEXT?\" and a small calendar with a question mark, plus a small subscribe bell doodle.",
+}
+
+
+def prompt(n: int) -> str:
+    t = P[n]
+    for k, v in T.items():
+        t = t.replace("{" + k + "}", v)
+    t = t[0].upper() + t[1:]
+    return f"{BASE} {BONECO} {t}" if "stick figure" in t else f"{BASE} {t}"
+
+
+def cartao(n: int) -> bool:
+    return P[n].startswith("{CARD}")

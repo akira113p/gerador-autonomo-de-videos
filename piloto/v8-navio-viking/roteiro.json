@@ -1,0 +1,1607 @@
+{
+ "titulo": "What Would YOUR Life Be Like on a Viking Ship?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "It's the summer of the year nine hundred eighty-five.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "002",
+   "texto": "You are a farmer in western Iceland, and things are not going great.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Then a neighbor knocks on your door.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "He's known as Erik the Red. He has big plans, and a few killings in his past.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "And he has a real estate offer.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "Free land. Huge farms. Plenty of grass for your cows. A fresh start.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "007",
+   "texto": "The place is called Greenland. Of course you say yes.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "008",
+   "texto": "Now you only have to get there, across the open ocean, in a wooden boat, with your family and your animals.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "Today, we'll sail with you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "But I have to warn you: the ship you're picturing is not the ship you'll get.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "And by the end, you'll see why most of what you know about Vikings is slightly off.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: uma oferta de imóvel)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "Erik Thorvaldsson, called Erik the Red, was born in Norway.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "His father had to leave after some killings, so the family moved to Iceland.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "014",
+   "texto": "Erik did not learn the lesson.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "After a feud that ended in killings, an assembly banished him from Iceland for three years.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "Erik sailed west, to see what was out there.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "For three winters, he explored the coast of Greenland, and found long fjords and no neighbors.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "When his exile ended, he went back to Iceland to find customers.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "019",
+   "texto": "Now, how do you sell a huge island that is mostly ice?",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "020",
+   "texto": "Simple. You pick a better name.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "021",
+   "texto": "According to the saga, he called it Greenland.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "His reasoning, in the saga's words: people will want to go there if the land has a good name.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "It's a marketing trick that still works today.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "024",
+   "texto": "And it worked. In the year nine hundred eighty-five or six, a fleet of twenty-five ships sets out, carrying families.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "025",
+   "texto": "Only fourteen make it. We'll get to the other eleven.",
+   "capitulo": "1",
+   "nome_capitulo": "O vendedor de terras",
+   "bloco": "convite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "026",
+   "texto": "When you hear \"Viking ship,\" you probably see a long, sleek warship with a carved animal head on the front.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "That's the longship. It's fast, narrow, and built for warriors.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "It's also not what you're boarding.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "029",
+   "texto": "Written sources say only one type of ship sailed to Greenland: the knarr.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "030",
+   "texto": "The knarr is a cargo ship. It's wider than a warship, and built to carry loads.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "The best preserved one we have is called Skuldelev one, built in Norway around the year one thousand thirty.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "032",
+   "texto": "The Viking Ship Museum in Denmark built a replica, named Ottar.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "It's about fifty feet long and sixteen feet wide, and a crew of six to fifteen can sail it.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "034",
+   "texto": "It has one big square sail. And four oars. Four.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "The oars are for docking, and for emergencies.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "Now put thirty or forty people on it. The sagas describe whole families moving together.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "037",
+   "texto": "Add the animals. On one saga voyage, the settlers took \"cattle of all kinds.\"",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "There are no cabins. No walls. No roof.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "039",
+   "texto": "It's a camping trip, with cows.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "The hull is made of planks that overlap and are nailed together.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "It's a clever design, which is lucky, because you're about to trust it with your life.",
+   "capitulo": "2",
+   "nome_capitulo": "O navio errado",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "Of course, longships were real too.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "In Denmark, the museum rebuilt one. It's called the Sea Stallion from Glendalough.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "It copies a warship whose wreck was found in a Danish fjord. The oak came from near Dublin.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "It's thirty meters long, almost a hundred feet, with sixty oars, and less than four meters wide.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "046",
+   "texto": "In two thousand seven, a crew of sixty-five sailed it from Denmark to Dublin, in seven weeks.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "047",
+   "texto": "When the wind died, a support boat towed it more than five hundred kilometers.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "Even the replica needed a tow.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "The Gokstad ship, found in Norway in eighteen eighty, is smaller: about eighty feet, with thirty-two oars.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "In eighteen ninety-three, Norwegians built a copy and sailed it across the Atlantic to Chicago.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "The captain recorded speeds of ten to eleven knots.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "052",
+   "texto": "That's about twelve miles an hour, without a single engine.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "053",
+   "texto": "The crossing took about four weeks.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "054",
+   "texto": "So longships were for speed, for rivers, and for surprise.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "Knarrs were for moving house.",
+   "capitulo": "3",
+   "nome_capitulo": "O barco de guerra (e a velocidade)",
+   "bloco": "casco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "Okay. You're on board. Now, how do you find Greenland?",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "As far as we know, you have no compass. No map. No GPS.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "058",
+   "texto": "What you have is directions, passed from sailor to sailor.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "A medieval Icelandic book, the Landnámabók, includes sailing instructions.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "For a ship from Norway, it says: head due west.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "Along the way, you should see the Shetland Islands in clear weather.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "You should be so far from the Faroes that you see only half of the hills.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "And you should be close enough to Iceland to see whales and birds.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "Your GPS is a whale. Or a bird.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "From Iceland, the book says the crossing is shortest from a peninsula in the west, and takes four days, if everything goes right.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "066",
+   "texto": "Historians think sailors tried to hold one latitude, and follow it west.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "But what if it's cloudy?",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "Some sagas mention a \"sunstone.\"",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "In twenty eleven, researchers showed a crystal called Iceland spar can find the sun's direction, even through clouds.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "But nobody has ever found a sunstone on a Viking ship.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "071",
+   "texto": "So maybe. We just don't know.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "Fog is worse. A man named Bjarni Herjolfsson was sailing to Greenland when fog and wind pushed his ship off course for days.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "When land finally appeared, it wasn't Greenland.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "In the sagas, that wrong turn is how Europeans first see North America.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "075",
+   "texto": "Moral: Viking navigation worked. Until it didn't.",
+   "capitulo": "4",
+   "nome_capitulo": "Sem bússola",
+   "bloco": "nevoeiro",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "The Roskilde museum says sea food was porridge, flour, dried fish, butter, and bread.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "Boiled or roasted meat was rare.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "078",
+   "texto": "To drink? Water, kept in barrels.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "079",
+   "texto": "Beer? Only on the ships of chieftains and kings.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "Modern crews cook on gas rings. The museum says that's \"in contrast to the Viking cooks.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "So: porridge, dry fish, and water. For weeks.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "082",
+   "texto": "Now, where do you sleep?",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "Right there, on the open deck, probably wrapped in a wool cloak.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "When the Sea Stallion crew sailed to Dublin, they slept in an open boat with almost no room.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "Their food was preserved rations, and some days brought what the project manager called \"cold, lashing rain.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "One sailor said that after eighteen hours, he was so cold and wet he wanted to quit.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "Now imagine that, with children.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "Then there's seasickness. On a trial trip to Norway, the Sea Stallion's nurse recorded almost thirty cases.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "Eight in ten crew members felt nauseous, mostly in moderate winds.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "090",
+   "texto": "And those were volunteers who had signed up for this.",
+   "capitulo": "5",
+   "nome_capitulo": "Comida, sono e enjoo",
+   "bloco": "bordo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "Now, the part nobody puts in the brochure.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "Of the twenty-five ships that left Iceland, only fourteen reached Greenland.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "093",
+   "texto": "The sources don't say exactly what happened to the rest.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "Some may have turned back and tried again later, and others may have been lost at sea.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "There's no coast guard. There's no radio.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "If your ship sinks, the only rescue is another ship, and that ship has its own problems.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "But you're lucky. You are on one of the fourteen.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "After days at sea, you see ice, then mountains, then green slopes.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "You made it. Welcome to Greenland.",
+   "capitulo": "6",
+   "nome_capitulo": "Quatorze de vinte e cinco",
+   "bloco": "perda",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "Erik's own farm is called Brattahlid, which means \"steep slope.\" It's the center of the colony.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "At its peak, the main settlement had about five hundred farms.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "102",
+   "texto": "A second one, farther north, had around ninety.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "103",
+   "texto": "A farm means sheep, goats, and cattle, in a place where winter is long.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "Life is hard, and it's not only the weather.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "In Erik the Red's saga, a fever breaks out on a farm in Greenland.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "There's no hospital to call.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "So why would anyone stay?",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "Because Greenland has something Europe wants: walrus ivory.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "109",
+   "texto": "DNA studies suggest Greenland had a near monopoly on Europe's walrus ivory for over two hundred years.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "In the eleven twenties, Greenlanders reportedly used ivory to get their own bishop from the king of Norway.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "So the settlers weren't hermits at the end of the world.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "They were suppliers.",
+   "capitulo": "7",
+   "nome_capitulo": "Groenlândia",
+   "bloco": "gelo",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "And that brings us to the biggest myth of all.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "114",
+   "texto": "When you hear \"Vikings,\" you think raiders.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "And yes, raids happened. In seven hundred ninety-three, raiders hit the monastery on Lindisfarne, in England.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "Historians often use that date to mark the start of the Viking Age.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "117",
+   "texto": "But in Old Norse, \"viking\" was something you did. It meant going on an expedition overseas, often a raid. Not a nationality. Not a job title.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "118",
+   "texto": "Most people in Scandinavia weren't vikings at all. They were farmers, fishers, and craftspeople.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "Around the year nine hundred twenty-two, an Arab envoy named Ibn Fadlan met a group of traders called the Rus, on the Volga River.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "He wrote that their bodies were perfect, \"like palm trees.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "He was less impressed by their hygiene.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "Every morning, a slave girl brought a basin of water to a man, then carried it to the next one.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "Each man washed his face and hair in it, blew his nose, and spat. Then it moved on.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "Ibn Fadlan called it the filthiest water imaginable. He may have been exaggerating.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "125",
+   "texto": "He also saw what they sold: sable furs, and enslaved people.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "126",
+   "texto": "That part of the story is not romantic.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "In return, they got silver coins from the Arab world.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "128",
+   "texto": "On the Swedish island of Gotland, archaeologists have found hundreds of silver hoards, many full of Arab coins.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "129",
+   "texto": "A coin from the Middle East, buried on a Baltic island. That's a trade network.",
+   "capitulo": "8",
+   "nome_capitulo": "Mercadores, não só saqueadores",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "Back to Greenland, and to Erik's family.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "According to the sagas, Erik's son Leif goes to Norway, around the year one thousand.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "The Norwegian king sends him home to bring Christianity to Greenland.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "About the same time, Iceland's assembly decides the whole island will be Christian.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "Then Leif wants to find the lands Bjarni saw in the fog.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "On the way to the ship, Erik's horse stumbles, and he falls.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "He says he's not meant to find more lands than the one they already live in.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "He goes home. The man who found Greenland never sees what's beyond it.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "Leif sails with about thirty-five men.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "The sagas say they find wild wheat and grapevines, and call the land Vinland.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "Later, another expedition follows, led by Karlsefni: sixty men and five women.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "141",
+   "texto": "They trade with the people already living there. The locals want red cloth, and give furs.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "But the saga says it doesn't last. After three winters, the settlers leave.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "143",
+   "texto": "In the saga's words, there would always be \"war and terror\" hanging over them.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "For a long time, nobody knew if any of this was real.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "Then, in nineteen sixty, a Norwegian explorer, Helge Ingstad, and his wife, the archaeologist Anne Stine Ingstad, found a site called L'Anse aux Meadows, in Newfoundland, Canada.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "Eight buildings made of sod over a wooden frame. A forge. A carpentry shop. And a spot for repairing boats.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "In twenty twenty-one, scientists used a solar storm recorded in tree rings to date cut wood from the site.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "The result: the trees were cut in the year one thousand twenty-one, with metal tools.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "149",
+   "texto": "So far, that's the earliest year we can prove Europeans were in the Americas.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "150",
+   "texto": "And in the ruins, they found butternuts. Those trees don't grow in Newfoundland.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "The nearest ones grow in New Brunswick, so someone went even farther south.",
+   "capitulo": "9",
+   "nome_capitulo": "Vinlândia",
+   "bloco": "vinlandia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "152",
+   "texto": "So let's clear up a few myths.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "153",
+   "texto": "Myth one: horned helmets.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "154",
+   "texto": "The horns come from a costume designer, Carl Emil Doepler, who added them to Viking characters in Wagner's opera in eighteen seventy-six.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "The best preserved Viking helmet we have, from a grave in Gjermundbu, Norway, is a plain round iron cap. No horns.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "Scandinavia did have horned helmets, but from the Bronze Age, over a thousand years earlier.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "Myth two: drinking from skulls.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "158",
+   "texto": "A seventeenth century scholar misread a line of Old Norse poetry that meant drinking horns, and thought it meant skulls.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "Myth three: we know exactly what Vikings believed.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "160",
+   "texto": "Most of what we know about Norse gods comes from the Eddas.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "They were written down in the thirteenth century, by Christian Icelanders.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "That's more than two hundred years after your trip.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "163",
+   "texto": "So when someone tells you exactly what a Viking believed, ask for the source.",
+   "capitulo": "10",
+   "nome_capitulo": "Mitos",
+   "bloco": "mitos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "Let's go back to your boat.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "You crossed an ocean on a cargo ship, with your family, your cows, and a lot of porridge.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "You didn't cross to conquer anyone. You crossed to farm.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "That's the real surprise.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "168",
+   "texto": "Vikings are famous for swords. But the technology that mattered was the ship.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "A ship that could cross open sea, sail up a river, and land on a beach with no harbor.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "170",
+   "texto": "It connected farms in Greenland to markets in Europe, and furs in Russia to silver in Baghdad.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "171",
+   "texto": "The Vikings weren't a country. They were a network, and the ship was the internet.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "172",
+   "texto": "And networks have a weakness.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "Historians think falling demand for walrus ivory was one reason Greenland faded.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "174",
+   "texto": "No Greenland tusks are known to have reached Europe after thirteen twenty-seven.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "175",
+   "texto": "By the end of the fifteenth century, the Norse in Greenland had vanished.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "Erik's sales pitch lasted about five hundred years.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "177",
+   "texto": "Not bad for a man with a criminal record and a very good name for a very icy island.",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "178",
+   "texto": "If you enjoyed this voyage, tell me in the comments: which journey in history should we take next?",
+   "capitulo": "11",
+   "nome_capitulo": "Fechamento (a tese)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

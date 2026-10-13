@@ -1,0 +1,72 @@
+{
+ "abertura": {
+  "seed": 218751288,
+  "segundos": 70,
+  "tags": "curious playful vintage documentary underscore, ragtime piano, pizzicato strings, music box, whimsical, warm, instrumental",
+  "bpm": 100,
+  "tom": "C major"
+ },
+ "mundo1900": {
+  "seed": 1895774370,
+  "segundos": 87,
+  "tags": "nostalgic early 1900s parlor music, upright piano, accordion, soft strings, gentle waltz feel, warm, instrumental",
+  "bpm": 96,
+  "tom": "G major"
+ },
+ "acertos": {
+  "seed": 659064021,
+  "segundos": 159,
+  "tags": "bright optimistic light documentary music, marimba, plucked strings, glockenspiel, upbeat, hopeful, instrumental",
+  "bpm": 108,
+  "tom": "D major"
+ },
+ "erros": {
+  "seed": 2105519712,
+  "segundos": 131,
+  "tags": "quirky comedic silent-film ragtime, tack piano, clarinet, bassoon, pizzicato, bouncy, funny, instrumental",
+  "bpm": 116,
+  "tom": "F major"
+ },
+ "perto": {
+  "seed": 361822451,
+  "segundos": 86,
+  "tags": "light curious suspenseful underscore, pizzicato strings, soft vibraphone, playful mystery, instrumental",
+  "bpm": 98,
+  "tom": "A minor"
+ },
+ "cartoes": {
+  "seed": 1923602888,
+  "segundos": 123,
+  "tags": "whimsical fantastical french cafe music, accordion, music box, light waltz, plucked strings, dreamy, instrumental",
+  "bpm": 104,
+  "tom": "E minor"
+ },
+ "ficcao": {
+  "seed": 1446980008,
+  "segundos": 121,
+  "tags": "steady mysterious retro-futuristic underscore, pizzicato strings, marimba ostinato, soft strings pad, continuous gentle groove, wonder, instrumental",
+  "bpm": 96,
+  "tom": "D minor"
+ },
+ "visionarios": {
+  "seed": 1035673437,
+  "segundos": 125,
+  "tags": "awe inspiring documentary underscore, warm strings, piano, light percussion, building wonder, instrumental",
+  "bpm": 100,
+  "tom": "C major"
+ },
+ "porque": {
+  "seed": 16220817,
+  "segundos": 88,
+  "tags": "thoughtful reflective light documentary music, soft piano, acoustic guitar, gentle strings, calm, instrumental",
+  "bpm": 84,
+  "tom": "A minor"
+ },
+ "fecho": {
+  "seed": 463855466,
+  "segundos": 58,
+  "tags": "warm uplifting hopeful acoustic outro, plucked strings, soft piano, glockenspiel, gentle, instrumental",
+  "bpm": 100,
+  "tom": "C major"
+ }
+}

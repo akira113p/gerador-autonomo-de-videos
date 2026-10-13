@@ -1,0 +1,14 @@
+178 cenas, 14.7 min
+trilha abertura 0-48 s
+trilha convite 48-111 s
+trilha casco 111-260 s
+trilha nevoeiro 260-355 s
+trilha bordo 355-426 s
+trilha perda 426-465 s
+trilha gelo 465-523 s
+trilha mercado 523-616 s
+trilha vinlandia 616-733 s
+trilha mitos 733-791 s
+trilha fecho 791-883 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v8-navio-viking\video_v8.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v8-navio-viking\video_v8_vscode.mp4

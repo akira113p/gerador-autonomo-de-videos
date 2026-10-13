@@ -1,0 +1,72 @@
+{
+ "abertura": {
+  "seed": 761393221,
+  "segundos": 162,
+  "tags": "light playful documentary underscore, pizzicato strings, glockenspiel, soft marimba, curious, bouncy, warm, instrumental",
+  "bpm": 100,
+  "tom": "D major"
+ },
+ "manha": {
+  "seed": 1499743912,
+  "segundos": 191,
+  "tags": "bright gentle morning acoustic guitar, flute melody, light shaker, optimistic, fresh, instrumental",
+  "bpm": 104,
+  "tom": "G major"
+ },
+ "cidade": {
+  "seed": 730251495,
+  "segundos": 118,
+  "tags": "upbeat light documentary music, marimba, plucked strings, light hand percussion, busy bustling city, cheerful, instrumental",
+  "bpm": 112,
+  "tom": "A major"
+ },
+ "mercado": {
+  "seed": 631213058,
+  "segundos": 182,
+  "tags": "bouncy playful marketplace music, acoustic guitar, pizzicato strings, hand claps, light tambourine, cheerful, lively, instrumental",
+  "bpm": 108,
+  "tom": "D major"
+ },
+ "sesta": {
+  "seed": 1042951605,
+  "segundos": 32,
+  "tags": "lazy relaxed warm acoustic guitar, soft harp, slow, sleepy afternoon, calm, instrumental",
+  "bpm": 78,
+  "tom": "F major"
+ },
+ "termas": {
+  "seed": 1848371772,
+  "segundos": 220,
+  "tags": "quirky playful comedic underscore, clarinet, pizzicato strings, bassoon, light percussion, bouncy, instrumental",
+  "bpm": 110,
+  "tom": "C major"
+ },
+ "jantar": {
+  "seed": 738937187,
+  "segundos": 133,
+  "tags": "warm cheerful lute and harp, light frame drum, cozy dinner party, gentle groove, instrumental",
+  "bpm": 96,
+  "tom": "E minor"
+ },
+ "festa": {
+  "seed": 879936700,
+  "segundos": 84,
+  "tags": "festive energetic ancient celebration, frame drums, plucked lyre, tambourine, joyful, lively, instrumental",
+  "bpm": 122,
+  "tom": "D minor"
+ },
+ "noite": {
+  "seed": 51690818,
+  "segundos": 63,
+  "tags": "soft calm night music, harp arpeggios, celesta, gentle strings pad, quiet, peaceful, instrumental",
+  "bpm": 70,
+  "tom": "A minor"
+ },
+ "fecho": {
+  "seed": 1645453731,
+  "segundos": 61,
+  "tags": "warm uplifting light acoustic outro, plucked strings, soft piano, hopeful, gentle, instrumental",
+  "bpm": 100,
+  "tom": "C major"
+ }
+}

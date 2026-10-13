@@ -1,0 +1,10 @@
+abertura 70 s 33.4 s de geração
+mundo1900 87 s 30.4 s de geração
+acertos 159 s 117.8 s de geração
+erros 131 s 96.3 s de geração
+perto 86 s 81.5 s de geração
+cartoes 123 s 95.9 s de geração
+ficcao 121 s 87.2 s de geração
+visionarios 125 s 90.5 s de geração
+porque 88 s 81.4 s de geração
+fecho 58 s 78.2 s de geração

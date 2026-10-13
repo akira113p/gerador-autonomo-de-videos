@@ -1,0 +1,217 @@
+001 OK  
+002 OK  
+003 DIF Because for you today is not the 8th of May.
+004 DIF Today is the 19th of Floreal, year two.
+005 OK  
+006 DIF And on some official clocks, noon is 5 o'clock.
+007 OK  
+008 OK  
+009 OK  
+010 OK  
+011 OK  
+012 OK  
+013 OK  
+014 OK  
+015 OK  
+016 OK  
+017 DIF Year one began on the 22nd of September 1792, the day after the Republic was proclaimed.
+018 DIF Every month had exactly 30 days.
+019 OK  
+020 DIF Vendemere, the month of the grape harvest. Brumere, the month of fog. Nivose, the month of snow.
+021 DIF Our month is the month of flowers.
+022 OK  
+023 DIF Instead, there were 10-day weeks, called day-kay days.
+024 DIF The days were simply called first day, second day, and so on, in Latin-style names, up to decadi, the tenth day.
+025 DIF Decadee was the day of rest.
+026 OK  
+027 OK  
+028 DIF Now they rested one day in 10.
+029 OK  
+030 OK  
+031 DIF Today, the 19th of Floreal, is the day of the Orash, a garden plant. Tomorrow, the 10th day, is the day of the Ho.
+032 OK  
+033 DIF In their decimal time, a day had 10 hours, each hour 100 minutes, each minute 100 seconds.
+034 DIF Midnight was 10 o'clock, noon was 5 o'clock.
+035 OK  
+036 OK  
+037 OK  
+038 DIF The same people were busy inventing a new way to measure the world, the meter, the gram, the leader.
+039 OK  
+040 OK  
+041 OK  
+042 OK  
+043 DIF Our man is a carpenter. He's in his 30s with a wife and two kids all in one room.
+044 DIF Paris has around 600,000 people.
+045 OK  
+046 OK  
+047 OK  
+048 OK  
+049 OK  
+050 OK  
+051 OK  
+052 OK  
+053 OK  
+054 OK  
+055 DIF That's why the radicals of Paris were called sans-culottes, without breaches.
+056 OK  
+057 OK  
+058 OK  
+059 OK  
+060 OK  
+061 OK  
+062 OK  
+063 OK  
+064 OK  
+065 OK  
+066 OK  
+067 OK  
+068 OK  
+069 OK  
+070 OK  
+071 OK  
+072 OK  
+073 OK  
+074 OK  
+075 OK  
+076 OK  
+077 OK  
+078 OK  
+079 OK  
+080 OK  
+081 OK  
+082 OK  
+083 OK  
+084 OK  
+085 OK  
+086 OK  
+087 OK  
+088 OK  
+089 DIF It's salute, citoyen. Hello, citizen.
+090 DIF And he tries to use to the informal you, even with strangers.
+091 DIF In October 1793, a deputy asked the convention to make to the law.
+092 OK  
+093 OK  
+094 OK  
+095 OK  
+096 OK  
+097 OK  
+098 OK  
+099 OK  
+100 OK  
+101 OK  
+102 OK  
+103 OK  
+104 OK  
+105 OK  
+106 OK  
+107 OK  
+108 OK  
+109 OK  
+110 OK  
+111 OK  
+112 OK  
+113 OK  
+114 OK  
+115 DIF The pay is in paper money called a signats.
+116 DIF and every month the Asynet buys less.
+117 OK  
+118 OK  
+119 OK  
+120 OK  
+121 OK  
+122 OK  
+123 OK  
+124 OK  
+125 OK  
+126 OK  
+127 OK  
+128 OK  
+129 OK  
+130 OK  
+131 OK  
+132 OK  
+133 OK  
+134 OK  
+135 OK  
+136 OK  
+137 OK  
+138 OK  
+139 OK  
+140 OK  
+141 OK  
+142 OK  
+143 OK  
+144 OK  
+145 OK  
+146 OK  
+147 DIF They roll along the Rue Saint-Honoré toward the Place de la Revolution.
+148 OK  
+149 DIF On the way, they pass very close to a house where a lawyer named Maximilian Robespierre rents a room.
+150 OK  
+151 OK  
+152 OK  
+153 DIF 28 tax farmers will die today.
+154 OK  
+155 OK  
+156 OK  
+157 OK  
+158 DIF He is 50 years old.
+159 OK  
+160 OK  
+161 OK  
+162 OK  
+163 OK  
+164 OK  
+165 OK  
+166 OK  
+167 OK  
+168 OK  
+169 OK  
+170 DIF Next to him in the carts is his father-in-law, Jacques Pauls.
+171 OK  
+172 DIF His wife, Marie-Anne Pauls Lavoisier, was his partner in the laboratory.
+173 OK  
+174 OK  
+175 OK  
+176 OK  
+177 OK  
+178 DIF The real quote everyone remembers came later from the mathematician Joseph Louise Lagrange.
+179 OK  
+180 OK  
+181 OK  
+182 OK  
+183 OK  
+184 DIF Between the spring of 1793 and the summer of 1794, the Revolutionary Tribunal in Paris sentenced more than 2,600 people to death.
+185 DIF Across France, the official death sentences reached about 17,000.
+186 OK  
+187 OK  
+188 OK  
+189 DIF Paris is divided into 48 neighborhoods, called Sections.
+190 OK  
+191 OK  
+192 DIF To make sure poor workers could attend, the convention paid poorer citizens 40 sues to take part.
+193 OK  
+194 OK  
+195 OK  
+196 OK  
+197 OK  
+198 OK  
+199 OK  
+200 OK  
+201 OK  
+202 OK  
+203 DIF Tomorrow is the 20th of Floreal, Decadie, the day of rest.
+204 OK  
+205 DIF In June, it gets even worse. In about seven weeks between the Law of 22, Prairial and Robespierre's fall, the Paris Tribunal sentences 1,376 people to death.
+206 DIF In the 13 months before that, it had sentenced about 1,200.
+207 DIF And then on the 9th of Thermidor, year two, the 27th of July, 1794, the convention turns on Robespierre.
+208 OK  
+209 OK  
+210 OK  
+211 OK  
+212 OK  
+213 OK  
+214 OK  
+215 OK  
+216 OK  
+217 OK  

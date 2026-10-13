@@ -1,0 +1,1958 @@
+{
+ "titulo": "What Was Daily Life Like During the French Revolution?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "What's the date today?",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "Easy question. Unless you live in Paris in the spring of 1794.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Because for you, today is not the eighth of May.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "004",
+   "texto": "Today is the nineteenth of Floréal, Year Two.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "005",
+   "texto": "There are no Sundays anymore. There's no \"Monsieur\" or \"Madame.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "006",
+   "texto": "And on some official clocks, noon is \"five o'clock.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "007",
+   "texto": "This is Paris during the Revolution, at the height of what history calls the Terror.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "Most videos about it talk about kings, speeches, and the guillotine.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "Today, we'll live one ordinary day, as an ordinary Parisian.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "Waking up. Buying bread. Going to work. Going to a meeting at night.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "011",
+   "texto": "And, at the end of the day, watching one of the greatest scientists in history ride past, on his way to die.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "But first, let me explain that date.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: que dia é hoje?)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "In 1792, France abolished its monarchy and became a republic.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "014",
+   "texto": "The revolutionaries believed they were starting history over.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "So they decided time itself should start over too.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "In late 1793, they adopted a new calendar.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "017",
+   "texto": "Year One began on the twenty-second of September, 1792, the day after the Republic was proclaimed.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "018",
+   "texto": "Every month had exactly thirty days.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "019",
+   "texto": "And the months got new names, inspired by nature and the seasons.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "Vendémiaire, the month of the grape harvest. Brumaire, the month of fog. Nivôse, the month of snow.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "021",
+   "texto": "Floréal, our month, is the month of flowers.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "022",
+   "texto": "And the seven-day week was gone.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "023",
+   "texto": "Instead, there were ten-day weeks, called décades.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "024",
+   "texto": "The days were simply called \"first day,\" \"second day,\" and so on, in Latin-style names, up to décadi, the tenth day.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "025",
+   "texto": "Décadi was the day of rest.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "Do the math.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "027",
+   "texto": "Before, workers rested one day in seven, plus many saints' days.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "028",
+   "texto": "Now, they rested one day in ten.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "029",
+   "texto": "Not everyone was thrilled.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "Each day was named after a plant. Every fifth day after an animal, and every tenth after a tool.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "031",
+   "texto": "Today, the nineteenth of Floréal, is the day of the orache, a garden plant. Tomorrow, the tenth day, is the day of the hoe.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "The revolutionaries even tried to change the clock.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "In their decimal time, a day had ten hours, each hour a hundred minutes, each minute a hundred seconds.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "034",
+   "texto": "Midnight was ten o'clock. Noon was five o'clock.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "035",
+   "texto": "A few clockmakers actually built decimal clocks. Some had both dials, old and new, on the same face.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "It never caught on. Decimal time was abandoned in 1795.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "037",
+   "texto": "But one part of this project did survive.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "038",
+   "texto": "The same people were busy inventing a new way to measure the world: the meter, the gram, the liter.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "039",
+   "texto": "Remember that. It will matter at the end of our day.",
+   "capitulo": "1",
+   "nome_capitulo": "Um calendário novo, um mundo novo",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Our Parisian wakes up before dawn, in a small room in the Faubourg Saint-Antoine, in the east of the city.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "This neighborhood is famous for its furniture makers, and for its rebels.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "Its people helped storm the Bastille, just around the corner, five years earlier.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "Our man is a carpenter. He's in his thirties, with a wife and two kids, all in one room.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "Paris has around six hundred thousand people.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "045",
+   "texto": "Most of them live like this: crowded, in narrow streets, in old buildings several floors high.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "There's no running water.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "Water comes from public fountains, or from water carriers who climb the stairs with buckets, for a fee.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "Much of it comes straight from the Seine. The same river that takes the city's waste.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "On the front door of the building, there's a sheet of paper.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "It lists the name of every person living inside.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "That's the law now. The authorities want to know who lives where, and who is new in town.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "052",
+   "texto": "In a few weeks, our carpenter will check that list carefully. Just to make sure nothing about it looks suspicious.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar (antes do sol)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "Getting dressed in 1794 is a political act.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "Our carpenter puts on long trousers, not the knee breeches of the rich.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "055",
+   "texto": "That's why the radicals of Paris were called sans-culottes: \"without breeches.\"",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "A short jacket. Wooden clogs, or worn shoes.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "And on his hat, a cockade: a small rosette in blue, white and red.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "For him, it's a proud symbol.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "For his wife, it's also the law. Since September 1793, women in public must wear the tricolor cockade.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "On special days, he might wear a red woolen cap, the \"bonnet rouge,\" the cap of liberty.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "Silk, powdered wigs, fancy buckles? Those are dangerous now.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "062",
+   "texto": "They make you look like an aristocrat.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "And looking like an aristocrat is a very bad idea in Paris, in 1794.",
+   "capitulo": "3",
+   "nome_capitulo": "Vestir-se (a roupa como política)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "Before going to work, someone in the family has to get the bread.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "And bread is the center of life in Paris.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "For a working family, bread could take up a huge share of the budget.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "So when bread is scarce or expensive, Paris gets angry.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "Many historians see bread prices as one of the sparks of the Revolution itself.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "By 1794, the government has set maximum prices for bread and many other goods.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "It's called the Maximum.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "071",
+   "texto": "In theory, this protects the poor.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "In practice, many merchants hide their goods, or sell them in secret, at higher prices.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "Hoarding food has been made punishable by death.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "074",
+   "texto": "And Paris has a system of bread cards, to share the bread among families.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "075",
+   "texto": "So, before dawn, the lines form outside the bakeries.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "Mostly women. Waiting, talking, complaining, gossiping.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "These lines are where Paris gets its news.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "Who was arrested yesterday. Which baker is cheating. What happened at the Convention.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "079",
+   "texto": "Even the bread itself is political.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "In November 1793, the Convention decreed that bakers could make only one kind of bread for everyone, rich and poor: the \"bread of equality.\"",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "081",
+   "texto": "No more white bread for the wealthy and dark bread for the rest.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "082",
+   "texto": "And what about coffee and sugar?",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "Since the slave revolt in the French colony of Saint-Domingue, today's Haiti, began in 1791, sugar and coffee have become scarce and expensive.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "084",
+   "texto": "Parisians rioted over sugar prices in 1792.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "So breakfast is bread, maybe soaked in a thin soup. And, if you're lucky, a little wine.",
+   "capitulo": "4",
+   "nome_capitulo": "A fila do pão (5 da manhã)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "Our carpenter walks to his workshop.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "On the way, he says hello to his neighbor.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "Not \"Bonjour, Monsieur.\" That's suspicious now.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "089",
+   "texto": "It's \"Salut, citoyen.\" Hello, citizen.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "And he tries to use \"tu,\" the informal \"you,\" even with strangers.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "091",
+   "texto": "In October 1793, a deputy asked the Convention to make \"tu\" the law.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "The Convention refused, because a law like that would make anyone who slipped look suspicious.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "But many clubs and local groups adopted it on their own.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "He passes walls covered in posters: new laws, decrees, lists of names.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "Newspapers are read aloud on street corners, for those who can't read.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "The street names are changing too.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "Anything that sounds like a king or a saint is being renamed.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "098",
+   "texto": "The famous Palais-Royal is now the Palais-Égalité: the Palace of Equality.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "Even churches have changed.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "In late 1793, the churches of Paris were closed for worship.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "Notre-Dame was turned into a Temple of Reason.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "Many church bells had already been taken down and melted to make cannons.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "So the city sounds different too. Far fewer bells.",
+   "capitulo": "5",
+   "nome_capitulo": "A caminho do trabalho (7 da manhã)",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "The workshop is small: a master, a few journeymen, an apprentice.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "They make chairs, tables and cabinets.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "But fewer rich clients buy fine furniture these days.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "Many of them have fled the country. Others are in prison.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "So workshops take whatever work they can get.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "And there's one huge customer: the war.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "France is at war with most of Europe.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "111",
+   "texto": "Hundreds of thousands of young men have been drafted into the army.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "Paris workshops make guns, uniforms, shoes and wagons for them.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "Even the soil is drafted.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "Citizens are asked to scrape the walls of cellars and stables, to collect saltpeter, an ingredient for gunpowder.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "The pay is in paper money, called assignats.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "And every month, the assignat buys less.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "117",
+   "texto": "Our carpenter knows this well.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "His wage seems fine on paper. At the bakery, it's a different story.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho (de manhã)",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "At midday, the work stops for a meal.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "Bread, of course. Maybe some vegetables, cheese, or a soup.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "Meat is rare and expensive for a family like this.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "At the table, the workers talk. But carefully.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "Because in 1794, a careless word can be dangerous.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "In September 1793, the Convention passed the Law of Suspects.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "125",
+   "texto": "It allowed the arrest of anyone who, by their conduct, their words or their writings, showed themselves to be an enemy of liberty.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "That is a very wide net.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "To keep a job, to get a passport, or just to prove you're a good citizen, you might need a certificate of civism.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "128",
+   "texto": "A piece of paper, issued by your local section, saying that you are a loyal patriot.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "129",
+   "texto": "No certificate? You become a suspect.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "So people watch what they say.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "Neighbors watch neighbors.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "Old disputes with a landlord, a rival or an ex-partner can suddenly become denunciations.",
+   "capitulo": "7",
+   "nome_capitulo": "Almoço e o \"quanto você vale\" (meio-dia)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "While our carpenter works, his wife works too.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "Maybe she sells vegetables at a market, sews for a shop, or washes clothes in the Seine.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "The Revolution has changed some things for her.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "Since 1792, French couples can get divorced. And many women in Paris have used that right.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "137",
+   "texto": "Women march, sign petitions, and fill the public galleries of the political clubs.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "But they can't vote.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "In October 1793, the Convention banned women's political clubs.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "A few days later, the writer Olympe de Gouges, who had published a Declaration of the Rights of Woman, was guillotined.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "141",
+   "texto": "The Revolution talked a lot about equality.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "It didn't extend it to everyone.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: o que mudou para as mulheres",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "143",
+   "texto": "In the late afternoon, there's a sound in the Rue Saint-Honoré.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "Wooden wheels on stone.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "Carts are coming from the Conciergerie, the prison next to the court of the Revolutionary Tribunal.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "They're carrying people who were sentenced to death earlier today.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "They roll along the Rue Saint-Honoré, toward the Place de la Révolution.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "Today, we call it the Place de la Concorde.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "On the way, they pass very close to a house where a lawyer named Maximilien Robespierre rents a room.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "He's one of the most powerful men in France right now.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "In less than three months, he'll make the same trip.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "And today, there are many carts.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "Twenty-eight tax farmers will die today.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "154",
+   "texto": "They belonged to a company that collected taxes for the old king, called the General Farm.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "Ordinary Parisians hated the tax farmers. Many people won't feel sorry for them.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "But one of the men in the carts is not ordinary at all.",
+   "capitulo": "9",
+   "nome_capitulo": "O fim da tarde: as carroças",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "His name is Antoine Lavoisier.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "He is fifty years old.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "159",
+   "texto": "And he is one of the greatest scientists who ever lived.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "Lavoisier showed that, in a chemical reaction, matter is not created or destroyed. It only changes form.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "161",
+   "texto": "He named oxygen and hydrogen.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "162",
+   "texto": "He helped explain what fire really is, and what happens when we breathe.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "163",
+   "texto": "Many people call him the father of modern chemistry.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "164",
+   "texto": "And he worked on a commission that was creating the metric system. The meter, the kilogram.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "The same system that most of the world uses today.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "166",
+   "texto": "Until December 1793, when the government purged him from that commission, for political reasons.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "But Lavoisier made one big mistake.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "168",
+   "texto": "To fund his science, he had invested in the General Farm.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "That made him a tax collector, in the eyes of the Revolution.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "Next to him in the carts is his father-in-law, Jacques Paulze.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "They will die on the same day.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "172",
+   "texto": "His wife, Marie-Anne Paulze Lavoisier, was his partner in the laboratory.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "She drew his instruments, translated scientific works, and kept his notes.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "174",
+   "texto": "Today, she loses her husband and her father.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "There's a famous story about the trial.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "When someone asked the court to spare a great scientist, the judge supposedly answered: \"The Republic has no need of scientists.\"",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "It's a great line. But it's an anecdote, and it may never have been said.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "178",
+   "texto": "The real quote everyone remembers came later, from the mathematician Joseph-Louis Lagrange.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "\"It took them only an instant to cut off that head, and a hundred years may not be enough to produce another like it.\"",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "180",
+   "texto": "The guillotine stands in the middle of the square.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "There's a crowd. Some people come every day. Others just walk past without looking.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "That's perhaps the most disturbing part of the Terror.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "183",
+   "texto": "It became part of the routine.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "184",
+   "texto": "Between the spring of 1793 and the summer of 1794, the Revolutionary Tribunal in Paris sentenced more than two thousand six hundred people to death.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "185",
+   "texto": "Across France, the official death sentences reached about seventeen thousand.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "186",
+   "texto": "And many more died in prisons, or without any trial at all.",
+   "capitulo": "10",
+   "nome_capitulo": "Lavoisier (o homem que mediu o mundo)",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "187",
+   "texto": "After dinner, our carpenter doesn't go to bed.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "188",
+   "texto": "He goes to a meeting.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "189",
+   "texto": "Paris is divided into forty-eight neighborhoods, called sections.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "190",
+   "texto": "Each one has its own assembly, where citizens debate, vote, and denounce.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "191",
+   "texto": "The meetings happen in old churches and convents.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "192",
+   "texto": "To make sure poor workers could attend, the Convention paid poorer citizens forty sous to take part.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "193",
+   "texto": "Tonight, the topics are the usual ones.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "194",
+   "texto": "The price of bread. The war. Someone's certificate of civism. A neighbor who said the wrong thing.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "195",
+   "texto": "The meeting is loud, smoky, and long.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "196",
+   "texto": "And it's also, in a strange way, exciting.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "197",
+   "texto": "A carpenter is debating the future of his country, in a room where, a few years ago, only priests and nobles had a voice.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "198",
+   "texto": "That's the contradiction of 1794.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "199",
+   "texto": "Ordinary people had more political power than ever before.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "200",
+   "texto": "And they were more afraid than ever before.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite: a assembleia da seção",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "201",
+   "texto": "Late at night, our carpenter walks home, under the dim oil lanterns that hang over the streets.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "202",
+   "texto": "He climbs the stairs. Checks on the kids. Goes to sleep.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "203",
+   "texto": "Tomorrow is the twentieth of Floréal: décadi, the day of rest.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "204",
+   "texto": "He doesn't know it yet, but the Terror is almost over.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "205",
+   "texto": "In June, it gets even worse. In about seven weeks, between the Law of 22 Prairial and Robespierre's fall, the Paris tribunal sentences one thousand three hundred and seventy-six people to death.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "206",
+   "texto": "In the thirteen months before that, it had sentenced about twelve hundred.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "207",
+   "texto": "And then, on the ninth of Thermidor, Year Two, the twenty-seventh of July 1794, the Convention turns on Robespierre.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "208",
+   "texto": "The next day, he rides in a cart down the Rue Saint-Honoré, to the guillotine.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "209",
+   "texto": "Within a few years, most of the revolutionary experiments disappear.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "210",
+   "texto": "Decimal time is gone. The calendar lasts until Napoleon ends it, at the start of 1806.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "211",
+   "texto": "The seven-day week comes back. And so do Monsieur and Madame.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "212",
+   "texto": "But one thing survives.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "213",
+   "texto": "The meter. The kilogram. The liter.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "214",
+   "texto": "The system Lavoisier helped create is now used by almost every country on Earth.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "215",
+   "texto": "Every time you buy a kilo of rice, or run a hundred meters, you're using a little piece of the French Revolution.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "216",
+   "texto": "Built, in part, by a man the Revolution killed.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "217",
+   "texto": "If you enjoyed this day in Paris, tell me in the comments: which day in history should we live next?",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento: o fim do Terror",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

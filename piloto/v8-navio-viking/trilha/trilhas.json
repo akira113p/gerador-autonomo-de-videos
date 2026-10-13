@@ -1,0 +1,79 @@
+{
+ "abertura": {
+  "seed": 647232105,
+  "segundos": 57,
+  "tags": "curious light adventure documentary underscore, nyckelharpa, plucked lute, soft frame drum, pizzicato strings, playful, wry, instrumental",
+  "bpm": 104,
+  "tom": "D minor"
+ },
+ "convite": {
+  "seed": 1102487744,
+  "segundos": 73,
+  "tags": "scheming playful nordic folk, bouncy lute, hand drum, wooden flute, mischievous, light, instrumental",
+  "bpm": 116,
+  "tom": "G major"
+ },
+ "casco": {
+  "seed": 1812381486,
+  "segundos": 160,
+  "tags": "steady rolling seafaring folk groove, fiddle, bowed lyre, hand drum, wooden flute, wave-like rhythm, adventurous, instrumental",
+  "bpm": 96,
+  "tom": "E minor"
+ },
+ "nevoeiro": {
+  "seed": 1471575938,
+  "segundos": 105,
+  "tags": "mysterious nordic folk underscore, steady plucked lyre pulse, bowed strings, soft frame drum, continuous groove, suspense, instrumental",
+  "bpm": 72,
+  "tom": "C minor"
+ },
+ "bordo": {
+  "seed": 1282028715,
+  "segundos": 82,
+  "tags": "gentle weary humorous folk underscore, plucked lute, soft fiddle, light percussion, relaxed, instrumental",
+  "bpm": 84,
+  "tom": "F major"
+ },
+ "perda": {
+  "seed": 1038159478,
+  "segundos": 49,
+  "tags": "somber slow dramatic underscore, low cello, deep soft drums, restrained, serious, instrumental",
+  "bpm": 62,
+  "tom": "B minor"
+ },
+ "gelo": {
+  "seed": 1153657917,
+  "segundos": 68,
+  "tags": "cold wide open nordic ambient, solo wooden flute, glassy strings, soft piano, quiet and hopeful, instrumental",
+  "bpm": 76,
+  "tom": "A minor"
+ },
+ "mercado": {
+  "seed": 1772267173,
+  "segundos": 104,
+  "tags": "lively trade route music, lute, oud, frame drum, hand percussion, bustling, curious, instrumental",
+  "bpm": 112,
+  "tom": "D major"
+ },
+ "vinlandia": {
+  "seed": 1068625690,
+  "segundos": 127,
+  "tags": "adventurous exploration music, nyckelharpa, fiddle, flute, driving frame drums, hopeful but mysterious, instrumental",
+  "bpm": 100,
+  "tom": "E minor"
+ },
+ "mitos": {
+  "seed": 319811802,
+  "segundos": 69,
+  "tags": "quirky playful mythbusting underscore, plucked lute, kantele, wooden flute, tongue-in-cheek, light, instrumental",
+  "bpm": 108,
+  "tom": "C major"
+ },
+ "fecho": {
+  "seed": 1385808294,
+  "segundos": 82,
+  "tags": "warm reflective hopeful outro, soft piano, fiddle, flute, gentle strings, uplifting, instrumental",
+  "bpm": 90,
+  "tom": "D major"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "abertura": {
+  "seed": 1497210736,
+  "segundos": 63,
+  "tags": "curious light documentary underscore, harpsichord, pizzicato strings, soft flute, playful, elegant, instrumental",
+  "bpm": 100,
+  "tom": "D major"
+ },
+ "calendario": {
+  "seed": 589997517,
+  "segundos": 139,
+  "tags": "quirky whimsical baroque-flavored underscore, harpsichord, clarinet, plucked strings, bouncy, instrumental",
+  "bpm": 112,
+  "tom": "G major"
+ },
+ "manha": {
+  "seed": 644683727,
+  "segundos": 134,
+  "tags": "calm gentle early morning music, steady acoustic guitar picking, flute, light strings, continuous peaceful groove, instrumental",
+  "bpm": 80,
+  "tom": "F major"
+ },
+ "pao": {
+  "seed": 394811553,
+  "segundos": 117,
+  "tags": "tense but light documentary underscore, low strings pizzicato, soft snare brushes, waiting, suspense, instrumental",
+  "bpm": 92,
+  "tom": "D minor"
+ },
+ "rua": {
+  "seed": 1426827249,
+  "segundos": 88,
+  "tags": "busy bustling french street music, accordion, plucked strings, light percussion, lively, instrumental",
+  "bpm": 108,
+  "tom": "A major"
+ },
+ "trabalho": {
+  "seed": 1211475326,
+  "segundos": 68,
+  "tags": "steady industrious light underscore, marimba, pizzicato strings, soft woodblock, determined, instrumental",
+  "bpm": 100,
+  "tom": "E minor"
+ },
+ "almoco": {
+  "seed": 1141628195,
+  "segundos": 76,
+  "tags": "warm relaxed midday french cafe music, accordion, acoustic guitar, light waltz, instrumental",
+  "bpm": 90,
+  "tom": "C major"
+ },
+ "tarde": {
+  "seed": 67909361,
+  "segundos": 58,
+  "tags": "thoughtful warm documentary underscore, soft piano, strings, clarinet, reflective, instrumental",
+  "bpm": 86,
+  "tom": "A minor"
+ },
+ "carrocas": {
+  "seed": 253132114,
+  "segundos": 71,
+  "tags": "somber slow dramatic underscore, low cello, soft timpani, restrained, serious, instrumental",
+  "bpm": 66,
+  "tom": "C minor"
+ },
+ "lavoisier": {
+  "seed": 1314816885,
+  "segundos": 146,
+  "tags": "elegant sad dignified chamber music, solo cello, piano, soft strings, moving, instrumental",
+  "bpm": 70,
+  "tom": "G minor"
+ },
+ "noite": {
+  "seed": 844375111,
+  "segundos": 72,
+  "tags": "steady quiet tense night underscore, soft pizzicato strings, low cello, gentle marimba pulse, continuous groove, instrumental",
+  "bpm": 72,
+  "tom": "E minor"
+ },
+ "fecho": {
+  "seed": 1369748530,
+  "segundos": 106,
+  "tags": "warm hopeful gentle outro, soft piano, plucked strings, light strings, uplifting, instrumental",
+  "bpm": 96,
+  "tom": "C major"
+ }
+}

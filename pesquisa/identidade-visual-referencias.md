@@ -1,8 +1,14 @@
 # Identidade visual: dois canais de referência (stickman explainer)
 
-Capturado em 2026-10-08. Frames tirados das sprites de storyboard do YouTube (322x180, 1 frame a cada 5 s no vídeo 1 e a cada 10 s no vídeo 2). Thumbnails em 1280x720. Imagens em [referencias-visuais/](referencias-visuais/).
+## Referências visuais (atuais, 2026-10-09)
 
-Limite da captura: storyboard mostra composição, cor e texto, mas não movimento. Transições, zoom/pan e ritmo de corte precisam ser vistos no player.
+28 quadros em resolução cheia, um JPG por quadro, 14 por canal, mais a thumbnail de cada um (1280x720):
+- [referencias-visuais/ink-explainer/](referencias-visuais/ink-explainer/): quadros de 3840x2144.
+- [referencias-visuais/diario-nada-normal/](referencias-visuais/diario-nada-normal/): quadros de 1920x1070.
+
+O nome de cada arquivo traz o segundo do vídeo e o tipo de quadro (`0060s-tela-dividida-you-him.jpg`). Os vídeos completos ficam em `referencias-visuais/videos/` (fora do git, ~720 MB). As sprites de storyboard da primeira captura (322x180) foram movidas para [referencias-visuais/antigas-360p/](referencias-visuais/antigas-360p/); os timestamps delas não valem para os vídeos em resolução cheia, que têm outra montagem. A análise abaixo foi escrita a partir das sprites antigas.
+
+Limite: imagem parada não mostra movimento. Transições, zoom/pan e ritmo de corte precisam ser vistos no player.
 
 ## Os vídeos
 
@@ -52,6 +58,33 @@ Destaques (só pela leitura visual, área pequena): vermelho do X e dos pins ~`#
 
 Vídeo 2 (Diário Nada Normal):
 `#d7ccb5` areia 11% · `#feffff` branco 10% · `#beb7a6` pedra 9% · `#dce3db` verde-cinza claro 8% · `#ece6d6` creme 7% · `#c0d3d1` azul-pálido 6% · `#555049` sombra 6% · `#0a0d0f` linha 5%
+
+## Gramática de quadros (leitura dos 28 quadros em resolução cheia)
+
+Os dois canais usam o mesmo vocabulário; muda a paleta e o rigor.
+- **Traço**: contorno preto de marcador, grosso e de espessura constante, levemente tremido. Mesmo traço no personagem e no cenário.
+- **Personagem**: cabeça redonda branca grande (o Ink põe uma sombra cinza suave de um lado), sem nariz, olhos de ponto, sobrancelha faz a emoção. Braços e pernas de uma linha só, mão como "luva" preta arredondada. Roupa é uma forma chapada colorida por cima do corpo de palito. Cabelo em tufos espetados.
+- **Cenário**: poucos blocos grandes de cor chapada, linha do horizonte, céu sem gradiente. Fundo sem desfoque. Muito espaço vazio.
+- **Tipos de quadro**: paisagem sem personagem; cena com 1 a 3 personagens; close de emoção; cartão branco com objeto + texto manuscrito em caixa alta; tela dividida com linha tracejada; mapa de regiões chapadas saturadas com pin vermelho; diagrama com setas (Diário); painéis de quadrinho (Diário).
+- **Diferença**: o Ink é saturado, limpo e tem marca d'água; o Diário é dessaturado, com textura de pincel, às vezes com moldura de quadrinho.
+
+## Teste de geração com Z-Image (2026-10-10)
+
+20 quadros em [../piloto/testes-estilo-stickman/](../piloto/testes-estilo-stickman/) (script `gerar.py`, prompts e seeds em `imagens/prompts.json`): Grécia antiga, mundo atual, cartões e mapas.
+
+O que funcionou:
+- Separar o bloco de estilo em **BASE** (traço, cor, fundo) e **BONECO** (personagem). Com o personagem no bloco de estilo, o modelo põe um stickman até na paisagem.
+- "Very simple ... with only a few big shapes" deixa a paisagem no nível de simplicidade da referência. Sem isso sai ilustração detalhada.
+- "the background drawn in the same simple bold outlines and flat fills, everything in sharp focus" acaba com o fundo desfocado ou fotográfico.
+- Cartões em fundo branco com texto curto saíram perfeitos, inclusive o texto ("OLIVE OIL", "500 BC", "NOW | THEN").
+- Descrever o objeto pela forma, e não pelo nome técnico, acertou o tear de pesos ("warp-weighted loom" sozinho não acertava).
+- Cenas atuais (escritório, sofá) ficaram quase iguais às do Ink Explainer.
+
+O que falhou:
+- **Mapas**: geografia errada nas duas tentativas (Esparta na Turquia, Atenas na Macedônia). Mapas precisam ser feitos em código (contorno real + estilo), não por IA de imagem.
+- **Simpósio**: o modelo não deita os personagens nos divãs e põe taça de vidro com pé e mesa de centro moderna. Anacronismo de mobiliário é o erro mais provável.
+- **Consistência entre painéis**: o menino perde o cabelo do 1º para o 2º painel. Confirma a necessidade de LoRA de personagem para personagem fixo.
+- Tempo: ~68 s por imagem com RAM livre; 3 a 10 min quando Chrome e Opera estão abertos (o ComfyUI relê os modelos do disco). Fechar os navegadores antes de gerar.
 
 ## Implicações para o canal
 

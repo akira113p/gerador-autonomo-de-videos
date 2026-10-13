@@ -1,0 +1,16 @@
+022 True 68.0 
+037 True 117.2 
+059 True 95.9 
+066 True 81.9 
+070 True 95.9 
+075 True 88.9 
+089 True 89.2 
+094 True 81.8 
+102 True 82.0 
+120 True 67.9 
+131 True 68.0 
+139 True 67.9 
+145 True 67.9 
+154 True 67.9 
+177 True 68.0 
+181 True 67.9 

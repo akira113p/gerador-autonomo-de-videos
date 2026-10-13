@@ -1,0 +1,935 @@
+1
+00:00:02,000 --> 00:00:04,720
+Your alarm goes off at six thirty.
+
+2
+00:00:05,183 --> 00:00:09,343
+You check your phone, and your whole day is already cut into little boxes.
+
+3
+00:00:09,783 --> 00:00:13,543
+Meetings. Deadlines. Lunch at twelve sharp.
+
+4
+00:00:13,983 --> 00:00:18,783
+Now rewind about nineteen hundred years, to the biggest city in the Western world.
+
+5
+00:00:19,250 --> 00:00:27,010
+Rome, around the year 90 AD. Somewhere between half a million and a million people. Nobody knows exactly.
+
+6
+00:00:27,450 --> 00:00:29,770
+Nobody there owns a clock that ticks.
+
+7
+00:00:30,217 --> 00:00:34,697
+And yet a Roman poet left us something remarkable: a schedule.
+
+8
+00:00:35,150 --> 00:00:40,510
+In a short poem, the poet Martial laid out how a day in Rome was spent, hour by hour.
+
+9
+00:00:40,950 --> 00:00:46,390
+So let's borrow his schedule, and live one ordinary day in ancient Rome.
+
+10
+00:00:46,850 --> 00:00:49,650
+From the first hour, to the last.
+
+11
+00:00:51,467 --> 00:00:55,627
+But first, a problem. What exactly is an hour in Rome?
+
+12
+00:00:56,083 --> 00:01:01,363
+For the Romans, daytime ran from sunrise to sunset, and it was always divided into twelve hours.
+
+13
+00:01:01,817 --> 00:01:04,537
+Always twelve. No matter the season.
+
+14
+00:01:04,983 --> 00:01:10,663
+So in June, when days are long, one Roman hour lasted about seventy-five of our minutes.
+
+15
+00:01:11,117 --> 00:01:14,397
+In December, it shrank to about forty-five.
+
+16
+00:01:14,850 --> 00:01:17,810
+Your lunch break literally got shorter in winter.
+
+17
+00:01:18,250 --> 00:01:21,210
+To tell the time, Romans looked at the sun.
+
+18
+00:01:21,650 --> 00:01:23,890
+And for a long time, they did it badly.
+
+19
+00:01:24,350 --> 00:01:33,310
+According to Pliny the Elder, the first public sundial in the Roman Forum was war loot, brought back from Catania, in Sicily, in 263 BC.
+
+20
+00:01:33,750 --> 00:01:38,870
+There was one small problem. Catania is much further south than Rome.
+
+21
+00:01:39,317 --> 00:01:42,757
+So the lines on the dial didn't match the hours in Rome.
+
+22
+00:01:43,217 --> 00:01:47,777
+Pliny says the Romans kept following that wrong sundial for ninety-nine years.
+
+23
+00:01:48,217 --> 00:01:52,217
+And not everyone loved sundials, even the accurate ones.
+
+24
+00:01:52,683 --> 00:01:58,523
+In an old Roman comedy, a hungry character curses the man who invented hours.
+
+25
+00:01:58,983 --> 00:02:06,263
+"May the gods destroy the man who first discovered the hours," he says, "and who set up a sundial here, and chopped my day into little pieces."
+
+26
+00:02:06,717 --> 00:02:10,397
+When he was a boy, he says, his belly was his sundial.
+
+27
+00:02:10,850 --> 00:02:15,090
+He ate whenever he was hungry. Now he eats when the sun allows it.
+
+28
+00:02:15,550 --> 00:02:24,510
+In 159 BC, Rome finally got a water clock, which measured the hours with flowing water, even at night and on cloudy days.
+
+29
+00:02:24,950 --> 00:02:29,590
+But most people simply looked at the sky, and listened to the city.
+
+30
+00:02:30,050 --> 00:02:32,050
+And the city was loud.
+
+31
+00:02:33,867 --> 00:02:39,067
+Our Roman wakes up before sunrise, in a rented room on the third floor of an apartment block.
+
+32
+00:02:39,517 --> 00:02:43,437
+The Romans called these blocks insulae: islands.
+
+33
+00:02:43,883 --> 00:02:47,963
+They were tall, crowded, and often badly built.
+
+34
+00:02:48,417 --> 00:02:54,657
+According to the geographer Strabo, Emperor Augustus limited their height to seventy feet, about twenty-one meters.
+
+35
+00:02:55,117 --> 00:02:59,677
+The satirist Juvenal joked that Rome was a city held up by thin wooden props.
+
+36
+00:03:00,117 --> 00:03:02,997
+Collapses and fires were a constant fear.
+
+37
+00:03:03,450 --> 00:03:05,850
+But the everyday enemy was noise.
+
+38
+00:03:06,317 --> 00:03:11,837
+By law, most wagons were banned from the city streets from sunrise until the last two hours of daylight.
+
+39
+00:03:12,283 --> 00:03:15,563
+So deliveries rolled through the narrow streets at night.
+
+40
+00:03:16,017 --> 00:03:20,097
+Juvenal complains that in Rome, a good night's sleep costs a fortune.
+
+41
+00:03:20,550 --> 00:03:24,390
+And that many sick people in the city die simply from lack of sleep.
+
+42
+00:03:24,850 --> 00:03:27,410
+There is no running water in our Roman's room.
+
+43
+00:03:27,850 --> 00:03:33,210
+Water comes from a public fountain down the street, carried up the stairs in a jar.
+
+44
+00:03:33,650 --> 00:03:39,650
+And the toilet? For many people, a chamber pot. Or a walk to a public latrine.
+
+45
+00:03:40,117 --> 00:03:44,517
+Getting dressed is quick: a simple wool tunic, belted at the waist.
+
+46
+00:03:44,983 --> 00:03:49,063
+If he is a citizen with business to do, he also puts on a toga.
+
+47
+00:03:49,517 --> 00:03:54,397
+A huge, heavy woolen sheet, very hard to drape properly without help.
+
+48
+00:03:54,850 --> 00:03:58,450
+Then he steps out into the street, and into the crowd.
+
+49
+00:03:58,917 --> 00:04:04,437
+Juvenal describes it: a wave of people in front, a mass of people pushing from behind.
+
+50
+00:04:04,883 --> 00:04:12,083
+One man jabs you with his elbow, another with a pole. Someone bangs a beam into your head, someone else a wine jar.
+
+51
+00:04:12,550 --> 00:04:20,550
+Your legs are caked with mud, big feet tread on you from every side, and a soldier's hobnail sticks into your toe.
+
+52
+00:04:20,983 --> 00:04:25,543
+On his way, he passes the fountain, full of water that has traveled for miles.
+
+53
+00:04:25,983 --> 00:04:33,183
+Rome was fed by aqueducts, channels that brought fresh water from the hills, mostly underground and on huge arches.
+
+54
+00:04:33,650 --> 00:04:37,490
+The man in charge of them, Frontinus, was very proud of his job.
+
+55
+00:04:37,950 --> 00:04:44,590
+He wrote: compare these, if you will, with the idle pyramids, or the useless, though famous, works of the Greeks.
+
+56
+00:04:45,050 --> 00:04:48,090
+Roman engineers were not modest people.
+
+57
+00:04:49,900 --> 00:04:55,020
+Breakfast was small: some bread, perhaps with cheese, olives or a little salt.
+
+58
+00:04:55,483 --> 00:04:58,283
+And many people simply bought it on the street.
+
+59
+00:04:58,750 --> 00:05:00,990
+Martial wrote a two-line poem about it.
+
+60
+00:05:01,450 --> 00:05:07,610
+"Get up! The baker is already selling breakfast to the boys, and the crested birds of dawn are singing everywhere."
+
+61
+00:05:08,050 --> 00:05:10,290
+Those boys were on their way to school.
+
+62
+00:05:10,750 --> 00:05:13,550
+And school started early. Very early.
+
+63
+00:05:14,017 --> 00:05:17,057
+Martial lived near a schoolmaster, and he hated him.
+
+64
+00:05:17,517 --> 00:05:24,717
+"The crested roosters haven't even broken the silence," he wrote, "and you're already thundering with savage shouting and beatings."
+
+65
+00:05:25,183 --> 00:05:29,583
+Lessons often happened in a shop or under a porch, open to the street.
+
+66
+00:05:30,050 --> 00:05:32,450
+So the whole neighborhood heard every mistake.
+
+67
+00:05:34,267 --> 00:05:38,187
+Now the first hour begins. And Martial tells us exactly what happens.
+
+68
+00:05:38,650 --> 00:05:41,930
+"The first and second hour wear out the people paying their morning calls."
+
+69
+00:05:42,383 --> 00:05:45,263
+This was the salutatio, the morning greeting.
+
+70
+00:05:45,717 --> 00:05:48,917
+Rome ran on a system of patrons and clients.
+
+71
+00:05:49,383 --> 00:05:54,263
+A rich patron protected his clients, and helped them with money, jobs and legal trouble.
+
+72
+00:05:54,717 --> 00:05:59,117
+In return, the clients gave him something every rich Roman wanted: a crowd.
+
+73
+00:05:59,583 --> 00:06:03,823
+So every morning, clients in their togas lined up at his door to wish him good morning.
+
+74
+00:06:04,283 --> 00:06:07,883
+The bigger the crowd at your door, the more important you looked.
+
+75
+00:06:08,350 --> 00:06:13,630
+The clients were often rewarded with a small handout, called the sportula: the little basket.
+
+76
+00:06:14,083 --> 00:06:18,483
+Originally it was food. By Martial's time, it was usually cash.
+
+77
+00:06:18,950 --> 00:06:23,350
+Martial and Juvenal both name the amount: a hundred quadrantes.
+
+78
+00:06:23,817 --> 00:06:28,937
+The quadrans was the smallest copper coin in Rome. Keep it in mind. It will come back later.
+
+79
+00:06:29,383 --> 00:06:34,023
+After the greeting, the clients might follow their patron to the Forum, like a walking advertisement.
+
+80
+00:06:34,483 --> 00:06:38,563
+Martial spent years doing this, and complained about it constantly.
+
+81
+00:06:40,367 --> 00:06:44,607
+"The third hour," says Martial, "keeps the hoarse lawyers busy."
+
+82
+00:06:45,050 --> 00:06:49,450
+Trials were held in the open, in the forums and in the great basilicas.
+
+83
+00:06:49,917 --> 00:06:53,197
+And the speeches were timed. With water clocks.
+
+84
+00:06:53,650 --> 00:07:00,930
+Pliny the Younger, a lawyer and senator, wrote that in one big trial before the Senate he spoke for almost five hours.
+
+85
+00:07:01,383 --> 00:07:06,903
+He had been given twelve water clocks of speaking time, and four more were added.
+
+86
+00:07:07,350 --> 00:07:10,470
+Big trials drew crowds, like a show.
+
+87
+00:07:10,917 --> 00:07:15,957
+Pliny also complained that some speakers hired people to sit in the audience and applaud.
+
+88
+00:07:16,417 --> 00:07:20,497
+Paid applause. Two thousand years before the laugh track.
+
+89
+00:07:22,300 --> 00:07:27,420
+"Until the fifth hour," Martial continues, "Rome stretches out her many kinds of work."
+
+90
+00:07:27,883 --> 00:07:30,763
+And most Romans did work. Hard.
+
+91
+00:07:31,217 --> 00:07:35,617
+The city was full of tabernae: small shops opening straight onto the street.
+
+92
+00:07:36,083 --> 00:07:40,483
+Often, the family that ran the shop lived in a room above it or behind it.
+
+93
+00:07:40,950 --> 00:07:47,270
+Bakers, butchers, shoemakers, barbers, blacksmiths, all side by side.
+
+94
+00:07:47,717 --> 00:07:51,317
+The barber's shop was a place to sit, shave and catch up on the gossip.
+
+95
+00:07:51,783 --> 00:07:57,623
+But Roman barbers had no fine steel safety razors, and some were famously slow.
+
+96
+00:07:58,083 --> 00:08:04,803
+Martial wrote about one barber who worked so slowly that, by the time he'd gone round his client's face, a new beard had grown.
+
+97
+00:08:05,250 --> 00:08:10,210
+Behind much of this work were people who never appear in Martial's schedule.
+
+98
+00:08:10,650 --> 00:08:16,090
+Many of the cooks, porters, bath attendants and shop workers of Rome were enslaved.
+
+99
+00:08:16,550 --> 00:08:19,590
+Their day ended when someone else decided it did.
+
+100
+00:08:20,050 --> 00:08:25,330
+Some of the busiest workers were the fullers, who washed and finished wool cloth.
+
+101
+00:08:25,783 --> 00:08:28,103
+Their secret ingredient was urine.
+
+102
+00:08:28,550 --> 00:08:34,230
+It was collected in jars, then workers standing in tubs stomped it into the cloth with their feet.
+
+103
+00:08:34,683 --> 00:08:39,163
+Urine was so valuable that Emperor Vespasian put a tax on it.
+
+104
+00:08:39,617 --> 00:08:42,097
+His son Titus found this disgusting.
+
+105
+00:08:42,550 --> 00:08:51,030
+So, according to the historian Suetonius, Vespasian held a coin from the first payment under his son's nose, and asked if it smelled.
+
+106
+00:08:51,483 --> 00:08:53,003
+Titus said no.
+
+107
+00:08:53,450 --> 00:08:56,570
+"And yet," said Vespasian, "it comes from urine."
+
+108
+00:08:57,017 --> 00:09:00,457
+Lunch was quick and light, often eaten standing up.
+
+109
+00:09:00,917 --> 00:09:03,317
+And for that, there were street bars.
+
+110
+00:09:03,783 --> 00:09:11,303
+In Pompeii, a small town south of Rome buried by Vesuvius in 79 AD, archaeologists have found many of these counters.
+
+111
+00:09:11,750 --> 00:09:15,990
+In 2020, they finished excavating one that still had its bright paintings.
+
+112
+00:09:16,450 --> 00:09:21,490
+Ducks, a rooster, a dog, and a sea nymph riding a sea horse.
+
+113
+00:09:21,950 --> 00:09:28,670
+In the jars set into the counter, they found the remains of duck, pig, goat, fish and snails.
+
+114
+00:09:29,117 --> 00:09:32,397
+Fast food, nearly two thousand years ago.
+
+115
+00:09:32,850 --> 00:09:37,570
+And on almost everything, Romans poured garum: a sauce made from fermented fish.
+
+116
+00:09:38,017 --> 00:09:43,777
+Pliny the Elder describes it as fish guts and leftover parts, soaked in salt until they turned to liquid.
+
+117
+00:09:44,217 --> 00:09:50,297
+Sounds terrible. But modern fish sauce is made in a very similar way, and you might have some in your kitchen.
+
+118
+00:09:50,750 --> 00:09:52,670
+And not every morning was the same.
+
+119
+00:09:53,117 --> 00:09:59,117
+Their official calendar didn't run on our seven-day week. It ran on a market cycle of eight days.
+
+120
+00:09:59,583 --> 00:10:03,423
+Every eighth day was the nundinae, market day.
+
+121
+00:10:03,883 --> 00:10:08,203
+Farmers came into town to sell their produce, and to hear about new laws.
+
+122
+00:10:08,650 --> 00:10:11,930
+Instead of Monday, the Romans had market day.
+
+123
+00:10:13,733 --> 00:10:17,333
+"The sixth hour," says Martial, "is rest for the tired."
+
+124
+00:10:17,783 --> 00:10:22,743
+Around midday, the city slowed down. People ate, and many took a nap.
+
+125
+00:10:23,183 --> 00:10:26,863
+And that habit left a mark that still exists today.
+
+126
+00:10:27,317 --> 00:10:30,277
+The sixth hour, in Latin, is sexta hora.
+
+127
+00:10:30,717 --> 00:10:33,357
+In Spanish, it became siesta.
+
+128
+00:10:35,167 --> 00:10:37,567
+"The seventh," Martial says, "will be the end."
+
+129
+00:10:38,017 --> 00:10:41,377
+For many Romans, the working day was over by early afternoon.
+
+130
+00:10:41,817 --> 00:10:45,577
+Time to walk around, meet friends, and read the walls.
+
+131
+00:10:46,017 --> 00:10:48,017
+Because Roman walls talked.
+
+132
+00:10:48,483 --> 00:10:54,483
+In Pompeii alone, archaeologists have recorded thousands of painted notices and scratched graffiti.
+
+133
+00:10:54,950 --> 00:10:58,630
+There were election posters, painted in big red letters.
+
+134
+00:10:59,083 --> 00:11:05,083
+One candidate, Marcus Cerrinius Vatia, was supported by "all the late drinkers."
+
+135
+00:11:05,550 --> 00:11:08,430
+Another poster for him came from "the little thieves."
+
+136
+00:11:08,883 --> 00:11:12,403
+Some historians suspect his rivals painted those ones.
+
+137
+00:11:12,850 --> 00:11:14,850
+There were visitors leaving their mark.
+
+138
+00:11:15,317 --> 00:11:20,837
+"Gaius Pumidius Dipilus was here," dated to the third of October, 78 BC.
+
+139
+00:11:21,283 --> 00:11:26,483
+There was a very honest review, scratched on a wall by a doorway, and addressed to the host.
+
+140
+00:11:26,950 --> 00:11:33,670
+"We wet the bed, host. I admit it, we did wrong. If you want to know why: there was no chamber pot."
+
+141
+00:11:34,117 --> 00:11:39,477
+And there was one graffito, found in several places in Pompeii, that says it all.
+
+142
+00:11:39,917 --> 00:11:45,117
+"I'm amazed, O wall, that you haven't collapsed under the weight of so many boring writers."
+
+143
+00:11:46,933 --> 00:11:52,053
+"The eighth hour, until the ninth, belongs to the oiled-up wrestling grounds," says Martial.
+
+144
+00:11:52,517 --> 00:11:54,997
+In other words: it's bath time.
+
+145
+00:11:55,450 --> 00:11:58,570
+The public baths were the heart of Roman social life.
+
+146
+00:11:59,017 --> 00:12:02,377
+And they were cheap. Entry could cost a single quadrans.
+
+147
+00:12:02,817 --> 00:12:07,617
+Remember the hundred coins from the morning handout? One of them buys you a bath.
+
+148
+00:12:08,083 --> 00:12:13,683
+First, exercise: running, wrestling, ball games, lifting weights.
+
+149
+00:12:14,150 --> 00:12:18,070
+Then the rooms: the warm room, the hot room, and the cold pool.
+
+150
+00:12:18,517 --> 00:12:22,757
+And who went to the baths? Almost everyone. Men and women.
+
+151
+00:12:23,217 --> 00:12:26,577
+In many baths, they went at different times.
+
+152
+00:12:27,017 --> 00:12:32,297
+A bronze tablet from a Roman mining town in what is now Portugal lists the rules of its baths.
+
+153
+00:12:32,750 --> 00:12:38,110
+Women bathe from the first hour to the seventh. Men from the eighth hour until two hours after dark.
+
+154
+00:12:38,550 --> 00:12:44,310
+And the price? Men paid half an as. Women paid a whole as. Double.
+
+155
+00:12:44,750 --> 00:12:46,830
+There was no soap as we know it.
+
+156
+00:12:47,283 --> 00:12:52,403
+Romans covered themselves in oil and scraped it off with a curved metal tool called a strigil.
+
+157
+00:12:52,850 --> 00:12:56,850
+Oil, sweat and dirt, all in one go.
+
+158
+00:12:57,317 --> 00:12:59,237
+And the baths were loud.
+
+159
+00:12:59,683 --> 00:13:04,883
+We know exactly how loud, because the philosopher Seneca once lived right above one.
+
+160
+00:13:05,350 --> 00:13:07,510
+He described the noise in a letter.
+
+161
+00:13:07,950 --> 00:13:10,590
+The grunts of men lifting lead weights.
+
+162
+00:13:11,050 --> 00:13:14,410
+The slap of the masseur's hands on someone's shoulders.
+
+163
+00:13:14,850 --> 00:13:17,970
+A ball player counting his score out loud.
+
+164
+00:13:18,417 --> 00:13:22,177
+The man who sings in the bath, because he loves the sound of his own voice.
+
+165
+00:13:22,617 --> 00:13:25,337
+The splash of people jumping into the pool.
+
+166
+00:13:25,783 --> 00:13:31,863
+The hair-plucker, shrieking to attract customers, and only going quiet when he made someone else scream instead.
+
+167
+00:13:32,317 --> 00:13:37,837
+And the sellers of sausages, pastries and drinks, each with his own special cry.
+
+168
+00:13:38,283 --> 00:13:41,963
+Seneca insisted that a true philosopher could ignore all of this.
+
+169
+00:13:42,417 --> 00:13:46,897
+And then, at the end of the very same letter, he admits he's moving out.
+
+170
+00:13:47,350 --> 00:13:54,790
+The baths also had public latrines: long rows of stone seats, side by side, with no walls between them.
+
+171
+00:13:55,250 --> 00:14:00,850
+Instead of toilet paper, Seneca mentions a sponge on a stick, kept in the latrine for wiping.
+
+172
+00:14:01,317 --> 00:14:02,917
+Quite possibly shared.
+
+173
+00:14:04,733 --> 00:14:09,213
+"The ninth hour," Martial writes, "orders us to crush the piled-up couches."
+
+174
+00:14:09,650 --> 00:14:14,210
+Dinner time. The cena, the main meal of the day.
+
+175
+00:14:14,650 --> 00:14:21,850
+In wealthy homes, guests lay on couches arranged around a low table, three to a couch, leaning on the left elbow.
+
+176
+00:14:22,317 --> 00:14:24,717
+A Roman dinner could last for hours.
+
+177
+00:14:25,183 --> 00:14:29,343
+The Romans even had an expression for a full meal: from the egg to the apples.
+
+178
+00:14:29,783 --> 00:14:34,103
+Eggs to start. Fruit to finish. And everything in between.
+
+179
+00:14:34,550 --> 00:14:37,830
+And Roman hosts took it personally when you didn't show up.
+
+180
+00:14:38,283 --> 00:14:43,883
+Pliny the Younger once wrote a mock-angry letter to a friend who accepted his dinner invitation and never came.
+
+181
+00:14:44,350 --> 00:14:52,270
+He listed everything that went to waste: a lettuce each, three snails, two eggs, olives, beets, onions.
+
+182
+00:14:52,717 --> 00:14:57,117
+And entertainment: a reader, an actor, or a lyre player.
+
+183
+00:14:57,583 --> 00:15:04,063
+Instead, the friend went to another house for oysters, sea urchins and Spanish dancers.
+
+184
+00:15:04,517 --> 00:15:07,317
+Honestly, it's hard to blame him.
+
+185
+00:15:07,783 --> 00:15:13,623
+And in one Roman novel, a ridiculously rich man called Trimalchio has a clock in his dining room.
+
+186
+00:15:14,083 --> 00:15:18,003
+And a trumpeter, to announce how much of his life he has just lost.
+
+187
+00:15:18,450 --> 00:15:22,610
+Even in fiction, the Romans were a little obsessed with time.
+
+188
+00:15:23,050 --> 00:15:25,530
+But most Romans were not rich.
+
+189
+00:15:25,983 --> 00:15:33,423
+Many apartments had no real kitchen. Fire on the third floor of a building held up by props was a terrible idea.
+
+190
+00:15:33,883 --> 00:15:41,083
+So ordinary people ate simply: porridge, bread, beans, vegetables, and cheap wine mixed with water.
+
+191
+00:15:41,550 --> 00:15:44,510
+Or a hot meal from the street bar on the corner.
+
+192
+00:15:44,950 --> 00:15:48,470
+And the tenth hour? Martial has a special plan for it.
+
+193
+00:15:48,917 --> 00:15:52,837
+"The tenth hour," he writes, "is the hour for my little books."
+
+194
+00:15:53,283 --> 00:15:58,883
+He's hoping the emperor will read his poems at dinner, relaxed, with a cup of wine in his hand.
+
+195
+00:15:59,350 --> 00:16:03,510
+A whole poem about the Roman day, and it ends with a sales pitch.
+
+196
+00:16:03,950 --> 00:16:05,870
+Some things never change.
+
+197
+00:16:07,667 --> 00:16:13,027
+But this was an ordinary working day. And Rome had a lot of days that were not ordinary.
+
+198
+00:16:13,483 --> 00:16:20,203
+Dozens of days a year were public festivals, many with free shows paid for by the state or by rich politicians.
+
+199
+00:16:20,650 --> 00:16:23,770
+Plays at the theater. Gladiators at the amphitheater.
+
+200
+00:16:24,217 --> 00:16:28,857
+And the biggest show of all: the chariot races at the Circus Maximus.
+
+201
+00:16:29,317 --> 00:16:35,237
+Ancient writers say it held somewhere between a hundred and fifty and two hundred and fifty thousand spectators.
+
+202
+00:16:35,683 --> 00:16:40,883
+The fans were divided into teams, by color: the Reds, the Whites, the Greens and the Blues.
+
+203
+00:16:41,350 --> 00:16:48,230
+Not everyone was a fan. Pliny the Younger spent race days at home, writing, and was proud of it.
+
+204
+00:16:48,683 --> 00:16:54,603
+He couldn't understand why thousands of grown men wanted to watch horses run, again and again.
+
+205
+00:16:55,050 --> 00:17:00,170
+They don't even care about the horses, he wrote. They cheer for a piece of cloth.
+
+206
+00:17:00,617 --> 00:17:05,737
+If the drivers swapped colors in the middle of the race, the fans would swap with them.
+
+207
+00:17:06,183 --> 00:17:07,783
+Sound familiar?
+
+208
+00:17:08,250 --> 00:17:10,410
+Juvenal had a darker view.
+
+209
+00:17:10,850 --> 00:17:14,290
+The Roman people, he wrote, used to hand out armies and offices.
+
+210
+00:17:14,750 --> 00:17:19,310
+Now they only long for two things: bread, and circuses.
+
+211
+00:17:21,100 --> 00:17:23,020
+And then, the sun goes down.
+
+212
+00:17:23,483 --> 00:17:25,723
+Rome has no street lights.
+
+213
+00:17:26,183 --> 00:17:31,303
+The streets are pitch dark. Rich men walk home with slaves carrying torches.
+
+214
+00:17:31,750 --> 00:17:36,070
+Juvenal says you'd be foolish to go out to dinner without first writing your will.
+
+215
+00:17:36,517 --> 00:17:41,077
+Because from any open window above you, someone might throw out a broken pot.
+
+216
+00:17:41,517 --> 00:17:43,357
+Or empty something much worse.
+
+217
+00:17:43,817 --> 00:17:48,137
+At night, the streets belong to the wagons, the drunks, and the fires.
+
+218
+00:17:48,583 --> 00:17:53,703
+Augustus created a corps of watchmen, the vigiles, to patrol the dark streets and fight fires.
+
+219
+00:17:54,150 --> 00:17:59,430
+Up in his small room, our Roman lights a clay oil lamp, for a little while.
+
+220
+00:17:59,883 --> 00:18:03,083
+Lamp oil costs money, so the evening is short.
+
+221
+00:18:03,550 --> 00:18:07,390
+He goes to sleep. Down in the street, the wagons start rolling again.
+
+222
+00:18:07,850 --> 00:18:11,850
+And in a few hours, before the roosters, the schoolmaster will start shouting.
+
+223
+00:18:13,667 --> 00:18:15,907
+So, what did ancient Romans do all day?
+
+224
+00:18:16,350 --> 00:18:18,350
+They worked, mostly in the morning.
+
+225
+00:18:18,817 --> 00:18:20,977
+They networked, every single morning.
+
+226
+00:18:21,417 --> 00:18:26,537
+They ate, gossiped, wrote on walls, and went to the baths, almost every afternoon.
+
+227
+00:18:26,983 --> 00:18:29,863
+And a surprising part of their day is still with us.
+
+228
+00:18:30,317 --> 00:18:34,557
+The English word noon comes from the Latin nona hora: the ninth hour.
+
+229
+00:18:35,017 --> 00:18:39,897
+It once meant mid-afternoon, and over the centuries it slid back to midday.
+
+230
+00:18:40,350 --> 00:18:43,070
+Siesta comes from the sixth hour.
+
+231
+00:18:43,517 --> 00:18:47,997
+And that hungry man in the Roman comedy, cursing the inventor of the sundial?
+
+232
+00:18:48,450 --> 00:18:52,290
+He sounds a lot like us, staring at a calendar full of meetings.
+
+233
+00:18:52,750 --> 00:18:58,670
+All the sources for this video, from Martial to Seneca to the walls of Pompeii, are in the description.
+
+234
+00:18:59,117 --> 00:19:03,037
+And tell me in the comments: which Roman hour would you want to live in?

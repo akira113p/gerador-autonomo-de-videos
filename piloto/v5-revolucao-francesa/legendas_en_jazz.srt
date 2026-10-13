@@ -1,0 +1,867 @@
+1
+00:00:02,000 --> 00:00:03,280
+What's the date today?
+
+2
+00:00:03,717 --> 00:00:07,797
+Easy question. Unless you live in Paris in the spring of 1794.
+
+3
+00:00:08,250 --> 00:00:11,290
+Because for you, today is not the eighth of May.
+
+4
+00:00:11,750 --> 00:00:14,710
+Today is the nineteenth of Floréal, Year Two.
+
+5
+00:00:15,150 --> 00:00:19,470
+There are no Sundays anymore. There's no "Monsieur" or "Madame."
+
+6
+00:00:19,917 --> 00:00:23,597
+And on some official clocks, noon is "five o'clock."
+
+7
+00:00:24,050 --> 00:00:29,010
+This is Paris during the Revolution, at the height of what history calls the Terror.
+
+8
+00:00:29,450 --> 00:00:33,770
+Most videos about it talk about kings, speeches, and the guillotine.
+
+9
+00:00:34,217 --> 00:00:38,137
+Today, we'll live one ordinary day, as an ordinary Parisian.
+
+10
+00:00:38,583 --> 00:00:43,543
+Waking up. Buying bread. Going to work. Going to a meeting at night.
+
+11
+00:00:43,983 --> 00:00:49,743
+And, at the end of the day, watching one of the greatest scientists in history ride past, on his way to die.
+
+12
+00:00:50,183 --> 00:00:52,663
+But first, let me explain that date.
+
+13
+00:00:54,467 --> 00:00:59,267
+In 1792, France abolished its monarchy and became a republic.
+
+14
+00:00:59,717 --> 00:01:03,077
+The revolutionaries believed they were starting history over.
+
+15
+00:01:03,517 --> 00:01:06,477
+So they decided time itself should start over too.
+
+16
+00:01:06,917 --> 00:01:10,117
+In late 1793, they adopted a new calendar.
+
+17
+00:01:10,583 --> 00:01:17,543
+Year One began on the twenty-second of September, 1792, the day after the Republic was proclaimed.
+
+18
+00:01:17,983 --> 00:01:20,463
+Every month had exactly thirty days.
+
+19
+00:01:20,917 --> 00:01:25,077
+And the months got new names, inspired by nature and the seasons.
+
+20
+00:01:25,517 --> 00:01:33,677
+Vendémiaire, the month of the grape harvest. Brumaire, the month of fog. Nivôse, the month of snow.
+
+21
+00:01:34,117 --> 00:01:37,077
+Floréal, our month, is the month of flowers.
+
+22
+00:01:37,517 --> 00:01:39,597
+And the seven-day week was gone.
+
+23
+00:01:40,050 --> 00:01:43,890
+Instead, there were ten-day weeks, called décades.
+
+24
+00:01:44,350 --> 00:01:51,870
+The days were simply called "first day," "second day," and so on, in Latin-style names, up to décadi, the tenth day.
+
+25
+00:01:52,317 --> 00:01:54,237
+Décadi was the day of rest.
+
+26
+00:01:54,683 --> 00:01:55,643
+Do the math.
+
+27
+00:01:56,083 --> 00:02:00,563
+Before, workers rested one day in seven, plus many saints' days.
+
+28
+00:02:01,017 --> 00:02:03,257
+Now, they rested one day in ten.
+
+29
+00:02:03,717 --> 00:02:05,157
+Not everyone was thrilled.
+
+30
+00:02:05,617 --> 00:02:11,617
+Each day was named after a plant. Every fifth day after an animal, and every tenth after a tool.
+
+31
+00:02:12,083 --> 00:02:20,883
+Today, the nineteenth of Floréal, is the day of the orache, a garden plant. Tomorrow, the tenth day, is the day of the hoe.
+
+32
+00:02:21,350 --> 00:02:24,390
+The revolutionaries even tried to change the clock.
+
+33
+00:02:24,850 --> 00:02:32,050
+In their decimal time, a day had ten hours, each hour a hundred minutes, each minute a hundred seconds.
+
+34
+00:02:32,517 --> 00:02:36,597
+Midnight was ten o'clock. Noon was five o'clock.
+
+35
+00:02:37,050 --> 00:02:43,130
+A few clockmakers actually built decimal clocks. Some had both dials, old and new, on the same face.
+
+36
+00:02:43,583 --> 00:02:48,223
+It never caught on. Decimal time was abandoned in 1795.
+
+37
+00:02:48,683 --> 00:02:51,163
+But one part of this project did survive.
+
+38
+00:02:51,617 --> 00:02:57,697
+The same people were busy inventing a new way to measure the world: the meter, the gram, the liter.
+
+39
+00:02:58,150 --> 00:03:01,590
+Remember that. It will matter at the end of our day.
+
+40
+00:03:03,400 --> 00:03:10,360
+Our Parisian wakes up before dawn, in a small room in the Faubourg Saint-Antoine, in the east of the city.
+
+41
+00:03:10,817 --> 00:03:14,257
+This neighborhood is famous for its furniture makers, and for its rebels.
+
+42
+00:03:14,717 --> 00:03:19,837
+Its people helped storm the Bastille, just around the corner, five years earlier.
+
+43
+00:03:20,283 --> 00:03:25,483
+Our man is a carpenter. He's in his thirties, with a wife and two kids, all in one room.
+
+44
+00:03:25,950 --> 00:03:29,150
+Paris has around six hundred thousand people.
+
+45
+00:03:29,617 --> 00:03:36,097
+Most of them live like this: crowded, in narrow streets, in old buildings several floors high.
+
+46
+00:03:36,550 --> 00:03:38,070
+There's no running water.
+
+47
+00:03:38,517 --> 00:03:44,437
+Water comes from public fountains, or from water carriers who climb the stairs with buckets, for a fee.
+
+48
+00:03:44,883 --> 00:03:49,763
+Much of it comes straight from the Seine. The same river that takes the city's waste.
+
+49
+00:03:50,217 --> 00:03:53,817
+On the front door of the building, there's a sheet of paper.
+
+50
+00:03:54,283 --> 00:03:57,243
+It lists the name of every person living inside.
+
+51
+00:03:57,683 --> 00:04:03,043
+That's the law now. The authorities want to know who lives where, and who is new in town.
+
+52
+00:04:03,483 --> 00:04:09,803
+In a few weeks, our carpenter will check that list carefully. Just to make sure nothing about it looks suspicious.
+
+53
+00:04:11,600 --> 00:04:14,240
+Getting dressed in 1794 is a political act.
+
+54
+00:04:14,683 --> 00:04:19,483
+Our carpenter puts on long trousers, not the knee breeches of the rich.
+
+55
+00:04:19,950 --> 00:04:24,110
+That's why the radicals of Paris were called sans-culottes: "without breeches."
+
+56
+00:04:24,550 --> 00:04:28,070
+A short jacket. Wooden clogs, or worn shoes.
+
+57
+00:04:28,517 --> 00:04:33,317
+And on his hat, a cockade: a small rosette in blue, white and red.
+
+58
+00:04:33,783 --> 00:04:36,183
+For him, it's a proud symbol.
+
+59
+00:04:36,650 --> 00:04:44,170
+For his wife, it's also the law. Since September 1793, women in public must wear the tricolor cockade.
+
+60
+00:04:44,617 --> 00:04:50,457
+On special days, he might wear a red woolen cap, the "bonnet rouge," the cap of liberty.
+
+61
+00:04:50,917 --> 00:04:56,837
+Silk, powdered wigs, fancy buckles? Those are dangerous now.
+
+62
+00:04:57,283 --> 00:04:59,203
+They make you look like an aristocrat.
+
+63
+00:04:59,650 --> 00:05:04,930
+And looking like an aristocrat is a very bad idea in Paris, in 1794.
+
+64
+00:05:06,733 --> 00:05:10,173
+Before going to work, someone in the family has to get the bread.
+
+65
+00:05:10,617 --> 00:05:13,257
+And bread is the center of life in Paris.
+
+66
+00:05:13,717 --> 00:05:17,717
+For a working family, bread could take up a huge share of the budget.
+
+67
+00:05:18,183 --> 00:05:22,903
+So when bread is scarce or expensive, Paris gets angry.
+
+68
+00:05:23,350 --> 00:05:27,990
+Many historians see bread prices as one of the sparks of the Revolution itself.
+
+69
+00:05:28,450 --> 00:05:33,730
+By 1794, the government has set maximum prices for bread and many other goods.
+
+70
+00:05:34,183 --> 00:05:36,023
+It's called the Maximum.
+
+71
+00:05:36,483 --> 00:05:38,563
+In theory, this protects the poor.
+
+72
+00:05:39,017 --> 00:05:44,697
+In practice, many merchants hide their goods, or sell them in secret, at higher prices.
+
+73
+00:05:45,150 --> 00:05:47,950
+Hoarding food has been made punishable by death.
+
+74
+00:05:48,417 --> 00:05:53,057
+And Paris has a system of bread cards, to share the bread among families.
+
+75
+00:05:53,517 --> 00:05:57,437
+So, before dawn, the lines form outside the bakeries.
+
+76
+00:05:57,883 --> 00:06:02,043
+Mostly women. Waiting, talking, complaining, gossiping.
+
+77
+00:06:02,483 --> 00:06:04,883
+These lines are where Paris gets its news.
+
+78
+00:06:05,350 --> 00:06:10,230
+Who was arrested yesterday. Which baker is cheating. What happened at the Convention.
+
+79
+00:06:10,683 --> 00:06:12,843
+Even the bread itself is political.
+
+80
+00:06:13,283 --> 00:06:23,203
+In November 1793, the Convention decreed that bakers could make only one kind of bread for everyone, rich and poor: the "bread of equality."
+
+81
+00:06:23,650 --> 00:06:27,490
+No more white bread for the wealthy and dark bread for the rest.
+
+82
+00:06:27,950 --> 00:06:29,950
+And what about coffee and sugar?
+
+83
+00:06:30,417 --> 00:06:40,977
+Since the slave revolt in the French colony of Saint-Domingue, today's Haiti, began in 1791, sugar and coffee have become scarce and expensive.
+
+84
+00:06:41,417 --> 00:06:45,737
+Parisians rioted over sugar prices in 1792.
+
+85
+00:06:46,183 --> 00:06:52,183
+So breakfast is bread, maybe soaked in a thin soup. And, if you're lucky, a little wine.
+
+86
+00:06:54,000 --> 00:06:56,320
+Our carpenter walks to his workshop.
+
+87
+00:06:56,783 --> 00:06:59,343
+On the way, he says hello to his neighbor.
+
+88
+00:06:59,783 --> 00:07:03,303
+Not "Bonjour, Monsieur." That's suspicious now.
+
+89
+00:07:03,750 --> 00:07:06,790
+It's "Salut, citoyen." Hello, citizen.
+
+90
+00:07:07,250 --> 00:07:11,490
+And he tries to use "tu," the informal "you," even with strangers.
+
+91
+00:07:11,950 --> 00:07:18,350
+In October 1793, a deputy asked the Convention to make "tu" the law.
+
+92
+00:07:18,817 --> 00:07:24,577
+The Convention refused, because a law like that would make anyone who slipped look suspicious.
+
+93
+00:07:25,017 --> 00:07:28,297
+But many clubs and local groups adopted it on their own.
+
+94
+00:07:28,750 --> 00:07:33,630
+He passes walls covered in posters: new laws, decrees, lists of names.
+
+95
+00:07:34,083 --> 00:07:38,243
+Newspapers are read aloud on street corners, for those who can't read.
+
+96
+00:07:38,683 --> 00:07:40,603
+The street names are changing too.
+
+97
+00:07:41,050 --> 00:07:45,130
+Anything that sounds like a king or a saint is being renamed.
+
+98
+00:07:45,583 --> 00:07:50,863
+The famous Palais-Royal is now the Palais-Égalité: the Palace of Equality.
+
+99
+00:07:51,317 --> 00:07:53,317
+Even churches have changed.
+
+100
+00:07:53,783 --> 00:07:57,623
+In late 1793, the churches of Paris were closed for worship.
+
+101
+00:07:58,083 --> 00:08:00,803
+Notre-Dame was turned into a Temple of Reason.
+
+102
+00:08:01,250 --> 00:08:05,730
+Many church bells had already been taken down and melted to make cannons.
+
+103
+00:08:06,183 --> 00:08:09,543
+So the city sounds different too. Far fewer bells.
+
+104
+00:08:11,333 --> 00:08:15,653
+The workshop is small: a master, a few journeymen, an apprentice.
+
+105
+00:08:16,117 --> 00:08:18,517
+They make chairs, tables and cabinets.
+
+106
+00:08:18,983 --> 00:08:22,263
+But fewer rich clients buy fine furniture these days.
+
+107
+00:08:22,717 --> 00:08:26,157
+Many of them have fled the country. Others are in prison.
+
+108
+00:08:26,617 --> 00:08:29,177
+So workshops take whatever work they can get.
+
+109
+00:08:29,617 --> 00:08:32,977
+And there's one huge customer: the war.
+
+110
+00:08:33,417 --> 00:08:36,137
+France is at war with most of Europe.
+
+111
+00:08:36,583 --> 00:08:40,023
+Hundreds of thousands of young men have been drafted into the army.
+
+112
+00:08:40,483 --> 00:08:44,483
+Paris workshops make guns, uniforms, shoes and wagons for them.
+
+113
+00:08:44,950 --> 00:08:46,790
+Even the soil is drafted.
+
+114
+00:08:47,250 --> 00:08:53,730
+Citizens are asked to scrape the walls of cellars and stables, to collect saltpeter, an ingredient for gunpowder.
+
+115
+00:08:54,183 --> 00:08:57,623
+The pay is in paper money, called assignats.
+
+116
+00:08:58,083 --> 00:09:01,043
+And every month, the assignat buys less.
+
+117
+00:09:01,483 --> 00:09:03,483
+Our carpenter knows this well.
+
+118
+00:09:03,950 --> 00:09:07,710
+His wage seems fine on paper. At the bakery, it's a different story.
+
+119
+00:09:09,500 --> 00:09:12,220
+At midday, the work stops for a meal.
+
+120
+00:09:12,683 --> 00:09:18,283
+Bread, of course. Maybe some vegetables, cheese, or a soup.
+
+121
+00:09:18,750 --> 00:09:22,110
+Meat is rare and expensive for a family like this.
+
+122
+00:09:22,550 --> 00:09:26,070
+At the table, the workers talk. But carefully.
+
+123
+00:09:26,517 --> 00:09:30,597
+Because in 1794, a careless word can be dangerous.
+
+124
+00:09:31,050 --> 00:09:35,850
+In September 1793, the Convention passed the Law of Suspects.
+
+125
+00:09:36,317 --> 00:09:43,597
+It allowed the arrest of anyone who, by their conduct, their words or their writings, showed themselves to be an enemy of liberty.
+
+126
+00:09:44,050 --> 00:09:45,890
+That is a very wide net.
+
+127
+00:09:46,350 --> 00:09:53,310
+To keep a job, to get a passport, or just to prove you're a good citizen, you might need a certificate of civism.
+
+128
+00:09:53,750 --> 00:09:58,550
+A piece of paper, issued by your local section, saying that you are a loyal patriot.
+
+129
+00:09:59,017 --> 00:10:02,137
+No certificate? You become a suspect.
+
+130
+00:10:02,583 --> 00:10:04,583
+So people watch what they say.
+
+131
+00:10:05,050 --> 00:10:07,050
+Neighbors watch neighbors.
+
+132
+00:10:07,517 --> 00:10:13,757
+Old disputes with a landlord, a rival or an ex-partner can suddenly become denunciations.
+
+133
+00:10:15,567 --> 00:10:18,927
+While our carpenter works, his wife works too.
+
+134
+00:10:19,383 --> 00:10:25,943
+Maybe she sells vegetables at a market, sews for a shop, or washes clothes in the Seine.
+
+135
+00:10:26,383 --> 00:10:28,863
+The Revolution has changed some things for her.
+
+136
+00:10:29,317 --> 00:10:35,477
+Since 1792, French couples can get divorced. And many women in Paris have used that right.
+
+137
+00:10:35,917 --> 00:10:41,197
+Women march, sign petitions, and fill the public galleries of the political clubs.
+
+138
+00:10:41,650 --> 00:10:43,010
+But they can't vote.
+
+139
+00:10:43,450 --> 00:10:48,170
+In October 1793, the Convention banned women's political clubs.
+
+140
+00:10:48,617 --> 00:10:56,137
+A few days later, the writer Olympe de Gouges, who had published a Declaration of the Rights of Woman, was guillotined.
+
+141
+00:10:56,583 --> 00:10:59,383
+The Revolution talked a lot about equality.
+
+142
+00:10:59,850 --> 00:11:01,610
+It didn't extend it to everyone.
+
+143
+00:11:03,400 --> 00:11:07,320
+In the late afternoon, there's a sound in the Rue Saint-Honoré.
+
+144
+00:11:07,783 --> 00:11:10,183
+Wooden wheels on stone.
+
+145
+00:11:10,650 --> 00:11:16,250
+Carts are coming from the Conciergerie, the prison next to the court of the Revolutionary Tribunal.
+
+146
+00:11:16,717 --> 00:11:20,397
+They're carrying people who were sentenced to death earlier today.
+
+147
+00:11:20,850 --> 00:11:25,650
+They roll along the Rue Saint-Honoré, toward the Place de la Révolution.
+
+148
+00:11:26,117 --> 00:11:28,757
+Today, we call it the Place de la Concorde.
+
+149
+00:11:29,217 --> 00:11:35,217
+On the way, they pass very close to a house where a lawyer named Maximilien Robespierre rents a room.
+
+150
+00:11:35,683 --> 00:11:38,883
+He's one of the most powerful men in France right now.
+
+151
+00:11:39,350 --> 00:11:42,550
+In less than three months, he'll make the same trip.
+
+152
+00:11:43,017 --> 00:11:45,497
+And today, there are many carts.
+
+153
+00:11:45,950 --> 00:11:48,750
+Twenty-eight tax farmers will die today.
+
+154
+00:11:49,217 --> 00:11:54,017
+They belonged to a company that collected taxes for the old king, called the General Farm.
+
+155
+00:11:54,483 --> 00:11:59,363
+Ordinary Parisians hated the tax farmers. Many people won't feel sorry for them.
+
+156
+00:11:59,817 --> 00:12:02,937
+But one of the men in the carts is not ordinary at all.
+
+157
+00:12:04,733 --> 00:12:07,053
+His name is Antoine Lavoisier.
+
+158
+00:12:07,517 --> 00:12:09,197
+He is fifty years old.
+
+159
+00:12:09,650 --> 00:12:13,010
+And he is one of the greatest scientists who ever lived.
+
+160
+00:12:13,450 --> 00:12:19,770
+Lavoisier showed that, in a chemical reaction, matter is not created or destroyed. It only changes form.
+
+161
+00:12:20,217 --> 00:12:22,377
+He named oxygen and hydrogen.
+
+162
+00:12:22,817 --> 00:12:27,057
+He helped explain what fire really is, and what happens when we breathe.
+
+163
+00:12:27,517 --> 00:12:31,117
+Many people call him the father of modern chemistry.
+
+164
+00:12:31,583 --> 00:12:36,303
+And he worked on a commission that was creating the metric system. The meter, the kilogram.
+
+165
+00:12:36,750 --> 00:12:39,790
+The same system that most of the world uses today.
+
+166
+00:12:40,250 --> 00:12:46,570
+Until December 1793, when the government purged him from that commission, for political reasons.
+
+167
+00:12:47,017 --> 00:12:49,657
+But Lavoisier made one big mistake.
+
+168
+00:12:50,117 --> 00:12:53,877
+To fund his science, he had invested in the General Farm.
+
+169
+00:12:54,317 --> 00:12:57,757
+That made him a tax collector, in the eyes of the Revolution.
+
+170
+00:12:58,217 --> 00:13:01,577
+Next to him in the carts is his father-in-law, Jacques Paulze.
+
+171
+00:13:02,017 --> 00:13:03,937
+They will die on the same day.
+
+172
+00:13:04,383 --> 00:13:08,543
+His wife, Marie-Anne Paulze Lavoisier, was his partner in the laboratory.
+
+173
+00:13:08,983 --> 00:13:13,703
+She drew his instruments, translated scientific works, and kept his notes.
+
+174
+00:13:14,150 --> 00:13:17,110
+Today, she loses her husband and her father.
+
+175
+00:13:17,550 --> 00:13:20,030
+There's a famous story about the trial.
+
+176
+00:13:20,483 --> 00:13:27,603
+When someone asked the court to spare a great scientist, the judge supposedly answered: "The Republic has no need of scientists."
+
+177
+00:13:28,050 --> 00:13:32,530
+It's a great line. But it's an anecdote, and it may never have been said.
+
+178
+00:13:32,983 --> 00:13:38,263
+The real quote everyone remembers came later, from the mathematician Joseph-Louis Lagrange.
+
+179
+00:13:38,717 --> 00:13:44,317
+"It took them only an instant to cut off that head, and a hundred years may not be enough to produce another like it."
+
+180
+00:13:44,783 --> 00:13:47,743
+The guillotine stands in the middle of the square.
+
+181
+00:13:48,183 --> 00:13:54,263
+There's a crowd. Some people come every day. Others just walk past without looking.
+
+182
+00:13:54,717 --> 00:13:57,597
+That's perhaps the most disturbing part of the Terror.
+
+183
+00:13:58,050 --> 00:13:59,890
+It became part of the routine.
+
+184
+00:14:00,350 --> 00:14:09,470
+Between the spring of 1793 and the summer of 1794, the Revolutionary Tribunal in Paris sentenced more than two thousand six hundred people to death.
+
+185
+00:14:09,917 --> 00:14:14,717
+Across France, the official death sentences reached about seventeen thousand.
+
+186
+00:14:15,183 --> 00:14:18,623
+And many more died in prisons, or without any trial at all.
+
+187
+00:14:20,433 --> 00:14:22,993
+After dinner, our carpenter doesn't go to bed.
+
+188
+00:14:23,450 --> 00:14:24,730
+He goes to a meeting.
+
+189
+00:14:25,183 --> 00:14:29,103
+Paris is divided into forty-eight neighborhoods, called sections.
+
+190
+00:14:29,550 --> 00:14:34,430
+Each one has its own assembly, where citizens debate, vote, and denounce.
+
+191
+00:14:34,883 --> 00:14:37,523
+The meetings happen in old churches and convents.
+
+192
+00:14:37,983 --> 00:14:43,663
+To make sure poor workers could attend, the Convention paid poorer citizens forty sous to take part.
+
+193
+00:14:44,117 --> 00:14:47,157
+Tonight, the topics are the usual ones.
+
+194
+00:14:47,617 --> 00:14:54,417
+The price of bread. The war. Someone's certificate of civism. A neighbor who said the wrong thing.
+
+195
+00:14:54,883 --> 00:14:58,483
+The meeting is loud, smoky, and long.
+
+196
+00:14:58,950 --> 00:15:02,230
+And it's also, in a strange way, exciting.
+
+197
+00:15:02,683 --> 00:15:09,723
+A carpenter is debating the future of his country, in a room where, a few years ago, only priests and nobles had a voice.
+
+198
+00:15:10,183 --> 00:15:12,903
+That's the contradiction of 1794.
+
+199
+00:15:13,350 --> 00:15:17,190
+Ordinary people had more political power than ever before.
+
+200
+00:15:17,650 --> 00:15:20,290
+And they were more afraid than ever before.
+
+201
+00:15:22,100 --> 00:15:28,100
+Late at night, our carpenter walks home, under the dim oil lanterns that hang over the streets.
+
+202
+00:15:28,550 --> 00:15:32,870
+He climbs the stairs. Checks on the kids. Goes to sleep.
+
+203
+00:15:33,317 --> 00:15:38,037
+Tomorrow is the twentieth of Floréal: décadi, the day of rest.
+
+204
+00:15:38,483 --> 00:15:42,323
+He doesn't know it yet, but the Terror is almost over.
+
+205
+00:15:42,783 --> 00:15:54,223
+In June, it gets even worse. In about seven weeks, between the Law of 22 Prairial and Robespierre's fall, the Paris tribunal sentences one thousand three hundred and seventy-six people to death.
+
+206
+00:15:54,683 --> 00:15:58,843
+In the thirteen months before that, it had sentenced about twelve hundred.
+
+207
+00:15:59,283 --> 00:16:05,683
+And then, on the ninth of Thermidor, Year Two, the twenty-seventh of July 1794, the Convention turns on Robespierre.
+
+208
+00:16:06,150 --> 00:16:11,110
+The next day, he rides in a cart down the Rue Saint-Honoré, to the guillotine.
+
+209
+00:16:11,550 --> 00:16:15,150
+Within a few years, most of the revolutionary experiments disappear.
+
+210
+00:16:15,617 --> 00:16:22,737
+Decimal time is gone. The calendar lasts until Napoleon ends it, at the start of 1806.
+
+211
+00:16:23,183 --> 00:16:27,343
+The seven-day week comes back. And so do Monsieur and Madame.
+
+212
+00:16:27,783 --> 00:16:29,383
+But one thing survives.
+
+213
+00:16:29,850 --> 00:16:33,930
+The meter. The kilogram. The liter.
+
+214
+00:16:34,383 --> 00:16:38,783
+The system Lavoisier helped create is now used by almost every country on Earth.
+
+215
+00:16:39,250 --> 00:16:45,810
+Every time you buy a kilo of rice, or run a hundred meters, you're using a little piece of the French Revolution.
+
+216
+00:16:46,250 --> 00:16:49,130
+Built, in part, by a man the Revolution killed.
+
+217
+00:16:49,583 --> 00:16:55,743
+If you enjoyed this day in Paris, tell me in the comments: which day in history should we live next?

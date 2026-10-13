@@ -9,3 +9,19 @@ __pycache__/
 piloto/*/clipes/
 piloto/*/lista.txt
 piloto/*/audio_mix_bruto.wav
+
+# vídeos de referência baixados (centenas de MB; os quadros em ink-explainer/ e diario-nada-normal/ ficam versionados)
+pesquisa/referencias-visuais/videos/
+
+# credenciais e token do YouTube (nunca versionar)
+ferramentas/.youtube/
+
+# vídeos finais e brutos (não sobem para o GitHub)
+*.mp4
+*.webm
+*.mov
+*.mkv
+
+# áudio intermediário pesado (refeito pelos scripts); as vozes de referência em identidade/ ficam
+piloto/**/*.wav
+!piloto/testes-identidade/**/*.wav

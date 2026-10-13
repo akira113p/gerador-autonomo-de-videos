@@ -1,0 +1,2 @@
+- [Imagens locais](feedback_imagens-locais.md) — gerar imagens com Z-Image local, não ChatGPT no browser
+- [Produção sequencial](feedback_producao-sequencial.md) — um vídeo por vez, sem subagentes; terminar, anotar e subir antes do próximo

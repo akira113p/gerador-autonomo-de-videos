@@ -1,0 +1,198 @@
+001 OK  
+002 DIF In homes across America, People opened the December issue of a popular magazine, the Ladies' Home Journal.
+003 OK  
+004 DIF The writer John Elfrith Watkins Jr. lays out what he thinks the world will look like in the year 2000.
+005 OK  
+006 OK  
+007 OK  
+008 OK  
+009 OK  
+010 OK  
+011 OK  
+012 OK  
+013 DIF In 1900, the average American could expect to live to about 47.
+014 OK  
+015 OK  
+016 OK  
+017 OK  
+018 OK  
+019 OK  
+020 OK  
+021 OK  
+022 OK  
+023 OK  
+024 OK  
+025 DIF Visitors rode a moving sidewalk and electric walkway that carried them around the fairground.
+026 OK  
+027 OK  
+028 OK  
+029 OK  
+030 OK  
+031 OK  
+032 OK  
+033 OK  
+034 OK  
+035 OK  
+036 OK  
+037 OK  
+038 OK  
+039 OK  
+040 OK  
+041 OK  
+042 OK  
+043 OK  
+044 OK  
+045 OK  
+046 OK  
+047 OK  
+048 OK  
+049 OK  
+050 OK  
+051 OK  
+052 OK  
+053 OK  
+054 OK  
+055 OK  
+056 OK  
+057 OK  
+058 OK  
+059 OK  
+060 OK  
+061 OK  
+062 OK  
+063 OK  
+064 OK  
+065 OK  
+066 OK  
+067 OK  
+068 OK  
+069 OK  
+070 OK  
+071 OK  
+072 OK  
+073 OK  
+074 OK  
+075 OK  
+076 OK  
+077 DIF Watkins said insect screens would be unnecessary because houseflies, mosquitoes, and roaches would be practically exterminated.
+078 OK  
+079 OK  
+080 OK  
+081 DIF Prediction number 10. Everyone will be able to walk 10 miles.
+082 DIF Watkins said that a man or woman who couldn't walk 10 miles at a stretch would be considered a weakling.
+083 DIF 10 miles is about 16 kilometers.
+084 OK  
+085 OK  
+086 DIF Prediction number 11. There will be no wild animals except in zoos.
+087 OK  
+088 OK  
+089 DIF Thankfully wrong.
+090 OK  
+091 OK  
+092 OK  
+093 DIF And in fact, Americans did get taller during the 20th century by roughly that much.
+094 OK  
+095 DIF He said there would be between 350 and 500 million people in America and its possessions.
+096 DIF He was counting on Mexico, Nicaragua, and other countries joining the Union. That never happened. The United States itself had about 280 million in 2000.
+097 OK  
+098 DIF And he said people would live longer 50 years instead of 35.
+099 OK  
+100 DIF By 2000, life expectancy in the United States was over 75.
+101 OK  
+102 OK  
+103 OK  
+104 OK  
+105 OK  
+106 DIF Around the time of the Paris World's Fair, a toy maker in Lyon, Armand Gervais, commissioned a series of illustrated cards called Enlan 2000 in the year 2000.
+107 OK  
+108 OK  
+109 DIF In the 1980s, a Canadian writer found a set in a parish shop and lent it to the science fiction writer Isaac Asimov, who published the cards in a book in 1986.
+110 OK  
+111 OK  
+112 OK  
+113 DIF There's an air cab, which the caption calls the handsome cab of the future.
+114 OK  
+115 OK  
+116 OK  
+117 OK  
+118 OK  
+119 OK  
+120 OK  
+121 OK  
+122 OK  
+123 OK  
+124 OK  
+125 OK  
+126 OK  
+127 OK  
+128 OK  
+129 OK  
+130 OK  
+131 OK  
+132 DIF In 19th century America, only Uncle Tom's Cabin sold more copies in its first years.
+133 OK  
+134 OK  
+135 OK  
+136 OK  
+137 DIF And in his year 2000, people listened to music at home, live, at any hour, through a telephone line.
+138 OK  
+139 OK  
+140 DIF In 1909, the English writer E.M. Forster went even further in a short story called The Machine Stops.
+141 OK  
+142 OK  
+143 OK  
+144 OK  
+145 OK  
+146 OK  
+147 OK  
+148 OK  
+149 OK  
+150 OK  
+151 OK  
+152 DIF H.G. Wells, the author of The War of the Worlds wrote a short story in 1903 about armored fighting machines crossing trenches.
+153 OK  
+154 OK  
+155 OK  
+156 OK  
+157 OK  
+158 OK  
+159 OK  
+160 OK  
+161 DIF He was careful about crediting the book, but he later wrote that he knew what a chain reaction would mean because he had read H.G. Wells.
+162 OK  
+163 OK  
+164 OK  
+165 OK  
+166 OK  
+167 OK  
+168 OK  
+169 OK  
+170 OK  
+171 DIF So thin that a single book two inches thick could hold 40,000 pages.
+172 OK  
+173 OK  
+174 OK  
+175 OK  
+176 OK  
+177 OK  
+178 OK  
+179 OK  
+180 OK  
+181 DIF That idea changed everything in the 20th century, and it was almost invisible in 1900.
+182 OK  
+183 OK  
+184 OK  
+185 DIF Very few of these visions imagine the biggest changes of the next hundred years.
+186 OK  
+187 OK  
+188 OK  
+189 OK  
+190 OK  
+191 OK  
+192 OK  
+193 OK  
+194 OK  
+195 DIF But because, just like in 1900, we imagine the future full of people exactly like us.
+196 OK  
+197 DIF So tell me in the comments, what's one prediction you think will get completely wrong?
+198 DIF And if you like traveling back to the future, stay with us. There's a lot more past to explore.

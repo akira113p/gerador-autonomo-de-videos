@@ -1,0 +1,1643 @@
+{
+ "titulo": "What Would YOUR Life Be Like in Victorian London?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "Imagine you pour yourself a glass of water.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "Now imagine you're in London, in the year 1854.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "003",
+   "texto": "That water probably came out of the River Thames.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "The same river that carries away the city's sewage.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "Welcome to the biggest city on Earth.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "006",
+   "texto": "It has the richest empire, the busiest port, and a very creative idea of plumbing.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "007",
+   "texto": "Today we won't live as a lord, or as the Queen.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "We'll live as you: a street seller in Soho, with a barrow, a wife, two kids, and one room.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "You'll count pennies, meet a doctor with a map, and see a water pump that lost its handle.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "010",
+   "texto": "And you'll live through a smell so bad that Parliament soaked its curtains in chemicals.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "This is Victorian London.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "012",
+   "texto": "Let's start with how big it was.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o copo d'água)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "In the census of 1851, London counted more than two million people.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "014",
+   "texto": "It was the biggest city on Earth, growing by roughly a fifth every ten years.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "015",
+   "texto": "That same year, the city threw itself a party: the Great Exhibition.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "A giant palace of iron and glass in Hyde Park, with about six million visits in five and a half months.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "All those visitors needed a toilet, so the organizers built public flush toilets and charged one penny.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "More than eight hundred thousand people paid. Some say that's where \"spend a penny\" comes from.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "019",
+   "texto": "You may have heard that Victorians all died at forty.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "020",
+   "texto": "That's a very misleading average, because so many babies died.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "Survive childhood, and you had decent odds of reaching your fifties or sixties.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "But where you lived, and how much money you had, changed the odds a lot.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "In 1842, a civil servant named Edwin Chadwick compared towns across Britain.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "024",
+   "texto": "In the same town, a labourer lived about twenty years less than a professional.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "025",
+   "texto": "Money didn't just buy a nicer house. It bought years.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "And you, my friend, are not a professional.",
+   "capitulo": "1",
+   "nome_capitulo": "A cidade mais cheia do planeta",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "Your home is one room in Soho, at the top of a narrow, creaky staircase.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "You, your wife, and your two kids all sleep in here.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "029",
+   "texto": "And that's the comfortable version.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "Many poor Londoners couldn't afford a room, so they rented a bed by the night in a common lodging house.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "A grown-up paid about threepence a night. A child, a penny and a half.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "By the end of 1852, the police were inspecting more than three thousand of these houses.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "033",
+   "texto": "Together, they held nearly fifty thousand people every night.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "034",
+   "texto": "One writer in 1854 described a room in St Giles, less than fifteen feet square, with thirty-seven people on the floor.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "Picture your living room. Now picture thirty-seven people in it.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "Privacy was a hobby for rich people.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "037",
+   "texto": "For water, you walk to the pump on the corner.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "The streets outside are lit by gas lamps. Inside, you have a candle.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "And for heat, you burn coal. Remember the coal. It's about to ruin the weather.",
+   "capitulo": "2",
+   "nome_capitulo": "O seu quarto",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Now let's talk money, because Victorian money was chaos.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "041",
+   "texto": "Twelve pence make a shilling. Twenty shillings make a pound.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "042",
+   "texto": "Yes, twelve, then twenty. Nobody asked for this.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "For a very rough idea of today's value, multiply old prices by about one hundred and forty.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "044",
+   "texto": "So a penny is roughly a dollar, and a shilling is roughly nine dollars.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "045",
+   "texto": "Historians hate this trick, because food cost more back then, and gadgets cost less.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "So what could a penny buy in 1854?",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "Four bunches of watercress.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "A ticket to a penny gaff, a rowdy little theater.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Or, back in 1851, a visit to a flush toilet.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "050",
+   "texto": "And a night's sleep in a lodging house? Threepence.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "051",
+   "texto": "What did you earn? As a street seller, somewhere between ten and thirty shillings a week.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "052",
+   "texto": "In January and February, closer to eight.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "053",
+   "texto": "And if it rains, nobody buys your plums.",
+   "capitulo": "3",
+   "nome_capitulo": "O dinheiro",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "Your day starts in the dark.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "Around four or five in the morning, you walk to the market.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "Covent Garden for fruit and vegetables. Billingsgate for fish.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "You buy your stock, load the barrow, and spend the day shouting prices at strangers.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "You're a costermonger, or \"coster.\" A journalist named Henry Mayhew counted tens of thousands of you.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "He did something unusual: he interviewed poor Londoners, and published their stories in a book called London Labour and the London Poor.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "Costers even had a secret language, called back slang. You say words backward.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "\"Boy\" becomes \"yob.\" Yes, that yob.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "062",
+   "texto": "Not every job was glamorous. Not even close.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "Pure-finders collected dog droppings from the street, and sold them to tanneries to treat leather.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "Yes. That was a job.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "065",
+   "texto": "Mudlarks, many of them children, searched the muddy Thames shore for anything they could sell.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "And toshers waded through the sewers, hunting for lost valuables.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "Mayhew also met a girl who sold watercress. She said she was eight years old.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "She went to the market between four and five every morning, and sold four bunches for a penny.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "Most days she made three or four pence. A great day was one shilling and sixpence.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "She told Mayhew: \"I ain't a child, and I shan't be a woman till I'm twenty.\"",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "071",
+   "texto": "And about playing: \"We children never play down there, 'cos we're thinking of our living.\"",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "Chimney sweeps used small boys to climb inside the chimneys.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "A law banned it for anyone under twenty-one, in 1840. Many people simply ignored it.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "074",
+   "texto": "More laws followed, and the practice only really ended after 1875.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "075",
+   "texto": "And school wasn't compulsory until 1880.",
+   "capitulo": "4",
+   "nome_capitulo": "O trabalho (antes do sol)",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "Breakfast is bread and tea, maybe with butter, if it's a good week.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "But even the food could be dodgy.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "In the early 1850s, a doctor named Arthur Hassall studied food under the microscope.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "079",
+   "texto": "He examined more than two and a half thousand samples for the medical journal The Lancet.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "080",
+   "texto": "Many contained things that do not belong in food.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "His reports helped lead to a food adulteration law in 1860.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "Then you step outside, and the air is dodgy too.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "London burns coal in kitchens, in factories, and in steam engines.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "The smoke mixes with damp air from the Thames, and you get fog.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "A thick yellow-brown fog that Londoners called a pea-souper.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "Charles Dickens opened his novel Bleak House with it.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "So that spooky foggy atmosphere is mostly coal smoke.",
+   "capitulo": "5",
+   "nome_capitulo": "O café da manhã e a névoa",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "088",
+   "texto": "Now, back to that glass of water.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "In 1842, Chadwick argued that filth and bad drainage were killing the poor.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "His plan: piped water, and sewers for every house.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "But in 1854, many homes still used cesspools. Overflowing cesspools drained into sewers, and the sewers drained into the Thames.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "And the Thames was also where water companies found their drinking water.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "In July 1855, the scientist Michael Faraday took a steamboat on the river.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "He dropped pieces of white card into the water to see how deep he could still see them.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "They disappeared before sinking one inch.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "096",
+   "texto": "He wrote to The Times that the whole river was \"an opaque pale brown fluid.\"",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "097",
+   "texto": "The smell was bad. He called the river \"for the time a real sewer.\"",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "A law from 1852 had ordered water companies to move their intakes upriver and filter the water.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "099",
+   "texto": "But the deadlines were in 1855, so in 1854 some companies still drank from the dirty part of the river.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "100",
+   "texto": "Remember that. A doctor was about to prove it.",
+   "capitulo": "6",
+   "nome_capitulo": "A água",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "In 1854, most doctors believed cholera spread through \"miasma,\" meaning bad air from rotting things.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "That's not crazy. Dirty places did smell, and dirty places did kill.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "Cholera killed more than fourteen thousand Londoners in 1848 and 1849.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "104",
+   "texto": "It came back in 1853 and 1854, and killed more than ten thousand more.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "105",
+   "texto": "Now picture the end of August 1854. You live in Soho, near Broad Street.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "On the thirty-first of August, people nearby start getting sick.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "107",
+   "texto": "Within ten days, more than five hundred people die within about two hundred fifty yards of one street corner.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "108",
+   "texto": "A doctor named John Snow thinks he knows why.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "Snow is a teetotaler from a poor family in York. He has even given chloroform to Queen Victoria.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "And he believes cholera travels in water, not in air.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "111",
+   "texto": "So he talks to the families, and he marks the deaths on a map.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "The dots cluster around one thing: the water pump on Broad Street.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "Then the evidence gets stronger. A workhouse nearby has its own well. Out of five hundred thirty-five inmates, only five die.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "A brewery on Broad Street employs over seventy workers who drink beer, not water. None gets seriously ill.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "And a widow in Hampstead, miles away, has water from that pump delivered to her house by cart.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "She dies of cholera on the second of September. So does her niece.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "On the seventh of September, Snow convinces the local board to act. The next day, the pump handle is removed.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "Cue the heroic music. But history is messier.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "New cases were already falling, and many residents had fled. Snow himself admitted he couldn't be sure the handle made the difference.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "The stronger proof came later, from a local curate, Reverend Henry Whitehead.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "He started out sure that Snow was wrong. Then he investigated house by house.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "At number forty Broad Street, a baby had died of cholera. Her family had emptied dirty water into a cesspool just a few feet from the pump's well.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "That cesspool was leaking into the well.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "Snow also compared two water companies. About three hundred thousand people had no say in which one they got.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "125",
+   "texto": "The death rate with the dirtier water was many times higher.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "126",
+   "texto": "Did the authorities listen? Not really. A Board of Health still blamed miasma.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "Snow died in June 1858, aged forty-five, before most people agreed with him.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "The Lancet's short obituary never mentioned his cholera work. It printed a correction in 2013.",
+   "capitulo": "7",
+   "nome_capitulo": "Broad Street, 1854",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "Getting around? Mostly, you walk.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "If you have a few coins, you take an omnibus: a horse-drawn bus.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "The first one in London ran in 1829, from Paddington to the Bank.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "132",
+   "texto": "\"Omnibus\" is Latin for \"for all.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "133",
+   "texto": "Horses can only work a few hours a day, so every bus needs a small herd of them.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "In 1855, the London General Omnibus Company was founded to bring order to the chaos.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "Then, on the tenth of January 1863, London opened the world's first underground railway.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "136",
+   "texto": "It ran from Paddington to Farringdon, and about thirty-eight thousand people rode it on opening day.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "137",
+   "texto": "The trains were steam locomotives. In a tunnel. So yes, the stations and carriages filled with smoke.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "Construction even had a plot twist: in 1862, the Fleet sewer burst and flooded the dig.",
+   "capitulo": "8",
+   "nome_capitulo": "Como se locomover",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "Evening. You've earned a few pence, and you want some fun.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "For a penny, you can enter a penny gaff.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "141",
+   "texto": "That's a rowdy show in a pub back room or a small hall, with songs, clowns, and short plays about highwaymen and murderers.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "Reformers panicked that it would corrupt the young.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "If you prefer a proper hall, the Canterbury opened in Lambeth in 1852, one of London's first purpose-built music halls.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "London's police are barely a generation old. Robert Peel created them in 1829.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "By 1852, there were about fifty-six hundred officers for a city of more than two million.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "146",
+   "texto": "Fagin is fiction, but you should still watch your pockets.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "You've probably heard that Victorians covered piano legs, because bare legs were scandalous.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "That seems to come from a joke in a travel book from 1839. A historian who looked for real examples found none.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "And no, Jack the Ripper isn't here. That's 1888, decades after our story.",
+   "capitulo": "9",
+   "nome_capitulo": "Diversão e crime (à noite)",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "150",
+   "texto": "Now fast-forward to the summer of 1858.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "151",
+   "texto": "It's hot and dry, and the Thames is low.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "Raw sewage sits on the riverbanks, baking in the sun.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "And Parliament sits right on the river.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "Lawmakers soak the curtains in chloride of lime to fight the smell. It doesn't work.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "Some even talk about moving out of London.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "Benjamin Disraeli calls the river \"a Stygian pool, reeking with ineffable and intolerable horrors.\"",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "That's a very fancy way of saying \"it stinks.\"",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "Faraday had sounded the alarm in 1855. Snow's map was four years old. Nothing much happened.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "But a bad smell in Westminster? That moved Parliament fast.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "In August 1858, a new law gave London three million pounds, repaid by a small tax on Londoners.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "161",
+   "texto": "The engineer in charge was Joseph Bazalgette.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "He built about eighty-two miles of main sewers, collecting from eleven hundred miles of street sewers.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "163",
+   "texto": "It took three hundred and eighteen million bricks.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "164",
+   "texto": "Sewage now flowed to pumping stations at the edge of the city, far from the drinking water.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "One of them, Crossness, opened in 1865. The Prince of Wales started the engines.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "Here's the funny part: Bazalgette designed it for the wrong theory, miasma.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "But it worked anyway, because it kept sewage away from drinking water.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "168",
+   "texto": "Right fix, wrong reason. A lot of progress happens like that.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "169",
+   "texto": "Most of that system is still in use today.",
+   "capitulo": "10",
+   "nome_capitulo": "O Grande Fedor de 1858",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "So, would you survive Victorian London?",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "Maybe. Even after the new sewers, one more big cholera outbreak hit the East End in 1866.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "172",
+   "texto": "In total, over five thousand people died. It was traced to a water company's contaminated supply, in an area not yet connected to the new sewers.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "173",
+   "texto": "Historians often call it the last major cholera outbreak in England.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "174",
+   "texto": "Here's what stays with me.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "London had Chadwick's report, Faraday's letter, and Snow's map. Three warnings.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "176",
+   "texto": "But the poor of Soho, dying of dirty water, didn't change the city. The stink in Parliament did.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "That's not a happy lesson. But it's a useful one.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "178",
+   "texto": "Cities don't always change when people suffer. Sometimes they change when the suffering reaches the people in charge.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "So the next time you flush a toilet, thank Joseph Bazalgette.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "180",
+   "texto": "And look at that glass of water again. Clear, cold, boring.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "That boring miracle took a doctor, a priest, a scientist, an engineer, and one truly awful smell.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "182",
+   "texto": "If you enjoyed living in London for a while, tell me in the comments: which day in history should we live next?",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho: o preço do copo limpo",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

@@ -1,0 +1,399 @@
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/001.png'
+duration 6.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/002.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/003.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/004.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/005.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/006.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/007.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/008.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/009.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/010.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/011.png'
+duration 7.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/012.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/013.png'
+duration 6.433333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/014.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/015.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/016.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/017.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/018.png'
+duration 2.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/019.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/020.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/021.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/022.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/023.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/024.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/025.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/026.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/027.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/028.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/029.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/030.png'
+duration 1.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/031.png'
+duration 6.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/032.png'
+duration 7.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/033.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/034.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/035.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/036.png'
+duration 1.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/037.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/038.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/039.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/040.png'
+duration 1.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/041.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/042.png'
+duration 6.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/043.png'
+duration 7.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/044.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/045.png'
+duration 5.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/046.png'
+duration 1.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/047.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/048.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/049.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/050.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/051.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/052.png'
+duration 7.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/053.png'
+duration 8.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/054.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/055.png'
+duration 1.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/056.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/057.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/058.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/059.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/060.png'
+duration 1.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/061.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/062.png'
+duration 2.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/063.png'
+duration 6.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/064.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/065.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/066.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/067.png'
+duration 7.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/068.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/069.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/070.png'
+duration 2.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/071.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/072.png'
+duration 2.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/073.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/074.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/075.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/076.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/077.png'
+duration 7.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/078.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/079.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/080.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/081.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/082.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/083.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/084.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/085.png'
+duration 1.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/086.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/087.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/088.png'
+duration 7.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/089.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/090.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/091.png'
+duration 2.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/092.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/093.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/094.png'
+duration 2.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/095.png'
+duration 7.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/096.png'
+duration 10.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/097.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/098.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/099.png'
+duration 3.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/100.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/101.png'
+duration 7.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/102.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/103.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/104.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/105.png'
+duration 2.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/106.png'
+duration 13.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/107.png'
+duration 8.033333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/108.png'
+duration 7.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/109.png'
+duration 10.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/110.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/111.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/112.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/113.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/114.png'
+duration 2.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/115.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/116.png'
+duration 6.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/117.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/118.png'
+duration 3.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/119.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/120.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/121.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/122.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/123.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/124.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/125.png'
+duration 1.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/126.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/127.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/128.png'
+duration 2.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/129.png'
+duration 4.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/130.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/131.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/132.png'
+duration 6.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/133.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/134.png'
+duration 2.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/135.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/136.png'
+duration 7.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/137.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/138.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/139.png'
+duration 2.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/140.png'
+duration 7.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/141.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/142.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/143.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/144.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/145.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/146.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/147.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/148.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/149.png'
+duration 3.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/150.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/151.png'
+duration 6.833333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/152.png'
+duration 8.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/153.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/154.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/155.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/156.png'
+duration 5.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/157.png'
+duration 2.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/158.png'
+duration 2.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/159.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/160.png'
+duration 8.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/161.png'
+duration 8.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/162.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/163.png'
+duration 2.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/164.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/165.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/166.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/167.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/168.png'
+duration 2.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/169.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/170.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/171.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/172.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/173.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/174.png'
+duration 6.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/175.png'
+duration 1.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/176.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/177.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/178.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/179.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/180.png'
+duration 8.033333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/181.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/182.png'
+duration 3.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/183.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/184.png'
+duration 9.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/185.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/186.png'
+duration 6.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/187.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/188.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/189.png'
+duration 5.233333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/190.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/191.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/192.png'
+duration 2.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/193.png'
+duration 6.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/194.png'
+duration 2.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/195.png'
+duration 7.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/196.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/197.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v4-futuro-1900/imagens/198.png'
+duration 9.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'
+duration 15.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'

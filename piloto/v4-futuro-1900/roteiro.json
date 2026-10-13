@@ -1,0 +1,1787 @@
+{
+ "titulo": "How People in 1900 Imagined the Year 2000",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "December, 1900. A new century is about to begin.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "002",
+   "texto": "In homes across America, people open the December issue of a popular magazine: the Ladies' Home Journal.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Inside, there's an article with a bold title: \"What May Happen in the Next Hundred Years.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "The writer, John Elfreth Watkins Junior, lays out what he thinks the world will look like in the year 2000.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "Some of their predictions are so accurate, they're a little creepy.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "Others are completely, gloriously wrong.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "007",
+   "texto": "Strawberries as big as apples. An alphabet without the letter C.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "008",
+   "texto": "So today, we're going to do something fun.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "We're going to read the future from the past, and keep score.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "Right. Wrong. Or weirdly close.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "011",
+   "texto": "And we'll meet French artists who drew flying firemen, and a novelist who put the words \"credit card\" in print in 1888.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "But first, let's see the world these people were living in.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: a revista)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "In 1900, the average American could expect to live to about forty-seven.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "014",
+   "texto": "Most people lived on farms or in small towns.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "Most homes had no electricity, and no telephone.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "Light came from oil lamps or gas. Heat came from coal or wood.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "The streets of big cities were full of horses.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "And full of what horses leave behind.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "019",
+   "texto": "Cars existed, but they were rare: only a few thousand in the whole country.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "The Wright brothers hadn't flown yet. That would only happen three years later.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "021",
+   "texto": "But people in 1900 had just lived through an incredible century.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "Trains, the telegraph, photography, the telephone, the electric light bulb.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "023",
+   "texto": "In a single lifetime, the world had changed more than in the thousand years before.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "024",
+   "texto": "That same year, Paris held a huge World's Fair.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "Visitors rode a moving sidewalk, an electric walkway that carried them around the fairground.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "Some saw early films with recorded sound.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "Tens of millions of people visited.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "So the mood was simple: if the last hundred years were amazing, the next hundred will be even better.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "029",
+   "texto": "That's the mood in which Watkins wrote his article.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "Let's open it.",
+   "capitulo": "1",
+   "nome_capitulo": "O mundo de 1900",
+   "bloco": "mundo1900",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "Prediction number one. Photographs will be telegraphed from any distance.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "Watkins wrote that if there's a battle in China a hundred years later, photos of it would appear in the newspapers an hour later.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "In 1900, sending a photo across the ocean meant putting it on a ship, and waiting weeks.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "034",
+   "texto": "By the year 2000, news photos traveled around the world in seconds.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "Watkins was actually too modest. Not an hour later. Almost instantly.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "Score: right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "037",
+   "texto": "Prediction number two. Man will see around the world.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "038",
+   "texto": "Watkins described cameras connected electrically to screens, thousands of miles away.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "That's basically television. And, if you squint, a video call.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Score: right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "041",
+   "texto": "Prediction number three. Wireless telephones will span the world.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "042",
+   "texto": "He imagined a husband in the middle of the Atlantic Ocean, talking to his wife sitting in her boudoir in Chicago.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "In 1900, radio was brand new. Marconi had only been sending simple signals in Morse code for a few years.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "044",
+   "texto": "A wireless voice call from the middle of the ocean was pure fantasy.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "By 2000, millions of people carried a wireless phone in their pocket.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "Score: right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "047",
+   "texto": "Ready-cooked meals will be bought from establishments similar to bakeries.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "Delivered to private houses, hot or cold, by pneumatic tube or automobile wagon.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Fast food. Frozen dinners. Delivery apps.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "050",
+   "texto": "Score: right. Very right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "051",
+   "texto": "Prediction number five. Hot and cold air from spigots.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "052",
+   "texto": "Watkins wrote that hot or cold air would be turned on from spigots to regulate the temperature of a house.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "Modern air conditioning was invented only two years later, in 1902, by Willis Carrier, for a printing plant in Brooklyn.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "By 2000, most American homes had it.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "Score: right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "056",
+   "texto": "Prediction number six. Automobiles will be cheaper than horses.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "057",
+   "texto": "In 1900, a car was a toy for the rich.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "Then, in 1908, Henry Ford launched the Model T, and kept making it cheaper.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "Within a couple of decades, the horse was disappearing from city streets.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "Score: right.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "061",
+   "texto": "So far, Watkins is doing amazingly well.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "And now, the fun part.",
+   "capitulo": "2",
+   "nome_capitulo": "Watkins: os acertos",
+   "bloco": "acertos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "Prediction number seven. There will be no C, X or Q in our everyday alphabet.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "064",
+   "texto": "They'll be abandoned, he said, because they're unnecessary.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "This came from the spelling reform movement, which was very popular at the time.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "Its supporters wanted to spell words exactly the way they sound.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "Even President Theodore Roosevelt tried it, a few years later. He ordered government printers to use simplified spellings.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "Congress pushed back, and he gave up.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "The C, the X and the Q are still here. And so is \"through,\" with all its silent letters.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "Score: very wrong.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "071",
+   "texto": "Prediction number eight. Strawberries as large as apples.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "And peas as large as beets.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "Fruit did get bigger, and modern strawberries are much bigger than wild ones.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "But as big as apples? Not quite. Not yet.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "Score: wrong. But with a little sympathy.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "076",
+   "texto": "Prediction number nine. There will be no mosquitoes and no flies.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "Watkins said insect screens would be unnecessary, because house-flies, mosquitoes and roaches would be practically exterminated.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "Rats and mice, too, he said, would be exterminated.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "079",
+   "texto": "Anyone who has lived in a big city knows how that went.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "Score: wrong. Painfully wrong.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "081",
+   "texto": "Prediction number ten. Everyone will be able to walk ten miles.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "082",
+   "texto": "Watkins said that a man or woman who couldn't walk ten miles at a stretch would be considered a weakling.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "Ten miles is about sixteen kilometers.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "084",
+   "texto": "Today, many people drive to the gym, so they can walk on a machine.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "Score: wrong.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "086",
+   "texto": "Prediction number eleven. There will be no wild animals, except in zoos.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "That one went wrong in a good way. There are still wild animals.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "But it shows something important: in 1900, many people thought wild nature was simply going to disappear.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "Score: thankfully wrong.",
+   "capitulo": "3",
+   "nome_capitulo": "Watkins: os erros",
+   "bloco": "erros",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "090",
+   "texto": "Then there are the predictions that are neither right nor wrong.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "091",
+   "texto": "Just weirdly close.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "Watkins said Americans would grow taller, by one or two inches.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "And in fact, Americans did get taller during the twentieth century, by roughly that much.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "Score: weirdly close.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "095",
+   "texto": "He said there would be between three hundred and fifty and five hundred million people in \"America and its possessions.\"",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "096",
+   "texto": "He was counting on Mexico, Nicaragua and other countries joining the Union. That never happened. The United States itself had about two hundred and eighty million in 2000.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "So he was off. But he was right that the population would explode.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "And he said people would live longer: fifty years, instead of thirty-five.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "099",
+   "texto": "Here, he was too pessimistic.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "By 2000, life expectancy in the United States was over seventy-five.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "101",
+   "texto": "Antibiotics, vaccines, clean water. Things that even the experts of 1900 couldn't imagine.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "Score: wrong, but in the best possible direction.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "103",
+   "texto": "Final score for Watkins: a lot better than you'd expect.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "But he wasn't the only one dreaming about the year 2000.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "And the others were much stranger.",
+   "capitulo": "4",
+   "nome_capitulo": "Watkins: estranhamente perto",
+   "bloco": "perto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "Around the time of the Paris World's Fair, a toy maker in Lyon, Armand Gervais, commissioned a series of illustrated cards called \"En l'an 2000.\" In the year 2000.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "Jean-Marc Côté and other French artists drew them. They were meant to be slipped into cigarette boxes, and later sent as postcards.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "But they were never distributed. The toy maker died during production, and the cards sat in his closed factory for decades.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "In the 1980s, a Canadian writer found a set in a Paris shop and lent it to the science fiction writer Isaac Asimov, who published the cards in a book in 1986.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "And they are a wonderful window into the imagination of 1900.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "In one card, firefighters fly to a burning building on wings.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "In another, policemen patrol the sky, also on wings.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "There's an air cab, which the caption calls the hansom cab of the future.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "And then there's school.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "In the year 2000, according to one card, the teacher feeds books into a machine.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "A boy turns a crank, and the knowledge travels through wires, into headsets on the students' heads.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "No reading. No studying. Just download.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "118",
+   "texto": "Honestly, kids today are still waiting for that one.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "Other cards show a partly automated tailor's shop.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "Gatling guns mounted on automobiles. Battleships that look like blimps.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "And a few that are just glorious nonsense.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "122",
+   "texto": "Divers trawling the surface of the sea for seagulls. And underwater croquet.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "A bus pulled by a whale.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "Here's what's interesting about these cards.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "Look at the people in them.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "The clothes are still the clothes of 1900.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "The machines change. Society doesn't.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "Keep that in mind. We'll come back to it.",
+   "capitulo": "5",
+   "nome_capitulo": "Os cartões franceses: En l'an 2000",
+   "bloco": "cartoes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "Writers were imagining the future too.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "In 1888, an American writer named Edward Bellamy published a novel called Looking Backward.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "Its hero falls asleep in Boston in 1887, and wakes up in the year 2000.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "In nineteenth-century America, only Uncle Tom's Cabin sold more copies in its first years.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "Bellamy's year 2000 is a perfect society, which, let's be honest, it wasn't.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "But two details are amazing.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "In his future, people don't use cash. They pay with a card, and the book calls it a \"credit card.\"",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "Not exactly like ours: it works more like a debit card. But in 1888, the idea and the name were already there.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "137",
+   "texto": "And in his year 2000, people listen to music at home, live, at any hour, through a telephone line.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "Concert halls are wired to the houses of the city, with a program that runs around the clock.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "That's basically streaming.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "140",
+   "texto": "In 1909, the English writer E. M. Forster went even further, in a short story called The Machine Stops.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "In his future, people live alone in small rooms underground.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "They almost never meet in person.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "They talk to each other through screens, give lectures to people they can't touch, and depend completely on a giant machine.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "Then, one day, the machine starts to fail.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "Forster wrote that story more than a hundred years ago.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "146",
+   "texto": "And yet it sounds a lot like the first months of 2020.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "Even Rudyard Kipling, the author of The Jungle Book, wrote a story set in the year 2000.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "In his version, mail is carried across the Atlantic by giant airships.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "A lovely idea. And completely wrong.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "150",
+   "texto": "Airships were the future in 1905. Until they weren't.",
+   "capitulo": "6",
+   "nome_capitulo": "A ficção: o cartão de crédito e o streaming",
+   "bloco": "ficcao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "Some predictions from this era are so precise, they're almost uncomfortable.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "H. G. Wells, the author of The War of the Worlds, wrote a short story in 1903 about armored fighting machines crossing trenches.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "He called them \"land ironclads.\"",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "A little more than a decade later, in the First World War, the first tanks rolled across the battlefield.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "In 1914, Wells published a novel called The World Set Free.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "It describes a new kind of weapon, made from the energy inside atoms.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "He called it the \"atomic bomb.\"",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "And here's the eerie part.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "159",
+   "texto": "A Hungarian physicist named Leo Szilard read that book in 1932.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "A year later, walking through London, he had the idea of the nuclear chain reaction, the idea that would make real atomic bombs possible.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "He was careful about crediting the book. But he later wrote that he knew what a chain reaction would mean, because he had read H. G. Wells.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "Sometimes, science fiction gives people a picture of the future before the science does.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "163",
+   "texto": "Then there's Nikola Tesla.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "In 1926, he gave an interview to an American magazine.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "He said that when wireless was perfected, the whole Earth would become like one huge brain.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "And he said a man would be able to carry a device for this in his vest pocket.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "In 1926. A pocket device, connecting the planet.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "168",
+   "texto": "Score: frighteningly right.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "169",
+   "texto": "And Thomas Edison, the most famous inventor alive?",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "In an interview in 1911, he predicted that books would be printed on ultra-thin sheets of nickel.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "So thin that a single book, two inches thick, could hold forty thousand pages.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "172",
+   "texto": "He was right about the idea: a whole library you can carry.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "He was just wrong about the material. It wasn't nickel. It was silicon.",
+   "capitulo": "7",
+   "nome_capitulo": "Os visionários: Wells, Tesla e Edison",
+   "bloco": "visionarios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "174",
+   "texto": "So why did these smart people get so much right, and so much hilariously wrong?",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "There's a pattern.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "176",
+   "texto": "They took the exciting technology of their own time, and made it bigger.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "In 1900, the exciting things were electricity, wings, airships, and pneumatic tubes.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "178",
+   "texto": "So the future was full of electric everything, people with wings, airships and tubes.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "What almost nobody saw was the computer.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "180",
+   "texto": "Not the giant machine. The idea of information itself: of words, music, images and money all turning into numbers.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "181",
+   "texto": "That idea changed everything in the twentieth century, and it was almost invisible in 1900.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "The other mistake was even bigger.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "183",
+   "texto": "They changed the machines, but not the people.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "184",
+   "texto": "Remember the cards: the flying firemen still wear 1900 helmets. The ladies still wear corsets. The maid is still a maid.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "185",
+   "texto": "Very few of these visions imagined the biggest changes of the next hundred years.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "186",
+   "texto": "Women voting and working in every profession. The end of the great empires. Two world wars.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "187",
+   "texto": "People in 1900 imagined a future with better machines.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "188",
+   "texto": "They didn't imagine a future with different people.",
+   "capitulo": "8",
+   "nome_capitulo": "Por que eles erraram",
+   "bloco": "porque",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "189",
+   "texto": "And before we laugh too hard, let's turn the question around.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "190",
+   "texto": "What will people in the year 2100 think of our predictions?",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "191",
+   "texto": "Flying cars. Robot butlers. Cities on Mars.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "192",
+   "texto": "Maybe some of those will happen.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "193",
+   "texto": "And maybe a kid, in 2100, will look at our videos about the future, and laugh at how we imagined it.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "194",
+   "texto": "Not because our machines were wrong.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "195",
+   "texto": "But because, just like in 1900, we imagined the future full of people exactly like us.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "196",
+   "texto": "The future, it turns out, always shows up wearing the clothes of the present.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "197",
+   "texto": "So tell me in the comments: what's one prediction you think we'll get completely wrong?",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "198",
+   "texto": "And if you liked traveling back to the future, stay with us. There's a lot more past to explore.",
+   "capitulo": "9",
+   "nome_capitulo": "Fechamento: e nós?",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  }
+ ]
+}

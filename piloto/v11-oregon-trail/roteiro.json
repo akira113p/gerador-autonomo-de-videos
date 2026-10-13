@@ -1,0 +1,1652 @@
+{
+ "titulo": "What Would YOUR Life Be Like on the Oregon Trail?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "It's April, eighteen fifty.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "002",
+   "texto": "You're standing in a muddy street in Independence, Missouri.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Behind you is a wagon packed to the roof.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "In front of you are two thousand miles of Oregon Trail.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "005",
+   "texto": "No highway. No gas stations. No bathrooms.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "006",
+   "texto": "Welcome to the least glamorous road trip in history.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "007",
+   "texto": "And here is the part the cartoons skip: you will not be riding.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "You'll be walking beside that wagon for four to six months.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "That's roughly four million steps, give or take a blister.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "010",
+   "texto": "Some people did it for land. Some, for gold. Some, for a better life.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "011",
+   "texto": "And by one estimate, at least twenty thousand people never arrived.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "012",
+   "texto": "You probably think you know what killed them. You're probably wrong.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "So let's pack the wagon and find out.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: você não vai de carroça, vai a pé)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "014",
+   "texto": "First question: why would a sane person do this?",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "Start with the sales pitch. Free farmland in a green valley called the Willamette.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "This very year, Congress will promise a married couple six hundred and forty acres.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "017",
+   "texto": "A single man gets half of that.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "018",
+   "texto": "Now, that valley was not empty. The Kalapuya people lived there.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "019",
+   "texto": "Nobody asked them, and a treaty with them would not be signed until eighteen fifty-five.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "020",
+   "texto": "The brochures leave that part out.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "021",
+   "texto": "Then there's California, where gold has just been found.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "022",
+   "texto": "In eighteen forty-nine, about thirty thousand people headed west, mostly for California.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "023",
+   "texto": "In eighteen fifty, by one count, it was fifty-five thousand.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "024",
+   "texto": "So you won't be alone. You're joining the slowest traffic jam in American history.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "Over the whole era, historians guess that hundreds of thousands took this road.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "026",
+   "texto": "Why so vague? Because nobody was counting at a toll booth.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "For comparison, today you would rent a truck and call it a long weekend.",
+   "capitulo": "1",
+   "nome_capitulo": "Por que alguém faria isso?",
+   "bloco": "partida",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "Now, shopping day. And it is not cheap.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "029",
+   "texto": "A proper outfit costs roughly eight hundred to twelve hundred dollars.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "That includes a year of supplies, because you can't grow a crop on the way.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "In today's money, that's more than thirty thousand dollars.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "First, the wagon. Forget the cartoons.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "The bed is about ten feet long and four feet wide.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "034",
+   "texto": "Over it, a canvas cover stretched on five or six curved wooden hoops.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "Your entire life has to fit in something the size of a big closet.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "And no, this is not a Conestoga wagon.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "037",
+   "texto": "The Conestoga was heavy, with a swayback shape, and it rarely went past the Missouri River.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "Pioneers used a lighter wagon with straight sides. The nickname was \"prairie schooner.\"",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "Now the engine. Oxen, or mules?",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Mules are faster. Oxen pull more, and they're less likely to stampede.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "041",
+   "texto": "At Fort Laramie in eighteen fifty, someone counted over thirty-six thousand oxen, and about seventy-five hundred mules.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "042",
+   "texto": "A few years later, Army captain Randolph Marcy priced an eight-ox team at about two hundred dollars.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "For two thousand miles, he says, young oxen will outlast mules.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "The lesson of the trail, so far: the fastest option is rarely the one that arrives.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "Nobody is selling extended warranties out here.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia de compras (a carroça e os bois)",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "Now, food. And here we get help from a classic manual, Marcy's The Prairie Traveler.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "It came out in eighteen fifty-nine, so you're a little early. But the advice holds up.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "048",
+   "texto": "His list, per grown person, for about a hundred and ten days:",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "049",
+   "texto": "One hundred and fifty pounds of flour.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "050",
+   "texto": "Twenty-five pounds of bacon.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "051",
+   "texto": "Fifteen pounds of coffee, and twenty-five of sugar.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "052",
+   "texto": "That's the menu. Bread, bacon, coffee. For months.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "Plus some cattle that walk along with you, and are also lunch.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "Everything else is a gamble. How many shovels? How many spare wheels?",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "And remember, every pound you pack, an ox has to pull.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "A wagon like yours can carry up to about twenty-five hundred pounds, in theory.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "057",
+   "texto": "In practice, travelers aimed for sixteen to eighteen hundred.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "So the rocking chair, the mirror, and the heavy furniture all have to go. Or go later.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "Many families did dump things along the road, to save their animals.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "One pioneer woman, Amelia Knight, threw out jars, buckets, and all her pickles.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "It's a hard truth of the trail: when you're an ox, a pickle is a very heavy thing.",
+   "capitulo": "3",
+   "nome_capitulo": "O que vai na carroça",
+   "bloco": "compras",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "Then there's the guidebook problem.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "One famous book was The Emigrants' Guide to Oregon and California, by Lansford Hastings.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "064",
+   "texto": "It was published in eighteen forty-five.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "Hastings told readers to bring a good gun. Fair enough.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "He also described a shortcut across the desert west of the Great Salt Lake.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "067",
+   "texto": "That description was only a few sentences long.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "068",
+   "texto": "And Hastings had never actually traveled that route.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "In eighteen forty-six, the Donner Party tried it.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "Snow trapped them in the Sierra Nevada. Of eighty-seven people, about forty-eight survived.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "071",
+   "texto": "It's the darkest story of the trail, and we won't dwell on it.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "The lesson is smaller, and more useful: check whether the author has actually been there.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "Which, by the way, is also a good rule for YouTube videos.",
+   "capitulo": "4",
+   "nome_capitulo": "O problema do guia (Hastings e Donner)",
+   "bloco": "guia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "074",
+   "texto": "Now, the trail itself. Your alarm clock is a trumpet, or a rifle shot, around four in the morning.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "Breakfast. Round up the animals. Hitch the wagons.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "At about seven, the wagon master shouts, \"Wagons roll!\"",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "And then you walk.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "The average is twelve to fifteen miles a day.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "079",
+   "texto": "That's about a half marathon, every day, for months, while herding cattle.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "080",
+   "texto": "At midday, there's a one-hour break called \"nooning.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "Around six, the wagons form a circle.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "That circle is mostly a corral for the animals.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "Out on the plains, there are almost no trees.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "So what do you burn for dinner? Dried buffalo dung. They called it \"buffalo chips.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "Someone has to collect it. Usually, women and children.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "Dinner: bacon, bread, and coffee, cooked over burning dung.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "Historian Lillian Schlissel studied the diaries and letters of one hundred and three women.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "088",
+   "texto": "They cook, they drive oxen, they care for children, and some give birth, all on the road.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "Amelia Knight wrote on April twenty-third: \"Dreary times, wet and muddy.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "She was pregnant with her eighth child, who was born days after the family arrived.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "Not exactly a vacation.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "092",
+   "texto": "There is no phone to scroll. Your screen time is the horizon, and the back of an ox.",
+   "capitulo": "5",
+   "nome_capitulo": "Um dia na estrada",
+   "bloco": "estrada",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "Then come the rivers.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "Few of the big rivers have a bridge.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "095",
+   "texto": "Sometimes you float the wagon across on a makeshift raft.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "Sometimes you pay a ferry. In eighteen fifty, one party paid four dollars a wagon on the Platte.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "097",
+   "texto": "At one crossing, Knight counted more than three hundred wagons waiting their turn.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "Her group built a ferry out of rope and wagon beds.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "The women and children crossed last.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "On a steamboat, one of her oxen jumped overboard and swam across by itself.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "It was the only one with a plan.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "But rivers were no joke. Drowning at river crossings was a real cause of death.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "And in summer, the opposite problem: water holes dried up, and oxen died.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "Remember that word: water.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "105",
+   "texto": "Marcy, years later, would advise boiling water from stagnant pools.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "Good advice. Whether anyone followed it is another question.",
+   "capitulo": "6",
+   "nome_capitulo": "Os rios",
+   "bloco": "rios",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "Because the biggest killer on the trail was not a person.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "It was cholera.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "109",
+   "texto": "Cholera is a bacterium. It spreads through water and food contaminated by human waste.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "110",
+   "texto": "Now picture a campsite with thousands of strangers, one creek, and no toilets.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "In those early gold rush years, it struck the outfitting towns every spring.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "112",
+   "texto": "Then it followed the trail, campground by campground.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "You could be healthy in the morning and dead by noon.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "114",
+   "texto": "Nobody knew what caused it. People treated it with camphor and laudanum.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "One emigrant counted seventy-one graves at a single campground.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "In eighteen fifty, by one count, cholera killed thousands.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "The Bureau of Land Management says at least twenty thousand people died on the Oregon Trail.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "118",
+   "texto": "Cholera, accidents, drownings, and other illnesses combined.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "119",
+   "texto": "Estimates vary a lot, so treat any number as a ballpark.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "120",
+   "texto": "Most of those graves are unmarked.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "One historian, John Unruh, even argued that the trail was probably not much deadlier than staying home.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "Because in those same years, cholera was killing thousands in cities like Saint Louis.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "The most dangerous thing on the trail wasn't a person. It was a bucket of water.",
+   "capitulo": "7",
+   "nome_capitulo": "A doença (cólera)",
+   "bloco": "colera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "124",
+   "texto": "Now, the scene you were waiting for. Wagons in a circle, arrows in the air.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "Let's check the numbers.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "126",
+   "texto": "Unruh counted, between eighteen forty and eighteen sixty, three hundred and sixty-two emigrants killed in clashes with Native people.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "127",
+   "texto": "And four hundred and twenty-six Native people killed in the same clashes.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "Over twenty years. Along a road used by hundreds of thousands.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "Those figures are tentative, and probably low. But they're not thousands.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "130",
+   "texto": "Compare that with cholera.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "131",
+   "texto": "Even the National Park Service says wagon trains were attacked far less often than the movies suggest.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "And most encounters, says the Park Service, were peaceful.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "And Unruh concluded that more Native people were killed by emigrants than the other way around.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "134",
+   "texto": "Many emigrants began the trip in needless fear, and sometimes fired first.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "Amelia Knight's daughters hid in the wagon the first time they saw Native people.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "By May second, she wrote, \"Children are getting used to them.\"",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "Still, the fear was real, and it shaped the whole trip.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "So the movie got one thing right: there was danger. It just got the proportions wrong.",
+   "capitulo": "8",
+   "nome_capitulo": "O mito do ataque",
+   "bloco": "mito",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "139",
+   "texto": "But the trail was not empty land.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "It crossed the homelands of many nations.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "141",
+   "texto": "Many Native people helped. They ran ferries, offered food, and guided travelers across dangerous rivers.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "Sometimes for payment, sometimes for free.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "143",
+   "texto": "They traded, too. They wanted livestock, clothing, metal tools, and mirrors.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "But a wagon train is not a quiet guest.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "Emigrant livestock stripped the grass for several miles on each side of the trail.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "The traffic disrupted the buffalo migrations that Plains peoples depended on.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "And cholera followed the trail into Native camps and villages.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "148",
+   "texto": "In September eighteen fifty-one, the United States held a council at Horse Creek, east of Fort Laramie.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "149",
+   "texto": "The goal was to legalize emigrant passage through Native lands, and reduce violence.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "150",
+   "texto": "The United States promised yearly payments for fifty years. As ratified, Congress cut that to ten.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "151",
+   "texto": "So when you picture the trail from the wagon seat, remember there was a very different view from the other side.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "Their story did not end where the wagon trail did.",
+   "capitulo": "9",
+   "nome_capitulo": "Os povos que já estavam lá",
+   "bloco": "povos",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "By midsummer, you reach Independence Rock, in Wyoming.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "A priest called it the \"Great Register of the Desert,\" because of all the names carved there.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "Today, there are more than five thousand names.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "156",
+   "texto": "Next comes South Pass, the easy way over the Rockies.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "It's a valley about twelve miles wide. A wagon can cross it without any climbing drama.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "158",
+   "texto": "Then comes the hard part: dry stretches, tired oxen, and the Columbia River still ahead.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "Near the end, you face a choice.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "Float down the Columbia River by boat, or take the Barlow Road around Mount Hood.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "Until the Barlow Road opened in eighteen forty-six, the overland trail effectively ended at a town called The Dalles.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "162",
+   "texto": "The Barlow Road is a toll road. Five dollars per wagon, plus ten cents per head of livestock.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "163",
+   "texto": "It includes Laurel Hill, a descent of roughly two thousand feet.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "Wagons were chained by the wheels and lowered with ropes.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "Over the years, the ropes wore chutes in the hill as deep as seven feet.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "It was a one-way road, with a toll booth and a very steep hill.",
+   "capitulo": "10",
+   "nome_capitulo": "Montanhas e o fim da estrada",
+   "bloco": "serra",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "167",
+   "texto": "The trail officially ends at Oregon City, Oregon.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "168",
+   "texto": "But let's finish with Amelia Knight, in eighteen fifty-three.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "Her diary ends with these words: \"This is the journey's end.\"",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "Her husband traded two yoke of oxen for half a section of land, and a small log cabin.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "That's three hundred and twenty acres, for two yoke of oxen.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "172",
+   "texto": "Her eighth child was born just days after they arrived.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "In eighteen sixty-nine, the railroad changed everything.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "174",
+   "texto": "An emigrant could go from Omaha to the Pacific in less than two weeks.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "175",
+   "texto": "The wagon trail faded. But about three hundred miles of ruts are still there.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "So what was the Oregon Trail, really?",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "177",
+   "texto": "Not a western movie. A long, slow commute, on foot, by ordinary people.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "178",
+   "texto": "Where the most dangerous thing was a bucket of water, not an arrow.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "And where the \"empty land\" at the end was somebody's home.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "180",
+   "texto": "For many settlers, the gamble paid off. For the people already there, it was the start of a very hard chapter.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "181",
+   "texto": "Which brings us back to that muddy street in Independence.",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "Would you walk four million steps for a farm in someone else's valley?",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "183",
+   "texto": "Tell me in the comments: what's the first thing you'd leave behind?",
+   "capitulo": "11",
+   "nome_capitulo": "Chegada",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

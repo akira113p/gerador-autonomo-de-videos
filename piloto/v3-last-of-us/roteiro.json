@@ -1,0 +1,1850 @@
+{
+ "titulo": "What Would YOUR Life Be Like in The Last of Us Apocalypse?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "It's an ordinary morning at the end of September.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "You wake up, make coffee, and check the news on your way to work.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Something about a strange outbreak overseas. Hospitals somewhere are busy.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "You scroll past it. Everyone does.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "In the world of The Last of Us, that morning is the last normal one in human history.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "006",
+   "texto": "The game puts it in September 2013. The TV series moves it back to September 2003.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "007",
+   "texto": "Either way, by the end of the week, the world you know is gone.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "Most videos about this story follow the heroes.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "This one follows you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "Not a smuggler. Not a soldier. Just an ordinary person with a job, a phone, and a fridge that's half empty.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "So let's live through it. Day one, week one, month one, year one.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "012",
+   "texto": "And then, twenty years later.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "013",
+   "texto": "Along the way, we'll look at what real science and real disasters tell us about how long you'd actually last.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: um dia normal)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "014",
+   "texto": "First, the bad news. The monster in this story is based on something real.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "In tropical forests, there is a fungus called Ophiocordyceps unilateralis.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "It infects carpenter ants.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "Once it's inside, the ant's behavior changes.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "It leaves its nest in the treetops, goes down to the low plants of the forest, and bites down hard on the vein of a leaf, on the underside.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "019",
+   "texto": "Then it stays there, locked in that bite, until it dies.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "After the ant dies, a stalk grows out of its head and releases spores onto the ground below.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "Right where other ants walk.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "Researchers really do call them \"zombie ants.\" It's right in the title of the scientific paper.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "023",
+   "texto": "Now the good news.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "024",
+   "texto": "Most fungi can't survive inside us, because we're simply too hot.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "Our body sits at around thirty-seven degrees Celsius, and a study of more than four thousand fungal strains found that most of them can't grow at temperatures like that.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "026",
+   "texto": "Some researchers argue that our body heat works as a shield, protecting mammals from most fungi.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "The series opens with exactly this idea: a scientist on a TV show, warning that if the planet warms, fungi might adapt to higher temperatures.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "And then, one day, our temperature wouldn't protect us anymore.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "029",
+   "texto": "That part is fiction.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "But it's the kind of fiction that scientists actually discuss.",
+   "capitulo": "1",
+   "nome_capitulo": "O fungo é real (mais ou menos)",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "Back to you. Day one.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "By lunchtime, the news isn't about overseas anymore.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "In the series, the infection spreads through contaminated flour, and soon it is in many cities at once.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "034",
+   "texto": "In the game, it spreads through bites and through spores in the air.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "The infected don't shuffle like old movie zombies. The first ones run.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "And a bite is enough. Within hours or days, the person you knew is gone.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "037",
+   "texto": "Your first problem is not the infected.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "It's the phone.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "When something big happens, everyone calls everyone at the same moment.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "During the great blackout of August 2003, about fifty million people in the United States and Canada lost power in a few minutes.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "Cell networks were overwhelmed, and many calls simply didn't go through.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "So you can't reach your family.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "You get in the car. So does everyone else.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "In the series, the first night is chaos on the highways: crashes, fires, people running between stopped cars.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "That part is not hard to believe.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "Every hurricane evacuation shows the same thing: highways become parking lots.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "So most people on day one don't go far.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "They go home, lock the door, and wait for someone to tell them what to do.",
+   "capitulo": "2",
+   "nome_capitulo": "Dia 1: a manhã em que tudo para",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Here's something most people never think about.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "Almost everything in your house needs someone, somewhere, to keep working.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "The power plant needs workers. The water plant needs workers. The trucks need drivers.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "052",
+   "texto": "In the 2003 blackout, gas stations couldn't pump fuel, because the pumps run on electricity.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "In Cleveland, the pumping stations stopped, and about a million and a half people lost their water.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "In Cleveland and Detroit, people were told to boil their water.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "And that blackout lasted a day or two for most people, and up to four days in some places.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "056",
+   "texto": "Now imagine it never comes back.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "Food is the next problem.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "Supermarkets don't keep much stock. They live on constant deliveries.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "When the trucks stop, the shelves empty.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "And everyone remembers early 2020, when toilet paper disappeared in a weekend.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "So by the end of week one, you're counting cans.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "You've filled the bathtub with water, because someone online said to.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "That actually is official advice: store water before the taps fail.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "U.S. emergency agencies recommend at least one gallon of water per person, per day.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "065",
+   "texto": "Outside, the city is changing. Fewer cars. More sirens. Then, fewer sirens.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "And somewhere, the government is making a decision about you.",
+   "capitulo": "3",
+   "nome_capitulo": "Semana 1: tudo que precisa de gente",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "In this world, the government doesn't try to save every city.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "It picks a few, and puts walls around them.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "These are the quarantine zones. QZs, for short.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "Boston. Pittsburgh. Seattle. Kansas City. A handful of others.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "071",
+   "texto": "Everything outside the walls is left to the infected.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "In the series, the agency that runs them is called FEDRA: the Federal Disaster Response Agency.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "073",
+   "texto": "If you live near one, you're lucky. Or you think you are.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "Getting in means lining up at a gate with hundreds of strangers.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "Soldiers check everyone for infection. Anyone who fails the test doesn't get in.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "And in this story, \"doesn't get in\" is a polite way of saying something much worse.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "Inside, your new life begins.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "You get a bed in an old building, often shared with strangers.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "079",
+   "texto": "There is a curfew. Break it, and you're in serious trouble.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "There are regular checks. Everyone is a suspect, all the time.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "Money is worthless now.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "What matters is ration cards.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "You work, and you get cards. You trade the cards for food.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "And the jobs are the ones nobody wants.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "In the series, people in the zone earn ration cards by working jobs for the zone.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "Hauling. Cleaning. Repairs. Whatever the soldiers need done.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "It's hard to complain, though.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "Every person inside the wall knows exactly what's outside it.",
+   "capitulo": "4",
+   "nome_capitulo": "Mês 1: a zona de quarentena",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "By the end of the first year, the infected outside are changing too.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "090",
+   "texto": "In this world, the fungus doesn't just take over the brain. It keeps growing.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "The newly infected are called runners. Fast, aggressive, still almost human.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "After a while, they become stalkers: they hide, and they wait.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "Then comes the stage everyone fears.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "After a year or more, the fungus splits the face open, and covers the eyes.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "These are the clickers. They can't see anymore.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "So they hunt the way bats and dolphins do: with sound.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "They make a clicking noise, and listen to the echo.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "And that idea is real too.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "Some blind people actually learn to navigate this way, by clicking their tongue and listening to the echoes around them.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "Which means that in this world, the most important survival skill isn't shooting.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "It's being quiet.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "After many years, some infected become bloaters: huge, armored by layers of fungus, and very hard to kill.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "And when an infected finally dies, the fungus doesn't.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "In the game, it grows on the walls and releases clouds of spores. You'll want a gas mask.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "In the series, it mostly spreads through long tendrils underground, connecting the infected like a network.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "Remember the ant, biting the leaf?",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "The real fungus doesn't care about the ant. It cares about the next ant.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "That's exactly what the fictional one does too.",
+   "capitulo": "5",
+   "nome_capitulo": "Ano 1: o que acontece com os infectados",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "So what does a normal day look like for you, one year in?",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "110",
+   "texto": "You wake up in the zone at dawn. There's no alarm clock, because there's barely any electricity.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "Breakfast is whatever the cards bought. Often the same thing every day.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "Then you report for work.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "Maybe you're on a cleaning crew. Maybe you repair walls. Maybe you're lucky, and you work in a kitchen.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "In the afternoon, there are lines. Lines for food, lines for water, lines for medicine.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "And there's a black market.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "In zones like these, people trade everything: pills, batteries, alcohol, cigarettes, information.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "Every disaster in real history has created one.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "Under wartime rationing in Britain, for example, there was an illegal trade in rationed goods, and people even had a name for the traders: spivs.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "In the evening, curfew.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "You go back to your room, eat, talk to whoever shares it with you, and go to sleep early.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "There's no TV, no internet, no new music.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "122",
+   "texto": "Just the sound of the wall, and the soldiers walking on it.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "And here's the strange thing.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "After a few months, it stops feeling strange.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "People get used to almost anything. Historians of every war and siege say the same thing.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "Life becomes routine. Even this.",
+   "capitulo": "6",
+   "nome_capitulo": "Ano 1: o que você come, o que você faz o dia todo",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "But not everyone stays inside.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "128",
+   "texto": "Some people hate the zones: the rules, the executions, the soldiers.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "In this story, there's a rebel group called the Fireflies, fighting the military government.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "Some people simply leave and try their luck outside.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "Out there, the infected are only one of the dangers.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "There are raiders and hunters: groups who survive by robbing, or killing, other survivors.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "And there are small communities that actually work.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "In the series, there's a town in Jackson, Wyoming, with walls, farms, horses, and electricity from a nearby dam.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "That's maybe the most realistic part of the whole story.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "When big systems collapse, people tend to rebuild in small groups, with whatever they have nearby.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "Water from a river. Power from a dam. Food from a field.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "Life starts to look less like 2013, and more like 1850.",
+   "capitulo": "7",
+   "nome_capitulo": "Fora do muro",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "And in 1850, the biggest killer wasn't monsters.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "It was infection. The ordinary kind.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "In this world, nobody is making new antibiotics.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "Factories are gone, and the medicine that's left is expiring on the shelves.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "Before antibiotics, a small cut on your hand could kill you.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "Penicillin wasn't discovered until 1928, and it wasn't widely available until the 1940s.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "145",
+   "texto": "Before that, things like pneumonia and infected wounds killed huge numbers of people.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "In 1900, in the United States, about one in ten babies died before their first birthday.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "147",
+   "texto": "Childbirth was one of the most dangerous things a woman could do.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "And in the apocalypse, all of that comes back.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "No dentist. A bad tooth can become a deadly infection.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "No glasses, if yours break.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "No insulin for diabetics. No dialysis. No surgery that needs electricity.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "152",
+   "texto": "This is the part the stories usually skip.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "Most people wouldn't die from a bite.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "They'd die from a scratch on a rusty fence, or a fever in the winter.",
+   "capitulo": "8",
+   "nome_capitulo": "O inimigo silencioso: o remédio que acaba",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "Meanwhile, the cities are going green.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "And here, we actually know a lot about what would happen.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "Without pumps, the New York subway would start to flood, because water constantly leaks into its tunnels and has to be pumped out every day.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "Without people, grass breaks through the asphalt. Trees grow on rooftops. Rust eats the bridges.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "We have a real example.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "160",
+   "texto": "After the Chernobyl nuclear disaster in 1986, people abandoned a huge area around the plant.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "Decades later, a long-term census found elk, deer and wild boar as abundant as in nearby nature reserves, and wolves more than seven times more numerous.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "Even Przewalski's horses live there now, though they were released on purpose, in 1998.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "163",
+   "texto": "The researchers don't say radiation is good for wildlife. They say the effect of human presence, with hunting, farming and forestry, is a lot worse.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "In the world of The Last of Us, you see the same thing: giraffes walking through a ruined city, deer in the streets.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "It's beautiful. And it's a reminder of how fast the world forgets us.",
+   "capitulo": "9",
+   "nome_capitulo": "A natureza volta",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "Now, twenty years have passed.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "167",
+   "texto": "In the game, it's 2033. In the series, 2023.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "168",
+   "texto": "If you survived, you're a different person.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "You know how to stay quiet. You know how to stretch a can of beans for two days.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "You know which streets are safe, and which buildings you never, ever enter.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "And there's a new generation who never knew the old world.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "172",
+   "texto": "Kids who have never seen a working airplane.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "Who have never seen a movie, or eaten ice cream, or ridden in a car on a highway.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "174",
+   "texto": "For them, the stories adults tell about the old world sound like fairy tales.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "Cities that glowed all night. Food that arrived on trucks. A phone that could talk to anyone on Earth.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "And slowly, knowledge disappears.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "Who still knows how to make penicillin? How to fix a power line? How to build an engine?",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "178",
+   "texto": "Every year, the people who remember die, and some of that knowledge dies with them.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "Historians have seen this before.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "180",
+   "texto": "After the Western Roman Empire fell, many building skills disappeared from parts of Western Europe for centuries.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "In Britain, for example, mass-produced pottery disappeared after the Romans left, and for centuries almost nobody built in stone.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "A civilization doesn't need to be destroyed to go backwards.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "183",
+   "texto": "It just needs to stop teaching.",
+   "capitulo": "10",
+   "nome_capitulo": "Vinte anos depois",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "184",
+   "texto": "So, would you survive?",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "185",
+   "texto": "Honestly? Probably not the first week.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "186",
+   "texto": "Most people in a disaster this fast don't die because they're weak or stupid.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "187",
+   "texto": "They die because they're in the wrong place, at the wrong time.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "188",
+   "texto": "But if you made it into a zone, and you kept your head down, and you never got a cut infected...",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "189",
+   "texto": "Then your life would look a lot like the lives of most people in human history.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "190",
+   "texto": "Hard work. Simple food. Short nights. Little news from the outside world.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "191",
+   "texto": "Rules made by people you never voted for.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "192",
+   "texto": "And a small group of people you trust.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "193",
+   "texto": "In a way, that's what makes The Last of Us frightening.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "194",
+   "texto": "It's not that the world becomes something new.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "195",
+   "texto": "It's that the world goes back to something very, very old.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "196",
+   "texto": "And here's the last thing the real fungus can teach us.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "197",
+   "texto": "The zombie ant fungus works because the ant stops behaving like part of its colony.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "198",
+   "texto": "It leaves the others, and walks away alone.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "199",
+   "texto": "In the story, the fungus never wins because it's smart.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "200",
+   "texto": "It wins every time people stop trusting each other.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "201",
+   "texto": "Maybe that's the real survival skill.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "202",
+   "texto": "Not the gun. Not the gas mask.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "203",
+   "texto": "Each other.",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "204",
+   "texto": "If you liked this, tell me in the comments: how long do you think you'd last?",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "205",
+   "texto": "And which \"ordinary life\" should we live through next?",
+   "capitulo": "11",
+   "nome_capitulo": "Então, você sobreviveria?",
+   "bloco": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false
+  }
+ ]
+}

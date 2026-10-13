@@ -1,0 +1,12 @@
+abertura 63 s 27.2 s de geração
+calendario 139 s 60.2 s de geração
+manha 134 s 105.3 s de geração
+pao 117 s 90.3 s de geração
+rua 88 s 75.2 s de geração
+trabalho 68 s 78.5 s de geração
+almoco 76 s 81.3 s de geração
+tarde 58 s 78.4 s de geração
+carrocas 71 s 78.3 s de geração
+lavoisier 146 s 109.1 s de geração
+noite 72 s 78.2 s de geração
+fecho 106 s 84.3 s de geração

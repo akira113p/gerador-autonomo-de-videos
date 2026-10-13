@@ -1,0 +1,1643 @@
+{
+ "titulo": "What Would YOUR Life Be Like as a Medieval Peasant?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "Imagine a job where your boss takes three days of your week, unpaid.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "002",
+   "texto": "And if your daughter wants to get married, you pay him a fee.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "003",
+   "texto": "And when you die, he comes to your house and takes your best animal.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "004",
+   "texto": "Welcome to England, around the year thirteen hundred.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "You are a peasant, and this is your life.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "Maybe you picture a muddy person, working every single day, and dead by thirty.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "007",
+   "texto": "Some of that is true. A surprising amount of it is myth.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "008",
+   "texto": "Did the lord really get to spend the wedding night with your bride?",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "009",
+   "texto": "Did peasants really work only a hundred and fifty days a year?",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "010",
+   "texto": "Today, we'll live one full year in an English village, from harvest to harvest.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "We'll plough, sow, reap, pay, and get fined.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "And at the end, we'll meet the disaster that hit your village hardest, and strangely helped your grandchildren.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o que o senhor leva)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "First, you need a name. Let's call you Hugh.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "014",
+   "texto": "And Hugh is not completely made up.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "015",
+   "texto": "In 1279, King Edward the First sent officials around England to write down who held what.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "016",
+   "texto": "In a village called Alwalton, they wrote down a man named Hugh Miller.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "He was a villein, which means he held land from a lord, in return for work.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "018",
+   "texto": "His holding was a virgate, which in Alwalton meant twenty-five acres.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "019",
+   "texto": "That sounds like a nice big farm. It wasn't one piece.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "Your land came as narrow strips, scattered across the village fields, mixed in with your neighbors' strips.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "Hugh was in the middle of the pack. Alwalton had eighteen villeins with a full virgate, and five with half.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "022",
+   "texto": "Below them, a crowd of cottagers, with a hut and a tiny plot.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "England then had somewhere between four and a half and six million people. Historians still argue about it.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "024",
+   "texto": "Most of them lived in the countryside, in villages like this one.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "Above you sat the lord. In Alwalton, that was the abbot of Peterborough.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "His estate was called a manor. And on a manor, the lord is landlord, boss, and judge, all at once.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "Think of your village as a small company, where nobody asked you to sign the contract.",
+   "capitulo": "1",
+   "nome_capitulo": "Quem é você",
+   "bloco": "aldeia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "028",
+   "texto": "Our year begins on the twenty-ninth of September, Michaelmas.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "029",
+   "texto": "The harvest is in. The lord's officials are adding up the year's accounts.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "The villagers choose a reeve, one of your own neighbors, to boss the farm work.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "Today, Hugh also owes a payment called tallage.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "032",
+   "texto": "The amount is whatever the abbot decides.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "033",
+   "texto": "Now you can start ploughing for winter wheat. In your own fields, right?",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "034",
+   "texto": "Not so fast. First, you work for the lord.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "Hugh owes the abbot three days of work, every single week of the year.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "He gets exactly three weeks off, at Christmas, Easter, and Whitsun.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "037",
+   "texto": "In autumn it gets worse. He must send two men a day.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "On some manors, the lord at least feeds you during that work.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "So you plough your own strips on the other days, whenever the weather and the oxen agree.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Ploughing is slow. Walter of Henley's handbook for estate managers says a team does three and a half roods a day.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "A rood is a quarter of an acre. So, less than one acre a day.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "042",
+   "texto": "Walter loves oxen. He says horses cost more to keep.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "Then comes the seed. Walter says you need at least two bushels of wheat for every acre.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "044",
+   "texto": "And he warns: if your harvest is only three times the seed, you gain nothing, unless grain sells well.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "045",
+   "texto": "So farming is a bet. You throw grain on the ground, and hope the weather pays you back.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "A prayer book made for a rich knight, around thirteen thirty, shows ploughing with oxen, harrowing, and the lord's mill.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "It's one of the best pictures we have of ordinary people from this time, drawn in the margins of a book for the elite.",
+   "capitulo": "2",
+   "nome_capitulo": "Michaelmas: o ano começa",
+   "bloco": "outono",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "By December, the fields are quiet. Time to go home.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Hugh's house is small, with one or two rooms.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "In some regions, the animals live in the same building.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "At Houndtor, on Dartmoor, archaeologists excavated a longhouse from the thirteenth century.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "052",
+   "texto": "People and cattle came in through the same door.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "The frame is wood. The walls are woven sticks plastered with mud. The roof is thatch.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "In the middle of the floor, there's a fire. It almost never goes out.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "There's no chimney. The smoke just drifts up and finds its way out through the roof.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "Your house is also your smokehouse. Congratulations.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "057",
+   "texto": "For a long time, historians thought houses like these fell apart within a generation.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "But later medieval houses survive in their thousands, so many were sturdier than we imagined.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "When the sun goes down, so does most of your day.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "At Christmas, Hugh finally gets his week off from the abbot's work.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "The church gives you more days off too. Sundays, and a long list of saints' days.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "062",
+   "texto": "In winter, you thresh the grain, repair your tools, and mend your fences. Nothing glamorous.",
+   "capitulo": "3",
+   "nome_capitulo": "Inverno: a casa",
+   "bloco": "inverno",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "Spring begins with a strange date: the twenty-fifth of March, Lady Day.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "064",
+   "texto": "In England, that was New Year's Day. The legal year started in March, not January.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "065",
+   "texto": "And it stayed that way until seventeen fifty-two.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "066",
+   "texto": "Now you sow the spring crops: barley, oats, and peas.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "Then comes Lent, forty days without meat.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "068",
+   "texto": "And here's a little secret of farming: spring is hungry.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "Last year's grain is running out. This year's grain isn't ripe yet.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "070",
+   "texto": "Cottagers feel it the hardest, with a tiny plot and no reserves.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "071",
+   "texto": "At the time, people believed a farthing a day, the price of a loaf, could keep a person alive.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "072",
+   "texto": "A farthing is a quarter of a penny.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "073",
+   "texto": "Then Easter arrives, and Hugh's gift to the abbot is on the list.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "Three hens, a rooster, and five eggs.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "075",
+   "texto": "Happy Easter, from your landlord.",
+   "capitulo": "4",
+   "nome_capitulo": "Primavera: Lady Day e a fome",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "So, what do you eat?",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "Mostly grain. Around thirteen hundred, up to eighty percent of a harvest worker's calories came from it.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "078",
+   "texto": "Grain shows up in three ways: bread, pottage, and ale.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "079",
+   "texto": "Bread is dark and heavy, often made from barley or rye, not fine white wheat.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "080",
+   "texto": "Pottage is a thick stew, boiled with grain, peas, and vegetables, and maybe a scrap of bacon.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "Ale is brewed from barley, and it spoils fast. So somebody is always brewing.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "Who? Usually women. Historian Judith Bennett found that women brewed and sold most of England's ale.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "Meat is rare. A fattened pig can give you bacon for the winter.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "In the thirteenth century, harvest workers were given much bread, some cheese, and only small amounts of ale, fish, and meat.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "085",
+   "texto": "And those workers ate better than most peasants.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "086",
+   "texto": "So next time you complain about your sandwich, think of Hugh's lunch: bread, with a side of bread.",
+   "capitulo": "5",
+   "nome_capitulo": "A mesa: pão, sopa e cerveja",
+   "bloco": "primavera",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "Then comes August, and the harvest.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "This is the moment that decides your whole year.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "089",
+   "texto": "Everybody helps. Wife, children, neighbors. All day, in the heat.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "The grain is cut by hand, with a sickle, bent over, row after row.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "And remember, the abbot gets two of your workers a day in autumn.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "His grain gets cut first. Yours waits for the weather.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "Then the sheaves are stacked, carried, threshed, and stored.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "And now, the big myth. \"Medieval peasants worked only a hundred and fifty days a year.\"",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "095",
+   "texto": "You've probably heard it. It spread from a popular book in the early nineteen-nineties, and it used the lowest numbers it could find.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "Economist Gregory Clark looked again, and found that medieval farm workers worked at least about two hundred and fifty days a year.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "097",
+   "texto": "Another study found that a farmer needed around three hundred days of work to feed a family before the Black Death.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "098",
+   "texto": "So no. You do not have half the year off.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "You get Sundays, a pile of saints' days, and three weeks free from the abbot.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "100",
+   "texto": "If the weather was kind, you'll eat this winter. If not, keep watching until the end.",
+   "capitulo": "6",
+   "nome_capitulo": "Verão e colheita",
+   "bloco": "colheita",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "Every three or four weeks, the whole village has to show up for court.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "It's called the manor court. Think of it as a neighborhood meeting, where you can be fined.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "The fines are called amercements.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "104",
+   "texto": "And everything is written down, on parchment rolls.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "Some of these rolls survive. We can read what people actually got fined for.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "In Morden, near London, in October thirteen ninety-nine, the court's ale-tasters reported brewers who broke the assize.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "Their punishment was two pence per brew.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "108",
+   "texto": "Others were fined for breaking the lord's hedges, or for trespassing on a neighbor's land.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "In 1406, one man simply left the village. The court seized his empty land for the lord.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "Judith Bennett found that this ale fine worked more like a licence. Most brewers were fined, whether they cheated or not.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "111",
+   "texto": "So the \"fine\" was basically the price of a permit.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "112",
+   "texto": "And who judged all this? Mostly tenants. People like you.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "So when you complain about the lord's court, remember that your neighbors help run it.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "And if you hate it all, you can run. Some villeins fled to towns.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "A custom in many towns said that if a villein lived there for a year and a day, he became free.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "But he had to stay hidden, and not be dragged back, for that whole year.",
+   "capitulo": "7",
+   "nome_capitulo": "Dia de tribunal",
+   "bloco": "tribunal",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "117",
+   "texto": "Let's add up Hugh's bills.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "To the lord: three days of work a week, tallage, hens, and eggs.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "119",
+   "texto": "If your daughter marries, you pay merchet.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "Now, about that myth. Yes, merchet was about marriage. No, it wasn't what the movies say.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "121",
+   "texto": "Historians have found no evidence that a \"right of the first night\" ever existed as a law in medieval Europe.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "122",
+   "texto": "Merchet was a fine, a payment to the lord, perhaps for losing a worker.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "123",
+   "texto": "Less movie, more tax form.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "124",
+   "texto": "When you die, your family owes the lord a heriot.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "That's usually your best animal.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "Then the church takes the second best. That's called a mortuary.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "Your family has just lost a person, and also two animals.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "And all year, the church takes a tenth of what you grow. That's the tithe.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "A tenth of your grain, paid in grain.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "130",
+   "texto": "Do the math. Half of Hugh's working week goes to the abbot.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "131",
+   "texto": "Plus a tenth of his harvest to the church.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "132",
+   "texto": "And whatever is left has to feed a family, and pay for seed.",
+   "capitulo": "8",
+   "nome_capitulo": "As contas",
+   "bloco": "contas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "Hugh isn't doing this alone. Let's give him a wife. Her name is Alice.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "Alice works the fields, cooks, raises the children, and probably brews the ale.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "Everybody works, children too.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "A coroner's record mentions a ten-year-old boy hurt while chopping vegetables in a manor kitchen.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "Historian Jeremy Goldberg estimated that one in ten rural people over fourteen worked as a servant.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "138",
+   "texto": "Now, school. Can your son learn to read? Maybe. But not for free.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "A villein needed the lord's permission to send a child to school.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "In 1339, in Winslow, Richard Ponteys was fined three pence for sending his son Geoffrey to school without a licence.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "Three pence for a school without paperwork. Bureaucracy is older than you think.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "142",
+   "texto": "Some lords did give permission. At Norton, there were seventeen licences between 1300 and 1348.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "143",
+   "texto": "Why would a lord care? My guess: a schooled son is a worker who might leave.",
+   "capitulo": "9",
+   "nome_capitulo": "Alice, as crianças e a escola",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "So, how long do you live?",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "You've heard that people died at thirty.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "146",
+   "texto": "That's a statistic about birth, not about adults.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "Estimates for landholding families put life expectancy at birth around thirty-one.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "148",
+   "texto": "But so many children died young that they dragged the average down.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "149",
+   "texto": "Those who survived childhood often reached middle age, and beyond.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "Not that you'd be in good shape. No antibiotics, no vaccines, and not much help when you got sick.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "And what do you actually own?",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "Here's a real list. In the thirteen-forties, a coroner's roll in Derbyshire listed the goods of a man named John Fox.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "A house and ten acres. A mare and her colt. Some cattle, sheep, and a pig.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "A brass pot. A pan. Two chests. And some oats.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "That's a man with land.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "Historians warn that lists like this leave things out.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "But the picture is clear. Your net worth is a house, some land, and a pot.",
+   "capitulo": "10",
+   "nome_capitulo": "Quanto você vive, e o que você tem",
+   "bloco": "familia",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "158",
+   "texto": "So, how does Hugh's year end?",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "If he's lucky, with enough grain. If he's unlucky, like in 1315, it starts with rain.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "In the spring of 1315, heavy rain began in England, and it kept falling.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "The grain couldn't ripen. The hay couldn't dry. Food prices shot up.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "The harvest failed in 1315, and again in 1316.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "163",
+   "texto": "People ate the seed grain. And a smaller harvest came next year.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "A few years later, a cattle plague killed more than half of England's cattle, by one estimate.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "165",
+   "texto": "Your oxen were your tractors. So that hurts twice.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "Then, in 1348, the Black Death arrives.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "167",
+   "texto": "Historians estimate that a third to a half of the English died.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "168",
+   "texto": "Villages like Alwalton would have lost many of their neighbors.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "And then comes the part nobody expects. Suddenly, there were too few workers and plenty of land.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "Lords needed workers. Workers wanted more pay. Wages rose.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "In 1351, Parliament passed the Statute of Labourers: wages must stay at pre-plague levels.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "172",
+   "texto": "It largely failed.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "173",
+   "texto": "Over time, lords turned work into cash rent, and villeinage faded.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "174",
+   "texto": "And in 1381, peasants marched on London, furious about a new poll tax.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "Here's my take. In 1300, the lord was not your biggest boss. The weather was.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "Too many people, too little land, and rain you couldn't argue with.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "177",
+   "texto": "The weak spot of the Middle Ages wasn't kings. It was the thin margin between a harvest and a famine.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "178",
+   "texto": "And it took a catastrophe to finally give people like Hugh some leverage.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "179",
+   "texto": "That's a grim kind of progress.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "180",
+   "texto": "Hugh never saw it. But his grandchildren might have.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "So next time you complain about taxes, remember Hugh, who gave half his working week to the abbot.",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "If you enjoyed this year in the countryside, tell me in the comments: which life in history should we live next?",
+   "capitulo": "11",
+   "nome_capitulo": "A chuva",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

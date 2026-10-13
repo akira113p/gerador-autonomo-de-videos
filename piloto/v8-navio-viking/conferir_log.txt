@@ -1,0 +1,178 @@
+001 DIF It's the summer of the year 985.
+002 DIF You're a farmer in Western Iceland and things are not going great.
+003 OK  
+004 DIF He's known as Eric the Red. He has big plans and a few killings in his past.
+005 OK  
+006 OK  
+007 OK  
+008 OK  
+009 OK  
+010 OK  
+011 OK  
+012 DIF Erik Torvaldsson, called Erik the Red, was born in Norway.
+013 OK  
+014 DIF Eric did not learn the lesson.
+015 OK  
+016 DIF Eric sailed west to see what was out there.
+017 OK  
+018 OK  
+019 OK  
+020 OK  
+021 OK  
+022 OK  
+023 OK  
+024 DIF and it worked. In the year 985 or 6, a fleet of 25 ships sets out, carrying families.
+025 DIF Only 14 make it. We'll get to the other 11.
+026 OK  
+027 OK  
+028 OK  
+029 DIF Written sources say only one type of ship sailed to Greenland, the Nair.
+030 DIF The Nair is a cargo ship. It's wider than a warship and built to carry loads.
+031 DIF The best preserved one we have is called Skuldelev 1, built in Norway around the year 1030.
+032 DIF The Viking Ship Museum in Denmark built a replica named Otter.
+033 DIF It's about 50 feet long and 16 feet wide, and a crew of 6 to 15 can sail it.
+034 OK  
+035 OK  
+036 DIF Now put 30 or 40 people on it. The sagas describe whole families moving together.
+037 OK  
+038 OK  
+039 OK  
+040 OK  
+041 OK  
+042 OK  
+043 DIF In Denmark, the museum rebuilt one. It's called the Sea Stallion from Glendalock.
+044 OK  
+045 DIF It's 30 meters long, almost 100 feet, with 60 oars and less than 4 meters wide.
+046 DIF In 2007, a crew of 65 sailed it from Denmark to Dublin, in seven weeks.
+047 DIF When the wind died, a support boat towed it more than 500 kilometers.
+048 OK  
+049 DIF The Gugstad ship, found in Norway in 1880, is smaller, about 80 feet, with 32 oars.
+050 DIF In 1893, Norwegians built a copy and sailed it across the Atlantic to Chicago.
+051 DIF The captain recorded speeds of 10 to 11 knots.
+052 DIF That's about 12 miles an hour without a single engine.
+053 OK  
+054 DIF So long ships were for speed, for rivers, and for surprise.
+055 DIF Nairs were for moving house.
+056 OK  
+057 OK  
+058 OK  
+059 DIF A medieval Icelandic book, the Lahant Namha Bok, includes sailing instructions.
+060 OK  
+061 OK  
+062 DIF You should be so far from the firos that you see only half of the hills.
+063 OK  
+064 OK  
+065 OK  
+066 OK  
+067 OK  
+068 OK  
+069 DIF In 2011, researchers showed a crystal called Iceland's spark can find the sun's direction even through clouds.
+070 OK  
+071 OK  
+072 DIF Fog is worse. A man named Bjarne Hare Yulfsen was sailing to Greenland when fog and wind pushed his ship off course for days.
+073 OK  
+074 OK  
+075 OK  
+076 DIF The Ruskilda Museum says seafood was porridge, flour, dried fish, butter, and bread.
+077 OK  
+078 OK  
+079 OK  
+080 OK  
+081 OK  
+082 OK  
+083 OK  
+084 OK  
+085 OK  
+086 DIF One sailor said that after 18 hours he was so cold and wet he wanted to quit.
+087 OK  
+088 DIF Then there's seasickness. On a trial trip to Norway, the sea stallion's nurse recorded almost 30 cases.
+089 DIF 8 in 10 crew members felt nauseous, mostly in moderate winds.
+090 OK  
+091 OK  
+092 DIF Of the 25 ships that left Iceland, only 14 reached Greenland.
+093 OK  
+094 OK  
+095 OK  
+096 OK  
+097 DIF But you're lucky, you're on one of the 14.
+098 OK  
+099 OK  
+100 DIF Eric's own farm is called Brattleeth, which means steep slope. It's the center of the colony.
+101 DIF At its peak, the main settlement had about 500 farms.
+102 DIF A second one farther north had around 90.
+103 OK  
+104 OK  
+105 DIF In Eric the Red's saga, a fever breaks out on a farm in Greenland.
+106 OK  
+107 OK  
+108 OK  
+109 DIF DNA studies suggest Greenland had a near monopoly on Europe's walrus ivory for over 200 years.
+110 DIF In the 1120s, Greenlanders reportedly used ivory to get their own bishop from the king of Norway.
+111 OK  
+112 OK  
+113 OK  
+114 OK  
+115 DIF And yes, raids happened. In 793, raiders hit the monastery on Lindisfarne in England.
+116 OK  
+117 OK  
+118 OK  
+119 DIF Around the year 922, an Arab envoy named Ibn Fadlan met a group of traders called the Rus on the Volga River.
+120 OK  
+121 OK  
+122 OK  
+123 OK  
+124 OK  
+125 OK  
+126 OK  
+127 OK  
+128 OK  
+129 OK  
+130 DIF Back to Greenland and to Eric's family.
+131 DIF According to the sagas, Eric's son Leif goes to Norway around the year 1000.
+132 OK  
+133 OK  
+134 DIF Then Leif wants to find the lands Byarni saw in the fog.
+135 DIF On the way to the ship, Eric's horse stumbles and he falls.
+136 OK  
+137 OK  
+138 DIF Leif sails with about 35 men.
+139 DIF The sagas say they find wild wheat and grape vines and call the land Vinland.
+140 DIF Later, another expedition follows, led by Carlsevny, 60 men and 5 women.
+141 OK  
+142 OK  
+143 OK  
+144 OK  
+145 DIF Then in 1960, a Norwegian explorer Helge Ingstad and his wife, the archaeologist Ann Stein Ingstad, found a site called Lance O' Meadows in Newfoundland, Canada.
+146 OK  
+147 DIF In 2021, scientists used a solar storm recorded in tree rings to date cut wood from the site.
+148 DIF The result, the trees were cut in the year 1021 with metal tools.
+149 OK  
+150 OK  
+151 OK  
+152 OK  
+153 DIF Myth 1. Horned Helmets
+154 DIF The horns come from a costume designer, Carl Emil Doppler, who added them to Viking characters in Wagner's opera in 1876.
+155 DIF The best preserved Viking helmet we have from a grave in Yermumunbu, Norway, is a plain round iron cap. No horns.
+156 OK  
+157 DIF Myth 2, Drinking from Skulls
+158 DIF A 17th century scholar misread a line of Old Norse poetry that meant drinking horns and thought it meant skulls.
+159 OK  
+160 OK  
+161 DIF They were written down in the 13th century by Christian Icelanders.
+162 DIF That's more than 200 years after your trip.
+163 OK  
+164 OK  
+165 OK  
+166 DIF You didn't cross to conquer anyone, you cross to farm.
+167 OK  
+168 OK  
+169 OK  
+170 OK  
+171 OK  
+172 OK  
+173 OK  
+174 DIF No Greenland tusks are known to have reached Europe after 1327.
+175 DIF By the end of the 15th century, the Norse in Greenland had vanished.
+176 DIF Eric's sales pitch lasted about 500 years.
+177 OK  
+178 OK  

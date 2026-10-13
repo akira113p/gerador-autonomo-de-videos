@@ -1,5 +1,45 @@
 # Decisões do canal
 
+## 2026-10-11 · Vídeos 3, 4 e 5: roteiros propostos; vídeo 3 com imagens de IA na nuvem
+- Decisão: três roteiros novos em `piloto/propostas/` (A: The Last of Us, B: previsões de 1900, C: um dia na Revolução Francesa), com fatos checados em `pesquisa/checagem-3-roteiros-propostos.md`. O vídeo 3 (The Last of Us) vira `piloto/v3-last-of-us/`. Os vídeos 4 e 5 têm só a pasta e o roteiro; ainda não foram gerados.
+- Fluxo testado no vídeo 3: **imagens no ChatGPT (plano Go) pelo navegador**, voz local (Qwen3-TTS, voz narrador-leve), jazz do 741Hz em trecho diferente do vídeo 2 (`preparar_jazz.py`, começa na faixa 3), montagem local (`montar.py`) e envio **privado** ao YouTube.
+- Aprendizados (para não repetir): (1) o ChatGPT Go tem **limite diário de imagens (~150 por dia)**, depois "redefinido em 22 horas"; (2) a imagem de referência anexada (`referencia_estilo.jpg`, feita de cenas do vídeo 2) segura bem o estilo, mas cenas com palavras como "gritty" saem escuras e realistas; (3) o Chrome só deixa baixar vários arquivos de um site com **"Downloads automáticos" liberado** (`chrome://settings/content/automaticDownloads`); (4) aba em segundo plano roda lenta; o Gemini nem termina de renderizar a imagem se a janela do Chrome está coberta; (5) o Gemini recusa imagem anexada como referência ("não consigo editar imagens ainda"), então só serve com a descrição do estilo em texto.
+- Plano de contingência (pedido do usuário): ChatGPT, depois Gemini, depois outra conta, depois as imagens locais (Z-Image, `gerar_local.py`).
+- Motivo: pedido do usuário para testar outro fluxo de imagens.
+- Substitui: o fluxo só local do vídeo 2 (ComfyUI), para o vídeo 3.
+
+## 2026-10-10 · Nome do canal: Pocket History
+- Decisão: o canal se chama **Pocket History**. Identidade visual: o personagem romano com coroa de louros espiando de dentro de um bolso mostarda, fundo turquesa, título em amarelo Impact com contorno preto. Arquivos em `identidade/pocket-history/` (perfil_1/3, banner_1/3).
+- Motivo: escolha do usuário entre 10 sugestões ("o nome vai ser Pocket History"). Disponibilidade do nome, do @handle e do domínio ainda não conferida.
+- Substitui: nome do canal pendente.
+
+## 2026-10-10 · Edição: música que muda ao longo do vídeo e imagem sem zoom
+- Decisão: a trilha tem que ser dinâmica e leve e mudar ao longo do vídeo (não um loop único). As imagens ficam paradas, sem zoom in/out (sai o zoompan do `montar.py` do piloto).
+- Motivo: pedido do usuário para o primeiro vídeo de 20 min: "musicas mais dinamicas e leves, q mudam com o longo do video, e sem ficar dando zoom in e zoom out".
+- Substitui: zoom lento alternado e música única de lira do piloto v1.
+
+## 2026-10-10 · Música do vídeo 2: jazz leve do mix "No Copyright Royalty Free 12 hours JAZZ" (741Hz)
+- Decisão: trocar as trilhas do ACE-Step pelas músicas de https://www.youtube.com/watch?v=HqPsROn8e8k. "Dinâmico e leve" = esse tipo de jazz. O mix de 12 h é a mesma sequência de ~1000 s (6 faixas) repetida; o vídeo usa a sequência contínua, nivelada por faixa. Versão em `video_v2_jazz.mp4`; a versão ACE-Step (`video_v2.mp4`) fica guardada.
+- Motivo: pedido do usuário ("recorte as musicas desse video e substitua").
+- Risco registrado: o canal 741Hz não informa artista, faixa nem licença; "No Copyright" no título não é licença. Pode gerar reivindicação do Content ID (perda de monetização). Subir como "não listado" e conferir o Studio antes de tornar público.
+- Substitui: música ACE-Step do vídeo 2 (para esta versão). Contraria a regra "música só biblioteca livre ou local" do CLAUDE.md.
+
+## 2026-10-10 · Vídeo 2: "What Did Ancient Romans Actually Do All Day?"
+- Decisão: o primeiro vídeo longo é um dia em Roma (c. 90 d.C.) hora a hora, com o poema 4.8 de Martial como espinha. Roteiro em `piloto/v2-dia-em-roma/roteiro.md`, checado em fonte primária (`pesquisa/roteiro-dia-em-roma-checagem.md`). Música gerada localmente com ACE-Step 1.5 turbo (uma trilha por bloco de capítulos).
+- Motivo: "pode começar a gerar" (aprovação do tema e do roteiro).
+- Substitui: —
+
+## 2026-10-10 · Primeiro vídeo longo: ~20 min
+- Decisão: o primeiro vídeo completo do canal tem ~20 min, com tema e roteiro aprovados pelo usuário antes da geração, e thumbnail feita junto.
+- Motivo: pedido do usuário.
+- Substitui: piloto de ~5 min (para este vídeo).
+
+## 2026-10-09 · Voz do canal: L6_sereno_leve
+- Decisão: a voz do canal é a **L6_sereno_leve** (Qwen3-TTS VoiceDesign, usada em produção por clone do modelo Base). Referência em `identidade/narrador-leve/` (`narrador_ref.wav`, `narrador_ref.txt`, `narrador.json` com a descrição completa). O britânico grave e o professor idoso continuam salvos como alternativas. As 5 variações de carisma (V1 a V5) ficam só como teste, em `C:/ai-local/piloto/vozes-qwen/variacoes-l6/`.
+- Motivo: "eu queria uma voz mais leve, mas que não parecesse IA" e "a última foi a mais humana". Sobre as variações: "vamos manter a L6_sereno_leve".
+- Substitui: o papel de voz principal do britânico grave (decisão de 2026-10-09 acima).
+- Ressalva: a naturalidade foi avaliada em amostras de ~15 s do modo design. Ainda não foi testada no clone em trecho longo.
+
 ## 2026-10-09 · Narrador: britânico grave (Qwen3-TTS)
 - Decisão: o canal tem duas vozes salvas, criadas com Qwen3-TTS VoiceDesign e usadas em produção por clone (modelo Base): "britânico grave" (`identidade/narrador/`, principal) e "professor idoso" (`identidade/narrador-professor/`). Papel de cada uma no vídeo: pendente.
 - Motivo: escolha do usuário entre 6 perfis gerados ("mantenha a voz do britânico grave", "coloque o professor idoso também").

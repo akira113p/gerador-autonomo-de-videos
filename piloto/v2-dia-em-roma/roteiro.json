@@ -1,0 +1,2111 @@
+{
+ "titulo": "What Did Ancient Romans Actually Do All Day?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "Your alarm goes off at six thirty.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "You check your phone, and your whole day is already cut into little boxes.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "Meetings. Deadlines. Lunch at twelve sharp.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "004",
+   "texto": "Now rewind about nineteen hundred years, to the biggest city in the Western world.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "005",
+   "texto": "Rome, around the year 90 AD. Somewhere between half a million and a million people. Nobody knows exactly.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "Nobody there owns a clock that ticks.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "007",
+   "texto": "And yet a Roman poet left us something remarkable: a schedule.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "In a short poem, the poet Martial laid out how a day in Rome was spent, hour by hour.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "009",
+   "texto": "So let's borrow his schedule, and live one ordinary day in ancient Rome.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "From the first hour, to the last.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o presente)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "But first, a problem. What exactly is an hour in Rome?",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "For the Romans, daytime ran from sunrise to sunset, and it was always divided into twelve hours.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "013",
+   "texto": "Always twelve. No matter the season.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "014",
+   "texto": "So in June, when days are long, one Roman hour lasted about seventy-five of our minutes.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "015",
+   "texto": "In December, it shrank to about forty-five.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "016",
+   "texto": "Your lunch break literally got shorter in winter.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "To tell the time, Romans looked at the sun.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "And for a long time, they did it badly.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "019",
+   "texto": "According to Pliny the Elder, the first public sundial in the Roman Forum was war loot, brought back from Catania, in Sicily, in 263 BC.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "There was one small problem. Catania is much further south than Rome.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "So the lines on the dial didn't match the hours in Rome.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "Pliny says the Romans kept following that wrong sundial for ninety-nine years.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "And not everyone loved sundials, even the accurate ones.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "024",
+   "texto": "In an old Roman comedy, a hungry character curses the man who invented hours.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "\"May the gods destroy the man who first discovered the hours,\" he says, \"and who set up a sundial here, and chopped my day into little pieces.\"",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "When he was a boy, he says, his belly was his sundial.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "027",
+   "texto": "He ate whenever he was hungry. Now he eats when the sun allows it.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "In 159 BC, Rome finally got a water clock, which measured the hours with flowing water, even at night and on cloudy days.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "029",
+   "texto": "But most people simply looked at the sky, and listened to the city.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "And the city was loud.",
+   "capitulo": "1",
+   "nome_capitulo": "O que era uma hora em Roma",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "Our Roman wakes up before sunrise, in a rented room on the third floor of an apartment block.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "032",
+   "texto": "The Romans called these blocks insulae: islands.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "They were tall, crowded, and often badly built.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "034",
+   "texto": "According to the geographer Strabo, Emperor Augustus limited their height to seventy feet, about twenty-one meters.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "The satirist Juvenal joked that Rome was a city held up by thin wooden props.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "Collapses and fires were a constant fear.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "037",
+   "texto": "But the everyday enemy was noise.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "By law, most wagons were banned from the city streets from sunrise until the last two hours of daylight.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "039",
+   "texto": "So deliveries rolled through the narrow streets at night.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "Juvenal complains that in Rome, a good night's sleep costs a fortune.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "And that many sick people in the city die simply from lack of sleep.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "There is no running water in our Roman's room.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "Water comes from a public fountain down the street, carried up the stairs in a jar.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "And the toilet? For many people, a chamber pot. Or a walk to a public latrine.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "045",
+   "texto": "Getting dressed is quick: a simple wool tunic, belted at the waist.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "If he is a citizen with business to do, he also puts on a toga.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "A huge, heavy woolen sheet, very hard to drape properly without help.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "Then he steps out into the street, and into the crowd.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Juvenal describes it: a wave of people in front, a mass of people pushing from behind.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "One man jabs you with his elbow, another with a pole. Someone bangs a beam into your head, someone else a wine jar.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "Your legs are caked with mud, big feet tread on you from every side, and a soldier's hobnail sticks into your toe.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "052",
+   "texto": "On his way, he passes the fountain, full of water that has traveled for miles.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "Rome was fed by aqueducts, channels that brought fresh water from the hills, mostly underground and on huge arches.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "The man in charge of them, Frontinus, was very proud of his job.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "He wrote: compare these, if you will, with the idle pyramids, or the useless, though famous, works of the Greeks.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "Roman engineers were not modest people.",
+   "capitulo": "2",
+   "nome_capitulo": "Acordar numa insula (antes da primeira hora)",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "Breakfast was small: some bread, perhaps with cheese, olives or a little salt.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "058",
+   "texto": "And many people simply bought it on the street.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "Martial wrote a two-line poem about it.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "\"Get up! The baker is already selling breakfast to the boys, and the crested birds of dawn are singing everywhere.\"",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "Those boys were on their way to school.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "And school started early. Very early.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "Martial lived near a schoolmaster, and he hated him.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "\"The crested roosters haven't even broken the silence,\" he wrote, \"and you're already thundering with savage shouting and beatings.\"",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "Lessons often happened in a shop or under a porch, open to the street.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "So the whole neighborhood heard every mistake.",
+   "capitulo": "3",
+   "nome_capitulo": "Café da manhã e escola",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "Now the first hour begins. And Martial tells us exactly what happens.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "068",
+   "texto": "\"The first and second hour wear out the people paying their morning calls.\"",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "069",
+   "texto": "This was the salutatio, the morning greeting.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "070",
+   "texto": "Rome ran on a system of patrons and clients.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "071",
+   "texto": "A rich patron protected his clients, and helped them with money, jobs and legal trouble.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "In return, the clients gave him something every rich Roman wanted: a crowd.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "So every morning, clients in their togas lined up at his door to wish him good morning.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "The bigger the crowd at your door, the more important you looked.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "The clients were often rewarded with a small handout, called the sportula: the little basket.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "Originally it was food. By Martial's time, it was usually cash.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "Martial and Juvenal both name the amount: a hundred quadrantes.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "078",
+   "texto": "The quadrans was the smallest copper coin in Rome. Keep it in mind. It will come back later.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "079",
+   "texto": "After the greeting, the clients might follow their patron to the Forum, like a walking advertisement.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "Martial spent years doing this, and complained about it constantly.",
+   "capitulo": "4",
+   "nome_capitulo": "Primeira e segunda hora: a salutatio",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "\"The third hour,\" says Martial, \"keeps the hoarse lawyers busy.\"",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "Trials were held in the open, in the forums and in the great basilicas.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "And the speeches were timed. With water clocks.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "Pliny the Younger, a lawyer and senator, wrote that in one big trial before the Senate he spoke for almost five hours.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "He had been given twelve water clocks of speaking time, and four more were added.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "086",
+   "texto": "Big trials drew crowds, like a show.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "Pliny also complained that some speakers hired people to sit in the audience and applaud.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "Paid applause. Two thousand years before the laugh track.",
+   "capitulo": "5",
+   "nome_capitulo": "Terceira hora: os tribunais",
+   "bloco": "cidade",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "089",
+   "texto": "\"Until the fifth hour,\" Martial continues, \"Rome stretches out her many kinds of work.\"",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "And most Romans did work. Hard.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "The city was full of tabernae: small shops opening straight onto the street.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "Often, the family that ran the shop lived in a room above it or behind it.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "Bakers, butchers, shoemakers, barbers, blacksmiths, all side by side.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "The barber's shop was a place to sit, shave and catch up on the gossip.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "But Roman barbers had no fine steel safety razors, and some were famously slow.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "Martial wrote about one barber who worked so slowly that, by the time he'd gone round his client's face, a new beard had grown.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "Behind much of this work were people who never appear in Martial's schedule.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "Many of the cooks, porters, bath attendants and shop workers of Rome were enslaved.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "Their day ended when someone else decided it did.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "Some of the busiest workers were the fullers, who washed and finished wool cloth.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "Their secret ingredient was urine.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "102",
+   "texto": "It was collected in jars, then workers standing in tubs stomped it into the cloth with their feet.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "Urine was so valuable that Emperor Vespasian put a tax on it.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "His son Titus found this disgusting.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "So, according to the historian Suetonius, Vespasian held a coin from the first payment under his son's nose, and asked if it smelled.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "Titus said no.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "\"And yet,\" said Vespasian, \"it comes from urine.\"",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "Lunch was quick and light, often eaten standing up.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "And for that, there were street bars.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "In Pompeii, a small town south of Rome buried by Vesuvius in 79 AD, archaeologists have found many of these counters.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "In 2020, they finished excavating one that still had its bright paintings.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "Ducks, a rooster, a dog, and a sea nymph riding a sea horse.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "In the jars set into the counter, they found the remains of duck, pig, goat, fish and snails.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "114",
+   "texto": "Fast food, nearly two thousand years ago.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "And on almost everything, Romans poured garum: a sauce made from fermented fish.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "Pliny the Elder describes it as fish guts and leftover parts, soaked in salt until they turned to liquid.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "117",
+   "texto": "Sounds terrible. But modern fish sauce is made in a very similar way, and you might have some in your kitchen.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "And not every morning was the same.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "Their official calendar didn't run on our seven-day week. It ran on a market cycle of eight days.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "120",
+   "texto": "Every eighth day was the nundinae, market day.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "Farmers came into town to sell their produce, and to hear about new laws.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "Instead of Monday, the Romans had market day.",
+   "capitulo": "6",
+   "nome_capitulo": "Até a quinta hora: o trabalho",
+   "bloco": "mercado",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "123",
+   "texto": "\"The sixth hour,\" says Martial, \"is rest for the tired.\"",
+   "capitulo": "7",
+   "nome_capitulo": "Sexta hora: o descanso",
+   "bloco": "sesta",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "Around midday, the city slowed down. People ate, and many took a nap.",
+   "capitulo": "7",
+   "nome_capitulo": "Sexta hora: o descanso",
+   "bloco": "sesta",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "And that habit left a mark that still exists today.",
+   "capitulo": "7",
+   "nome_capitulo": "Sexta hora: o descanso",
+   "bloco": "sesta",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "The sixth hour, in Latin, is sexta hora.",
+   "capitulo": "7",
+   "nome_capitulo": "Sexta hora: o descanso",
+   "bloco": "sesta",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "127",
+   "texto": "In Spanish, it became siesta.",
+   "capitulo": "7",
+   "nome_capitulo": "Sexta hora: o descanso",
+   "bloco": "sesta",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "\"The seventh,\" Martial says, \"will be the end.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "For many Romans, the working day was over by early afternoon.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "Time to walk around, meet friends, and read the walls.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "131",
+   "texto": "Because Roman walls talked.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "In Pompeii alone, archaeologists have recorded thousands of painted notices and scratched graffiti.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "133",
+   "texto": "There were election posters, painted in big red letters.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "One candidate, Marcus Cerrinius Vatia, was supported by \"all the late drinkers.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "Another poster for him came from \"the little thieves.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "Some historians suspect his rivals painted those ones.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "There were visitors leaving their mark.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "\"Gaius Pumidius Dipilus was here,\" dated to the third of October, 78 BC.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "There was a very honest review, scratched on a wall by a doorway, and addressed to the host.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "\"We wet the bed, host. I admit it, we did wrong. If you want to know why: there was no chamber pot.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "And there was one graffito, found in several places in Pompeii, that says it all.",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "\"I'm amazed, O wall, that you haven't collapsed under the weight of so many boring writers.\"",
+   "capitulo": "8",
+   "nome_capitulo": "Sétima hora: fim do trabalho e os muros que falam",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "\"The eighth hour, until the ninth, belongs to the oiled-up wrestling grounds,\" says Martial.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "144",
+   "texto": "In other words: it's bath time.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "The public baths were the heart of Roman social life.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "And they were cheap. Entry could cost a single quadrans.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "Remember the hundred coins from the morning handout? One of them buys you a bath.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "148",
+   "texto": "First, exercise: running, wrestling, ball games, lifting weights.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "Then the rooms: the warm room, the hot room, and the cold pool.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "And who went to the baths? Almost everyone. Men and women.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "In many baths, they went at different times.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "152",
+   "texto": "A bronze tablet from a Roman mining town in what is now Portugal lists the rules of its baths.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "Women bathe from the first hour to the seventh. Men from the eighth hour until two hours after dark.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "154",
+   "texto": "And the price? Men paid half an as. Women paid a whole as. Double.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "155",
+   "texto": "There was no soap as we know it.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "156",
+   "texto": "Romans covered themselves in oil and scraped it off with a curved metal tool called a strigil.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "Oil, sweat and dirt, all in one go.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "And the baths were loud.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "We know exactly how loud, because the philosopher Seneca once lived right above one.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "He described the noise in a letter.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "The grunts of men lifting lead weights.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "The slap of the masseur's hands on someone's shoulders.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "163",
+   "texto": "A ball player counting his score out loud.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "The man who sings in the bath, because he loves the sound of his own voice.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "165",
+   "texto": "The splash of people jumping into the pool.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "The hair-plucker, shrieking to attract customers, and only going quiet when he made someone else scream instead.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "And the sellers of sausages, pastries and drinks, each with his own special cry.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "168",
+   "texto": "Seneca insisted that a true philosopher could ignore all of this.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "169",
+   "texto": "And then, at the end of the very same letter, he admits he's moving out.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "170",
+   "texto": "The baths also had public latrines: long rows of stone seats, side by side, with no walls between them.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "Instead of toilet paper, Seneca mentions a sponge on a stick, kept in the latrine for wiping.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "172",
+   "texto": "Quite possibly shared.",
+   "capitulo": "9",
+   "nome_capitulo": "Oitava e nona hora: as termas",
+   "bloco": "termas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "173",
+   "texto": "\"The ninth hour,\" Martial writes, \"orders us to crush the piled-up couches.\"",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "174",
+   "texto": "Dinner time. The cena, the main meal of the day.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "175",
+   "texto": "In wealthy homes, guests lay on couches arranged around a low table, three to a couch, leaning on the left elbow.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "A Roman dinner could last for hours.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "The Romans even had an expression for a full meal: from the egg to the apples.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "178",
+   "texto": "Eggs to start. Fruit to finish. And everything in between.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "179",
+   "texto": "And Roman hosts took it personally when you didn't show up.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "180",
+   "texto": "Pliny the Younger once wrote a mock-angry letter to a friend who accepted his dinner invitation and never came.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "He listed everything that went to waste: a lettuce each, three snails, two eggs, olives, beets, onions.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "182",
+   "texto": "And entertainment: a reader, an actor, or a lyre player.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "183",
+   "texto": "Instead, the friend went to another house for oysters, sea urchins and Spanish dancers.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "184",
+   "texto": "Honestly, it's hard to blame him.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "185",
+   "texto": "And in one Roman novel, a ridiculously rich man called Trimalchio has a clock in his dining room.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "186",
+   "texto": "And a trumpeter, to announce how much of his life he has just lost.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "187",
+   "texto": "Even in fiction, the Romans were a little obsessed with time.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "188",
+   "texto": "But most Romans were not rich.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "189",
+   "texto": "Many apartments had no real kitchen. Fire on the third floor of a building held up by props was a terrible idea.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "190",
+   "texto": "So ordinary people ate simply: porridge, bread, beans, vegetables, and cheap wine mixed with water.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "191",
+   "texto": "Or a hot meal from the street bar on the corner.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "192",
+   "texto": "And the tenth hour? Martial has a special plan for it.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "193",
+   "texto": "\"The tenth hour,\" he writes, \"is the hour for my little books.\"",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "194",
+   "texto": "He's hoping the emperor will read his poems at dinner, relaxed, with a cup of wine in his hand.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "195",
+   "texto": "A whole poem about the Roman day, and it ends with a sales pitch.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "196",
+   "texto": "Some things never change.",
+   "capitulo": "10",
+   "nome_capitulo": "Nona e décima hora: o jantar",
+   "bloco": "jantar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "197",
+   "texto": "But this was an ordinary working day. And Rome had a lot of days that were not ordinary.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "198",
+   "texto": "Dozens of days a year were public festivals, many with free shows paid for by the state or by rich politicians.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "199",
+   "texto": "Plays at the theater. Gladiators at the amphitheater.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "200",
+   "texto": "And the biggest show of all: the chariot races at the Circus Maximus.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "201",
+   "texto": "Ancient writers say it held somewhere between a hundred and fifty and two hundred and fifty thousand spectators.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "202",
+   "texto": "The fans were divided into teams, by color: the Reds, the Whites, the Greens and the Blues.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "203",
+   "texto": "Not everyone was a fan. Pliny the Younger spent race days at home, writing, and was proud of it.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "204",
+   "texto": "He couldn't understand why thousands of grown men wanted to watch horses run, again and again.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "205",
+   "texto": "They don't even care about the horses, he wrote. They cheer for a piece of cloth.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "206",
+   "texto": "If the drivers swapped colors in the middle of the race, the fans would swap with them.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "207",
+   "texto": "Sound familiar?",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "208",
+   "texto": "Juvenal had a darker view.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "209",
+   "texto": "The Roman people, he wrote, used to hand out armies and offices.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "210",
+   "texto": "Now they only long for two things: bread, and circuses.",
+   "capitulo": "10b",
+   "nome_capitulo": "Dias de folga: pão e circo",
+   "bloco": "festa",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "211",
+   "texto": "And then, the sun goes down.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "212",
+   "texto": "Rome has no street lights.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "213",
+   "texto": "The streets are pitch dark. Rich men walk home with slaves carrying torches.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "214",
+   "texto": "Juvenal says you'd be foolish to go out to dinner without first writing your will.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "215",
+   "texto": "Because from any open window above you, someone might throw out a broken pot.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "216",
+   "texto": "Or empty something much worse.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "217",
+   "texto": "At night, the streets belong to the wagons, the drunks, and the fires.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "218",
+   "texto": "Augustus created a corps of watchmen, the vigiles, to patrol the dark streets and fight fires.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "219",
+   "texto": "Up in his small room, our Roman lights a clay oil lamp, for a little while.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "220",
+   "texto": "Lamp oil costs money, so the evening is short.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "221",
+   "texto": "He goes to sleep. Down in the street, the wagons start rolling again.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "222",
+   "texto": "And in a few hours, before the roosters, the schoolmaster will start shouting.",
+   "capitulo": "11",
+   "nome_capitulo": "A noite",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "223",
+   "texto": "So, what did ancient Romans do all day?",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "224",
+   "texto": "They worked, mostly in the morning.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "225",
+   "texto": "They networked, every single morning.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "226",
+   "texto": "They ate, gossiped, wrote on walls, and went to the baths, almost every afternoon.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "227",
+   "texto": "And a surprising part of their day is still with us.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "228",
+   "texto": "The English word noon comes from the Latin nona hora: the ninth hour.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "229",
+   "texto": "It once meant mid-afternoon, and over the centuries it slid back to midday.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "230",
+   "texto": "Siesta comes from the sixth hour.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "231",
+   "texto": "And that hungry man in the Roman comedy, cursing the inventor of the sundial?",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "232",
+   "texto": "He sounds a lot like us, staring at a calendar full of meetings.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "233",
+   "texto": "All the sources for this video, from Martial to Seneca to the walls of Pompeii, are in the description.",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "234",
+   "texto": "And tell me in the comments: which Roman hour would you want to live in?",
+   "capitulo": "12",
+   "nome_capitulo": "Fechamento (volta ao presente)",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  }
+ ]
+}
