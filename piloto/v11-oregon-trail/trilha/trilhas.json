@@ -1,0 +1,79 @@
+{
+ "abertura": {
+  "seed": 1950895728,
+  "segundos": 65,
+  "tags": "playful light western documentary underscore, acoustic guitar, banjo plucks, fiddle, soft hand percussion, curious, instrumental",
+  "bpm": 104,
+  "tom": "D major"
+ },
+ "partida": {
+  "seed": 1942340833,
+  "segundos": 78,
+  "tags": "hopeful bright american folk, mandolin, fiddle, upright bass, light shaker, optimistic, instrumental",
+  "bpm": 110,
+  "tom": "G major"
+ },
+ "compras": {
+  "seed": 1322290098,
+  "segundos": 168,
+  "tags": "quirky bustling frontier town music, pizzicato strings, banjo, woodblock, bouncy and playful, instrumental",
+  "bpm": 112,
+  "tom": "C major"
+ },
+ "guia": {
+  "seed": 452482422,
+  "segundos": 64,
+  "tags": "sly mischievous comic underscore, plucked banjo, tuba, muted trumpet, tiptoeing, playful, instrumental",
+  "bpm": 96,
+  "tom": "A minor"
+ },
+ "estrada": {
+  "seed": 179048457,
+  "segundos": 100,
+  "tags": "steady walking rhythm folk, acoustic guitar picking, harmonica, soft snare brushes, rolling plains, continuous groove, instrumental",
+  "bpm": 92,
+  "tom": "E major"
+ },
+ "rios": {
+  "seed": 1587820355,
+  "segundos": 67,
+  "tags": "flowing tense but light underscore, fiddle, soft strings, gentle tom drums, rippling guitar, instrumental",
+  "bpm": 88,
+  "tom": "D minor"
+ },
+ "colera": {
+  "seed": 224694913,
+  "segundos": 91,
+  "tags": "somber restrained documentary underscore, low cello, sparse soft piano, quiet, serious, instrumental",
+  "bpm": 62,
+  "tom": "C minor"
+ },
+ "mito": {
+  "seed": 1569280635,
+  "segundos": 82,
+  "tags": "light mischievous myth-busting groove, pizzicato strings, banjo, hand claps, playful, instrumental",
+  "bpm": 108,
+  "tom": "G major"
+ },
+ "povos": {
+  "seed": 609766816,
+  "segundos": 82,
+  "tags": "reflective warm respectful underscore, soft piano, solo cello, light strings, slow, dignified, instrumental",
+  "bpm": 72,
+  "tom": "A minor"
+ },
+ "serra": {
+  "seed": 1318109070,
+  "segundos": 81,
+  "tags": "majestic wide open landscape music, acoustic guitar, building strings, light drums, adventurous, instrumental",
+  "bpm": 84,
+  "tom": "D major"
+ },
+ "fecho": {
+  "seed": 964887421,
+  "segundos": 87,
+  "tags": "warm hopeful thoughtful outro, soft piano, acoustic guitar, gentle strings, uplifting, instrumental",
+  "bpm": 90,
+  "tom": "G major"
+ }
+}

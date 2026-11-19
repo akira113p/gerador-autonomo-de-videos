@@ -1,0 +1,1338 @@
+[
+ {
+  "cena": 1,
+  "texto": "You just fell out of reality, into the Backrooms, and the first thing that can kill you here isn't a monster.",
+  "prompt": "The character stands frozen in the middle of an endless room of sickly mono-yellow wallpaper and beige-brown damp carpet under buzzing fluorescent ceiling panels, looking around in shock, small motion lines around him",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 2,
+  "texto": "It's thirst.",
+  "prompt": "Close-up of the character touching his dry lips, a tiny empty water drop icon floating next to his head, yellow wall behind",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 3,
+  "texto": "No map. No exit sign. Just damp carpet, yellow walls, and a hum that never stops.",
+  "prompt": "Wide shot: many identical open yellow office rooms with doorless openings repeating into the distance, fluorescent panels on a drop ceiling, wet patches on the carpet, the character very small in the center",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 4,
+  "texto": "So I'm going to tell you how this goes, from your first step to your last.",
+  "prompt": "The character seen from behind taking his first step into a long open yellow room with partition walls, his shadow faint on the carpet",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 5,
+  "texto": "Because I'll be honest with you from the start.",
+  "prompt": "The character faces the viewer with a serious face, plain muted yellow background",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 6,
+  "texto": "You don't make it out.",
+  "prompt": "A long open yellow room with partition walls seen from far away, completely empty except for the character walking away into the distance, far end fading into haze",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 7,
+  "texto": "The only questions are how long you last, and what finally gets you.",
+  "prompt": "Split screen divided by a vertical black dashed line. Left: a simple hourglass with sand running. Right: a black question mark over a dim yellow hallway",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 8,
+  "texto": "And the strangest part is that this place started with a real photo.",
+  "prompt": "An old digital photograph pinned on a corkboard: an empty room with yellow wallpaper and a low ceiling with fluorescent lights",
+  "ref2": "C",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 9,
+  "texto": "It was taken in 2002, inside a store being renovated in Oshkosh, Wisconsin.",
+  "prompt": "Empty plain space in the bottom center of the picture. Exterior of a plain one-story brick commercial building on a small-town street in the American Midwest, overcast sky, a small map pin icon above it, building in the upper half of the picture",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 10,
+  "texto": "In 2019, someone posted it on 4chan with a short story about \"six hundred million square miles of randomly segmented empty rooms.\"",
+  "prompt": "Empty plain space in the bottom center of the picture. A computer monitor on a desk at night in the upper part of the picture, showing a simple dark forum page with a small yellow room photo and lines of grey squiggles, a small calendar card beside it",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 11,
+  "texto": "Nobody knew where the photo came from until May 2024.",
+  "prompt": "Empty plain space in the bottom center of the picture. The character at the top of the picture holds a magnifying glass over a yellow room photo next to a printed map of Wisconsin with a red pin",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": true
+ },
+ {
+  "cena": 12,
+  "texto": "Since then, writers on the Backrooms Wiki have mapped that place, level by level.",
+  "prompt": "A huge hand-drawn map unrolled on a wooden table, small rectangles with numbers like 0, 1, 2 connected by lines, a pencil and an old flashlight beside it, warm lamp light, no people",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 13,
+  "texto": "That wiki is our map today. Every rule in this story comes from it.",
+  "prompt": "The character holding the same hand-drawn level map of small numbered rectangles, studying it under a fluorescent light in a yellow room",
+  "ref2": "M",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 14,
+  "texto": "Let's start with the hour you arrive.",
+  "prompt": "A simple wall clock with a plain round white face and two black hands hanging on a yellow wallpapered wall, under a flickering fluorescent panel, empty room",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 15,
+  "texto": "It happens the way it often happens: by accident.",
+  "prompt": "The character trips in a dark hallway of a home at night, caught mid-fall with arms flailing, wooden floor, dim moonlight from a window",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 16,
+  "texto": "You trip in a dark hallway at home, and instead of hitting the floor, you go through it.",
+  "prompt": "The character falls through a wooden floor that dissolves into yellow wet carpet, half of his body already in a yellow fluorescent room, the dark home hallway above him",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 17,
+  "texto": "Level 0. The wiki calls it Threshold. Most people know it as the Lobby.",
+  "prompt": "Wide shot of a sickly yellow wallpapered lobby with fluorescent ceiling panels and damp beige carpet, the character standing in it, confused",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 18,
+  "texto": "Yellow wallpaper. Fluorescent lights. And carpet that is always wet.",
+  "prompt": "Close view of a yellow patterned wallpaper wall, a fluorescent ceiling panel above and a dark wet patch on the beige carpet, empty room",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 19,
+  "texto": "The smell is the first thing that tells you something is wrong. Old, soaked carpet.",
+  "prompt": "The character holds his nose in a yellow room, wavy smell lines rising from a soaked dark patch of carpet at his feet",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 20,
+  "texto": "The second thing is the sound.",
+  "prompt": "The character stands with his head tilted and a hand at his ear, listening, wavy sound lines coming from the fluorescent ceiling lights",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 21,
+  "texto": "The lights hum, and the hum rises and falls, but it never stops.",
+  "prompt": "Ceiling fluorescent panels with wavy pulsing sound lines rising and falling, the character very small below them in a yellow room",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 22,
+  "texto": "That part is real, by the way.",
+  "prompt": "The character looks up at a fluorescent light with a hand on his chin, thoughtful, yellow room",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 23,
+  "texto": "Old fluorescent lights flicker about a hundred times a second, too fast for you to see.",
+  "prompt": "Empty plain space in the bottom center of the picture. Close view of a fluorescent tube light fixture in the upper half of the picture with short flicker lines around it, yellow ceiling and wall",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 24,
+  "texto": "In a 1989 study in British offices, switching to lights that didn't flicker cut headaches and eyestrain by more than half.",
+  "prompt": "Empty plain space in the bottom center of the picture. A bright calm office with steady white lights, the character small at the left looking relaxed, hand off his head",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": true
+ },
+ {
+  "cena": 25,
+  "texto": "So within an hour, your head hurts.",
+  "prompt": "The character holds his head with both hands, small zigzag pain lines around his head, open yellow office room",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 26,
+  "texto": "You call out. Nobody answers.",
+  "prompt": "The character cups his hands around his mouth, calling out in a very long empty open yellow office room, sound lines going out",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 27,
+  "texto": "And here's the first rule of Level 0.",
+  "prompt": "A single sheet of paper with lines of unreadable scribbles pinned on a yellow wall beside a partition wall, fluorescent light above; only the paper and the opening, no figures at all",
+  "ref2": "A",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 28,
+  "texto": "Even if someone had fallen in right beside you, you would never find each other.",
+  "prompt": "Cutaway view of two parallel open yellow office rooms separated by a wall: the character walks in one, a second stick figure in a grey t-shirt walks in the other, passing without meeting",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 29,
+  "texto": "You're alone. Completely.",
+  "prompt": "The character alone in the center of a huge empty yellow room, arms wrapped around himself, tiny",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 30,
+  "texto": "So you walk.",
+  "prompt": "The character seen from behind walking down a long open yellow room with partition walls with doors on both sides",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 31,
+  "texto": "Every room looks like the back of an office, or a store that was never finished.",
+  "prompt": "An unfinished store-like room: exposed concrete floor patches, missing ceiling tiles with wires, half-painted yellow walls, the character walking through",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 32,
+  "texto": "Psychologists have a name for why that feels so wrong.",
+  "prompt": "The character stands in a doorway between yellow rooms, a floating question mark above his head, the rooms slightly tilted",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 33,
+  "texto": "In 2022, a study found that places feel most uncanny when they're almost normal, with something in their structure slightly off.",
+  "prompt": "The character between two nearly identical doorless openings in a yellow partition wall, one slightly crooked and taller, subtly wrong",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 34,
+  "texto": "Level 0 is exactly that. Familiar, and wrong, in every direction.",
+  "prompt": "A yellow room where all four walls have doorways at slightly different heights, more rooms repeating in every direction, the character small in the center",
+  "ref2": "A",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 35,
+  "texto": "By hour nine, you notice something worse.",
+  "prompt": "The character stops in a open yellow office room and looks at a dark brown stain on the wall corner",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 36,
+  "texto": "You've seen this room before. That stain. That corner.",
+  "prompt": "Close view of a distinctive dark brown stain in a yellow wall corner, the character's hand pointing at it; exactly one figure, his arm a thin black line, pointing at the stain",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 37,
+  "texto": "You're walking in circles.",
+  "prompt": "High angle view of many yellow rooms, a trail of footprints on the carpet forming a circle, the character small at the end of the trail",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 38,
+  "texto": "That isn't just the Backrooms. That's you.",
+  "prompt": "The character looks down at his own footprints on beige carpet that curve around in a circle, serious",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 39,
+  "texto": "In 2009, German researchers sent people walking for hours through a forest and across the Sahara, tracked by GPS.",
+  "prompt": "Natural colors: the character very small walking through a green pine forest in Germany, a thin dotted track line curving in a circle drawn over the scene, daylight",
+  "ref2": "N",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 40,
+  "texto": "When they could see the sun, they drifted, but kept going straight.",
+  "prompt": "Natural colors: the character very small walking across golden Sahara dunes under a bright sun, a thin dotted track line going straight",
+  "ref2": "N",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 41,
+  "texto": "When clouds covered it, they walked in circles.",
+  "prompt": "Natural colors: the character in a pine forest under thick grey clouds with no sun, a thin dotted track line looping back on itself",
+  "ref2": "N",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 42,
+  "texto": "Blindfolded, some walked circles less than twenty meters wide.",
+  "prompt": "Empty plain space in the bottom center of the picture. Natural colors: the character at the top of the picture, a black cloth tied over his eyes, walking in a small circle on an open grass field, footprints forming a tight circle",
+  "ref2": "N",
+  "perso": "y",
+  "cartao": true
+ },
+ {
+  "cena": 43,
+  "texto": "In Level 0, there is no sun.",
+  "prompt": "The character stands in a open yellow office room looking up at a low drop ceiling with fluorescent panels and no sky",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 44,
+  "texto": "And there's something else. The wiki calls it the Peripheral Shift.",
+  "prompt": "The character seen from behind in a open yellow office room, a section of the walls ghost-duplicated and sliding sideways with motion lines, rooms rearranging",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 45,
+  "texto": "When you're not looking, the rooms rearrange themselves, sometimes erasing days of hallways you've already walked.",
+  "prompt": "The character looks back and sees his footprints on the carpet ending at a blank yellow wall where the corridor used to be",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 46,
+  "texto": "So the map in your head is useless.",
+  "prompt": "The character holds a crumpled hand-drawn map of scribbled lines that dissolves into floating particles",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 47,
+  "texto": "Then there's the thirst.",
+  "prompt": "Close-up of the character with dry cracked lips, heat shimmer lines, yellow wall behind, tired face",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 48,
+  "texto": "The carpet is wet, but what soaks it is nothing you should drink.",
+  "prompt": "The character crouches at a puddle on beige carpet, sickly green-brown, with fumes rising from it, hesitating",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 49,
+  "texto": "Some of it is salt water. Some of it is formaldehyde.",
+  "prompt": "Two puddles on the carpet: one with a white salt crust, the other with bubbling vapor, the character standing beside them",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 50,
+  "texto": "Real research shows that losing just one or two percent of your body weight in water already hurts your mood and focus, and gives you headaches.",
+  "prompt": "Empty plain space in the bottom center of the picture. The character at the top of the picture droops his head, small water droplet icons falling off him, yellow room",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": true
+ },
+ {
+  "cena": 51,
+  "texto": "And in Level 0, the wiki says, most lives end exactly this way: dehydration, or starvation.",
+  "prompt": "The character sits slumped against a yellow wall, head down, weak, on damp carpet",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 52,
+  "texto": "Then, somewhere to your left, a wall flickers.",
+  "prompt": "The character looks to his left at a yellow wall that flickers with bright white glow and ripples like water",
+  "ref2": "B",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 53,
+  "texto": "You don't know how long you've been here. Your phone died on day one. Or what you think was day one.",
+  "prompt": "The character holds a dead phone with a black screen, looking at it, yellow room",
+  "ref2": "C",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 54,
+  "texto": "In 1962, a French scientist named Michel Siffre lived alone in a cave for about two months, with no clock and no sunlight.",
+  "prompt": "Inside a dark ice cave in the French Alps, 1962: a small tent and a lantern on a rocky floor, a stick figure scientist in a heavy wool coat sitting by the tent, seen from afar",
+  "ref2": "N",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 55,
+  "texto": "When they told him it was over, he thought it was the twentieth of August.",
+  "prompt": "Empty plain space in the bottom center of the picture. Inside a dark cave: a stick figure scientist in a heavy wool coat sits at a small table with an old field telephone, seen from afar in the upper part of the picture",
+  "ref2": "N",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 56,
+  "texto": "It was the middle of September. He had lost almost a month.",
+  "prompt": "Empty plain space in the bottom center of the picture. Inside a dark cave: the same stick figure scientist with a plain white circle head and tiny dot eyes looks astonished beside an old field telephone and a lantern, upper part of the picture",
+  "ref2": "N",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 57,
+  "texto": "Keep that in mind. Your count is already wrong.",
+  "prompt": "The character looks at a row of scratched tally marks on a yellow wall, some of the marks fading away",
+  "ref2": "C",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 58,
+  "texto": "The flickering wall is the way out. You throw yourself through it.",
+  "prompt": "The character diving sideways through a yellow wall that flickers with white light, mid-leap",
+  "ref2": "C",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 59,
+  "texto": "If you want the next story like this one, that's what the subscribe button is for. Now, Level 1.",
+  "prompt": "The character stands before a glowing white rectangular opening in the yellow wall, one hand reaching toward it",
+  "ref2": "C",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 60,
+  "texto": "Level 1. The wiki calls it the Habitable Zone.",
+  "prompt": "The character arrives in Level 1, an endless underground parking garage and warehouse: grey concrete floor, rows of concrete pillars, pipes along the ceiling, dim lights",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 61,
+  "texto": "It's an endless underground parking garage crossed with an abandoned warehouse. Concrete, pillars, pipes.",
+  "prompt": "Endless underground parking garage crossed with an abandoned warehouse, rows of concrete pillars, pipes along the ceiling, dim lights, empty",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 62,
+  "texto": "And it has the two things Level 0 didn't: supplies, and people.",
+  "prompt": "The character walking toward a small group of distant stick figure survivors near wooden crates and a lantern in the concrete garage",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 63,
+  "texto": "Wooden crates appear out of nowhere, often right behind your back.",
+  "prompt": "A wooden crate shimmers into existence behind the character's back as he walks away unaware, concrete garage",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 64,
+  "texto": "Inside: food, clothes, tools. And metal bottles.",
+  "prompt": "An open wooden crate on concrete floor filled with canned food, folded clothes, tools and shiny metal bottles",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 65,
+  "texto": "Almond Water.",
+  "prompt": "Close view of a shiny steel flask with a screw cap standing on a concrete floor, soft light on it",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 66,
+  "texto": "According to the wiki, one full bottle is worth a healthy six-hundred-calorie meal. Three a day keep you alive.",
+  "prompt": "Empty plain space in the bottom center of the picture. The character at the top of the picture holds up a shiny steel flask, concrete garage background; bare thin black line legs, no trousers",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": true
+ },
+ {
+  "cena": 67,
+  "texto": "One rule: never drink from a bottle that isn't full. Someone else had it first.",
+  "prompt": "Two metal bottles on a concrete floor: one full and upright, one half-empty and tilted with spilled drops, the character rejects the tilted one with a raised hand",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 68,
+  "texto": "You sleep in one of the small rooms off the corridors, with furniture pushed against the door.",
+  "prompt": "A small concrete room with a cot, the character sitting on it while a cabinet and a table are pushed against the door",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 69,
+  "texto": "But you never lock it. Locks here have a way of disappearing, and people have died trapped inside.",
+  "prompt": "Close view of a steel door with an empty hole where a lock disappeared, the character looking at it",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 70,
+  "texto": "On what you think is day five, the lights go out.",
+  "prompt": "A concrete garage corridor with the ceiling lights going dark one by one, darkness spreading, a faint green exit glow, the character small",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 71,
+  "texto": "The wiki calls it Flickering, and says it might be one of the deadliest things in the Backrooms.",
+  "prompt": "A pitch-black garage with only a faint green glow, the character's silhouette crouching behind a pillar",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 72,
+  "texto": "In the dark, things come out.",
+  "prompt": "Pairs of faint white eyes in the dark between concrete pillars, the character hiding behind a pillar",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 73,
+  "texto": "The rule is simple: don't turn on your flashlight.",
+  "prompt": "The character holds a flashlight that is switched off, thumb hovering over the button, hesitating in darkness",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 74,
+  "texto": "Being the only light in the area, the wiki says, leads to a quick death.",
+  "prompt": "The character stands in a bright flashlight circle in a vast dark garage, many pairs of glowing white eyes all around in the darkness",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 75,
+  "texto": "So you sit in the dark, and you listen.",
+  "prompt": "The character sits in the dark of a small concrete room hugging his knees, ear toward the door, a thin line of green light under the door",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 76,
+  "texto": "Something walks past your door. Then it stops.",
+  "prompt": "The character on a cot in a small concrete room, under the door gap the shadow of tall legs stops",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 77,
+  "texto": "And a human voice says your name.",
+  "prompt": "The character wide-eyed on the floor facing a closed door, a tall silhouette outside under the door gap, a speech bubble with three dots drawn near the door",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 78,
+  "texto": "Hold on to that moment. This exact trick comes back at the end of your story.",
+  "prompt": "Close-up of the character's face, hand over his mouth, wide eyes, serious, dark room",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 79,
+  "texto": "You don't answer. The lights come back.",
+  "prompt": "The character slumps in relief as the concrete corridor lights flicker back on through the door gap; bare thin black line legs, no trousers, no shoes",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 80,
+  "texto": "In the morning, you find out what it was.",
+  "prompt": "The character peeks through a slightly open door into a lit concrete corridor with drag marks on the floor; bare thin black line legs, no trousers, no shoes",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 81,
+  "texto": "The wiki calls them Skin-Stealers: tall, pale things that wear the skin of the people they catch.",
+  "prompt": "A tall pale Skin-Stealer in a long coat with a hood and mask, loose skin hanging on its face, stands in a concrete corridor beside the much shorter character",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 82,
+  "texto": "They copy voices without understanding the words.",
+  "prompt": "A tall pale Skin-Stealer in a coat with a hood and mask, soundwave squiggles coming from it, standing before a closed door, the character tiny behind a pillar",
+  "ref2": "L1",
+  "perso": "y",
+  "cartao": false
+ },
+ {
+  "cena": 83,
+  "texto": "Survivors have a rhyme for them: \"Blood runs red, they're not dead. Blood runs clear, don't get near.\"",
+  "prompt": "Split by a thin vertical line: left a stick hand with a pricked finger and a bright red blood drop, right a stick hand with a pricked finger and a clear water-like drop; both hands drawn as simple thin-line stick hands, not realistic",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 84,
+  "texto": "The people who teach you that rhyme wear lime-yellow, with an eagle on the shoulder.",
+  "prompt": "Three stick figures in lime-yellow explorer jackets with a black eagle patch on the shoulder, carrying rifles, walking toward the viewer in a concrete corridor, the character in a lime-yellow jacket among them",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 85,
+  "texto": "The M.E.G. The Major Explorer Group.",
+  "prompt": "The character in a lime-yellow explorer jacket with a black eagle patch stands in a row with other stick figures in identical lime-yellow jackets in a concrete corridor",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 86,
+  "texto": "You've been found.",
+  "prompt": "The character in a lime-yellow jacket faces the viewer with a serious relieved face, other lime-yellow figures behind him in the concrete corridor",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 87,
+  "texto": "Base Alpha is the oldest M.E.G. base, built in the corridors of Level 1.",
+  "prompt": "Base Alpha: lit concrete corridors with improvised wooden doors, string lights and tables, lime-yellow stick figures walking, the character among them",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 88,
+  "texto": "Newcomers take a test, and then get a job: exploration, archives, research or maintenance.",
+  "prompt": "The character sits at a desk taking a test on papers while a lime-yellow figure watches, small concrete room",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 89,
+  "texto": "You end up in exploration. Of course you do.",
+  "prompt": "Four small posters on a concrete wall showing a compass, an open book, a flask and a wrench; the character points at the compass",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 90,
+  "texto": "There's a diner. People trade Almond Water like money.",
+  "prompt": "A simple diner counter in a concrete room, shiny metal bottles stacked as currency, the character trading a bottle with a stick figure behind the counter",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 91,
+  "texto": "For a few weeks, life is almost normal. Shifts, meals, sleep.",
+  "prompt": "The character eating at a table with other lime-yellow figures, warm lamp light, relaxed, concrete room with bunk beds in the back",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 92,
+  "texto": "Your partner on the team is a woman who's been down here for six years. She teaches you how to hold a rifle without shaking.",
+  "prompt": "The partner shows the character how to hold a rifle at an improvised indoor shooting range with targets, concrete corridor",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 93,
+  "texto": "And she teaches you the rules the veterans never joke about.",
+  "prompt": "The character and the partner sit at a small table under a lamp in a concrete room, she talks and he listens seriously",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 94,
+  "texto": "One: if you see party decorations, or a poster that says \"Time 4 Fun\", turn around.",
+  "prompt": "A concrete corridor with party balloons, bunting and a poster of a big cartoon smiling face; the character backs away while the partner points him away",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 95,
+  "texto": "Two: never trust a voice. Trust blood.",
+  "prompt": "The partner points at her own ear and then at a drop of blood on her finger, teaching the character, concrete room",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 96,
+  "texto": "At the gate of Base Gamma, the big M.E.G. base on Level 3, a guard pricks the finger of everyone who walks in, to check that their blood is red.",
+  "prompt": "The gate of Base Gamma: concrete wall with sandbags, a guard in a lime-yellow jacket pricking a newcomer's finger with a needle, a drop of red blood; all people are minimalist stick figures with white circle heads, no realistic people",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 97,
+  "texto": "The wiki says no exceptions are ever made. Not even for the people who run the M.E.G.",
+  "prompt": "The gate of Base Gamma: a higher-ranked lime-yellow stick figure with epaulettes holds out his finger to be pricked by a stern guard, sandbags, lights; all people are minimalist stick figures with white circle heads, no realistic people",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 98,
+  "texto": "Three: Level 3 is the one place nobody jokes about at all.",
+  "prompt": "The character and the partner stand before a heavy steel door in a dark tunnel marked with red warning triangles",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 99,
+  "texto": "Even the M.E.G. calls traveling there \"extremely ill-advised.\"",
+  "prompt": "The character and the partner read a bulletin board of pinned warning papers with scribbles, serious, concrete corridor; the papers contain only scribble lines, no words and no letters anywhere",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 100,
+  "texto": "Twenty percent of its entire budget goes to one thing: keeping Base Gamma alive.",
+  "prompt": "Empty plain space in the bottom center of the picture. A fortified base with concrete walls, sandbags and watchtowers glowing with lights, seen from a distance in the upper half of the picture",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 101,
+  "texto": "Months pass. Your count says day two hundred. You don't trust it anymore.",
+  "prompt": "The character sits on a cot, behind him a wall scratched with hundreds of tally marks, he stares at nothing",
+  "ref2": "L1",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 102,
+  "texto": "Then your team gets its first long expedition: carry medicine and data from Base Alpha to Base Gamma.",
+  "prompt": "A briefing room: a big table with a map of stacked levels, a commander in lime-yellow pointing, the character, the partner and others around it",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 103,
+  "texto": "Two levels. Level 2, then Level 3.",
+  "prompt": "Cutaway diagram of three stacked floors connected by doors, a route arrow going down through the second to the third floor, lime-yellow marker",
+  "ref2": "L1",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 104,
+  "texto": "Eight of you. Rifles, flares, and a crate of supplies.",
+  "prompt": "Eight stick figures in lime-yellow jackets with rifles, flare guns and a wooden crate lined up in a concrete corridor, the character and the partner at the front",
+  "ref2": "L1",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 105,
+  "texto": "Level 2 first. Maintenance tunnels. Pipes everywhere. Machines humming with no purpose.",
+  "prompt": "Level 2: brick and concrete maintenance tunnels packed with pipes, orange lamps, humming machines, the team of lime-yellow stick figures walking, the character in front",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 106,
+  "texto": "Every turn is exactly forty-five degrees.",
+  "prompt": "A tunnel with a sharp diagonal 45-degree bend, pipes along the wall, the character at the bend looking onward",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 107,
+  "texto": "The lights are wired together, so when one fails, a whole grid of them goes dark.",
+  "prompt": "A grid of ceiling lights in a tunnel where a whole section goes dark, the lime-yellow team standing in the lit part, the character looking at the dark",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 108,
+  "texto": "In the dark parts, there are Smilers. You never see a body. Just a long smile full of teeth, and two white eyes.",
+  "prompt": "In a pitch-black tunnel, a huge glowing smile full of teeth and two white eyes floating in the dark, no body",
+  "ref2": "L2",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 109,
+  "texto": "So you do what you were taught. Light off. Eye contact. Walk away slowly.",
+  "prompt": "The character with his flashlight off walks slowly away from a faint glowing smile and white eyes in the dark behind him, team following",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 110,
+  "texto": "At every corner, you go silent, because of the Clumps: piles of limbs that wait in tight corridors. Within eight feet, they reach.",
+  "prompt": "Empty plain space in the bottom center of the picture. A dark tight tunnel corner at the top of the picture with a pile of limbs, many arms and legs, reaching around the corner",
+  "ref2": "L2",
+  "perso": "n",
+  "cartao": true
+ },
+ {
+  "cena": 111,
+  "texto": "Nobody dies on Level 2. For a moment, you think the hard part is over.",
+  "prompt": "The team walks quietly through the tunnel and the character wipes his brow in relief, the partner beside him",
+  "ref2": "L2",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 112,
+  "texto": "Then you reach the door.",
+  "prompt": "A steel door at the end of the tunnel barricaded with planks and warning signs, a dark gap at its side, the team standing before it",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 113,
+  "texto": "Most of the doors from Level 2 into Level 3 are barricaded, or covered in warning signs. This one has both. And a gap.",
+  "prompt": "Close view of a steel door with nailed planks, warning triangle signs and a gap showing dim light behind it",
+  "ref2": "L2",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 114,
+  "texto": "Psychologists say walking through a doorway makes people forget what they were just holding in mind.",
+  "prompt": "The character steps through a doorway, a thought bubble above him with small icons dissolving into dots",
+  "ref2": "L2",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 115,
+  "texto": "Remember that. On the other side, forgetting one small rule is all it takes.",
+  "prompt": "The character on the other side of the doorway reaches into his pocket confused, the partner watching him",
+  "ref2": "L2",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 116,
+  "texto": "Level 3. The Electrical Station.",
+  "prompt": "Level 3, the Electrical Station: the character steps out of a steel door into a narrow corridor of mismatched colored brick walls, dusty concrete, weak fluorescent lights, cables and fuse boxes, metal bars in the distance",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 117,
+  "texto": "Brick walls in mismatched colors. Dusty concrete. Weak fluorescent lights. Cables and fuse boxes everywhere.",
+  "prompt": "Cables and fuse boxes on a brick wall of mismatched colors, one weak fluorescent light flickering",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 118,
+  "texto": "Pipes full of a thick black liquid. Some corridors are barely wider than your shoulders.",
+  "prompt": "A narrow corridor barely wider than a shoulder, pipes with thick black liquid dripping, the character squeezing through",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 119,
+  "texto": "And metal bars across most of the hallways. Bars nobody has ever managed to break.",
+  "prompt": "Thick steel bars from floor to ceiling across a brick hallway, the character gripping them, looking through",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 120,
+  "texto": "The danger here isn't one monster. It's what the monsters do together.",
+  "prompt": "Shadowy silhouettes of a Hound, a Clump and a shield-bearing Faceling lurking behind a corner in the dark, the team small and unaware",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 121,
+  "texto": "The wiki says the entities on Level 3 attack in \"military-esque brigades\", with careful planning, and a better map of the level than yours.",
+  "prompt": "A brigade of entities marching in a brick corridor: Facelings with brick shields, a Clump, Hounds; one holds a big hand-drawn map with pins",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 122,
+  "texto": "Seeing one entity wandering by itself almost never happens.",
+  "prompt": "The character looks along an empty brick corridor, a single Hound very small at the far end",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 123,
+  "texto": "And sometimes, those brigades lead a wanderer, on purpose, into a dead end.",
+  "prompt": "A brick dead-end corridor, a lone wandering figure walks toward the wall while shadowy entities stand at both sides, pointing the way",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 124,
+  "texto": "Two hours in, you meet a man in a hooded coat and a mask.",
+  "prompt": "A man in a hooded coat and a face mask stands in a brick corridor, hunched and limping with raised hands, facing the character and the partner",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 125,
+  "texto": "He says he's lost. He has a thick accent. He's limping. He asks for water.",
+  "prompt": "Close view of the hooded masked man holding out a hand asking for water, the partner holding a bottle, brick corridor; the hooded man is dark grey and wears no lime-yellow, the lime-yellow jacket wearers are only the character and the partner",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 126,
+  "texto": "You're tired. He's human. Nobody asks to see his blood.",
+  "prompt": "The character hands a metal bottle to the hooded man, the partner standing behind, nobody checking his finger",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 127,
+  "texto": "A hundred yards later, there's a dim light at the end of the corridor. No lamp. No source.",
+  "prompt": "A dim floating light with no lamp at the end of a dark brick corridor, the team walking toward it",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 128,
+  "texto": "The wiki has a line about those lights: Smilers with their eyes and lips shut, standing guard for the brigades.",
+  "prompt": "Close view of a dim glowing orb in a dark brick corridor with faintly closed eyes and a sealed line of lips",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 129,
+  "texto": "Someone points a flashlight at it.",
+  "prompt": "The character points a flashlight beam at the faint glowing light at the end of the brick corridor, the team behind him stopping",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 130,
+  "texto": "The smile opens.",
+  "prompt": "A giant glowing smile full of teeth opening in the dark, two wide white eyes above it",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 131,
+  "texto": "Behind you, the man in the coat pulls at his own face, and the skin comes loose.",
+  "prompt": "Behind the team, the hooded man pulls at his own face and the skin comes loose, revealing a tall pale thing, the character and partner recoiling",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 132,
+  "texto": "Something leaps from the dark at the back of the line. A Hound.",
+  "prompt": "A Hound leaps from the dark at the back of the team line: lean humanoid on all fours with long black hair and a huge mouth",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 133,
+  "texto": "The wiki says the Hounds here have mastered surprise: they hide, and pounce from behind.",
+  "prompt": "A Hound crouching behind a pillar in the dark ready to pounce while the team walks past unaware",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 134,
+  "texto": "The last man in your line is gone before anyone can turn around.",
+  "prompt": "The back of the team line is empty: a dropped rifle and a blood smear on the floor, the rest turning around in shock",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 135,
+  "texto": "So you run. Eight of you, then seven, down the only hallway that's open.",
+  "prompt": "The team of seven runs down a narrow brick corridor, the character and the partner at the front",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 136,
+  "texto": "Behind you, the barking gets faster. More excited.",
+  "prompt": "Behind the running team, Hounds with open mouths chase them in the corridor, bark lines in the air",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 137,
+  "texto": "The wiki explains that too. On Level 3, the Hounds bark faster when their prey turns toward a dead end.",
+  "prompt": "The running team heads toward a brick wall at the end of the hallway, Hounds barking faster behind",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 138,
+  "texto": "You turn left. The barking turns into a howl.",
+  "prompt": "The team turns left into a side corridor, the character looks back, howl lines in the air",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 139,
+  "texto": "The corridor ends in metal bars.",
+  "prompt": "The brick corridor ends in thick metal bars, the team stops at them",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 140,
+  "texto": "And through the bars, maybe forty yards away, you can see the lights of Base Gamma.",
+  "prompt": "Empty plain space in the bottom center of the picture. Seen through metal bars: the lit Base Gamma far away with sandbags and guards in the upper middle, the character at the bars; the character is small at the far left edge, the bottom center of the picture is bare floor",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": true
+ },
+ {
+  "cena": 141,
+  "texto": "Guards. Sandbags. A gate. A man with a needle, ready to prick your finger.",
+  "prompt": "Base Gamma gate seen through bars: guards, sandbags, a lit gate, a man holding a needle ready to prick a finger; all people are minimalist stick figures with white circle heads, no realistic people",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 142,
+  "texto": "If anyone had pricked one finger two hours ago, you'd be standing over there.",
+  "prompt": "The character and the partner stand at the bars looking through, the character looks at his own finger",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 143,
+  "texto": "Your team turns around and fights.",
+  "prompt": "The team turns around, raising rifles to fight in the brick corridor",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 144,
+  "texto": "Clumps eight feet tall, holding weapons. Facelings with brick shields and blades.",
+  "prompt": "Clumps eight feet tall made of piles of limbs holding weapons and Facelings with brick shields and blades advancing in a brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 145,
+  "texto": "And somewhere behind them, giving orders, a Death Rat. The wiki calls them the leaders of these operations.",
+  "prompt": "A giant rat standing on its hind legs giving orders from an elevated crate behind a line of Facelings, brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 146,
+  "texto": "Rifles. Flares. Your partner throws Firesalt, and for a moment the corridor burns white.",
+  "prompt": "The team fires rifles and flares, the partner throws a handful of salt that burns with a blinding white flash, brick corridor",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 147,
+  "texto": "Then the Deathmoths come in.",
+  "prompt": "A swarm of Deathmoths with wide wings flying in through the brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 148,
+  "texto": "The wiki says a swarm goes for the mouth and the lungs, and can kill in a matter of seconds.",
+  "prompt": "A swarm of moths around the face of a stick figure in a lime-yellow jacket who is choking, brick corridor",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 149,
+  "texto": "Your partner goes down first. You hear her stop breathing.",
+  "prompt": "The partner collapses on the floor with blood on her jacket, the character reaching for her",
+  "ref2": "L3",
+  "perso": "jp",
+  "cartao": false
+ },
+ {
+  "cena": 150,
+  "texto": "Then the others. One by one.",
+  "prompt": "The other team members lie fallen in a row on the brick floor with blood, the character standing among them",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 151,
+  "texto": "You're the last one, back against the bars, out of ammunition.",
+  "prompt": "The character with his back against metal bars, his rifle empty, surrounded by enemies in the dark with glowing eyes",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 152,
+  "texto": "The Hounds on Level 3 don't kill quickly.",
+  "prompt": "A Hound looming over the character with a huge drooling mouth, slow and close, he is pinned against the bars",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 153,
+  "texto": "The wiki says they try to make it as slow and as painful as possible.",
+  "prompt": "Two Hounds approaching slowly from both sides toward the character against the bars, huge mouths",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 154,
+  "texto": "One bites the back of your neck. Not enough to kill you. Just enough so you can't move.",
+  "prompt": "A Hound bites the back of the character's neck, he is frozen stiff, blood on his collar",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 155,
+  "texto": "You open your mouth to scream for the guards at the gate.",
+  "prompt": "The character with his mouth open to scream toward the distant lit gate, unable to move, blood",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 156,
+  "texto": "The second Hound takes your voice before you can.",
+  "prompt": "The second Hound lunges at the character's throat, he is pinned against the bars; a Hound with long black hair and a huge open mouth biting at his throat, a monster not a person",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 157,
+  "texto": "The lights of Base Gamma are still on. Forty yards.",
+  "prompt": "The character lies motionless against the metal bars, in the distance the lights of Base Gamma still on, blood on the floor",
+  "ref2": "L3",
+  "perso": "j",
+  "cartao": false
+ },
+ {
+  "cena": 158,
+  "texto": "The M.E.G. keeps a record of every wanderer.",
+  "prompt": "An open ledger on a desk under a lamp with rows of unreadable scribble lines and a red stamp, no letters",
+  "ref2": "M",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 159,
+  "texto": "Yours is short. Expedition to Base Gamma. Eight members. None arrived.",
+  "prompt": "A paper file card with a grid of eight small stick-figure portraits each stamped with a red cross, on a desk under a lamp",
+  "ref2": "M",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 160,
+  "texto": "Your count said you'd been in the Backrooms for about two hundred days.",
+  "prompt": "An empty cot with a folded lime-yellow jacket in a concrete room, behind it a wall with about two hundred tally marks",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 161,
+  "texto": "By M.E.G. time, it was closer to four hundred.",
+  "prompt": "Two stacks of paper slips on a desk: a short one and a much taller one beside it, a lamp",
+  "ref2": "M",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 162,
+  "texto": "The guards at Base Gamma reported barking that night, very close to the bars.",
+  "prompt": "Night at Base Gamma: guards at the bars with heads turned toward the dark, one holding a flashlight; no signs and no text anywhere, all people are minimalist stick figures",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 163,
+  "texto": "Nobody heard a scream.",
+  "prompt": "An empty brick corridor by the bars at night: a dropped helmet and rifle, one weak fluorescent light, silence",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 164,
+  "texto": "Base Gamma still checks every finger at the gate.",
+  "prompt": "A guard at the Base Gamma gate pricking the finger of an incoming stick figure, bright red drop, sandbags",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 165,
+  "texto": "And on Level 3, a few weeks later, a patrol meets a man in a hooded coat.",
+  "prompt": "A patrol of three lime-yellow stick figures meets a man in a hooded coat and mask limping toward them in a brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 166,
+  "texto": "He's lost. He's limping. He asks for water.",
+  "prompt": "The hooded masked man hunched and limping, holding out a hand, asking for help in a brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ },
+ {
+  "cena": 167,
+  "texto": "He has your voice.",
+  "prompt": "The hooded masked man with his head tilted, under the hood a plain white circle face with dot eyes like the character's, soundwave squiggles from his mouth, brick corridor",
+  "ref2": "L3",
+  "perso": "n",
+  "cartao": false
+ }
+]

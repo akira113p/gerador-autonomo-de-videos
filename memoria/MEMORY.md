@@ -1,2 +1,7 @@
-- [Imagens locais](feedback_imagens-locais.md) — gerar imagens com Z-Image local, não ChatGPT no browser
-- [Produção sequencial](feedback_producao-sequencial.md) — um vídeo por vez, sem subagentes; terminar, anotar e subir antes do próximo
+- [Imagens: ChatGPT + local com referência](feedback_imagens-locais.md) — 1º minuto no ChatGPT, resto local usando as imagens do ChatGPT como referência
+- [Produção sequencial, pesquisa com subagentes](feedback_producao-sequencial.md) — vídeos em sequência; Sonnet gera e confere imagens e pesquisa; Opus só revisa roteiro e monta o vídeo
+- [Roteiro e música](feedback_roteiro-e-musica.md) — segunda pessoa sempre, tom sério, 2-3 músicas (jazz + tensa), só música "no copyright" no título/descrição
+- [Direitos autorais não bloqueiam](direitos-autorais-nao-bloqueiam.md) — risco de Content ID/franquia é do usuário; não trocar escolhas por isso
+- [Fluxo de imagens na nuvem](fluxo-imagens-nuvem.md) — limites e manhas do ChatGPT/Gemini no navegador
+- [Produção vídeos 6 a 11](project_producao-videos-6-a-11.md) — pausada: v8, v6, v11 enviados; v7 com 105/183 imagens; v9, v10 por começar
+- [Vídeos 12 a 14](project_videos-12-a-14.md) — v12 Resident Evil, v13 Bloods, v14 Backrooms enviados privados ao YouTube em 2026-10-20 (canal = conta eosguricarai)

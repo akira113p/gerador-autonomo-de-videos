@@ -1,0 +1,1517 @@
+{
+ "titulo": "What Would YOUR Life Be Like in Ancient Egypt as a Pyramid Worker?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "In 2013, French archaeologists dug into the sand beside the Red Sea, and found rolls of papyrus in a cave.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "They turned out to be the oldest inscribed papyri ever found in Egypt.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "003",
+   "texto": "And the texts were not prayers or royal curses. They were work diaries and accounts.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "A middle manager named Merer wrote down where his crew went every day while building the Great Pyramid.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "005",
+   "texto": "So today, you are not a tourist. You are an employee.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "You'll spend one season as a pyramid worker, using that diary and the ruins of a workers' town.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "007",
+   "texto": "Along the way, we'll check what you were told. Were you a slave? Did aliens help? Or is the truth stranger?",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "008",
+   "texto": "Because the real story has bread, beer, broken bones, and a very organized boss.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "009",
+   "texto": "And the real surprise is not the stone. It's the lunch.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o diário)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "010",
+   "texto": "Let's start with the boss, Merer.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "His title was inspector. Think of him as a foreman with a boat.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "He led a crew of about forty men.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "013",
+   "texto": "Their job was to carry limestone from the quarries at Tura to the building site at Giza, by boat on the Nile.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "014",
+   "texto": "A round trip took about four days, and every ten days or so they made two or three trips.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "015",
+   "texto": "His diary lists each stop and each night, like a very old timesheet.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "016",
+   "texto": "It was written near the end of the reign of Khufu, roughly forty-five hundred years ago.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "The pyramid he was feeding stood almost five hundred feet tall, and for almost four thousand years nothing built by humans was taller.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "Now here is my favorite fact about time: Cleopatra lived closer to the moon landing than to the building of this pyramid.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "019",
+   "texto": "So when we say \"ancient Egypt,\" even ancient has layers.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "And yet, in this very old diary, the world looks strangely familiar. There are schedules, bosses, deliveries, and accounts.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "Other papyrus pages even list the food handed out to workers.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "022",
+   "texto": "Bureaucracy. Humans invented it early. Sorry.",
+   "capitulo": "1",
+   "nome_capitulo": "O diário e o chefe",
+   "bloco": "calendario",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "Before you clock in, let's clear up two myths. Myth number one: slaves built the pyramid under the whip.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "024",
+   "texto": "This idea is very old. A Greek traveler named Herodotus helped spread it.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "He visited Egypt about two thousand years after the pyramid was built, and wrote that a hundred thousand men worked in shifts of three months.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "He also described an inscription listing the cost of the workers' radishes, onions, and leeks: sixteen hundred talents of silver.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "027",
+   "texto": "Wow. That is a lot of onions.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "028",
+   "texto": "But Herodotus admitted he was only repeating what a translator read to him, and he wasn't sure he remembered it right.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "029",
+   "texto": "He also talked about the workers' iron tools. They used copper.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "030",
+   "texto": "So his accounting had a few holes.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "031",
+   "texto": "What does the evidence say? Next to the pyramids, there is a cemetery of the workers themselves.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "032",
+   "texto": "Zahi Hawass and his team began finding it around nineteen ninety. As the story goes, it started when a tourist's horse tripped on a wall.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "More than seven hundred graves are there.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "034",
+   "texto": "Hawass argued that slaves would not get tombs beside their king's tomb.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "035",
+   "texto": "Inside the Great Pyramid, work crews even painted their team names on the walls.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "One name reads \"Friends of Khufu.\" At another pyramid, one gang is reported to be the \"Drunkards of Menkaure.\"",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "037",
+   "texto": "That is not how people name a team when they're being whipped. That is a team with a sense of humor.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "Myth number two: aliens built it. Let me be fair to the aliens. They would have needed a lot of bread.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "039",
+   "texto": "We have Merer's diary, the boat routes, the workers' town, the cemetery, and the copper tools.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "040",
+   "texto": "We even have the pharaoh's name, painted by the crews.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "041",
+   "texto": "Aliens, it seems, left no timesheets.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "The truth is less magical, and more impressive. Ordinary Egyptians built it. People like you.",
+   "capitulo": "2",
+   "nome_capitulo": "Os mitos: escravos e alienígenas",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "043",
+   "texto": "So let's make you one.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "Your name is Ipi. You're a farmer in a village along the Nile.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "Ipi is made up. His situation is not.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "046",
+   "texto": "It's summer. The river rises and covers your fields, and farming stops for weeks.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "But your family still needs to eat.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "048",
+   "texto": "Then a royal scribe arrives with a list. Your name is on it.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "Historians think many workers came this way, in rotation, as a kind of labor duty.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "050",
+   "texto": "A smaller crew stayed all year, and a bigger force arrived during the flood.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "051",
+   "texto": "Hawass thinks a core of workers was paid by the king.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "052",
+   "texto": "Mark Lehner, who has dug at Giza for decades, says they certainly weren't slaves.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "But he isn't sure how voluntary it all was. It may have been a mix of duty and pride.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "054",
+   "texto": "So you can't say no. But you do get fed.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "Workers who lived far away were brought by boat. You're placed on a crew, and your crew has a name.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "Crews were split into smaller groups, a bit like army platoons.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "Nobody knows exactly how many people worked there. Estimates run from about five thousand hauling stone to forty thousand at the peak.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "058",
+   "texto": "Your crew boards a boat and drifts down the Nile toward Giza.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "And there it is. Smooth, white, and shining, because it still has its outer casing.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "Today most of that casing is gone. But on your first day, it looks like a mountain someone ironed.",
+   "capitulo": "3",
+   "nome_capitulo": "Você é convocado",
+   "bloco": "manha",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "061",
+   "texto": "Where do you sleep? In the workers' town.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "062",
+   "texto": "Archaeologists found one south of the Sphinx, beside a huge stone wall.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "They call it the Lost City of the Pyramid Builders.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "064",
+   "texto": "One honest note first. The town they dug was built just after Khufu's time.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "065",
+   "texto": "It served the next pyramids. But the system was probably similar.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "Picture narrow streets and small mud-brick houses, with a royal administration building.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "067",
+   "texto": "And dozens of bakeries.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "068",
+   "texto": "Bakeries. Not temples. Not tombs. Bakeries.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "069",
+   "texto": "Bread was baked in clay molds set in hot ash, and one bakery looks like the oldest industrial-scale bakery found in Egypt.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "070",
+   "texto": "Beer was a staple food, not a party drink.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "071",
+   "texto": "And where did you sleep? Maybe in long halls called galleries.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "Lehner proposed that workers rotated through them, like barracks. That is still a hypothesis, and he has updated it as the digging goes on.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "So picture a sleeping mat on the floor, in a hall full of your crew. Think summer camp, with heavier rocks.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "The Egyptians planned the pyramid. But they also planned the town that fed it.",
+   "capitulo": "4",
+   "nome_capitulo": "A cidade dos operários",
+   "bloco": "pao",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "What do you eat? Mostly bread and beer.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "The accounts from Merer's archive list bread, fish, fruit, honey, cakes, and several kinds of beer.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "077",
+   "texto": "Honey and dates were scarce, and mostly for the king's people.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "Your pay is not money. Coins do not exist yet. You get rations, and sometimes cloth.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "079",
+   "texto": "Think of it as a salary in sandwiches.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "What about meat? Archaeologists found huge numbers of animal bones. Cattle, sheep, goats, and fish.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "Lehner described some of the beef as prime.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "But there is a catch.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "083",
+   "texto": "He thinks the best meat went to the elite.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "The workers got bone ends, boiled into a protein-rich soup.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "Not glamorous, but it's food, every day.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "086",
+   "texto": "One estimate says the town needed about eleven cattle and thirty-seven sheep or goats daily.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "087",
+   "texto": "That is a big supply chain.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "So the pyramid didn't run on stone. It ran on logistics.",
+   "capitulo": "5",
+   "nome_capitulo": "Pão, cerveja e salário",
+   "bloco": "rua",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "089",
+   "texto": "Now, to work. Most of the stone came from right beside the pyramid.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "Workers cut it out of the Giza plateau with copper tools.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "Copper chisels, copper saws, and stone hammers. Not iron.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "092",
+   "texto": "The nicer white stone for the outside came from Tura, by boat. That's Merer's route.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "093",
+   "texto": "The hardest stone, granite, came from Aswan, hundreds of miles to the south.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "Some granite beams above the King's Chamber weigh up to eighty tons.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "Many other blocks weighed a few tons. How do you move a block like that? With a sled, ropes, and a lot of friends.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "And a bucket of water.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "A painting in a later tomb shows a man pouring water on sand in front of a giant statue on a sled.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "In twenty fourteen, physicists in Amsterdam tested that idea.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "They found that damp sand takes about half the pull of dry sand.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "100",
+   "texto": "So the water trick may not be decoration. It may be the smartest thing on the site.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "101",
+   "texto": "Now, do the math. The pyramid has around two point three million blocks.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "102",
+   "texto": "Spread over about twenty-five years, that's roughly two hundred and fifty blocks a day.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "103",
+   "texto": "Every day. In daylight, that's one block every two or three minutes. You will not have time for hobbies.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "104",
+   "texto": "Your job is one small step, repeated all day. Haul. Rest. Haul.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "105",
+   "texto": "Nobody carries the pyramid. You carry your part of the plan.",
+   "capitulo": "6",
+   "nome_capitulo": "O trabalho: cobre, trenós e números",
+   "bloco": "trabalho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "106",
+   "texto": "So how did they lift the stones to the top? The honest answer is: we don't fully know.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "Most experts agree on the basics. Local stone, sleds, copper tools, and boats on the Nile.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "108",
+   "texto": "They also agree that some kind of ramps were involved.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "What they argue about is the shape of the ramps.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "110",
+   "texto": "Some say one long straight ramp. Critics say that's far too big.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "Some say a ramp spiraling around the pyramid. Lehner has favored versions of this.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "Some say the ramp was inside. A French architect, Jean-Pierre Houdin, suggested it.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "113",
+   "texto": "Nobody has proved any of them.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "114",
+   "texto": "But in twenty eighteen, a new clue appeared at Hatnub, an alabaster quarry.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "There, researchers found a ramp flanked by two staircases, with rows of post holes.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "Workers probably tied ropes to those posts and hauled sleds up steep slopes.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "Steeper than anyone expected. Twenty percent or more.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "118",
+   "texto": "Careful, though. That is a quarry, not the pyramid. And the stone was alabaster.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "Another clue is the river. In twenty twenty-four, a study proposed that a lost branch of the Nile ran beside Giza.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "It may have carried workers and materials almost to the pyramid's doorstep.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "121",
+   "texto": "And Lehner reads Merer's diary as proof of a harbor at Giza, with basins for the boats.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "122",
+   "texto": "So the Nile may have been the conveyor belt.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "We are still finding surprises. In twenty seventeen, scientists using cosmic particles found a hidden void inside the pyramid.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "124",
+   "texto": "At least thirty meters long. Nobody knows what it's for.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "125",
+   "texto": "So the pyramid still has secrets. The workers are not one of them.",
+   "capitulo": "7",
+   "nome_capitulo": "Como subiram as pedras? (consenso e debate)",
+   "bloco": "almoco",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "126",
+   "texto": "Let's talk about getting hurt. The job is dangerous. Heavy stone, ropes, sleds, ramps, and dust.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "Skeletons in the workers' cemetery show a lot of wear.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "128",
+   "texto": "Back problems. Arthritis. Broken bones. Many people died in their thirties.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "129",
+   "texto": "But the broken bones tell a surprising story.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "A study looked at two hundred and four adult skeletons from the Giza cemeteries.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "131",
+   "texto": "Out of more than two thousand long bones, forty-five had fractures.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "132",
+   "texto": "And almost all of those had healed straight.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "133",
+   "texto": "That suggests someone knew how to set a broken arm or leg.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "Egyptians wrote medical manuals, too. One famous papyrus describes how to treat wounds and broken bones.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "The copy we have is younger, but it may repeat a far older text.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "136",
+   "texto": "Careful, though. That study covers Giza skeletons in general, not only the builders.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "137",
+   "texto": "So \"free health care for pyramid workers\" may be too strong.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "138",
+   "texto": "But injuries were treated. This was a dangerous job with a first-aid kit.",
+   "capitulo": "8",
+   "nome_capitulo": "Acidentes e médicos",
+   "bloco": "tarde",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "And if you die on the job? Then you're buried near the pyramids, in the workers' cemetery.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "Laborers lay in the lower cemetery, in simple graves.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "Craftsmen and overseers lay higher up, in bigger tombs.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "One head carpenter even had statues of himself. So even in death, there were ranks.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "But these were not nameless bodies in a pit.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "144",
+   "texto": "These were people with jobs, titles, and families.",
+   "capitulo": "9",
+   "nome_capitulo": "Quando você morre",
+   "bloco": "carrocas",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "145",
+   "texto": "Now for the twist. This huge machine had a weak spot.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "Jump ahead more than a thousand years.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "147",
+   "texto": "Around eleven fifty-seven BC, under Ramesses the Third.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "148",
+   "texto": "The place is Deir el-Medina, a village of craftsmen who built the royal tombs.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "149",
+   "texto": "They were paid in grain.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "In year twenty-nine, the grain was late. The workers walked out, shouting to the guards, \"We are hungry!\"",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "They sat down behind a temple. Officials paid some grain.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "But the workers left again, and refused to go back.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "They wanted to talk to the pharaoh himself.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "A papyrus in Turin records the whole thing. Guinness World Records calls it the first recorded strike in history.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "155",
+   "texto": "Imagine shouting \"We are hungry,\" and a scribe writes it down. Thanks to him, we still know.",
+   "capitulo": "10",
+   "nome_capitulo": "A greve",
+   "bloco": "lavoisier",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "156",
+   "texto": "So, what would your life be like? Hot, hard, dangerous, and strangely organized.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "You'd work on a crew with a funny name. You'd sleep near a bakery.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "You'd eat bread, drink beer, and get paid in food.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "You'd get hurt. And someone might fix you.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "And one day you'd step back and see a white mountain you helped build.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "Here is my take.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "162",
+   "texto": "The pyramid is not proof of magic. It is proof that a state can turn bread into a mountain.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "163",
+   "texto": "The stone is the visible part. The real wonder is logistics.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "164",
+   "texto": "Farmers, boats, bakers, scribes, and healers, all working on time.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "165",
+   "texto": "And the strike shows the other side.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "When the bread is late, even a god-king's project can stop.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "167",
+   "texto": "The pharaoh promised eternity. But what held it together was lunch.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "168",
+   "texto": "If you enjoyed this season on the job, tell me in the comments which job in history we should try next.",
+   "capitulo": "11",
+   "nome_capitulo": "Fecho",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

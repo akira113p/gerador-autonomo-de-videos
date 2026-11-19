@@ -1,0 +1,369 @@
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/001.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/002.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/003.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/004.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/005.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/006.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/007.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/008.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/009.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/010.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/011.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/012.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/013.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/014.png'
+duration 5.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/015.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/016.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/017.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/018.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/019.png'
+duration 5.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/020.png'
+duration 2.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/021.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/022.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/023.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/024.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/025.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/026.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/027.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/028.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/029.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/030.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/031.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/032.png'
+duration 3.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/033.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/034.png'
+duration 5.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/035.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/036.png'
+duration 3.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/037.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/038.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/039.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/040.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/041.png'
+duration 7.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/042.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/043.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/044.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/045.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/046.png'
+duration 8.033333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/047.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/048.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/049.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/050.png'
+duration 2.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/051.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/052.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/053.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/054.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/055.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/056.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/057.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/058.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/059.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/060.png'
+duration 5.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/061.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/062.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/063.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/064.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/065.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/066.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/067.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/068.png'
+duration 3.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/069.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/070.png'
+duration 7.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/071.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/072.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/073.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/074.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/075.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/076.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/077.png'
+duration 1.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/078.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/079.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/080.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/081.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/082.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/083.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/084.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/085.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/086.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/087.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/088.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/089.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/090.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/091.png'
+duration 2.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/092.png'
+duration 6.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/093.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/094.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/095.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/096.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/097.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/098.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/099.png'
+duration 2.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/100.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/101.png'
+duration 2.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/102.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/103.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/104.png'
+duration 2.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/105.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/106.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/107.png'
+duration 4.833333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/108.png'
+duration 1.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/109.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/110.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/111.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/112.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/113.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/114.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/115.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/116.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/117.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/118.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/119.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/120.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/121.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/122.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/123.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/124.png'
+duration 6.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/125.png'
+duration 2.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/126.png'
+duration 7.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/127.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/128.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/129.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/130.png'
+duration 2.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/131.png'
+duration 6.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/132.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/133.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/134.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/135.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/136.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/137.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/138.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/139.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/140.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/141.png'
+duration 7.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/142.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/143.png'
+duration 6.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/144.png'
+duration 3.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/145.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/146.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/147.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/148.png'
+duration 7.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/149.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/150.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/151.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/152.png'
+duration 3.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/153.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/154.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/155.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/156.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/157.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/158.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/159.png'
+duration 2.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/160.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/161.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/162.png'
+duration 6.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/163.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/164.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/165.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/166.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/167.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/168.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/169.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/170.png'
+duration 6.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/171.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/172.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/173.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/174.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/175.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/176.png'
+duration 2.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/177.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/178.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/179.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/180.png'
+duration 7.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/181.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/182.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v11-oregon-trail/imagens/183.png'
+duration 7.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'
+duration 15.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'

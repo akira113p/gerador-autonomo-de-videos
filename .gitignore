@@ -25,3 +25,19 @@ ferramentas/.youtube/
 # áudio intermediário pesado (refeito pelos scripts); as vozes de referência em identidade/ ficam
 piloto/**/*.wav
 !piloto/testes-identidade/**/*.wav
+
+# temporários e arquivos vazios
+ferramentas/_x
+piloto/*/tmp/
+
+# imagens geradas dos vídeos 6 a 14 (~2 GB; os scripts e prompts as recriam). As folhas de contato (folhas/) e thumbs ficam como amostra.
+piloto/v6-camponesa-medieval/imagens/
+piloto/v7-pompeia/imagens/
+piloto/v11-oregon-trail/imagens/
+piloto/v12-resident-evil/imagens/
+piloto/v12-resident-evil/imagens_final/
+piloto/v12-resident-evil/teste_klein/*.png
+piloto/v13-bloods-nova-york/imagens/
+piloto/v13-bloods-nova-york/imagens_final/
+piloto/v14-backrooms/imagens/
+piloto/v14-backrooms/imagens_final/

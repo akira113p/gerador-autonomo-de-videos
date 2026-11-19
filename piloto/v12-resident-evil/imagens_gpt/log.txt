@@ -1,0 +1,26 @@
+Vídeo 12 (Resident Evil) - imagens ChatGPT, 2026-10-19. Mesmo chat, 16:9 (1672x941). Prompt = "Wide 16:9 landscape image. Same character as the character sheet above. " + cena + " Style: <bloco de estilo>". {YOU} = "stick figure man in a navy winter parka and grey beanie" (em 5-8, 10-14 sem YOU no prompt, ver notas).
+p0   ok (folha com 4 poses; adulto, sério, círculo+linhas; corpo/parka volumosa, pernas de linha; não infantil). Sem refazer.
+001  ok. YOU de costas/perfil na janela, segura uma caneca (não pedido). Cidade/hospital com cruz vermelha e brilho vermelho OK.
+002  ok. Fuel gauge perto da metade. Tem texto minúsculo ilegível no porta-malas do carro.
+003  ok. Relógio mostra ~9:10; YOU aparece na cozinha (não pedido).
+004  ok. Rosto preocupado, mochila.
+005  ok. Cartão branco, pin + fábrica; estilo mais "ícone colorido" que o resto.
+006  ok. YOU aparece (não pedido) olhando complexo soviético; chaminé com fumaça.
+007  ok. Mapa aéreo com faixa e seta; sem texto.
+008  PROBLEMA: texto cirílico inventado ("КАЧЕСТВО НАРОДУ!", "СИЛЬНАЯ НАРОНА..." com erro, jornal "ПРАВДА", etiquetas de preço). Não é texto-lixo ilegível, mas tem erro. Boa cena, usar sem legendas ou recortar. Não refeito.
+009  PROBLEMA de conteúdo: a TV mostra "SOVIET NEWS / RADIATION LEVELS RISE NEAR PLANT" (inventado; a versão oficial de Sverdlovsk foi carne contaminada, não radiação). YOU de costas no sofá. Precisa refazer pedindo "red banner with no text" (não refeito, limite de 1 refação não usado).
+010  ok. Carro de faróis na estrada nevada; YOU dentro do carro (não pedido). Placa de curva.
+011  PROBLEMA: rua russa (МИЛИЦИЯ, КИНО, "ВПЕРЕД К ЗВЕЗДАМ!", ônibus soviético) em vez de rua americana; textos "1990s"/"TODAY" e "CAFÉ" adicionados. Serve se o ponto for Sverdlovsk, mas o prompt dizia "old 1990s city street". Estilo OK, personagens não-fofos.
+012  ok. Entregador longe com caixa branca com cruz; carro, hospital; roupa do entregador não bem hoodie cinza (distante). Chaminés ao fundo.
+013  PROBLEMA leve: cidade ao fundo parece soviética/Moscou (prédio estilo Stalin), não americana; parca parece quase preta, não azul-marinho.
+014  ok. Claquete, controle de videogame, jornal "THE DAILY NEWS" (texto inventado legível); ícones em cima.
+thumb/base_gpt.png  ok. Boneco de costas à direita (parca escura, mochila, gorro), cidade com fogo, holofote do helicóptero subindo, céu escuro à esquerda livre para texto.
+
+Observações gerais: personagem consistente em todas; estilo NÃO é fofo; sem anacronismos óbvios; blood/armas não apareceram. Nenhuma refação feita. Houve um download errado (014 saiu igual à 008, depois corrigido; nenhum arquivo duplicado agora). Para refazer 009/011/013 usar o mesmo chat.
+
+--- Refação (2026-10-19, pedido do coordenador; textos "blank") ---
+008 refeita: ok. Placas e jornal em branco/linhas cinza, bandeira vermelha com estrela e louro sem letras. Sem texto legível.
+009 refeita: ok. Faixa vermelha com barras brancas em branco; TV com locutor e foto de torre estilo Kremlin ao fundo (detalhe: é Moscou, não Sverdlovsk); sem texto. Alternativa com cidade em chamas na TV: 009_alt_incendio.png.
+011 refeita: ok. Rua americana de cidade pequena, viatura xerife anos 90 à esquerda, carros modernos e celulares à direita, placas em branco, linha tracejada. Sem texto legível (ficou um letreiro pequeno ilegível à direita).
+013 refeita: ok. Parca azul-marinho escura (ainda bem escura) com gorro cinza, rua nevada de cidade de montanha americana, lojas de madeira/tijolo, pinheiros e montanhas, olhando de frente.
+(Os downloads desta rodada chegaram defasados por uma cena; foram remapeados conferindo o conteúdo de cada imagem.)

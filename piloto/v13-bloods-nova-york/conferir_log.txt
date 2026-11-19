@@ -1,0 +1,126 @@
+001 DIF You're 18, you live in the Bronx, and the Red Nation wants you.
+002 OK  
+003 OK  
+004 OK  
+005 OK  
+006 OK  
+007 OK  
+008 OK  
+009 OK  
+010 OK  
+011 OK  
+012 OK  
+013 OK  
+014 OK  
+015 OK  
+016 OK  
+017 OK  
+018 OK  
+019 OK  
+020 OK  
+021 OK  
+022 OK  
+023 DIF Across the United States, the age when joining peaks is 14.
+024 DIF At 18, you're actually late.
+025 OK  
+026 OK  
+027 OK  
+028 OK  
+029 OK  
+030 OK  
+031 OK  
+032 OK  
+033 OK  
+034 OK  
+035 OK  
+036 OK  
+037 OK  
+038 DIF At the end of 2022, it held 16,141 names.
+039 DIF 99% of them were black or Hispanic.
+040 OK  
+041 OK  
+042 OK  
+043 OK  
+044 OK  
+045 OK  
+046 OK  
+047 OK  
+048 DIF The thing you join still answers to a jail.
+049 OK  
+050 OK  
+051 OK  
+052 OK  
+053 OK  
+054 OK  
+055 OK  
+056 DIF A post that takes 10 seconds to write can follow you into neighborhoods you've never set foot in.
+057 OK  
+058 OK  
+059 OK  
+060 OK  
+061 OK  
+062 OK  
+063 DIF 70% of the people who survived a gunshot belong to networks of people arrested together that made up less than 6% of the city.
+064 OK  
+065 OK  
+066 OK  
+067 OK  
+068 OK  
+069 OK  
+070 OK  
+071 OK  
+072 OK  
+073 DIF March 6 in the morning.
+074 OK  
+075 OK  
+076 DIF In 2025 alone, the NYPD carried out 70 gang takedowns like this one.
+077 OK  
+078 OK  
+079 OK  
+080 OK  
+081 OK  
+082 OK  
+083 OK  
+084 OK  
+085 OK  
+086 DIF This is exactly what happened to a set called the 9-3 in Manhattan, starting in 2018.
+087 OK  
+088 DIF One defendant who pleaded guilty was sentenced to 15 years.
+089 DIF A high-ranking member who went to trial got 24.
+090 OK  
+091 OK  
+092 OK  
+093 OK  
+094 DIF In the 9-3 case, prosecutors said the charges against that rapper carried at least 47 years.
+095 OK  
+096 OK  
+097 OK  
+098 OK  
+099 OK  
+100 OK  
+101 OK  
+102 DIF David Pyruz, a criminologist at the University of Colorado, studied hundreds of men in Texas prisons.
+103 OK  
+104 OK  
+105 OK  
+106 DIF Every year in the United States, researchers estimate about 400,000 young people join a gang, and almost as many leave.
+107 OK  
+108 OK  
+109 OK  
+110 OK  
+111 OK  
+112 OK  
+113 OK  
+114 DIF You're 19 in a federal jail in Brooklyn with an offer on the table and a possible sentence longer than your life so far.
+115 DIF 15 years, 24 or two, and your mother and your brother moving somewhere nobody knows.
+116 OK  
+117 DIF In 2025, New York had 688 shooting incidents, the fewest in its recorded history.
+118 DIF In 2022, it had been 1,294.
+119 DIF Across the country, researchers estimate that only about 2% of young people are in a gang at any given time.
+120 OK  
+121 OK  
+122 DIF A federal jury convicted him on 10 counts, including racketeering and conspiracy to commit murder.
+123 DIF In 2003, he was sentenced to 50 years in federal prison.
+124 OK  
+125 OK  
+126 OK  

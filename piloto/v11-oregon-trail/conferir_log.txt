@@ -1,0 +1,183 @@
+001 DIF It's April, 1850.
+002 OK  
+003 OK  
+004 DIF In front of you are 2,000 miles of Oregon Trail.
+005 OK  
+006 OK  
+007 DIF And here's the part the cartoons skip. You will not be riding.
+008 OK  
+009 OK  
+010 OK  
+011 DIF And by one estimate, at least 20,000 people never arrived.
+012 OK  
+013 OK  
+014 OK  
+015 DIF Start with the sales pitch. Free farmland in a green valley called the Will Lammet.
+016 DIF This very year, Congress will promise a married couple 640 acres.
+017 OK  
+018 OK  
+019 DIF Nobody asked them, and a treaty with them would not be signed until 1855.
+020 OK  
+021 OK  
+022 DIF In 1849, about 30,000 people headed west, mostly for California.
+023 DIF In 1850, by one count, it was 55,000.
+024 OK  
+025 OK  
+026 OK  
+027 OK  
+028 OK  
+029 DIF A proper outfit costs roughly $800 to $1,200.
+030 OK  
+031 DIF In today's money, that's more than $30,000.
+032 OK  
+033 DIF The bed is about 10 feet long and 4 feet wide.
+034 OK  
+035 OK  
+036 DIF And no, this is not a Connie Stowe Goo Wagon.
+037 DIF The Kani Stogu was heavy, with a swayback shape, and it rarely went past the Missouri River.
+038 OK  
+039 OK  
+040 OK  
+041 DIF At Fort Lair Ami in 1850, someone counted over 36,000 oxen and about 7,500 mules.
+042 DIF A few years later, Army Captain Randolph Marr C priced an 8-aux team at about $200.
+043 DIF For 2,000 miles, he says, young oxen will outlast mules.
+044 OK  
+045 OK  
+046 DIF Now, food. And here we get help from a classic manual. Mar sees the prairie traveler.
+047 DIF It came out in 1859, so you're a little early, but the advice holds up.
+048 DIF His list per grown person for about 110 days?
+049 DIF 150 pounds of flour
+050 DIF 25 pounds of bacon
+051 DIF 15 pounds of coffee and 25 of sugar.
+052 OK  
+053 OK  
+054 OK  
+055 OK  
+056 DIF A wagon like yours can carry up to about 2,500 pounds, in theory.
+057 DIF In practice, travelers aimed for 16 to 1,800.
+058 OK  
+059 OK  
+060 OK  
+061 OK  
+062 OK  
+063 OK  
+064 DIF It was published in 1845.
+065 OK  
+066 OK  
+067 OK  
+068 OK  
+069 DIF In 1846, the Donner Party tried it.
+070 DIF Snow trapped them in the sea air, a nuh-ved, uh, of 87 people, about 48 survived.
+071 OK  
+072 OK  
+073 OK  
+074 OK  
+075 OK  
+076 OK  
+077 OK  
+078 DIF The average is 12 to 15 miles a day.
+079 OK  
+080 OK  
+081 DIF Around 6, the wagons form a circle.
+082 OK  
+083 OK  
+084 OK  
+085 OK  
+086 OK  
+087 DIF Historian Lillian Schlisole studied the diaries and letters of 103 women.
+088 OK  
+089 DIF Amelia Knight wrote on April 23rd, dreary times wet and muddy.
+090 OK  
+091 OK  
+092 OK  
+093 OK  
+094 OK  
+095 OK  
+096 DIF Sometimes you pay a ferry. In 1850, one party paid $4 a wagon on the plat.
+097 DIF At one crossing, Knight counted more than 300 wagons waiting their turn.
+098 OK  
+099 OK  
+100 OK  
+101 OK  
+102 OK  
+103 OK  
+104 OK  
+105 DIF Mars Sea years later would advise boiling water from stagnant pools.
+106 OK  
+107 OK  
+108 OK  
+109 OK  
+110 OK  
+111 OK  
+112 OK  
+113 OK  
+114 DIF Nobody knew what caused it. People treated it with cam fare and law done.
+115 DIF One emigrant counted 71 graves at a single campground.
+116 DIF In 1850, by one count, cholera killed thousands.
+117 DIF The Bureau of Land Management says at least 20,000 people died on the Oregon Trail.
+118 OK  
+119 OK  
+120 OK  
+121 OK  
+122 DIF Because in those same years, cholera was killing thousands in cities like St. Louis.
+123 OK  
+124 OK  
+125 OK  
+126 DIF Unruh counted between 1840 and 1860, 362 emigrants killed in clashes with native people.
+127 DIF and 426 native people killed in the same clashes.
+128 DIF Over 20 years along a road used by hundreds of thousands.
+129 OK  
+130 OK  
+131 OK  
+132 OK  
+133 OK  
+134 OK  
+135 OK  
+136 DIF By May 2nd, she wrote, children are getting used to them.
+137 OK  
+138 OK  
+139 OK  
+140 OK  
+141 OK  
+142 OK  
+143 OK  
+144 OK  
+145 OK  
+146 OK  
+147 OK  
+148 DIF In September 1851, the United States held a council at Horse Creek, east of Fort Lair, uh, Me.
+149 OK  
+150 DIF The United States promised yearly payments for 50 years. As ratified, Congress cut that to 10.
+151 OK  
+152 OK  
+153 DIF By mid-summer you reach Independence Rock in Wyoming.
+154 OK  
+155 DIF Today, there are more than 5,000 names.
+156 OK  
+157 DIF It's a valley about 12 miles wide. A wagon can cross it without any climbing drama.
+158 OK  
+159 OK  
+160 OK  
+161 DIF Until the Barlow Road opened in 1846, the Overland Trail effectively ended at a town called the Dolls.
+162 DIF The Barlow Road is a toll road. $5 per wagon plus 10 cents per head of livestock.
+163 DIF It includes Laurel Hill, a descent of roughly 2,000 feet.
+164 OK  
+165 OK  
+166 OK  
+167 OK  
+168 DIF But let's finish with Amelia Knight in 1853.
+169 OK  
+170 OK  
+171 DIF That's 320 acres for two yoke of oxen.
+172 OK  
+173 DIF In 1869, the railroad changed everything.
+174 OK  
+175 DIF The wagon trail faded, but about 300 miles of ruts are still there.
+176 OK  
+177 OK  
+178 OK  
+179 OK  
+180 OK  
+181 OK  
+182 DIF Would you walk 4 million steps for a farm in someone else's valley?
+183 OK  

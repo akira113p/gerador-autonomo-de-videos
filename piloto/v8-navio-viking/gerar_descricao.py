@@ -56,6 +56,8 @@ MUSICA = {
     "": "Music: AI-generated (ACE-Step 1.5).",
     "_jazz": 'Music: "No Copyright - Royalty Free 12 hours JAZZ Music" by 741Hz, '
              "https://www.youtube.com/watch?v=HqPsROn8e8k",
+    "_medieval": 'Music: "No Copyright Medieval Fantasy Ambient Music Mix | The Old Kingdom [No AI]" by AlkaKrab, '
+                 "https://www.youtube.com/watch?v=2FEUVx8F4dk",
 }
 
 # as 3 primeiras aparecem acima do título; mais de 15 anulam todas

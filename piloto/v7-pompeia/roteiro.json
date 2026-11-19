@@ -1,0 +1,1652 @@
+{
+ "titulo": "What Would YOUR Life Be Like in Pompeii on the Last Day?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "Good morning. Today is the last day of your city.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "002",
+   "texto": "Nobody has told you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "003",
+   "texto": "You are Felix, a baker in Pompeii, a busy Roman town on the Bay of Naples.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "004",
+   "texto": "Somewhere between ten and twenty thousand people live here, depending on which expert you ask.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "005",
+   "texto": "You used to be a slave. Now you are free, you earn a small wage, and you have a long to-do list.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "006",
+   "texto": "Buy flour. Complain about prices. Vote for the right candidate. Maybe go see the gladiators.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "007",
+   "texto": "What is not on your list is \"run away from the volcano.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "008",
+   "texto": "Because the big green mountain behind your town looks harmless.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "009",
+   "texto": "A Greek geographer who wrote about it generations earlier saw burnt-looking rocks, and guessed that its fire had died out.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "010",
+   "texto": "So today, we will live your day, hour by hour.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "011",
+   "texto": "Our guide is Pliny the Younger, who wrote two letters about it. They are the only eyewitness account that survives.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "012",
+   "texto": "And here is the twist: he never once says the word \"Pompeii.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "013",
+   "texto": "So for the town itself, we will have to read its walls.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "014",
+   "texto": "But first, a problem. Which day is today?",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura (gancho: o último dia da sua cidade)",
+   "bloco": "abertura",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "015",
+   "texto": "The traditional answer is the twenty-fourth of August, in the year seventy-nine.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": true,
+   "cartao": true
+  },
+  {
+   "id": "016",
+   "texto": "That date comes from Pliny's letter to the historian Tacitus.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "017",
+   "texto": "But Pliny's original letter is lost. We only have copies, written out by hand centuries later.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "018",
+   "texto": "The oldest copies agree on August. Some later ones say other months.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "019",
+   "texto": "Then, in 2018, archaeologists found a message on a wall.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "020",
+   "texto": "It was written in charcoal, inside a house that was being renovated.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "021",
+   "texto": "It gave a date: the seventeenth of October.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "022",
+   "texto": "Charcoal rubs off easily. So the team thought it must have been written just before the eruption.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "023",
+   "texto": "Add some autumn fruit found in the ruins, like pomegranates, and October looked likely.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "024",
+   "texto": "Then the park decided to test the idea.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "025",
+   "texto": "They wrote their own charcoal note on that same wall, and checked it month after month.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "026",
+   "texto": "Ten months later, it was still perfectly readable.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "027",
+   "texto": "So the old message could have been written the October before, not the October after.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "028",
+   "texto": "And the fruit could have been late-season, or stored.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "029",
+   "texto": "Today, the park's director says August is still the best-supported date. But he admits that Pliny could be wrong.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "030",
+   "texto": "So the honest answer is: probably August, but not certain.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "031",
+   "texto": "We will use August, because Pliny gives us the hours.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "032",
+   "texto": "Felix does not care about any of this. He has bread to bake.",
+   "capitulo": "1",
+   "nome_capitulo": "Que dia é hoje?",
+   "bloco": "data",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "033",
+   "texto": "Your day starts in the dark, at the bakery.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "034",
+   "texto": "Pompeii has at least thirty-one of them.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "035",
+   "texto": "Yours is small: an oven, a counter, and a back room with a grain mill.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "036",
+   "texto": "The mill is a big stone shaped like an hourglass. Somebody has to keep it turning.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "037",
+   "texto": "Usually that is a donkey. Sometimes it is a person.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "038",
+   "texto": "In 2023, archaeologists announced a bakery of the darkest kind.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "039",
+   "texto": "Enslaved people and donkeys worked together in a room with no outside door, and with small, high, barred windows.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "040",
+   "texto": "You know a world like that. You used to live in one.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "041",
+   "texto": "Today, at least, you decide when your bread comes out of the oven.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "042",
+   "texto": "The loaves are round, and cut with lines into wedges, so people can break off a piece.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "043",
+   "texto": "In one Pompeian bakery, eighty-one loaves were found still in the oven, turned to charcoal.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "044",
+   "texto": "Some bakers pressed a stamp into the dough, like a signature.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "045",
+   "texto": "In nearby Herculaneum, one loaf says: \"Celer, slave of Quintus Granius Verus.\"",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "046",
+   "texto": "So even bread had an author. And some of those authors were slaves.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "047",
+   "texto": "Now, about pizza.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "048",
+   "texto": "In 2023, archaeologists found a painting of a flatbread on a table, next to wine and fruit.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "049",
+   "texto": "The headlines said \"pizza.\"",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "050",
+   "texto": "The park's director said: not pizza. Maybe a distant ancestor.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "051",
+   "texto": "No tomatoes. No mozzarella. Sorry.",
+   "capitulo": "2",
+   "nome_capitulo": "Antes do amanhecer: a padaria",
+   "bloco": "padaria",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "052",
+   "texto": "At sunrise, you open the shutters and step outside.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "053",
+   "texto": "The street is crowded with carts, donkeys, and people.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "054",
+   "texto": "And after rain, it is a river of dirty water and animal waste.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "055",
+   "texto": "That is why the street has big stepping stones set across it.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "056",
+   "texto": "You hop from stone to stone, and the cart wheels roll between them.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "057",
+   "texto": "For water, you walk to the fountain on the corner. There are more than twenty-five in town.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "058",
+   "texto": "Their water arrives by aqueduct, from far away, since around twenty BC.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "059",
+   "texto": "Then you look up. The walls are talking.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "060",
+   "texto": "Painted in red, there are election notices. More than two thousand six hundred survive.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "061",
+   "texto": "Most back candidates for aedile, who looks after streets and markets, or for duumvir, a top local magistrate.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "062",
+   "texto": "Groups endorse them. The worshippers of Isis back a man named Helvius Sabinus.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "063",
+   "texto": "Who gets to vote? Free men who are citizens. Not women. Not slaves.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "064",
+   "texto": "Then the walls get personal.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "065",
+   "texto": "Somebody wrote: \"I admire you, wall, for not having collapsed under the weight of so many scribblers.\"",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "066",
+   "texto": "Remember that wall. It will come back.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "067",
+   "texto": "Another notice says: \"The late drinkers ask you to elect Marcus Cerrinius Vatia.\"",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "068",
+   "texto": "Pompeii does not just have walls. It has a comment section.",
+   "capitulo": "3",
+   "nome_capitulo": "Manhã: as paredes falam",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "069",
+   "texto": "By mid-morning, you deliver bread to a fancy house.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "070",
+   "texto": "Painted walls, a garden, and a very proud owner.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "071",
+   "texto": "Maybe he was a slave once too. In Pompeii, that could happen.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "072",
+   "texto": "The House of the Vettii, one of the richest homes in town, belonged to two men who had been freed from slavery.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "073",
+   "texto": "Historians think they made their money from wine.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "074",
+   "texto": "Freed slaves became citizens. But they could not hold public office.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "075",
+   "texto": "So what do you do with money, and no political career?",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "076",
+   "texto": "You find another way in.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "077",
+   "texto": "About seventeen years ago, a violent earthquake shook the region.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "078",
+   "texto": "Even now, the town is still partly under repair.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "079",
+   "texto": "One of the damaged buildings was the temple of Isis.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "080",
+   "texto": "A freedman named Numerius Popidius Ampliatus paid to rebuild it, in his son's name.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "081",
+   "texto": "In return, the town council admitted the boy as a member, free of charge.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "082",
+   "texto": "The boy was six years old.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "083",
+   "texto": "A six-year-old city councillor. That is one way to beat the system.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "084",
+   "texto": "Meanwhile, a banker named Caecilius Iucundus keeps his records on wax tablets.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "085",
+   "texto": "A hundred and fifty-three of them were found in his house. Auction receipts, and loans.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "086",
+   "texto": "Pompeii runs on favors, contracts, and debts. Sounds familiar.",
+   "capitulo": "4",
+   "nome_capitulo": "Meio da manhã: dinheiro, libertos e um menino de seis anos",
+   "bloco": "paredes",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "087",
+   "texto": "At noon, you get hungry.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "088",
+   "texto": "Pompeii has about eighty snack bars, called thermopolia.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "089",
+   "texto": "You lean on a stone counter with big clay jars sunk into it, full of hot food.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "090",
+   "texto": "In 2020, archaeologists fully dug up one of these shops.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "091",
+   "texto": "On its counter, someone painted two ducks hanging upside down, and a rooster.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "092",
+   "texto": "The jars held the bones of pig, goat, fish, and snails. And a little duck.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "093",
+   "texto": "So the painted menu was real. Truth in advertising, two thousand years ago.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "094",
+   "texto": "The counter also shows a painted dog on a leash.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "095",
+   "texto": "And scratched on its frame, there is an insult aimed at a man named Nicias.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "096",
+   "texto": "Pompeii never lacked critics.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "097",
+   "texto": "In one wine jar, they found crushed beans. A Roman cookbook says beans could change the wine's taste and color.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "098",
+   "texto": "And on almost everything goes garum, the fish sauce.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "099",
+   "texto": "One Pompeian producer, Aulus Umbricius Scaurus, labeled his jars as the best.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "100",
+   "texto": "Think of ketchup, but made of fish.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "101",
+   "texto": "Then you eat, chat, and gossip. The break is over fast.",
+   "capitulo": "5",
+   "nome_capitulo": "Meio-dia: almoço no bar",
+   "bloco": "bar",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "102",
+   "texto": "After lunch, everybody talks about the games.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "103",
+   "texto": "Pompeii loves its gladiators. The walls say so.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "104",
+   "texto": "\"The girls' idol, Celadus the Thracian.\"",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "105",
+   "texto": "Another notice says a troupe will fight on the thirty-first of May. \"There will be a hunt, and awnings.\"",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "106",
+   "texto": "Awnings. Even then, people wanted shade.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "107",
+   "texto": "And fans took all of this very seriously.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "108",
+   "texto": "In the year fifty-nine, fans from Pompeii and the nearby town of Nuceria started insulting each other during a show.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "109",
+   "texto": "Insults turned into stones. Stones turned into swords.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "110",
+   "texto": "The Pompeians won.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "111",
+   "texto": "The Roman Senate was not amused. It banned shows in Pompeii for ten years.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "112",
+   "texto": "Some historians doubt the ban was strict.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "113",
+   "texto": "And somebody painted the riot on a wall in a house, like a sports highlight.",
+   "capitulo": "6",
+   "nome_capitulo": "Início da tarde: a arena",
+   "bloco": "arena",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "114",
+   "texto": "Around one in the afternoon, something changes.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "115",
+   "texto": "Across the bay, at Misenum, Pliny's mother points out a strange cloud.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "116",
+   "texto": "She is talking to her brother, Pliny the Elder, an admiral and a famous scholar.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "117",
+   "texto": "He walks out to get a better look.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "118",
+   "texto": "His nephew compares the cloud to a pine tree: a tall trunk, with branches spreading at the top.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "119",
+   "texto": "Sometimes it looked bright, sometimes dark and spotted, with earth and cinders.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "120",
+   "texto": "Today, this kind of eruption is called Plinian, after the nephew.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "121",
+   "texto": "Scientists estimate that the column rose roughly thirty kilometers.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "122",
+   "texto": "From Pompeii, you do not need to look across a bay. It is right there, and the wind is blowing toward you.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "123",
+   "texto": "What do you do? What would you do?",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "124",
+   "texto": "You stare. You ask the neighbors. Somebody says it is nothing.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "125",
+   "texto": "There is no alarm, no news, no emergency app. Just a huge cloud, and many opinions.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "126",
+   "texto": "Soon, small pieces of white pumice begin to fall, like light hail.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "127",
+   "texto": "Pumice is volcanic rock full of air bubbles. It is light.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "128",
+   "texto": "It looks harmless. For a while.",
+   "capitulo": "7",
+   "nome_capitulo": "Uma da tarde: a nuvem",
+   "bloco": "nuvem",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "129",
+   "texto": "The pumice keeps falling for about twelve hours.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "130",
+   "texto": "The layer grows by roughly twelve to fifteen centimeters every hour.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "131",
+   "texto": "Those stepping stones in the street? They disappear first.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "132",
+   "texto": "By one in the morning, the pumice around Pompeii is about a meter and a half deep.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "133",
+   "texto": "Roofs start to give way under the weight.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "134",
+   "texto": "So you face an awful choice. Stay inside, and risk the roof. Go outside, and risk the falling stones.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "135",
+   "texto": "Pliny the Elder's group, at Stabiae, chose to go outside.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "136",
+   "texto": "They tied pillows to their heads with napkins. That was their whole protection.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "137",
+   "texto": "It was daytime everywhere else. There, it was darker than any night, and they carried torches.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "138",
+   "texto": "Pliny the Elder had sailed in to rescue a friend named Rectina.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "139",
+   "texto": "His pilot suggested turning back. He answered: \"Fortune favors the brave.\"",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "140",
+   "texto": "He died on that shore. His nephew says that, when the body was found, he looked like a man asleep.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "141",
+   "texto": "In Pompeii, everyone is making their own choice.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "142",
+   "texto": "Many pack a few coins and leave, by the roads and by sea.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "143",
+   "texto": "We know some of them survived, because Pompeian names turn up on inscriptions in other towns of the region.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "144",
+   "texto": "Others stay. Maybe waiting for the storm to pass. Maybe unable to leave.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "145",
+   "texto": "We cannot know what Felix would choose. He is invented. But the evidence suggests most of the town got out.",
+   "capitulo": "8",
+   "nome_capitulo": "A tarde: chuva de pedra",
+   "bloco": "chuva",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "146",
+   "texto": "Night falls, and the darkness gets worse than night.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "147",
+   "texto": "Pliny the Younger, eighteen years old, is at Misenum, across the bay.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "148",
+   "texto": "He later wrote that it was not like a night with clouds, or no moon. It was like a closed room with all the lights out.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "149",
+   "texto": "You could hear women wailing, children screaming, and men shouting.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "150",
+   "texto": "Some begged the gods for help. Many were sure that there were no gods left, and that this was the eternal night.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "151",
+   "texto": "And Pliny? He was reading Livy, and taking notes.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "152",
+   "texto": "A friend scolded him for being so calm. He kept reading.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "153",
+   "texto": "Overachiever. Or in shock. Probably both.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "154",
+   "texto": "Meanwhile, the ground keeps shaking.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "155",
+   "texto": "In his letter, he says there had been tremors for days, but nobody was alarmed, because they were normal in Campania.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "156",
+   "texto": "That is the thing about warnings. You only recognize them afterward.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "157",
+   "texto": "About one in the morning, a surge of hot ash and gas rushes down the volcano and overwhelms Herculaneum, on the coast.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "158",
+   "texto": "Pompeii is farther away. For a few more hours, the mountain gives you time.",
+   "capitulo": "9",
+   "nome_capitulo": "A noite: a escuridão",
+   "bloco": "noite",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "159",
+   "texto": "By half past six, there is more than two meters of pumice in Pompeii.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "160",
+   "texto": "Around seven thirty, the fourth surge reaches the city.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "161",
+   "texto": "This is where we stop drawing.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "162",
+   "texto": "Felix is invented. The people of Pompeii were not.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "163",
+   "texto": "About thirteen hundred victims have been found there so far.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "164",
+   "texto": "The park estimates that roughly one in ten of the city's people died, and more may have died while fleeing.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "165",
+   "texto": "That means most of the town probably escaped. And lost everything.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "166",
+   "texto": "In 1863, the archaeologist Giuseppe Fiorelli began making plaster casts of the hollows left in the hardened ash.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "167",
+   "texto": "Modern scans show the casts were reworked. They are records, not photographs.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "168",
+   "texto": "They are not statues. They are the last trace of real people, and they deserve respect.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "169",
+   "texto": "And one more thing: Pompeii was not buried by lava. It was pumice, then hot ash.",
+   "capitulo": "10",
+   "nome_capitulo": "A manhã seguinte",
+   "bloco": "luto",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "170",
+   "texto": "For centuries, the town stayed buried.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": true,
+   "cartao": false
+  },
+  {
+   "id": "171",
+   "texto": "Around 1592, an architect digging a water channel hit its walls, and said nothing.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "172",
+   "texto": "Proper digging began in 1748. It took until 1763 for an inscription to name the city.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "173",
+   "texto": "But Pompeii is not a perfect snapshot of one afternoon.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "174",
+   "texto": "The classicist Mary Beard says it was disturbed, evacuated, and pillaged.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "175",
+   "texto": "In 2025, the park announced that people came back to live in the ruins, in the upper floors, for a long time.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "176",
+   "texto": "So the story of Pompeii does not end with the ash.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "177",
+   "texto": "What strikes me is how normal it all was.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "178",
+   "texto": "Bakers, bar owners, voters, gladiator fans, borrowers, and a six-year-old councillor.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  },
+  {
+   "id": "179",
+   "texto": "And one person who wrote on a wall to complain about all the other people writing on walls.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "180",
+   "texto": "That grumpy writer was wrong. The scribbles survived. We can still read them.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "181",
+   "texto": "The last day of a city does not look like the last day. It looks like an ordinary morning, with a long to-do list.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "182",
+   "texto": "Felix never knew he was in the last chapter. Neither do we.",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": false
+  },
+  {
+   "id": "183",
+   "texto": "If you enjoyed this day, tell me in the comments: which day in history should we live next?",
+   "capitulo": "11",
+   "nome_capitulo": "Depois: o que Pompeia nos ensina",
+   "bloco": "fecho",
+   "inicio_capitulo": false,
+   "cartao": true
+  }
+ ]
+}

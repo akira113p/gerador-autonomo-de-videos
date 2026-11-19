@@ -17,15 +17,15 @@ from prompts import BASE, BONECO, T  # noqa: E402
 
 AQUI = Path(__file__).resolve().parent
 OUT = AQUI / "thumb"
-TITULO = "10 HOURS A DAY?!"
+TITULO = "LAST DAY OF POMPEII"
 FONTE = "C:/Windows/Fonts/impact.ttf"
 
 CENA = (
     "YouTube thumbnail. Big close-up of " + T["C"] + " in the lower left of the frame, his head very large "
     "and starting at the middle of the frame, with a hugely exaggerated shocked face: wide round eyes, raised eyebrows, "
-    "mouth wide open, two sweat drops. He points with one hand at a big round wall clock on the right side that has "
-    "only ten hour marks numbered 1 to 10. Behind them old narrow Paris buildings with blue-white-red flags, "
-    "a vivid saturated turquoise sky, warm golden sunlight, very bright saturated colors. "
+    "mouth wide open, two sweat drops. He holds a round loaf of bread in one hand and points with the other at a big "
+    "grey volcano cloud shaped like a pine tree rising on the right side behind a small Roman town of white walls and "
+    "red-tiled roofs, a vivid saturated orange and turquoise sky, very bright saturated colors. "
     "The top part of the frame is plain sky with empty space."
 )
 

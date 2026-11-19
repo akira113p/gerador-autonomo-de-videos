@@ -1,0 +1,141 @@
+001 OK  
+002 OK  
+003 OK  
+004 OK  
+005 OK  
+006 OK  
+007 OK  
+008 OK  
+009 OK  
+010 DIF The new Resident Evil directed by Zach Kreger takes place over one snowy night in the mountains of Colorado.
+011 OK  
+012 OK  
+013 OK  
+014 OK  
+015 OK  
+016 OK  
+017 OK  
+018 OK  
+019 OK  
+020 OK  
+021 OK  
+022 OK  
+023 OK  
+024 OK  
+025 DIF On 9-11 after the first plane hit the north tower, people below the impact zone waited a median of three minutes before starting down the stairs.
+026 OK  
+027 OK  
+028 OK  
+029 OK  
+030 OK  
+031 OK  
+032 OK  
+033 OK  
+034 OK  
+035 OK  
+036 OK  
+037 OK  
+038 OK  
+039 OK  
+040 OK  
+041 OK  
+042 OK  
+043 OK  
+044 OK  
+045 OK  
+046 DIF By 11.15 you've moved 2 miles in 40 minutes.
+047 OK  
+048 OK  
+049 OK  
+050 DIF Some drives from Houston to Dallas normally about four hours took 20.
+051 OK  
+052 DIF On the road, a single bus of elderly evacuees caught fire, and more than 20 of them died.
+053 OK  
+054 OK  
+055 OK  
+056 OK  
+057 OK  
+058 OK  
+059 OK  
+060 OK  
+061 OK  
+062 OK  
+063 DIF Kregers Infected aren't the slow zombies of old movies.
+064 OK  
+065 OK  
+066 OK  
+067 DIF Once symptoms appear, the World Health Organization says it is fatal in 100% of cases.
+068 OK  
+069 OK  
+070 OK  
+071 DIF You back out of the tunnel, two ways out or gone.
+072 OK  
+073 OK  
+074 OK  
+075 OK  
+076 OK  
+077 OK  
+078 OK  
+079 OK  
+080 OK  
+081 OK  
+082 OK  
+083 OK  
+084 OK  
+085 OK  
+086 DIF By 2 in the morning, the radio has new instructions. Stay indoors or go to an evacuation point.
+087 OK  
+088 OK  
+089 OK  
+090 DIF In 2014, during the Ebola epidemic, Liberia sealed off West Point, a neighborhood of Monrovia with about 80,000 people.
+091 DIF Barbed wire, soldiers, a quarantine meant to last 21 days.
+092 OK  
+093 DIF A 16-year-old named Shaki Kamara was shot in the legs.
+094 DIF He lay in the street bleeding for at least 20 minutes before anyone took him to a hospital. He died.
+095 DIF The quarantine was lifted after about 10 days.
+096 OK  
+097 DIF Half a tank. Phone at 20%. Two choices left.
+098 OK  
+099 OK  
+100 OK  
+101 OK  
+102 OK  
+103 OK  
+104 OK  
+105 OK  
+106 OK  
+107 OK  
+108 OK  
+109 OK  
+110 OK  
+111 OK  
+112 OK  
+113 OK  
+114 OK  
+115 OK  
+116 OK  
+117 OK  
+118 OK  
+119 DIF You follow it one step at a time until the sky turns gray.
+120 OK  
+121 OK  
+122 DIF The moment you had to leave wasn't 2 in the morning, it wasn't 10.30.
+123 OK  
+124 OK  
+125 OK  
+126 DIF When Wuhan was locked down in 2020, the announcement came at 2 in the morning. The city closed at 10.
+127 DIF 8 hours notice for a city of 11 million people.
+128 OK  
+129 DIF You made it out because at 2 in the morning you stopped waiting for someone to tell you what to do.
+130 OK  
+131 OK  
+132 DIF In the games, a few days later, the government ends the city for good. One missile at sunrise on the 1st of October.
+133 OK  
+134 OK  
+135 DIF In Sverdlovsk, the truth stayed buried for 13 years.
+136 OK  
+137 OK  
+138 OK  
+139 OK  
+140 OK  
+141 OK  

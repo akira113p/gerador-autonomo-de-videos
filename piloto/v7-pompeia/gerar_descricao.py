@@ -14,44 +14,36 @@ from pathlib import Path
 AQUI = Path(__file__).resolve().parent
 
 CAPITULOS = {
-    "0": "Intro: what's the date today?",
-    "1": "A new calendar, a new world",
-    "2": "Waking up before sunrise",
-    "3": "Getting dressed: clothes as politics",
-    "4": "The bread line (5 a.m.)",
-    "5": "On the way to work (7 a.m.)",
-    "6": "Work in the morning",
-    "7": "Lunch and \"what are you worth?\" (noon)",
-    "8": "The afternoon: what changed for women",
-    "9": "Late afternoon: the carts",
-    "10": "Lavoisier, the man who measured the world",
-    "11": "Night: the section assembly",
-    "12": "The end of the Terror",
+    '0': 'Intro: the last day of your city',
+    '1': 'Which day is it, really?',
+    '2': 'Before sunrise: the bakery',
+    '3': 'Morning: the walls talk',
+    '4': 'Mid-morning: money, freedmen and a six-year-old councillor',
+    '5': 'Noon: lunch at the snack bar',
+    '6': 'Early afternoon: the arena',
+    '7': "One o'clock: the cloud",
+    '8': 'Afternoon: a rain of stones',
+    '9': 'Night: the darkness',
+    '10': 'The next morning',
+    '11': 'What Pompeii teaches us',
 }
 
-TOPO = """What was daily life like during the French Revolution? We follow one ordinary day in Paris, 19 Floréal, Year II (8 May 1794), at the height of the Terror, through the eyes of a carpenter from the Faubourg Saint-Antoine.
+TOPO = """What would your life be like in Pompeii on the last day? We spend the final twenty-four hours of the Roman town hour by hour, as Felix, a freed slave and baker, using Pliny the Younger's two eyewitness letters for the eruption and the town's own walls (election posters, graffiti, snack bars, bakeries) for everyday life.
 
-A calendar with ten-day weeks and a clock with ten hours, bread lines before dawn, price controls, clothes that could get you arrested, a new way of speaking to strangers, and the day the chemist Antoine Lavoisier, who helped create the metric system, was executed. The guillotine is never shown."""
+Along the way: why the date of the eruption is still debated (August or October?), what a Roman bakery really looked like, the "pizza" painting that wasn't pizza, a six-year-old city councillor, gladiator fans who started a riot, and what we do and do not know about who escaped. No bodies and no plaster casts are drawn."""
 
 FONTES = """SOURCES
-- Decree of 4 Frimaire Year II (the republican calendar and decimal time); Fabre d'Églantine's report; Musée des Arts et Métiers
-- Archives parlementaires de la Révolution française (Convention debates and decrees: the Republic, the Maximum, the Law of Suspects, hoarding, the sections, citizenship)
-- Ken Alder, The Measure of All Things (2002) (the metric system)
-- Albert Soboul, The Parisian Sans-Culottes and the French Revolution (1964); George Rudé, The Crowd in the French Revolution (1959)
-- Louis-Sébastien Mercier, Tableau de Paris (1781-88); Daniel Roche, The People of Paris (1987)
-- Steven Kaplan, The Bakers of Paris and the Bread Question (1996)
-- Laurent Dubois, Avengers of the New World (2004)
-- Roderick Phillips, Putting Asunder: A History of Divorce in Western Society (1988)
-- Decree of 9 Brumaire Year II (women's clubs); Revolutionary Tribunal records
-- Henri Wallon, Histoire du Tribunal révolutionnaire de Paris (1880-82)
-- Peter McPhee, Robespierre: A Revolutionary Life (2012)
-- Jean-Pierre Poirier, Lavoisier: Chemist, Biologist, Economist (1996); Lavoisier, Traité élémentaire de chimie (1789)
-- Metropolitan Museum of Art: Jacques-Louis David's portrait of Lavoisier and his wife (1788)
-- Delambre, "Notice sur la vie et les ouvrages de M. le comte J.-L. Lagrange" (1812)
-- Donald Greer, The Incidence of the Terror During the French Revolution (1935)
-- Harris, The Assignats (1930)
+- Pliny the Younger, Letters 6.16 and 6.20 (to Tacitus), on the eruption of Vesuvius in AD 79
+- Parco Archeologico di Pompei: the 2018 charcoal inscription and the 2024 test of charcoal durability, the 2020 thermopolium of Regio V, the 2023 bakery with enslaved workers and the flatbread painting, the August 2025 announcements (victims, survivors, reoccupation)
+- Sigurdsson et al. (1985), "The eruption of Vesuvius in A.D. 79", National Geographic Research; Luongo et al. (2003), Journal of Volcanology and Geothermal Research
+- Strabo, Geography 5.4.8; Tacitus, Annals 14.17 (the riot of AD 59)
+- Mary Beard, "Myths of Vesuvius" and Pompeii: The Life of a Roman Town; Zuchtriegel (2024) on the date; Foss (2022) on the manuscripts of Pliny
+- CIL X 846 (the temple of Isis and the six-year-old Numerius Popidius Celsinus); the wax tablets of Caecilius Iucundus
+- Eric Poehler, The Traffic Systems of Pompeii (2017); Smithsonian Magazine and National Geographic coverage of the bakery, the thermopolium and the House of the Vettii
+- Pompeii Online (election notices) and World History Encyclopedia (graffiti and gladiator notices)
+- USGS Volcano Hazards Program (glossary: Plinian eruption, pumice, pyroclastic surges)
 
-Some details of ordinary life are reconstructed from general accounts; the carpenter and his family are fictional.
+Some details of ordinary life are reconstructed from general accounts; Felix and his bakery are fictional. This video draws no bodies and no plaster casts.
 Illustrations: AI-generated in a custom style and checked for anachronisms. Narration: synthetic voice."""
 
 MUSICA = {
@@ -61,7 +53,7 @@ MUSICA = {
 }
 
 # as 3 primeiras aparecem acima do título; mais de 15 anulam todas
-HASHTAGS = "#FrenchRevolution #History #Paris"
+HASHTAGS = "#Pompeii #History #AncientRome"
 
 
 def mmss(s: float) -> str:

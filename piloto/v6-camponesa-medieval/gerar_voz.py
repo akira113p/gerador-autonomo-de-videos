@@ -28,7 +28,7 @@ FALA = {
     "Michaelmas": "mickel mus",
     "villein": "villin",
     "virgate": "vur git",
-    "tallage": "tal ij",
+    "tallage": "tallidge",
     "Whitsun": "wit sun",
     "heriot": "herry ut",
     "merchet": "mur chit",

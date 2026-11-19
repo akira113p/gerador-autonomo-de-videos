@@ -23,30 +23,17 @@ MAX_SEG = 240  # trilhas mais longas que isso ficam repetitivas e pesam na VRAM;
 
 # leve e dinâmica, mudando de clima ao longo do vídeo
 ESTILOS = {
-    "abertura": ("curious light documentary underscore, harpsichord, pizzicato strings, soft flute, playful, "
-                 "elegant, instrumental", 100, "D major"),
-    "calendario": ("quirky whimsical baroque-flavored underscore, harpsichord, clarinet, plucked strings, "
-                   "bouncy, instrumental", 112, "G major"),
-    "manha": ("calm gentle early morning music, steady acoustic guitar picking, flute, light strings, continuous "
-              "peaceful groove, instrumental", 80, "F major"),
-    "pao": ("tense but light documentary underscore, low strings pizzicato, soft snare brushes, waiting, "
-            "suspense, instrumental", 92, "D minor"),
-    "rua": ("busy bustling french street music, accordion, plucked strings, light percussion, lively, "
-            "instrumental", 108, "A major"),
-    "trabalho": ("steady industrious light underscore, marimba, pizzicato strings, soft woodblock, "
-                 "determined, instrumental", 100, "E minor"),
-    "almoco": ("warm relaxed midday french cafe music, accordion, acoustic guitar, light waltz, "
-               "instrumental", 90, "C major"),
-    "tarde": ("thoughtful warm documentary underscore, soft piano, strings, clarinet, reflective, "
-              "instrumental", 86, "A minor"),
-    "carrocas": ("somber slow dramatic underscore, low cello, soft timpani, restrained, serious, "
-                 "instrumental", 66, "C minor"),
-    "lavoisier": ("elegant sad dignified chamber music, solo cello, piano, soft strings, moving, "
-                  "instrumental", 70, "G minor"),
-    "noite": ("steady quiet tense night underscore, soft pizzicato strings, low cello, gentle marimba pulse, "
-              "continuous groove, instrumental", 72, "E minor"),
-    "fecho": ("warm hopeful gentle outro, soft piano, plucked strings, light strings, uplifting, "
-              "instrumental", 96, "C major"),
+    'abertura': ('curious light documentary underscore, plucked harp, soft flute, pizzicato strings, playful, mediterranean, instrumental', 100, 'D major'),
+    'data': ('quirky investigative underscore, marimba, pizzicato strings, clarinet, curious, bouncy, instrumental', 108, 'G major'),
+    'padaria': ('calm warm early morning music, soft acoustic guitar, flute, gentle strings, steady groove, instrumental', 78, 'F major'),
+    'paredes': ('lively busy mediterranean street music, mandolin, hand drums, tambourine, bouncy, instrumental', 112, 'A major'),
+    'bar': ('warm relaxed mediterranean taverna music, acoustic guitar, accordion, light percussion, instrumental', 96, 'C major'),
+    'arena': ('energetic rhythmic documentary music, hand drums, brass stabs, driving strings, exciting, instrumental', 118, 'D minor'),
+    'nuvem': ('tense curious suspense underscore, low strings pizzicato, soft timpani, sustained pads, building, continuous pulse, instrumental', 84, 'E minor'),
+    'chuva': ('dramatic urgent underscore, driving low strings, timpani, rising tension, continuous groove, instrumental', 96, 'C minor'),
+    'noite': ('dark slow somber underscore, low cello, soft piano, sustained strings, solemn, steady pulse, instrumental', 62, 'D minor'),
+    'luto': ('respectful quiet elegiac chamber music, solo cello, soft piano, restrained, moving, steady pulse, instrumental', 60, 'A minor'),
+    'fecho': ('warm reflective hopeful outro, soft piano, plucked strings, light strings, uplifting, instrumental', 90, 'C major'),
 }
 
 

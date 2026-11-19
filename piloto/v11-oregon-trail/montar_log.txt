@@ -1,0 +1,14 @@
+183 cenas, 14.5 min
+trilha abertura 0-55 s
+trilha partida 55-123 s
+trilha compras 123-281 s
+trilha guia 281-334 s
+trilha estrada 334-424 s
+trilha rios 424-481 s
+trilha colera 481-562 s
+trilha mito 562-633 s
+trilha povos 633-705 s
+trilha serra 705-775 s
+trilha fecho 775-871 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v11-oregon-trail\video_v11.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v11-oregon-trail\video_v11_vscode.mp4

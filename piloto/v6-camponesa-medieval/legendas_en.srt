@@ -1,0 +1,727 @@
+1
+00:00:02,000 --> 00:00:06,560
+Imagine a job where your boss takes three days of your week, unpaid.
+
+2
+00:00:07,017 --> 00:00:10,217
+And if your daughter wants to get married, you pay him a fee.
+
+3
+00:00:10,683 --> 00:00:14,123
+And when you die, he comes to your house and takes your best animal.
+
+4
+00:00:14,583 --> 00:00:17,783
+Welcome to England, around the year thirteen hundred.
+
+5
+00:00:18,250 --> 00:00:21,210
+You are a peasant, and this is your life.
+
+6
+00:00:21,650 --> 00:00:26,210
+Maybe you picture a muddy person, working every single day, and dead by thirty.
+
+7
+00:00:26,650 --> 00:00:30,570
+Some of that is true. A surprising amount of it is myth.
+
+8
+00:00:31,017 --> 00:00:34,137
+Did the lord really get to spend the wedding night with your bride?
+
+9
+00:00:34,583 --> 00:00:38,023
+Did peasants really work only a hundred and fifty days a year?
+
+10
+00:00:38,483 --> 00:00:44,003
+Today, we'll live one full year in an English village, from harvest to harvest.
+
+11
+00:00:44,450 --> 00:00:48,050
+We'll plough, sow, reap, pay, and get fined.
+
+12
+00:00:48,517 --> 00:00:54,437
+And at the end, we'll meet the disaster that hit your village hardest, and strangely helped your grandchildren.
+
+13
+00:00:56,233 --> 00:00:59,593
+First, you need a name. Let's call you Hugh.
+
+14
+00:01:00,050 --> 00:01:02,130
+And Hugh is not completely made up.
+
+15
+00:01:02,583 --> 00:01:07,943
+In 1279, King Edward the First sent officials around England to write down who held what.
+
+16
+00:01:08,383 --> 00:01:12,543
+In a village called Alwalton, they wrote down a man named Hugh Miller.
+
+17
+00:01:12,983 --> 00:01:17,223
+He was a villein, which means he held land from a lord, in return for work.
+
+18
+00:01:17,683 --> 00:01:22,163
+His holding was a virgate, which in Alwalton meant twenty-five acres.
+
+19
+00:01:22,617 --> 00:01:26,057
+That sounds like a nice big farm. It wasn't one piece.
+
+20
+00:01:26,517 --> 00:01:32,037
+Your land came as narrow strips, scattered across the village fields, mixed in with your neighbors' strips.
+
+21
+00:01:32,483 --> 00:01:38,883
+Hugh was in the middle of the pack. Alwalton had eighteen villeins with a full virgate, and five with half.
+
+22
+00:01:39,350 --> 00:01:43,430
+Below them, a crowd of cottagers, with a hut and a tiny plot.
+
+23
+00:01:43,883 --> 00:01:50,283
+England then had somewhere between four and a half and six million people. Historians still argue about it.
+
+24
+00:01:50,750 --> 00:01:54,270
+Most of them lived in the countryside, in villages like this one.
+
+25
+00:01:54,717 --> 00:02:00,637
+Above you sat the lord. In Alwalton, that was the abbot of Peterborough.
+
+26
+00:02:01,083 --> 00:02:07,163
+His estate was called a manor. And on a manor, the lord is landlord, boss, and judge, all at once.
+
+27
+00:02:07,617 --> 00:02:12,177
+Think of your village as a small company, where nobody asked you to sign the contract.
+
+28
+00:02:13,967 --> 00:02:18,527
+Our year begins on the twenty-ninth of September, Michaelmas.
+
+29
+00:02:18,983 --> 00:02:23,863
+The harvest is in. The lord's officials are adding up the year's accounts.
+
+30
+00:02:24,317 --> 00:02:29,197
+The villagers choose a reeve, one of your own neighbors, to boss the farm work.
+
+31
+00:02:29,650 --> 00:02:33,490
+Today, Hugh also owes a payment called tallage.
+
+32
+00:02:33,950 --> 00:02:36,430
+The amount is whatever the abbot decides.
+
+33
+00:02:36,883 --> 00:02:40,403
+Now you can start ploughing for winter wheat. In your own fields, right?
+
+34
+00:02:40,850 --> 00:02:44,130
+Not so fast. First, you work for the lord.
+
+35
+00:02:44,583 --> 00:02:48,743
+Hugh owes the abbot three days of work, every single week of the year.
+
+36
+00:02:49,183 --> 00:02:54,223
+He gets exactly three weeks off, at Christmas, Easter, and Whitsun.
+
+37
+00:02:54,683 --> 00:02:58,203
+In autumn it gets worse. He must send two men a day.
+
+38
+00:02:58,650 --> 00:03:02,170
+On some manors, the lord at least feeds you during that work.
+
+39
+00:03:02,617 --> 00:03:06,937
+So you plough your own strips on the other days, whenever the weather and the oxen agree.
+
+40
+00:03:07,383 --> 00:03:14,503
+Ploughing is slow. Walter of Henley's handbook for estate managers says a team does three and a half roods a day.
+
+41
+00:03:14,950 --> 00:03:19,110
+A rood is a quarter of an acre. So, less than one acre a day.
+
+42
+00:03:19,550 --> 00:03:23,550
+Walter loves oxen. He says horses cost more to keep.
+
+43
+00:03:24,017 --> 00:03:29,617
+Then comes the seed. Walter says you need at least two bushels of wheat for every acre.
+
+44
+00:03:30,083 --> 00:03:36,883
+And he warns: if your harvest is only three times the seed, you gain nothing, unless grain sells well.
+
+45
+00:03:37,350 --> 00:03:42,630
+So farming is a bet. You throw grain on the ground, and hope the weather pays you back.
+
+46
+00:03:43,083 --> 00:03:50,523
+A prayer book made for a rich knight, around thirteen thirty, shows ploughing with oxen, harrowing, and the lord's mill.
+
+47
+00:03:50,983 --> 00:03:56,583
+It's one of the best pictures we have of ordinary people from this time, drawn in the margins of a book for the elite.
+
+48
+00:03:58,400 --> 00:04:02,240
+By December, the fields are quiet. Time to go home.
+
+49
+00:04:02,683 --> 00:04:06,283
+Hugh's house is small, with one or two rooms.
+
+50
+00:04:06,750 --> 00:04:09,710
+In some regions, the animals live in the same building.
+
+51
+00:04:10,150 --> 00:04:16,070
+At Houndtor, on Dartmoor, archaeologists excavated a longhouse from the thirteenth century.
+
+52
+00:04:16,517 --> 00:04:19,877
+People and cattle came in through the same door.
+
+53
+00:04:20,317 --> 00:04:26,477
+The frame is wood. The walls are woven sticks plastered with mud. The roof is thatch.
+
+54
+00:04:26,917 --> 00:04:30,517
+In the middle of the floor, there's a fire. It almost never goes out.
+
+55
+00:04:30,983 --> 00:04:35,463
+There's no chimney. The smoke just drifts up and finds its way out through the roof.
+
+56
+00:04:35,917 --> 00:04:39,517
+Your house is also your smokehouse. Congratulations.
+
+57
+00:04:39,983 --> 00:04:45,583
+For a long time, historians thought houses like these fell apart within a generation.
+
+58
+00:04:46,050 --> 00:04:51,810
+But later medieval houses survive in their thousands, so many were sturdier than we imagined.
+
+59
+00:04:52,250 --> 00:04:55,050
+When the sun goes down, so does most of your day.
+
+60
+00:04:55,517 --> 00:04:59,197
+At Christmas, Hugh finally gets his week off from the abbot's work.
+
+61
+00:04:59,650 --> 00:05:05,570
+The church gives you more days off too. Sundays, and a long list of saints' days.
+
+62
+00:05:06,017 --> 00:05:11,617
+In winter, you thresh the grain, repair your tools, and mend your fences. Nothing glamorous.
+
+63
+00:05:13,433 --> 00:05:18,473
+Spring begins with a strange date: the twenty-fifth of March, Lady Day.
+
+64
+00:05:18,917 --> 00:05:24,517
+In England, that was New Year's Day. The legal year started in March, not January.
+
+65
+00:05:24,983 --> 00:05:27,943
+And it stayed that way until seventeen fifty-two.
+
+66
+00:05:28,383 --> 00:05:32,303
+Now you sow the spring crops: barley, oats, and peas.
+
+67
+00:05:32,750 --> 00:05:35,390
+Then comes Lent, forty days without meat.
+
+68
+00:05:35,850 --> 00:05:39,450
+And here's a little secret of farming: spring is hungry.
+
+69
+00:05:39,917 --> 00:05:43,917
+Last year's grain is running out. This year's grain isn't ripe yet.
+
+70
+00:05:44,383 --> 00:05:48,223
+Cottagers feel it the hardest, with a tiny plot and no reserves.
+
+71
+00:05:48,683 --> 00:05:54,443
+At the time, people believed a farthing a day, the price of a loaf, could keep a person alive.
+
+72
+00:05:54,883 --> 00:05:57,363
+A farthing is a quarter of a penny.
+
+73
+00:05:57,817 --> 00:06:01,577
+Then Easter arrives, and Hugh's gift to the abbot is on the list.
+
+74
+00:06:02,017 --> 00:06:05,457
+Three hens, a rooster, and five eggs.
+
+75
+00:06:05,917 --> 00:06:08,317
+Happy Easter, from your landlord.
+
+76
+00:06:10,133 --> 00:06:11,653
+So, what do you eat?
+
+77
+00:06:12,117 --> 00:06:18,517
+Mostly grain. Around thirteen hundred, up to eighty percent of a harvest worker's calories came from it.
+
+78
+00:06:18,983 --> 00:06:23,223
+Grain shows up in three ways: bread, pottage, and ale.
+
+79
+00:06:23,683 --> 00:06:29,043
+Bread is dark and heavy, often made from barley or rye, not fine white wheat.
+
+80
+00:06:29,483 --> 00:06:35,563
+Pottage is a thick stew, boiled with grain, peas, and vegetables, and maybe a scrap of bacon.
+
+81
+00:06:36,017 --> 00:06:41,217
+Ale is brewed from barley, and it spoils fast. So somebody is always brewing.
+
+82
+00:06:41,683 --> 00:06:48,963
+Who? Usually women. Historian Judith Bennett found that women brewed and sold most of England's ale.
+
+83
+00:06:49,417 --> 00:06:53,417
+Meat is rare. A fattened pig can give you bacon for the winter.
+
+84
+00:06:53,883 --> 00:07:01,803
+In the thirteenth century, harvest workers were given much bread, some cheese, and only small amounts of ale, fish, and meat.
+
+85
+00:07:02,250 --> 00:07:04,970
+And those workers ate better than most peasants.
+
+86
+00:07:05,417 --> 00:07:11,097
+So next time you complain about your sandwich, think of Hugh's lunch: bread, with a side of bread.
+
+87
+00:07:12,900 --> 00:07:15,300
+Then comes August, and the harvest.
+
+88
+00:07:15,750 --> 00:07:18,550
+This is the moment that decides your whole year.
+
+89
+00:07:19,017 --> 00:07:23,737
+Everybody helps. Wife, children, neighbors. All day, in the heat.
+
+90
+00:07:24,183 --> 00:07:29,303
+The grain is cut by hand, with a sickle, bent over, row after row.
+
+91
+00:07:29,750 --> 00:07:33,670
+And remember, the abbot gets two of your workers a day in autumn.
+
+92
+00:07:34,117 --> 00:07:37,477
+His grain gets cut first. Yours waits for the weather.
+
+93
+00:07:37,917 --> 00:07:42,477
+Then the sheaves are stacked, carried, threshed, and stored.
+
+94
+00:07:42,917 --> 00:07:48,997
+And now, the big myth. "Medieval peasants worked only a hundred and fifty days a year."
+
+95
+00:07:49,450 --> 00:07:56,250
+You've probably heard it. It spread from a popular book in the early nineteen-nineties, and it used the lowest numbers it could find.
+
+96
+00:07:56,717 --> 00:08:03,757
+Economist Gregory Clark looked again, and found that medieval farm workers worked at least about two hundred and fifty days a year.
+
+97
+00:08:04,217 --> 00:08:10,457
+Another study found that a farmer needed around three hundred days of work to feed a family before the Black Death.
+
+98
+00:08:10,917 --> 00:08:14,197
+So no. You do not have half the year off.
+
+99
+00:08:14,650 --> 00:08:19,450
+You get Sundays, a pile of saints' days, and three weeks free from the abbot.
+
+100
+00:08:19,917 --> 00:08:24,557
+If the weather was kind, you'll eat this winter. If not, keep watching until the end.
+
+101
+00:08:26,367 --> 00:08:29,967
+Every three or four weeks, the whole village has to show up for court.
+
+102
+00:08:30,417 --> 00:08:35,377
+It's called the manor court. Think of it as a neighborhood meeting, where you can be fined.
+
+103
+00:08:35,817 --> 00:08:38,937
+The fines are called amercements.
+
+104
+00:08:39,383 --> 00:08:42,503
+And everything is written down, on parchment rolls.
+
+105
+00:08:42,950 --> 00:08:47,030
+Some of these rolls survive. We can read what people actually got fined for.
+
+106
+00:08:47,483 --> 00:08:55,403
+In Morden, near London, in October thirteen ninety-nine, the court's ale-tasters reported brewers who broke the assize.
+
+107
+00:08:55,850 --> 00:08:58,650
+Their punishment was two pence per brew.
+
+108
+00:08:59,117 --> 00:09:03,917
+Others were fined for breaking the lord's hedges, or for trespassing on a neighbor's land.
+
+109
+00:09:04,383 --> 00:09:10,783
+In 1406, one man simply left the village. The court seized his empty land for the lord.
+
+110
+00:09:11,250 --> 00:09:18,370
+Judith Bennett found that this ale fine worked more like a licence. Most brewers were fined, whether they cheated or not.
+
+111
+00:09:18,817 --> 00:09:21,617
+So the "fine" was basically the price of a permit.
+
+112
+00:09:22,083 --> 00:09:26,643
+And who judged all this? Mostly tenants. People like you.
+
+113
+00:09:27,083 --> 00:09:30,683
+So when you complain about the lord's court, remember that your neighbors help run it.
+
+114
+00:09:31,150 --> 00:09:35,710
+And if you hate it all, you can run. Some villeins fled to towns.
+
+115
+00:09:36,150 --> 00:09:41,830
+A custom in many towns said that if a villein lived there for a year and a day, he became free.
+
+116
+00:09:42,283 --> 00:09:46,683
+But he had to stay hidden, and not be dragged back, for that whole year.
+
+117
+00:09:48,500 --> 00:09:50,340
+Let's add up Hugh's bills.
+
+118
+00:09:50,783 --> 00:09:54,543
+To the lord: three days of work a week, tallage, hens, and eggs.
+
+119
+00:09:54,983 --> 00:09:57,463
+If your daughter marries, you pay merchet.
+
+120
+00:09:57,917 --> 00:10:04,637
+Now, about that myth. Yes, merchet was about marriage. No, it wasn't what the movies say.
+
+121
+00:10:05,083 --> 00:10:10,443
+Historians have found no evidence that a "right of the first night" ever existed as a law in medieval Europe.
+
+122
+00:10:10,883 --> 00:10:15,763
+Merchet was a fine, a payment to the lord, perhaps for losing a worker.
+
+123
+00:10:16,217 --> 00:10:19,017
+Less movie, more tax form.
+
+124
+00:10:19,483 --> 00:10:22,523
+When you die, your family owes the lord a heriot.
+
+125
+00:10:22,983 --> 00:10:24,903
+That's usually your best animal.
+
+126
+00:10:25,350 --> 00:10:29,110
+Then the church takes the second best. That's called a mortuary.
+
+127
+00:10:29,550 --> 00:10:33,310
+Your family has just lost a person, and also two animals.
+
+128
+00:10:33,750 --> 00:10:38,310
+And all year, the church takes a tenth of what you grow. That's the tithe.
+
+129
+00:10:38,750 --> 00:10:41,630
+A tenth of your grain, paid in grain.
+
+130
+00:10:42,083 --> 00:10:45,683
+Do the math. Half of Hugh's working week goes to the abbot.
+
+131
+00:10:46,150 --> 00:10:48,790
+Plus a tenth of his harvest to the church.
+
+132
+00:10:49,250 --> 00:10:53,330
+And whatever is left has to feed a family, and pay for seed.
+
+133
+00:10:55,133 --> 00:11:00,173
+Hugh isn't doing this alone. Let's give him a wife. Her name is Alice.
+
+134
+00:11:00,617 --> 00:11:05,657
+Alice works the fields, cooks, raises the children, and probably brews the ale.
+
+135
+00:11:06,117 --> 00:11:08,597
+Everybody works, children too.
+
+136
+00:11:09,050 --> 00:11:14,250
+A coroner's record mentions a ten-year-old boy hurt while chopping vegetables in a manor kitchen.
+
+137
+00:11:14,717 --> 00:11:21,197
+Historian Jeremy Goldberg estimated that one in ten rural people over fourteen worked as a servant.
+
+138
+00:11:21,650 --> 00:11:27,570
+Now, school. Can your son learn to read? Maybe. But not for free.
+
+139
+00:11:28,017 --> 00:11:31,377
+A villein needed the lord's permission to send a child to school.
+
+140
+00:11:31,817 --> 00:11:39,657
+In 1339, in Winslow, Richard Ponteys was fined three pence for sending his son Geoffrey to school without a licence.
+
+141
+00:11:40,117 --> 00:11:46,117
+Three pence for a school without paperwork. Bureaucracy is older than you think.
+
+142
+00:11:46,583 --> 00:11:52,983
+Some lords did give permission. At Norton, there were seventeen licences between 1300 and 1348.
+
+143
+00:11:53,450 --> 00:11:58,330
+Why would a lord care? My guess: a schooled son is a worker who might leave.
+
+144
+00:12:00,133 --> 00:12:02,213
+So, how long do you live?
+
+145
+00:12:02,650 --> 00:12:05,050
+You've heard that people died at thirty.
+
+146
+00:12:05,517 --> 00:12:08,317
+That's a statistic about birth, not about adults.
+
+147
+00:12:08,783 --> 00:12:14,463
+Estimates for landholding families put life expectancy at birth around thirty-one.
+
+148
+00:12:14,917 --> 00:12:18,517
+But so many children died young that they dragged the average down.
+
+149
+00:12:18,983 --> 00:12:23,303
+Those who survived childhood often reached middle age, and beyond.
+
+150
+00:12:23,750 --> 00:12:30,230
+Not that you'd be in good shape. No antibiotics, no vaccines, and not much help when you got sick.
+
+151
+00:12:30,683 --> 00:12:32,683
+And what do you actually own?
+
+152
+00:12:33,150 --> 00:12:40,910
+Here's a real list. In the thirteen-forties, a coroner's roll in Derbyshire listed the goods of a man named John Fox.
+
+153
+00:12:41,350 --> 00:12:46,870
+A house and ten acres. A mare and her colt. Some cattle, sheep, and a pig.
+
+154
+00:12:47,317 --> 00:12:50,677
+A brass pot. A pan. Two chests. And some oats.
+
+155
+00:12:51,117 --> 00:12:52,637
+That's a man with land.
+
+156
+00:12:53,083 --> 00:12:56,443
+Historians warn that lists like this leave things out.
+
+157
+00:12:56,883 --> 00:13:02,163
+But the picture is clear. Your net worth is a house, some land, and a pot.
+
+158
+00:13:03,967 --> 00:13:05,887
+So, how does Hugh's year end?
+
+159
+00:13:06,350 --> 00:13:12,510
+If he's lucky, with enough grain. If he's unlucky, like in 1315, it starts with rain.
+
+160
+00:13:12,950 --> 00:13:17,830
+In the spring of 1315, heavy rain began in England, and it kept falling.
+
+161
+00:13:18,283 --> 00:13:22,683
+The grain couldn't ripen. The hay couldn't dry. Food prices shot up.
+
+162
+00:13:23,150 --> 00:13:28,110
+The harvest failed in 1315, and again in 1316.
+
+163
+00:13:28,550 --> 00:13:32,870
+People ate the seed grain. And a smaller harvest came next year.
+
+164
+00:13:33,317 --> 00:13:38,437
+A few years later, a cattle plague killed more than half of England's cattle, by one estimate.
+
+165
+00:13:38,883 --> 00:13:43,043
+Your oxen were your tractors. So that hurts twice.
+
+166
+00:13:43,483 --> 00:13:47,163
+Then, in 1348, the Black Death arrives.
+
+167
+00:13:47,617 --> 00:13:51,457
+Historians estimate that a third to a half of the English died.
+
+168
+00:13:51,917 --> 00:13:55,677
+Villages like Alwalton would have lost many of their neighbors.
+
+169
+00:13:56,117 --> 00:14:02,037
+And then comes the part nobody expects. Suddenly, there were too few workers and plenty of land.
+
+170
+00:14:02,483 --> 00:14:07,203
+Lords needed workers. Workers wanted more pay. Wages rose.
+
+171
+00:14:07,650 --> 00:14:14,930
+In 1351, Parliament passed the Statute of Labourers: wages must stay at pre-plague levels.
+
+172
+00:14:15,383 --> 00:14:16,823
+It largely failed.
+
+173
+00:14:17,283 --> 00:14:21,763
+Over time, lords turned work into cash rent, and villeinage faded.
+
+174
+00:14:22,217 --> 00:14:28,217
+And in 1381, peasants marched on London, furious about a new poll tax.
+
+175
+00:14:28,683 --> 00:14:35,163
+Here's my take. In 1300, the lord was not your biggest boss. The weather was.
+
+176
+00:14:35,617 --> 00:14:39,937
+Too many people, too little land, and rain you couldn't argue with.
+
+177
+00:14:40,383 --> 00:14:45,823
+The weak spot of the Middle Ages wasn't kings. It was the thin margin between a harvest and a famine.
+
+178
+00:14:46,283 --> 00:14:50,283
+And it took a catastrophe to finally give people like Hugh some leverage.
+
+179
+00:14:50,750 --> 00:14:52,990
+That's a grim kind of progress.
+
+180
+00:14:53,450 --> 00:14:56,570
+Hugh never saw it. But his grandchildren might have.
+
+181
+00:14:57,017 --> 00:15:02,217
+So next time you complain about taxes, remember Hugh, who gave half his working week to the abbot.
+
+182
+00:15:02,683 --> 00:15:08,843
+If you enjoyed this year in the countryside, tell me in the comments: which life in history should we live next?

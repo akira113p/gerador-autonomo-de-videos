@@ -1,0 +1,4 @@
+183 cenas, 14.5 min
+trilha tudo 0-871 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v11-oregon-trail\video_v11_medieval.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v11-oregon-trail\video_v11_vscode_medieval.mp4

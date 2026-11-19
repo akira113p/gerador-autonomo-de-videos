@@ -1,0 +1,4 @@
+182 cenas, 15.5 min
+trilha tudo 0-928 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v6-camponesa-medieval\video_v6_medieval.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v6-camponesa-medieval\video_v6_vscode_medieval.mp4

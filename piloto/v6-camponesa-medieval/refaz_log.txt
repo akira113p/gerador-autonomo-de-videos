@@ -1,0 +1,14 @@
+071 True 60.9 
+084 True 67.9 
+103 True 67.9 
+106 True 67.8 
+116 True 67.9 
+118 True 67.9 
+122 True 68.0 
+123 True 67.8 
+131 True 67.9 
+136 True 67.9 
+143 True 68.0 
+144 True 68.0 
+172 True 61.0 
+174 True 68.0 

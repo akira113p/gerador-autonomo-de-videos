@@ -1,0 +1,805 @@
+[
+ {
+  "cena": 15,
+  "texto": "It's 9:40 on a winter night. Dinner's done. The snow has been falling since the afternoon.",
+  "prompt": "Warm apartment interior at night, amber lamp light, a wooden dinner table with empty plates, a large window showing heavy falling snow. {Y} stands by the table.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 16,
+  "texto": "Your phone buzzes. A friend downtown: \"Something's going on near the hospital.\"",
+  "prompt": "A smartphone held in a hand in a dim apartment, its screen glowing with blank grey message bubbles. {Y} looks at it, seen from the side.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 17,
+  "texto": "Then a local news alert: a disturbance downtown. Possibly a riot.",
+  "prompt": "A glowing phone screen on a wooden table showing a blank red alert banner, an amber lamp behind it. {Y} leans over it.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 18,
+  "texto": "In the games, that's exactly how the city first hears about it. First a riot. Later, a radiation spill. Then a skin disease.",
+  "prompt": "A small American town at night in snow, a hospital building downtown with a dim red glow on its windows, empty snowy streets with orange streetlights.",
+  "ref2": "imagens_gpt/002.png",
+  "prompt_b": "A television in a dark living room showing a blank red news banner over a distant city skyline at night, {Y} sits watching from a couch."
+ },
+ {
+  "cena": 19,
+  "texto": "And in the games, the hospital had been seeing patients for days, with something locals called the \"cannibal disease.\"",
+  "prompt": "Hospital hallway at night, pale green walls, rows of plastic chairs full of grey stick figure patients with bandaged arms, a nurse stick figure in white hurrying past.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "Exterior of a brick hospital at night in snow, an ambulance with red lights parked at the entrance, a blank sign above the door."
+ },
+ {
+  "cena": 20,
+  "texto": "But tonight, all you know is the word riot.",
+  "prompt": "A TV in a dark living room showing a blank red banner on a news anchor stick figure, {Y} sits on a couch watching.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 21,
+  "texto": "So you do what almost everyone does.",
+  "prompt": "Close view of {Y} in a warm apartment, hands on hips, thinking, a lamp and a window with snow behind him.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 22,
+  "texto": "You look for more information.",
+  "prompt": "A laptop on a wooden desk glowing with a blank white web page, {Y} sits in front of it in a dim room.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 23,
+  "texto": "You refresh the news. You text three people. You turn on the TV.",
+  "prompt": "A dim apartment: {Y} holds a phone in one hand, the TV glows behind him, a laptop open on the table, all screens blank.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 24,
+  "texto": "Disaster researchers have a name for this. They call it milling.",
+  "prompt": "A group of stick figures standing in a loose circle in a lobby, talking and pointing at phones, none of them moving toward the exit door.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 25,
+  "texto": "On 9/11, after the first plane hit the North Tower, people below the impact zone waited a median of three minutes before starting down the stairs.",
+  "prompt": "A tall dark glass skyscraper silhouette at night with dark smoke rising from its upper floors, seen from the street far below, an emergency stairwell door in the foreground with stick figures waiting in a line.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "Inside a concrete emergency stairwell, stick figures in office clothes stand on the steps talking in small groups instead of going down."
+ },
+ {
+  "cena": 26,
+  "texto": "With a fire burning above them.",
+  "prompt": "A dark grey skyscraper silhouette with a thick plume of black smoke pouring from its upper floors against a pale dawn sky, a street full of tiny stick figures below.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 27,
+  "texto": "And investigators found that the more people stopped to talk and look for information, the longer they took to leave.",
+  "prompt": "A concrete stairwell with stick figures stopped on landings, one holding a phone to his ear, others looking at each other, a long flight of stairs going down.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "A crowd of stick figures in a lobby huddled around a phone, a big glass door open to the street beside them."
+ },
+ {
+  "cena": 28,
+  "texto": "You have the whole internet in your hand. Your milling can last all night.",
+  "prompt": "A hand holding a smartphone with a blank glowing screen, many small blank app icons around it, {Y} stares at it in a dark room.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 29,
+  "texto": "Researchers found something else, and it's not what the movies show.",
+  "prompt": "A dark empty room with one glowing blank screen, a stick figure man in a trench coat running with arms up in panic, falling snow outside the window.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 30,
+  "texto": "In real disasters, mass panic is rare. Most people stay calm, and they help each other.",
+  "prompt": "Calm crowd of stick figures in a town square at night, passing blankets and thermoses to each other, orange streetlights, light snow.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 31,
+  "texto": "That's good news for the world.",
+  "prompt": "A big golden sun over a green hill with a calm crowd of stick figures sitting in a park, bright daylight, peaceful.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 32,
+  "texto": "It's bad news for you tonight. Because calm people wait.",
+  "prompt": "A dark apartment at night, {Y} sits on the edge of a couch with a worried face, a phone on his knee, a window with snow behind him.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 33,
+  "texto": "At 10:15, your friend downtown stops answering.",
+  "prompt": "A phone on a wooden table in a dim kitchen, its screen glowing with a blank missed-call icon, a wall clock above it with black hands.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 34,
+  "texto": "At 10:30, you decide to leave.",
+  "prompt": "Close view of {Y} standing up from a couch, grabbing his car keys from a table, determined, apartment door open behind him.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 35,
+  "texto": "First you try to call your family. The call doesn't go through. Neither does the next one.",
+  "prompt": "A smartphone in the hand of {Y} showing a blank red failed-call icon, he stands in a dark kitchen with a worried face.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 36,
+  "texto": "That part is real too.",
+  "prompt": "A cell phone tower on a snowy hill at night with an orange sky behind it, tiny signal waves around it, standing intact.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 37,
+  "texto": "In 2011, an earthquake shook Virginia and the East Coast. No cell towers came down.",
+  "prompt": "A brick American house on an East Coast street shaking, cracks on the wall, a toppled flower pot, stick figures standing on the sidewalk looking up, cell tower standing in the background, daytime.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 38,
+  "texto": "But so many people called at once that even emergency calls got stuck in the network.",
+  "prompt": "A control room with rows of black telephones all ringing, glowing red lights on every phone, a stick figure operator in a headset overwhelmed, wires tangled.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 39,
+  "texto": "A federal official later admitted that even the priority system for emergency workers failed, because the network was flooded with texts.",
+  "prompt": "A government office with a long wooden table, a stick figure official in a grey suit holding a phone with a worried face, dozens of phones on the table with red lights, a large blank screen behind.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "Close view of a phone network switchboard with tangled wires, many red lights glowing, a hand holding a blank paper."
+ },
+ {
+  "cena": 40,
+  "texto": "So you stop calling, and you pack.",
+  "prompt": "{Y} in a small bedroom packing a navy backpack on a bed, a lamp lit, snow falling past the window.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 41,
+  "texto": "Water. A jacket. Painkillers. Your charger. The car keys.",
+  "prompt": "A bed with items laid out: a water bottle, a jacket, a pill box, a phone charger and car keys, warm lamp light, dark room.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 42,
+  "texto": "And from the kitchen drawer, the old paper map of the county you never thought you'd use.",
+  "prompt": "A kitchen drawer pulled open showing a folded paper road map, the hand of {Y} taking it out, warm light.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 43,
+  "texto": "Raccoon City is surrounded by the Arklay Mountains.",
+  "prompt": "A snowy mountain range wrapping around a small town at night, pine forests on dark blue slopes, a few lights in the valley.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 44,
+  "texto": "Which leaves three ways out. The highway. The tunnel. Or the mountains, on foot.",
+  "prompt": "Simple town map seen from above on a dark navy background with a small town block in the center and empty space around it, three blank spaces left for arrows.",
+  "ref2": "imagens_gpt/007.png",
+  "cartao": true
+ },
+ {
+  "cena": 45,
+  "texto": "You pick the highway. Everyone picks the highway.",
+  "prompt": "{Y} stands next to an old silver sedan in deep snow under a streetlight, opening the car door, backpack on his shoulder.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 46,
+  "texto": "By 11:15, you've moved two miles in forty minutes.",
+  "prompt": "{Y} stands on a snowy highway shoulder next to a stopped silver sedan, a long line of red tail lights stretching up a hill, snow falling.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 47,
+  "texto": "The line of red tail lights goes all the way up the hill.",
+  "prompt": "A long line of glowing red tail lights climbing a snowy highway hill at night, bumper to bumper cars, orange streetlights, heavy snow, no people visible.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 48,
+  "texto": "Real evacuations look exactly like this.",
+  "prompt": "A bumper-to-bumper highway at night, cars packed in four lanes, red tail lights, headlights on the opposite side, stick figures leaning out of windows.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 49,
+  "texto": "In 2005, as Hurricane Rita approached Texas, the official hurricane report says more than two million people may have fled.",
+  "prompt": "A sunny Texas highway with six lanes packed with stopped cars, flat dry landscape, blue sky, a hurricane cloud mass on the far horizon, empty space at the top of the image.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true,
+  "prompt_b": "Aerial view of a long sunny highway filled with cars all pointing the same way, green roadside trees, empty space at the top."
+ },
+ {
+  "cena": 50,
+  "texto": "Some drives from Houston to Dallas, normally about four hours, took twenty.",
+  "prompt": "A sunny Texas highway with a stick figure family sitting on the roof of a white station wagon waiting, long rows of stopped cars, blue sky, empty space in the sky.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true
+ },
+ {
+  "cena": 51,
+  "texto": "The storm itself killed seven people directly.",
+  "prompt": "A calm sunny Gulf coast beach with golden sand, blue water, dark storm clouds on the horizon and wind-bent palm trees, empty space in the sky.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true
+ },
+ {
+  "cena": 52,
+  "texto": "On the road, a single bus of elderly evacuees caught fire, and more than twenty of them died.",
+  "prompt": "A white coach bus on a sunny highway shoulder with a thick column of black smoke and orange flames at the back, stick figures standing at a distance on the grass.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "A row of ambulances and fire trucks with red lights at the edge of a sunny highway, a blackened bus silhouette in the distance, stick figures in blankets sitting on the grass."
+ },
+ {
+  "cena": 53,
+  "texto": "In Texas, the evacuation killed more people than the wind and the water.",
+  "prompt": "A split picture: left side a stormy sea with strong waves, right side a long road packed with cars, equal empty space on top.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true
+ },
+ {
+  "cena": 54,
+  "texto": "Now put that traffic in a city where something is biting people.",
+  "prompt": "A snowy city street at night, a grey-green skinned infected figure with open mouth lunging at the shoulder of a terrified person in a brown coat, red tail lights and orange streetlights behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 55,
+  "texto": "Up ahead, car doors open. People are running back down the hill, between the cars.",
+  "prompt": "A snowy road at night with car doors open, stick figures running back down the hill between the cars, red tail lights.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 56,
+  "texto": "You don't wait to find out why. You turn around on the shoulder.",
+  "prompt": "{Y} turns a silver sedan around on the snowy highway shoulder, headlights cutting through snow, cars stopped behind him, running stick figures in the mirror.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 57,
+  "texto": "If you want more nights like this one, that's what the subscribe button is for. Now, the tunnel.",
+  "prompt": "A glowing red bell shape drawn as a simple red icon on a dark navy background, falling snow, empty space around.",
+  "ref2": "imagens_gpt/002.png",
+  "cartao": true,
+  "prompt_b": "A dark snowy road at night leading toward a mountain tunnel entrance with orange lights, silver sedan driving toward it, falling snow."
+ },
+ {
+  "cena": 58,
+  "texto": "The tunnel on the old mountain road is the way the film's courier comes into town.",
+  "prompt": "The mouth of a smooth concrete road tunnel in a snowy mountainside at night, cars packed inside with headlights off, a stalled white camper van at the far end.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 59,
+  "texto": "In the film, it's choked with abandoned cars, and at the far end, a stalled RV blocks the way.",
+  "prompt": "Inside a smooth concrete road tunnel lit by orange lamps, a row of abandoned cars with doors open, at the far end a stalled white camper van blocking both lanes.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "Wide view of a snowy mountain road leading to a smooth concrete tunnel entrance at night, a few abandoned cars with doors open on the road."
+ },
+ {
+  "cena": 60,
+  "texto": "You don't get that far. The cars inside are empty. Doors open. Engines off.",
+  "prompt": "Inside a smooth concrete road tunnel, abandoned dark cars with open doors and no engine lights, {Y} stands small in the middle of the lane with a flashlight beam.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 61,
+  "texto": "And in the dark between them, something moves.",
+  "prompt": "Inside a smooth concrete road tunnel, in the dark between two empty cars, a dark grey silhouette with writhing tentacles moves, orange lamp glow.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 62,
+  "texto": "This is when you need to understand what you're dealing with.",
+  "prompt": "{Y} crouches behind an open car door inside a smooth concrete tunnel, looking carefully at something off frame, flashlight in hand.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 63,
+  "texto": "Cregger's infected aren't the slow zombies of old movies.",
+  "prompt": "A slow dark-grey zombie stick figure with arms out walking, with a red slash drawn across it, next to a fast grey-green silhouette with tentacles running, snowy road at night.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 64,
+  "texto": "The infection changes bodies. Some grow tentacles. Some fuse together.",
+  "prompt": "Dark silhouettes with grey-green skin on a snowy road, one with several writhing tentacles, two others fused together at the shoulders, orange streetlight behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 65,
+  "texto": "And it spreads through a bite. In the film, one bite is enough to start the change.",
+  "prompt": "A grey-green infected stick figure biting the arm of another stick figure on a snowy road, a small amount of red blood on the snow.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 66,
+  "texto": "In the real world, there is one disease that spreads through bites and changes how its victims behave. Rabies.",
+  "prompt": "A medical-style illustration of a dog with snarling bared teeth and foam at its mouth, plain pale background.",
+  "ref2": "imagens_gpt/002.png",
+  "prompt_b": "A laboratory shelf with a glass vial and a syringe, plain pale background, simple medical illustration style."
+ },
+ {
+  "cena": 67,
+  "texto": "Once symptoms appear, the World Health Organization says it is fatal in one hundred percent of cases.",
+  "prompt": "A solid red circle fully filled on a dark navy background, empty space around it.",
+  "ref2": "imagens_gpt/002.png",
+  "cartao": true
+ },
+ {
+  "cena": 68,
+  "texto": "But it's slow. Usually two to three months from the bite to the first symptoms.",
+  "prompt": "A wall calendar drawn as a plain grid page hanging on a wall with empty squares, three pages stacked, soft light.",
+  "ref2": "imagens_gpt/002.png",
+  "cartao": true
+ },
+ {
+  "cena": 69,
+  "texto": "In Raccoon City, the film suggests it's a matter of hours.",
+  "prompt": "A wall clock with fast spinning black hands in a dark room, red glow on the wall, silhouettes with tentacles in a doorway.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 70,
+  "texto": "So tonight the rule is simple: nobody gets close enough to bite you.",
+  "prompt": "{Y} backs away along a snowy road, arms out to keep distance, a grey-green infected silhouette stands in the dark far behind him.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 71,
+  "texto": "You back out of the tunnel. Two ways out are gone.",
+  "prompt": "{Y} backs out of a smooth concrete tunnel entrance into the snow, tunnel behind him dark, the silver sedan waiting on the road.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 72,
+  "texto": "You drive back toward town, because that's where the fuel is, and the people, and maybe some answers.",
+  "prompt": "{Y} drives a silver sedan along a snowy road toward a town glowing orange in the valley, seen from the side, snow falling.",
+  "ref2": "imagens_gpt/002.png",
+  "prompt_b": "A gas station with a blank sign and glowing pumps on a snowy street corner at night, a silver sedan beside a pump."
+ },
+ {
+  "cena": 73,
+  "texto": "Downtown, the streetlights are still on. That's almost the worst part.",
+  "prompt": "A downtown street in snow at night with all the streetlights on, empty wide road, closed shop fronts, an abandoned car with its door open in the middle.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 74,
+  "texto": "Near the hospital, people are falling from the rooftops, and not getting up.",
+  "prompt": "Near a tall brick hospital at night, dark figures with grey-green skin falling from the roof edge onto the snowy street, orange windows.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 75,
+  "texto": "And everywhere you look, there's the same red and white logo. Umbrella.",
+  "prompt": "A large white delivery van with a red and white umbrella logo painted on its side parked in front of a brick office building with a big red and white umbrella sign, snowy street at night, orange streetlights.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 76,
+  "texto": "In the games, Umbrella is the biggest employer in Raccoon City.",
+  "prompt": "A big grey corporate headquarters building with a huge red and white umbrella logo on its front, workers in coats walking in at dawn, snow.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 77,
+  "texto": "In the film, the story is that Umbrella was building a serum for the US government, something that makes living things evolve fast, and there was an accident in the lab.",
+  "prompt": "A secret laboratory with glass tubes full of green liquid, a stick figure scientist in a white coat at a metal table, an alarm light glowing red.",
+  "ref2": "imagens_gpt/006.png",
+  "prompt_b": "A grey government man in a suit shaking hands with a stick figure in a white lab coat in an office, a briefcase on the desk."
+ },
+ {
+  "cena": 78,
+  "texto": "A secret lab. An accident. A city downwind.",
+  "prompt": "A grey concrete laboratory building with a tall chimney at night, a pale cloud drifting from the chimney over rows of snowy houses downwind, wide empty view of the city.",
+  "ref2": "imagens_gpt/007.png"
+ },
+ {
+  "cena": 79,
+  "texto": "That's Sverdlovsk again.",
+  "prompt": "An old 1970s Soviet grey concrete laboratory complex with a tall chimney at dusk, a faint pale cloud drifting from it over rows of apartment blocks, wide empty view of the city.",
+  "ref2": "imagens_gpt/007.png"
+ },
+ {
+  "cena": 80,
+  "texto": "When scientists finally studied it, in 1994, they found that most victims had lived or worked in a narrow strip running south from the military lab.",
+  "prompt": "A bird-eye view of a city grid in muted colors with a narrow pale band running from a small factory across the blocks, empty space beside it.",
+  "ref2": "imagens_gpt/007.png",
+  "cartao": true,
+  "prompt_b": "An office room in the 1990s with scientists stick figures in white coats around a table covered with maps, a lamp lit."
+ },
+ {
+  "cena": 81,
+  "texto": "Farther along that same line, livestock died of anthrax too.",
+  "prompt": "Grassy countryside beyond a city edge with dead cattle lying in a field, a faint pale wind line over them, a small factory far behind.",
+  "ref2": "imagens_gpt/007.png"
+ },
+ {
+  "cena": 82,
+  "texto": "The strip followed the wind that had been blowing just before the outbreak.",
+  "prompt": "A bird-eye city grid with a pale band stretching downwind, a wind arrow along the band, a factory icon at one end.",
+  "ref2": "imagens_gpt/007.png"
+ },
+ {
+  "cena": 83,
+  "texto": "The meat story was false.",
+  "prompt": "A 1970s Soviet butcher shop counter with hanging meat, a stern official stick figure in a grey suit pointing at it, a blank newspaper on the counter.",
+  "ref2": "imagens_gpt/006.png"
+ },
+ {
+  "cena": 84,
+  "texto": "Which means the people in charge of Raccoon City probably know exactly what this is.",
+  "prompt": "A black sedan parked outside a tall grey government building at night in snow, one lit window on the top floor.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 85,
+  "texto": "And they have a plan for the city. It isn't the one you'd hope for.",
+  "prompt": "A grey concrete government meeting room at night, a wooden conference table with a city map on it, grey stick figures in dark suits standing around it, plain concrete walls, a window with a snowy city beyond.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 86,
+  "texto": "By two in the morning, the radio has new instructions: stay indoors, or go to an evacuation point.",
+  "prompt": "An old radio on a kitchen table glowing, its dial lit, {Y} listening close to it in a dark kitchen, snow outside the window.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "A police car with flashing lights on a snowy street, a loudspeaker on its roof."
+ },
+ {
+  "cena": 87,
+  "texto": "In the games, that's what the authorities do. Roadblocks, evacuation points, and then the army.",
+  "prompt": "A roadblock of concrete barriers across a snowy highway at night, soldiers stick figures with olive uniforms and round helmets, floodlights.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 88,
+  "texto": "And in the games, the soldiers at the edge of the city have orders to shoot anyone who tries to cross the line.",
+  "prompt": "Soldier stick figures in olive uniforms and round helmets aiming rifles across a line in the snow toward a crowd of stick figures with hands up, floodlights.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "Close view of a soldier boots at a painted line on snowy asphalt, a rifle held low, a crowd silhouette beyond."
+ },
+ {
+  "cena": 89,
+  "texto": "That sounds like something only fiction would do.",
+  "prompt": "A movie theater screen glowing in a dark hall with a blank scene, rows of empty seats.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 90,
+  "texto": "In 2014, during the Ebola epidemic, Liberia sealed off West Point, a neighborhood of Monrovia with about eighty thousand people.",
+  "prompt": "Bright sunny hot day in a crowded neighborhood of rusty tin-roofed shacks on a red dirt street beside the sea in Monrovia, Liberia, green palm trees, blue sky, 2014.",
+  "ref2": "imagens_gpt/014.png",
+  "prompt_b": "Soldier stick figures in olive uniforms with rifles standing behind a barbed wire fence on a red dirt street, a dense crowd of residents stick figures behind the fence, rusty tin roofs, palm trees, bright sun, blue sky."
+ },
+ {
+  "cena": 91,
+  "texto": "Barbed wire. Soldiers. A quarantine meant to last twenty-one days.",
+  "prompt": "A coil of barbed wire across a red dirt street between rusty tin-roofed shacks, soldier stick figures on one side and residents on the other, bright sun, palm trees, blue sky.",
+  "ref2": "imagens_gpt/014.png"
+ },
+ {
+  "cena": 92,
+  "texto": "On the first day, people tried to push through, and soldiers opened fire.",
+  "prompt": "Residents stick figures pushing against a barbed wire fence on a red dirt street, soldiers in olive uniforms with rifles facing them, rusty tin-roofed shacks, palm trees, bright sun, blue sky.",
+  "ref2": "imagens_gpt/014.png"
+ },
+ {
+  "cena": 93,
+  "texto": "A sixteen-year-old named Shacki Kamara was shot in the legs.",
+  "prompt": "A teenage boy stick figure lying on a red dirt street with a bandage on his leg, residents standing in a loose circle around him, rusty tin-roofed shacks, palm trees, bright sun.",
+  "ref2": "imagens_gpt/014.png"
+ },
+ {
+  "cena": 94,
+  "texto": "He lay in the street, bleeding, for at least twenty minutes before anyone took him to a hospital. He died.",
+  "prompt": "An empty red dirt lane at early morning among rusty tin-roofed shacks, a lone wheelbarrow at the edge, a white cloth lying on the ground in the distance, palm trees, warm hazy light.",
+  "ref2": "imagens_gpt/014.png",
+  "prompt_b": "A plain small concrete clinic building with an open gate at dawn, a stretcher standing empty outside it, palm trees, warm grey sky."
+ },
+ {
+  "cena": 95,
+  "texto": "The quarantine was lifted after about ten days.",
+  "prompt": "A barbed wire fence being rolled up on a red dirt street by soldier stick figures, residents watching from rusty tin-roofed shacks, palm trees, early morning light.",
+  "ref2": "imagens_gpt/014.png"
+ },
+ {
+  "cena": 96,
+  "texto": "So the edge of the city isn't safe either. Not for the infected, and not for you.",
+  "prompt": "A dark snowy city edge with a roadblock of concrete barriers and a wall of floodlights, a lone stick figure on the empty road before it.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 97,
+  "texto": "Half a tank. Phone at twenty percent. Two choices left.",
+  "prompt": "A car dashboard with a fuel gauge at half and a phone mounted next to it, its screen blank, the hands of {Y} on the wheel.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 98,
+  "texto": "One: the evacuation point downtown, where the helicopters land.",
+  "prompt": "A snowy downtown plaza at night with a helicopter landing zone marked with lights, a big twin-rotor helicopter, long line of stick figures waiting.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 99,
+  "texto": "Two: leave the car, take the map, and walk out over the mountains, in the snow, in the dark.",
+  "prompt": "A map in the snow beside a silver sedan, {Y} kneels and points at a mountain ridge on a folded paper map, trees and snowy slopes behind.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "Wide snowy forest mountains at night with a silver sedan parked at the edge of the road, {Y} tiny beside it."
+ },
+ {
+  "cena": 100,
+  "texto": "Helicopter, or mountains? Tell me in the comments which one you'd pick.",
+  "prompt": "Two lines of footprints in the snow splitting at a fork, one leading to a helicopter landing zone, the other to snowy mountains, {Y} standing between them seen from behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 101,
+  "texto": "Here's what happens if you pick the helicopter.",
+  "prompt": "A twin-rotor helicopter landing in a snowy plaza under floodlights, a line of stick figures wrapped in blankets walking toward it.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 102,
+  "texto": "The crowd at the evacuation point is calm. Mostly. Just like the research says.",
+  "prompt": "A calm evacuation point in a snowy plaza, a twin-rotor helicopter in the background with floodlights, stick figures standing in an orderly line wrapped in blankets.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 103,
+  "texto": "People share blankets. Someone hands out water.",
+  "prompt": "Stick figures in a snowy plaza sharing blankets, one stick figure handing a plastic water bottle to another, floodlights behind.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 104,
+  "texto": "In front of you in line, a man has his forearm wrapped in a bloody towel.",
+  "prompt": "In a snowy evacuation line at night, a stick figure man in front holds his forearm wrapped in a bloody white towel, {Y} stands behind him looking at the towel.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 105,
+  "texto": "He says he cut himself on glass. Maybe he did.",
+  "prompt": "Close view of a stick figure man forearm wrapped in a blood-stained white towel, a shard of glass on the snowy ground, orange light.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 106,
+  "texto": "In the games, an evacuation helicopter full of refugees went down after some of the people on board turned.",
+  "prompt": "A twin-rotor helicopter tilting and falling over snowy rooftops, thick black smoke streaming from its engine, red glow of fire below.",
+  "ref2": "imagens_gpt/012.png",
+  "prompt_b": "Inside a helicopter cabin, stick figure passengers fighting, grey-green infected figures leaping at them, red emergency light."
+ },
+ {
+  "cena": 107,
+  "texto": "A crowd is where help is. It's also where a bite finds its next victim.",
+  "prompt": "A crowd of stick figures packed shoulder to shoulder in a snowy plaza, one grey-green infected figure leaning toward a neighbor neck.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 108,
+  "texto": "You remember the rule. Nobody gets close enough to bite you.",
+  "prompt": "{Y} stands in a snowy plaza line, looking at the crowd around him, a bit of distance between him and the next person.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 109,
+  "texto": "You step out of the line.",
+  "prompt": "{Y} steps out of a long line of stick figures into the empty snow, seen from the side, floodlights and helicopter behind.",
+  "ref2": "imagens_gpt/012.png"
+ },
+ {
+  "cena": 110,
+  "texto": "You leave the car, you take the map, and you walk toward the mountains.",
+  "prompt": "{Y} walks away from a snowy city toward dark mountains, backpack on, a paper map in hand, helicopter lights far behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 111,
+  "texto": "The road up is dark, and the snow is up to your knees.",
+  "prompt": "{Y} walks up a dark snowy road, snow up to his knees, tall pine trees on both sides, a flashlight beam ahead.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 112,
+  "texto": "In the film, this is Arklay County: farms, pine forest, and a road where a woman steps out of the trees.",
+  "prompt": "A snowy Colorado farm road at night, a red barn, a wooden fence, dark pine forest, and a woman stick figure with long hair stepping out from the trees onto the road.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "A wide snowy farm valley at night, a farmhouse with one lit window, a barn, a pine forest edge."
+ },
+ {
+  "cena": 113,
+  "texto": "In the games, this forest is where it all began: months earlier, hikers were found dead in the Arklay Mountains, and the police blamed a cannibal cult.",
+  "prompt": "A pine forest in the Arklay Mountains at night, two hiker backpacks and tents torn apart in the snow, a police stick figure with a flashlight standing nearby.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "A police station wall with a blank corkboard and pins, photographs of a forest and a torn tent, desk lamp light."
+ },
+ {
+  "cena": 114,
+  "texto": "You walk past a farmhouse with its door wide open. You don't go in.",
+  "prompt": "{Y} walks past a wooden farmhouse with its front door wide open and dark inside, snow on the porch, pine forest behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 115,
+  "texto": "At 4:30, your phone dies. Not from the battery. From the cold.",
+  "prompt": "{Y} stands on a snowy forest road, a phone in his hand showing a black dead screen, frost on the phone, breath fog.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 116,
+  "texto": "Apple itself warns that very cold conditions can shorten an iPhone's battery life, and even make it turn off.",
+  "prompt": "A smartphone lying on white snow, its screen black, frost crystals around it, cold blue light.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "A hand in a glove holding a black dead smartphone with frost on it, snowy pine forest blurred behind."
+ },
+ {
+  "cena": 117,
+  "texto": "So now it's just you, a flashlight, and a paper map.",
+  "prompt": "A flashlight beam lighting a folded paper map held in the gloved hands of {Y}, snowflakes falling through the beam, dark pine trees behind.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 118,
+  "texto": "The map shows an old fire road over the ridge.",
+  "prompt": "A paper map with a dotted line over a ridge, held in a hand, a pine forest behind.",
+  "ref2": "imagens_gpt/010.png",
+  "cartao": true
+ },
+ {
+  "cena": 119,
+  "texto": "You follow it, one step at a time, until the sky turns grey.",
+  "prompt": "The stick figure man (grey beanie, navy parka) walks up a narrow snowy fire road between pine trees, seen from the side, one foot in front of the other, grey light at the horizon, backpack on.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 120,
+  "texto": "At the top of the ridge, you look back.",
+  "prompt": "{Y} stands at the top of a snowy ridge at dawn, seen from behind, looking down at a distant valley, grey sky.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 121,
+  "texto": "Raccoon City is down there, under the snow. A few fires. A few lights still on.",
+  "prompt": "A small mountain city in a snowy valley at dawn from a ridge, a few fires with thin smoke and a few lit windows, pale grey sky.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 122,
+  "texto": "The moment you had to leave wasn't two in the morning. It wasn't 10:30.",
+  "prompt": "{Y} at the top of a ridge, face lit by pale grey dawn light, serious, snowy valley behind him.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 123,
+  "texto": "It was 9:40. The first alert. The word riot.",
+  "prompt": "A phone on a table with a blank red alert banner on its screen, a wall clock above it with black hands pointing near nine forty.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 124,
+  "texto": "Every hour after that, the way out got smaller. First the phones. Then the highway. Then the tunnel. Then the line.",
+  "prompt": "Four stick figure icons in a row on a dark background: a phone, a car on a highway, a tunnel entrance, and a crowded queue, simple flat style, empty space on top.",
+  "ref2": "imagens_gpt/002.png",
+  "cartao": true,
+  "prompt_b": "A winding road narrowing into a tunnel, then into a fence of people, then into a closed gate, getting smaller toward the horizon, snowy night."
+ },
+ {
+  "cena": 125,
+  "texto": "And you waited for the same reason almost everyone waits. You were looking for more information.",
+  "prompt": "A man sits in a warm apartment scrolling a phone with a blank screen while the hours pass on the wall clock, snowy window behind him.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 126,
+  "texto": "When Wuhan was locked down in 2020, the announcement came at two in the morning. The city closed at ten.",
+  "prompt": "The skyline of Wuhan at night, tall apartment towers along a wide river, a long bridge, lit windows, empty space in the sky.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true,
+  "prompt_b": "A crowd of stick figures with face masks queueing at a train station gate at night, a blank sign above the entrance."
+ },
+ {
+  "cena": 127,
+  "texto": "Eight hours' notice, for a city of eleven million people.",
+  "prompt": "A huge crowd of stick figures with face masks on a wide railway station concourse at night, rushing toward the gates, a plain dark wall above the gates.",
+  "ref2": "imagens_gpt/012.png",
+  "cartao": true
+ },
+ {
+  "cena": 128,
+  "texto": "In the games, Raccoon City never even got the real announcement.",
+  "prompt": "Raccoon City in the snow at night seen from a hill, a tall hospital building, a brick police building, red glow behind, pine trees in the foreground.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 129,
+  "texto": "You made it out because, at two in the morning, you stopped waiting for someone to tell you what to do.",
+  "prompt": "{Y} turns away from the road and walks into the dark snowy forest alone, backpack on, quiet.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "Close view of {Y} face lit by pale blue dawn, determined, breath fog."
+ },
+ {
+  "cena": 130,
+  "texto": "As the sun comes up, you hear helicopters over the city.",
+  "prompt": "A grey dawn sky over a snowy mountain city with several helicopters flying toward it, searchlights, thin smoke columns.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 131,
+  "texto": "In the film, that's how the night ends: helicopters arriving over Raccoon City.",
+  "prompt": "Twin-rotor military helicopters descending over a snowy city at dawn, red glow below, dark smoke.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 132,
+  "texto": "In the games, a few days later, the government ends the city for good: one missile, at sunrise, on the first of October.",
+  "prompt": "A single missile streaking across a dawn sky toward a city, a long white trail, orange sunrise on the horizon, silhouettes of mountains.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "A huge white-orange explosion over a city at sunrise, shock wave rolling through the snow, dust cloud, silhouettes of mountains."
+ },
+ {
+  "cena": 133,
+  "texto": "The games say more than a hundred thousand people died.",
+  "prompt": "A city in ruins after a blast at dawn, empty space at the top, smoke columns, collapsed rooftops, snow.",
+  "ref2": "imagens_gpt/002.png",
+  "cartao": true
+ },
+ {
+  "cena": 134,
+  "texto": "And the official story?",
+  "prompt": "A TV set in a dark living room showing a news anchor stick figure and a red banner without text, a blank newspaper on the table beside it.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 135,
+  "texto": "In Sverdlovsk, the truth stayed buried for thirteen years.",
+  "prompt": "A Soviet-era office with a big wall map covered in pins, a stick figure official in a grey suit at a desk with a file folder, a green lamp, dusty light.",
+  "ref2": "imagens_gpt/006.png"
+ },
+ {
+  "cena": 136,
+  "texto": "In 1992, Boris Yeltsin, by then the president of Russia, admitted that the military was to blame.",
+  "prompt": "A press conference podium with a bunch of microphones, a stick figure man in a dark suit speaking, a blank blue banner behind, flashbulbs.",
+  "ref2": "imagens_gpt/006.png"
+ },
+ {
+  "cena": 137,
+  "texto": "In 1979, he had been the Communist Party boss in Sverdlovsk.",
+  "prompt": "An old 1979 Soviet party office with a long wooden table and a framed blank portrait on the wall, a stick figure man in a dark suit sitting at the head.",
+  "ref2": "imagens_gpt/006.png"
+ },
+ {
+  "cena": 138,
+  "texto": "So when the news finally talks about Raccoon City, don't expect to hear the word Umbrella.",
+  "prompt": "A blank white television news banner on a dark screen, a stick figure anchor in a suit, and a red and white umbrella logo drawn with a thick red cross over it.",
+  "ref2": "imagens_gpt/002.png"
+ },
+ {
+  "cena": 139,
+  "texto": "Down below, one of the helicopters turns. Its searchlight starts to climb the ridge, toward you.",
+  "prompt": "{Y} on a snowy ridge at dawn, looking down at a helicopter circling over the city, its searchlight beginning to climb the slope.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 140,
+  "texto": "You raise your arm.",
+  "prompt": "Close view of {Y} raising his right arm in the air on a snowy ridge, bright searchlight beam hitting him, helicopter above.",
+  "ref2": "imagens_gpt/010.png"
+ },
+ {
+  "cena": 141,
+  "texto": "In Raccoon City, that has always been the question: are they here to get you out, or to keep you in?",
+  "prompt": "A helicopter hovering above a snowy ridge at dawn with a searchlight on {Y} who raises his arm, the city smoking behind.",
+  "ref2": "imagens_gpt/010.png",
+  "prompt_b": "Wide shot of a snowy ridge at dawn, {Y} tiny at the center under a hovering helicopter with a searchlight beam."
+ }
+]

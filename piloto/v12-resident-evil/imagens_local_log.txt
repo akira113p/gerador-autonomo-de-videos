@@ -1,0 +1,207 @@
+015	seed 108	35s	gerada
+016	seed 115	36s	gerada
+017	seed 122	34s	gerada
+018	seed 129	36s	gerada
+018b	seed 129	35s	gerada
+019	seed 136	34s	gerada
+019b	seed 136	33s	gerada
+020	seed 143	33s	gerada
+021	seed 150	33s	gerada
+022	seed 157	33s	gerada
+023	seed 164	36s	gerada
+024	seed 171	34s	gerada
+025	seed 178	33s	gerada
+025b	seed 178	33s	gerada
+026	seed 185	33s	gerada
+027	seed 192	33s	gerada
+027b	seed 192	32s	gerada
+028	seed 199	33s	gerada
+029	seed 206	34s	gerada
+030	seed 213	34s	gerada
+031	seed 220	33s	gerada
+032	seed 227	33s	gerada
+033	seed 234	35s	gerada
+034	seed 241	38s	gerada
+035	seed 248	37s	gerada
+036	seed 255	33s	gerada
+037	seed 262	34s	gerada
+038	seed 269	33s	gerada
+039	seed 276	36s	gerada
+039b	seed 276	34s	gerada
+040	seed 283	34s	gerada
+041	seed 290	32s	gerada
+042	seed 297	33s	gerada
+043	seed 304	34s	gerada
+044	seed 311	34s	gerada
+045	seed 318	34s	gerada
+046	seed 325	33s	gerada
+033	seed 1234	55s	gerada
+022	-	-	duas figuras YOU (aceita)
+033	parca bege/gorro marrom	refeita seed+1000 (1)
+047	seed 332	64s	gerada
+048	seed 339	32s	gerada
+049	seed 346	33s	gerada
+049b	seed 346	36s	gerada
+050	seed 353	33s	gerada
+051	seed 360	32s	gerada
+052	seed 367	35s	gerada
+052b	seed 367	32s	gerada
+053	seed 374	32s	gerada
+054	seed 381	32s	gerada
+055	seed 388	32s	gerada
+056	seed 395	31s	gerada
+057	seed 402	31s	gerada
+057b	seed 402	31s	gerada
+058	seed 409	32s	gerada
+059	seed 416	31s	gerada
+059b	seed 416	31s	gerada
+060	seed 423	31s	gerada
+061	seed 430	32s	gerada
+062	seed 437	32s	gerada
+047	seed 1332	66s	gerada
+063	seed 444	76s	gerada
+051	seed 1360	72s	gerada
+064	seed 451	69s	gerada
+054	seed 1381	73s	gerada
+047	YOU indevido (vazou ref 002)	refeita ref 010 (1)
+051	neve na praia do Texas	refeita (1)
+054	vazou YOU+medidor da ref 002	refeita ref 012 (1)
+065	seed 458	73s	gerada
+054	seed 2381	49s	gerada
+066	seed 465	71s	gerada
+055	seed 2388	63s	gerada
+066b	seed 465	63s	gerada
+056	seed 2395	70s	gerada
+054 refeita 2a (ref010, dois personagens/mordida pouco clara)
+055,056	ref 002 vazou YOU e medidor	refeitas ref 010/012
+063/064	infectados com gorro (aceitas)
+067	seed 472	71s	gerada
+068	seed 479	33s	gerada
+069	seed 486	33s	gerada
+070	seed 493	32s	gerada
+071	seed 500	32s	gerada
+072	seed 507	34s	gerada
+072b	seed 507	31s	gerada
+073	seed 514	32s	gerada
+074	seed 521	31s	gerada
+075	seed 528	31s	gerada
+076	seed 535	31s	gerada
+077	seed 542	31s	gerada
+077b	seed 542	36s	gerada
+078	seed 549	31s	gerada
+079	seed 556	31s	gerada
+080	seed 563	30s	gerada
+080b	seed 563	33s	gerada
+081	seed 570	33s	gerada
+082	seed 577	30s	gerada
+083	seed 584	30s	gerada
+075	seed 1528	57s	gerada
+084	seed 591	61s	gerada
+078	seed 1549	65s	gerada
+085	seed 598	70s	gerada
+079	seed 1556	69s	gerada
+075	van ausente, sedan; ref vazou YOU	refeita ref 012
+078,079	YOU indevido (79 anacronico)	refeitas ref 007
+086	seed 605	70s	gerada
+085	seed 1598	61s	gerada
+085	texto legivel errado na placa	refeita (1)
+084	YOU nao pedido (aceita)
+086b	seed 605	64s	gerada
+087	seed 612	35s	gerada
+088	seed 619	34s	gerada
+088b	seed 619	34s	gerada
+089	seed 626	32s	gerada
+090	seed 633	33s	gerada
+090b	seed 633	34s	gerada
+091	seed 640	31s	gerada
+092	seed 647	32s	gerada
+093	seed 654	31s	gerada
+094	seed 661	31s	gerada
+094b	seed 661	36s	gerada
+095	seed 668	32s	gerada
+090-095 (+b)	cenario Libéria com neve/hospital (ref 012 vazou); 094b texto na placa	refeitas com ref 014 e cenário tropical
+086	parca bege	refeita
+096	seed 675	32s	gerada
+086	seed 1605	48s	gerada
+097	seed 682	68s	gerada
+086b	seed 1605	63s	gerada
+098	seed 689	62s	gerada
+090	seed 1633	62s	gerada
+099	seed 696	62s	gerada
+090b	seed 1633	63s	gerada
+099b	seed 696	62s	gerada
+091	seed 1640	64s	gerada
+100	seed 703	69s	gerada
+092	seed 1647	66s	gerada
+101	seed 710	61s	gerada
+093	seed 1654	63s	gerada
+102	seed 717	64s	gerada
+094	seed 1661	63s	gerada
+103	seed 724	62s	gerada
+094b	seed 1661	62s	gerada
+104	seed 731	62s	gerada
+095	seed 1668	71s	gerada
+103,104	vazou carro+medidor da ref 002	serão refeitas com ref 012 (junto com 105,107-109)
+105	seed 738	72s	gerada
+106	seed 745	31s	gerada
+106b	seed 745	31s	gerada
+107	seed 752	30s	gerada
+108	seed 759	30s	gerada
+109	seed 766	31s	gerada
+110	seed 773	31s	gerada
+111	seed 780	30s	gerada
+112	seed 787	30s	gerada
+112b	seed 787	31s	gerada
+113	seed 794	31s	gerada
+113b	seed 794	31s	gerada
+114	seed 801	31s	gerada
+115	seed 808	31s	gerada
+116	seed 815	31s	gerada
+103	seed 1724	43s	gerada
+116b	seed 815	65s	gerada
+104	seed 1731	70s	gerada
+117	seed 822	72s	gerada
+106	seed 1745	65s	gerada
+118	seed 829	64s	gerada
+106b	seed 1745	64s	gerada
+119	seed 836	62s	gerada
+108	seed 1759	63s	gerada
+106	helicoptero sobre um carro, medidor vazou	refeita ref 012
+108	medidor vazou	refeita ref 012
+120	seed 843	66s	gerada
+121	seed 850	31s	gerada
+122	seed 857	31s	gerada
+123	seed 864	32s	gerada
+124	seed 871	31s	gerada
+124b	seed 871	30s	gerada
+125	seed 878	33s	gerada
+126	seed 885	32s	gerada
+126b	seed 885	31s	gerada
+127	seed 892	30s	gerada
+128	seed 899	32s	gerada
+129	seed 906	31s	gerada
+129b	seed 906	31s	gerada
+130	seed 913	31s	gerada
+131	seed 920	31s	gerada
+132	seed 927	31s	gerada
+132b	seed 927	39s	gerada
+133	seed 934	33s	gerada
+134	seed 941	31s	gerada
+135	seed 948	31s	gerada
+119	seed 1836	58s	gerada
+136	seed 955	62s	gerada
+127	seed 1892	62s	gerada
+119	pose estranha, flutuando	refeita seed+1000
+127	texto legivel no painel	refeita seed+1000
+126	neve em Wuhan (aceita)
+137	seed 962	62s	gerada
+138	seed 969	31s	gerada
+139	seed 976	31s	gerada
+140	seed 983	30s	gerada
+141	seed 990	31s	gerada
+141b	seed 990	30s	gerada
+119	seed 2836	29s	gerada
+127	seed 2892	31s	gerada
+128	seed 2899	30s	gerada
+119 (2x), 127 (2x), 128	fogo no pé / texto no painel / jornal com texto	refeitas, ok
+FIM: 168 arquivos em imagens/ (14 copiadas + 127 cenas + 27 b)

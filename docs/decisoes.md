@@ -1,5 +1,24 @@
 # Decisões do canal
 
+## 2026-10-19 · Processo dos vídeos de franquia (v12 Resident Evil, v13 Bloods, v14 Backrooms)
+- Decisão: (1) imagens do **primeiro minuto no ChatGPT**; o resto **local, usando as imagens do ChatGPT como referência** (candidato: FLUX.2 klein 4B, Apache 2.0, ~4,4 GB; falta testar na 4060, ver `pesquisa/imagem-local-com-referencia.md`); (2) **2 a 3 músicas por vídeo** (jazz + tensa, como no Last of Us), tom sério, e só baixar faixa cujo título ou descrição diga que não tem direitos autorais (`pesquisa/musicas-sem-direitos-v12-v14.md`); (3) narração **sempre em segunda pessoa**; (4) roteiros com princípios de retenção pesquisados (`pesquisa/retencao-principios.md`), não só a skill `yt-script`; (5) pesquisa feita por subagentes Sonnet em paralelo (Haiku para metadados), com o Opus auditando e escrevendo.
+- Roteiros propostos em `piloto/propostas/d-raccoon-city.md`, `e-bloods-nova-york.md` e `f-backrooms.md`, **aguardando aprovação**.
+- Motivo: pedido do usuário ao encomendar os 3 roteiros.
+- Substitui: "imagens só locais" (memória de 2026-10-12) para estes vídeos.
+
+## 2026-10-19 · Foco de postagem: vídeos no formato do The Last of Us
+- Decisão: os próximos vídeos seguem o modelo do "What Would YOUR Life Be Like in The Last of Us Apocalypse?": universo de ficção conhecido (jogo, série, filme) como gancho, vida cotidiana dentro dele em linha do tempo, e checagem do mundo real (ciência/história) no meio, com fontes na descrição e aviso de "independent, fan-made, not affiliated".
+- Motivo: análise do Studio em 2026-10-19 (`docs/analise-canal-2026-10-19.md`): Last of Us teve 195 views, o melhor do canal, e foi publicado no mesmo dia que o vídeo de 1900/2000 (17 views). Roma (142 views, tema de busca forte) foi o segundo. Temas abstratos ficaram em 13 a 17 views. Amostra pequena (2 vídeos), então o foco é uma aposta a revalidar quando houver 5 ou mais vídeos nesse formato.
+- Direitos de uso: decisão do usuário de **não se limitar por direitos de uso das franquias** (nome, logo, arte, referências). Risco assumido por ele; não bloquear nem rebaixar tema por causa disso. A checagem de fatos continua valendo.
+- Vídeos já prontos e não publicados (v11 Oregon Trail e v6 Medieval Peasant, privados): **não serão postados**, o usuário os considerou ruins. Os próximos vídeos serão feitos novos, no formato acima.
+- Substitui: nicho do piloto "vida cotidiana histórica" como foco único. Não substitui a cadência de 2026-10-08 (ver nota abaixo).
+- Nota: a skill `yt-plan` recomenda 3 envios por semana em vez de 1 por dia. Os números do canal não mostram ganho de views com volume, mas a cadência continua como o usuário decidiu até nova decisão.
+
+## 2026-10-19 · Skill youtube-agent instalada
+- Decisão: instalar as 11 skills `yt-*` de Jakeschincariol/youtube-agent-skill (MIT) em `.claude/skills/`, com o perfil de voz em `.claude/youtube/voice.md`. Detalhes e encaixe de cada skill em `docs/skill-youtube-agent.md`.
+- Motivo: pedido do usuário; o gargalo atual é o CTR de 1,0%, que `yt-package` e `yt-script` atacam, e `yt-retention` mostra onde o público sai.
+- Substitui: —
+
 ## 2026-10-11 · Vídeos 3, 4 e 5: roteiros propostos; vídeo 3 com imagens de IA na nuvem
 - Decisão: três roteiros novos em `piloto/propostas/` (A: The Last of Us, B: previsões de 1900, C: um dia na Revolução Francesa), com fatos checados em `pesquisa/checagem-3-roteiros-propostos.md`. O vídeo 3 (The Last of Us) vira `piloto/v3-last-of-us/`. Os vídeos 4 e 5 têm só a pasta e o roteiro; ainda não foram gerados.
 - Fluxo testado no vídeo 3: **imagens no ChatGPT (plano Go) pelo navegador**, voz local (Qwen3-TTS, voz narrador-leve), jazz do 741Hz em trecho diferente do vídeo 2 (`preparar_jazz.py`, começa na faixa 3), montagem local (`montar.py`) e envio **privado** ao YouTube.

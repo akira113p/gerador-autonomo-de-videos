@@ -1,0 +1,4 @@
+178 cenas, 14.7 min
+trilha tudo 0-883 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v8-navio-viking\video_v8_medieval.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v8-navio-viking\video_v8_vscode_medieval.mp4

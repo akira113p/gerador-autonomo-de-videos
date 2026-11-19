@@ -8,6 +8,7 @@ Grava um WAV por cena e duracoes.json (a duração de cada cena manda no tempo d
 
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -24,17 +25,42 @@ OUT = AQUI / "voz"
 VOZ = RAIZ / "identidade" / os.environ.get("NARRADOR", "narrador-leve")
 # grafia só para a fala (a legenda usa o texto do roteiro): palavras que o modelo pronunciava errado
 FALA = {
-    "orache": "orrach",
-    "liter": "lee tur",
-    "assignats": "asseenyah",
-    "assignat": "asseenyah",
-    "Paulze": "Pols",
+    'thermopolia': 'thermopolia',
+    'aedile': 'eedile',
+    'duumvir': 'dooumvir',
+    'Plinian': 'plinian',
+    'garum': 'gahrum',
+    'Nuceria': 'nukeria',
+    'Misenum': 'mizeenum',
+    'Stabiae': 'stabbeye',
+    'Rectina': 'rekteena',
+    'Herculaneum': 'herkyoolaynium',
+    'Isis': 'eye sis',
+    'Helvius': 'helveeus',
+    'Sabinus': 'sabeenus',
+    'Cerrinius': 'serrineeus',
+    'Vatia': 'vahteea',
+    'Popidius': 'popideeus',
+    'Ampliatus': 'ampleeahtus',
+    'Numerius': 'numereeus',
+    'Caecilius': 'sesilius',
+    'Iucundus': 'yookundus',
+    'Celadus': 'selaydus',
+    'Umbricius': 'umbrikeeus',
+    'Scaurus': 'scowrus',
+    'Fiorelli': 'fyorelli',
+    'Campania': 'kampaynia',
+    'Tacitus': 'tassitus',
+    'Vettii': 'vettee eye',
+    'Nicias': 'nisheeus',
+    'Livy': 'livvy',
+    'Parco': 'parko',
 }
 
 
 def fala(texto: str) -> str:
     for a, b in FALA.items():
-        texto = texto.replace(a, b)
+        texto = re.sub(r"(?<![\w])" + re.escape(a) + r"(?![\w])", b, texto)
     return texto
 
 

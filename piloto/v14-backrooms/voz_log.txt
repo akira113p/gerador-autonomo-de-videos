@@ -1,0 +1,350 @@
+'sox' nao ‚ reconhecido como um comando interno
+ou externo, um programa oper vel ou um arquivo em lotes.
+SoX could not be found!
+
+    If you do not have SoX, proceed here:
+     - - - http://sox.sourceforge.net/ - - -
+
+    If you do (or think that you should) have SoX, double-check your
+    path variables.
+    
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+001 6.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+002 1.2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+003 6.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+004 4.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+005 2.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+006 1.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+007 3.6
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+008 3.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+009 5.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+010 8.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+011 3.84
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+012 5.28
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+013 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+014 2.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+015 3.6
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+016 4.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+017 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+018 4.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+019 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+020 2.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+021 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+022 1.76
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+023 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+024 7.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+025 2.72
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+026 2.72
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+027 2.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+028 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+029 2.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+030 1.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+031 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+032 3.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+033 8.72
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+034 5.84
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+035 2.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+036 4.24
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+037 1.92
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+038 2.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+039 6.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+040 4.24
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+041 2.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+042 4.24
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+043 1.92
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+044 4.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+045 6.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+046 2.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+047 1.76
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+048 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+049 3.84
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+050 8.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+051 7.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+052 3.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+053 5.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+054 8.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+055 3.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+056 3.04
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+057 2.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+058 3.6
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+059 5.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+060 3.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+061 7.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+062 5.28
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+063 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+064 3.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+065 1.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+066 7.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+067 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+068 5.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+069 6.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+070 3.2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+071 5.2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+072 2.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+073 3.2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+074 4.64
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+075 2.24
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+076 2.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+077 2.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+078 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+079 2.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+080 2.88
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+081 6.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+082 2.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+083 6.64
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+084 4.64
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+085 3.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+086 1.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+087 4.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+088 6.72
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+089 2.88
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+090 3.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+091 5.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+092 7.28
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+093 3.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+094 6.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+095 2.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+096 8.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+097 6.0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+098 4.24
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+099 4.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+100 5.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+101 5.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+102 6.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+103 2.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+104 3.84
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+105 6.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+106 2.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+107 4.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+108 7.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+109 6.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+110 6.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+111 4.64
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+112 1.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+113 7.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+114 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+115 5.04
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+116 2.32
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+117 7.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+118 5.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+119 5.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+120 5.2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+121 7.92
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+122 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+123 4.88
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+124 4.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+125 5.28
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+126 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+127 5.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+128 6.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+129 2.32
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+130 1.76
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+131 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+132 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+133 6.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+134 4.72
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+135 5.04
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+136 3.36
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+137 6.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+138 3.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+139 2.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+140 4.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+141 5.6
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+142 4.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+143 2.64
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+144 6.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+145 6.4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+146 6.48
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+147 1.92
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+148 4.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+149 3.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+150 2.16
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+151 3.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+152 2.8
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+153 4.08
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+154 5.52
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+155 3.04
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+156 3.12
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+157 3.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+158 2.56
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+159 5.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+160 3.76
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+161 3.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+162 4.96
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+163 1.68
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+164 2.88
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+165 3.92
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+166 3.44
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+167 1.28
+total 721.0

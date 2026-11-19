@@ -16,8 +16,18 @@ from prompts import P, cartao  # noqa: E402
 
 # capítulo do roteiro -> bloco de música (cada bloco tem uma trilha; muda ao longo do vídeo)
 BLOCOS = {
-    "0": "abertura", "1": "calendario", "2": "manha", "3": "manha", "4": "pao", "5": "rua", "6": "trabalho",
-    "7": "almoco", "8": "tarde", "9": "carrocas", "10": "lavoisier", "11": "noite", "12": "fecho",
+    '0': 'abertura',
+    '1': 'data',
+    '2': 'padaria',
+    '3': 'paredes',
+    '4': 'paredes',
+    '5': 'bar',
+    '6': 'arena',
+    '7': 'nuvem',
+    '8': 'chuva',
+    '9': 'noite',
+    '10': 'luto',
+    '11': 'fecho',
 }
 
 

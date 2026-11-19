@@ -1,0 +1,72 @@
+{
+ "abertura": {
+  "seed": 1283755855,
+  "segundos": 64,
+  "tags": "curious light documentary underscore, plucked lute, recorder, hand drum, playful, english folk flavor, instrumental",
+  "bpm": 104,
+  "tom": "D major"
+ },
+ "aldeia": {
+  "seed": 1633805528,
+  "segundos": 88,
+  "tags": "warm pastoral english folk underscore, acoustic guitar, tin whistle, light fiddle, gentle, instrumental",
+  "bpm": 92,
+  "tom": "G major"
+ },
+ "outono": {
+  "seed": 157809298,
+  "segundos": 115,
+  "tags": "steady rustic folk groove, plucked strings, frame drum, soft flute, determined, hardworking, instrumental",
+  "bpm": 88,
+  "tom": "E minor"
+ },
+ "inverno": {
+  "seed": 641774188,
+  "segundos": 85,
+  "tags": "quiet cozy winter music, soft harp, solo cello, gentle glockenspiel, warm and slow, instrumental",
+  "bpm": 70,
+  "tom": "A minor"
+ },
+ "primavera": {
+  "seed": 1983795053,
+  "segundos": 130,
+  "tags": "fresh hopeful spring folk music, bright recorder, pizzicato strings, light tambourine, bouncy, instrumental",
+  "bpm": 112,
+  "tom": "C major"
+ },
+ "colheita": {
+  "seed": 551265732,
+  "segundos": 84,
+  "tags": "busy sunny harvest folk dance, fiddle, bodhran, tin whistle, lively and cheerful, instrumental",
+  "bpm": 118,
+  "tom": "D major"
+ },
+ "tribunal": {
+  "seed": 621028250,
+  "segundos": 92,
+  "tags": "wry mischievous medieval underscore, bassoon, pizzicato strings, woodblock, comic, instrumental",
+  "bpm": 100,
+  "tom": "F major"
+ },
+ "contas": {
+  "seed": 1385687965,
+  "segundos": 77,
+  "tags": "tense but light documentary underscore, low plucked strings, soft marimba pulse, calculating, instrumental",
+  "bpm": 96,
+  "tom": "D minor"
+ },
+ "familia": {
+  "seed": 264588578,
+  "segundos": 139,
+  "tags": "tender thoughtful folk underscore, soft acoustic guitar, solo violin, light piano, reflective, instrumental",
+  "bpm": 78,
+  "tom": "A minor"
+ },
+ "chuva": {
+  "seed": 2067960427,
+  "segundos": 137,
+  "tags": "dramatic restrained underscore, low cello, soft timpani, rain-like piano, slowly building then hopeful warm ending, instrumental",
+  "bpm": 66,
+  "tom": "C minor"
+ }
+}

@@ -32,3 +32,10 @@ Título publicado: "What Would YOUR Life Be Like on a Viking Ship? (Iceland to G
   4. "Probably wrapped in a wool cloak" vem de material didático.
   5. Neil Price (Children of Ash and Elm) não foi consultado.
 - Ouvir a pronúncia de "knarr" (sai como "nar"), Landnámabók, Brattahlid e Gjermundbu.
+
+## Versão com outra música (2026-10-13)
+- Pedido do usuário: trocar a música por "No Copyright Medieval Fantasy Ambient Music Mix | The Old Kingdom [No AI]" (AlkaKrab, https://www.youtube.com/watch?v=2FEUVx8F4dk, mix de 91 min).
+- Baixado só o áudio dos primeiros 17 min (webm, 7 MB) em `trilha_medieval/bruto/mix.webm`; `preparar_medieval.py` nivela o volume e grava `trilha_medieval/tudo.wav` (930 s).
+- Montagem: `TRILHA=trilha_medieval SUFIXO=_medieval montar.py` gera `video_v8_medieval.mp4` (e `_vscode_medieval`), `legendas_en_medieval.srt`, `tempos_medieval.json`; `SUFIXO=_medieval gerar_descricao.py` gera `descricao_medieval.md` com o crédito do AlkaKrab.
+- 14:43, -16,9 LUFS. O vídeo original (música ACE-Step, `video_v8.mp4`) continua intacto e é o que está no YouTube (privado). O YouTube não troca o arquivo de um vídeo já enviado: para usar esta versão é preciso um novo envio.
+- A música é uma trilha contínua única, sem os 11 blocos do ACE-Step que mudavam de clima por capítulo.

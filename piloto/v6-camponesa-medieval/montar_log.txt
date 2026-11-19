@@ -1,0 +1,13 @@
+182 cenas, 15.5 min
+trilha abertura 0-55 s
+trilha aldeia 55-132 s
+trilha outono 132-237 s
+trilha inverno 237-312 s
+trilha primavera 312-431 s
+trilha colheita 431-505 s
+trilha tribunal 505-587 s
+trilha contas 587-654 s
+trilha familia 654-782 s
+trilha chuva 782-928 s
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v6-camponesa-medieval\video_v6.mp4
+ok D:\programacao\projetos\videos\v1 geracao de videos\piloto\v6-camponesa-medieval\video_v6_vscode.mp4

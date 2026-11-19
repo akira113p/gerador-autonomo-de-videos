@@ -22,21 +22,23 @@ Instalados em `C:/ai-local` (D: não tem espaço):
 - `venv-voz` (Python 3.12, torch 2.6 cu124): Kokoro, Chatterbox, faster-whisper. Executores em `ferramentas/` (`kokoro_run.py`, `chatterbox_run.py`, `whisper_run.py`).
 - Prompt de imagem: descrever só o que deve aparecer. Negações ("no sails") fazem o objeto aparecer. Conferir anacronismos em toda imagem.
 - Objeto antigo pelo nome sai moderno: "dining couch" vira sofá, "water clock" vira relógio de mostrador, "calendar" vira calendário de espiral, "sundial" vira antena. Descrever a forma (ver tokens em `piloto/v2-dia-em-roma/prompts.py`). Mapa, contagem e número: desenhar em código (`cartoes.py`), porque a IA erra. Texto livre em parede sai como caça-palavras.
-- Música: ACE-Step 1.5 turbo no ComfyUI (`acestep_v1.5_turbo` + `qwen_0.6b/1.7b_ace15`, ~1 min por trilha de 3 min). Conferir buracos de silêncio por RMS e refazer com outra seed.
+- Música: **ACE-Step 1.5 turbo NÃO existe mais** (apagado em 2026-10-19 para liberar espaço no C:). Removidos de `C:/ai-local/comfyui/models`: `acestep_v1.5_turbo`, `qwen_0.6b_ace15`, `qwen_1.7b_ace15` e `ace_1.5_vae` (~9,3 GB). Os `gerar_trilha.py` de `piloto/v2-dia-em-roma` e `piloto/v10-egito-operario` não rodam sem baixar os modelos de novo; as trilhas já geradas e os vídeos prontos continuam. Música nova: biblioteca livre ou jazz (ver `docs/decisoes.md`).
+- Qwen3-TTS: existe só em `C:/ai-local/modelos` (usado por `ferramentas/qwen_tts_run.py`). A cópia duplicada em `C:/ai-local/hf/hub` foi apagada em 2026-10-19; o `montar.py` baixaria de novo se for rodado.
 - Voz: palavra latina ou ambígua ("lead", "salutatio") ganha grafia só para a fala no `FALA` do `gerar_voz.py`; maiúsculas e hífens fazem o modelo soletrar.
 
 Candidatos e regras:
 - Imagem: Z-Image Turbo (int8/FP8/GGUF); alternativas SDXL + LoRA e FLUX.1 schnell GGUF. Evitar FLUX.1/2 dev (não comercial).
 - Voz: Kokoro-82M para narração em inglês; Chatterbox Multilingual e Qwen3-TTS para clonagem/dublagem (testar em pt-BR com teste cego). Evitar XTTS-v2, F5-TTS, Fish Audio S2.
 - Transcrição: Parakeet TDT v3 (EN), Whisper large-v3-turbo (outros idiomas).
-- Música: biblioteca livre primeiro; ACE-Step 1.5 turbo como alternativa.
+- Música: biblioteca livre. ACE-Step 1.5 turbo foi removido da máquina em 2026-10-19 (não está mais disponível; só voltaria baixando os modelos de novo).
 - Não usar no OpenMontage com esta GPU: workflow `flux2-txt2img` (NVFP4, 32B), `qwen_image_21` (16 GB), e o padrão SD 2.1 do `local_diffusion`.
 - VRAM útil: ~5 GB (o sistema já usa ~2,9 GB). Espaço em disco: ~25 GB (mínimo) a ~65 GB (tudo).
 
 ## Estrutura
 - `pesquisa/`: notas de pesquisa com fontes.
 - `docs/handoff/`: resumo de fim de sessão (skill `handoff`), para retomar na semana seguinte.
-- `.claude/skills/`: grill-me, grilling, research, handoff (de mattpocock/skills, MIT; research e handoff adaptados) e duas próprias: `registrar-decisao` (grava decisões em `docs/decisoes.md`) e `retomar-sessao` (lê o estado e propõe o próximo passo; use no começo de cada sessão).
+- `.claude/skills/`: grill-me, grilling, research, handoff (de mattpocock/skills, MIT; research e handoff adaptados) e duas próprias: `registrar-decisao` (grava decisões em `docs/decisoes.md`) e `retomar-sessao` (lê o estado e propõe o próximo passo; use no começo de cada sessão). Mais 11 skills `yt-*` (de Jakeschincariol/youtube-agent-skill, MIT; caminho do `voice.md` adaptado para `.claude/youtube/voice.md`): `yt-package` e `yt-script` antes de cada vídeo, `yt-retention` depois; `yt-edit` não se aplica (áudio é TTS). Encaixe em [docs/skill-youtube-agent.md](docs/skill-youtube-agent.md).
+- Foco de postagem (2026-10-19): vídeos no formato do The Last of Us (universo de ficção conhecido + checagem do mundo real). Análise do canal em [docs/analise-canal-2026-10-19.md](docs/analise-canal-2026-10-19.md): Last of Us 195 views e Roma 142 concentram 91% das views; CTR do canal é 1,0%.
 - `docs/decisoes.md`: decisões tomadas e perguntas pendentes.
 - `piloto/v1-vindolanda/`: primeiro vídeo piloto (2:02, cartas de Vindolanda, voz `narrador-leve`; a versão anterior com o professor idoso, 2:17, está no commit b405aed/cfa7565). Pipeline em scripts, nesta ordem: `gerar_imagens.py` (venv do OpenMontage, ComfyUI ligado), `gerar_voz.py` (venv-qwen), `conferir.py`, `gerar_trilha.py` e `montar.py` (venv-voz). O `montar.py` gera `piloto_v1.mp4` (AAC, para publicar) e `piloto_v1_vscode.mp4` (Opus: o preview do VS Code não toca AAC e fica mudo). Roteiro, prompts e fontes em `roteiro.json`. Mídia versionada junto.
 - `piloto/v2-dia-em-roma/`: primeiro vídeo longo (19:07, "What Did Ancient Romans Actually Do All Day?"). O texto vale em `roteiro.md`; `construir_roteiro.py` gera o `roteiro.json`. Ordem: `gerar_imagens.py` (prompts em `prompts.py`), `cartoes.py` (cartões com número, desenhados em código), `gerar_voz.py`, `conferir.py`, `gerar_trilha.py` (ACE-Step, uma trilha por bloco de capítulos), `montar.py` (imagem parada, sem zoom, crossfade de trilha entre blocos, gera `.srt`), `gerar_descricao.py`, `gerar_thumb.py`.

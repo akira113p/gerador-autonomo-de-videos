@@ -26,16 +26,16 @@ VOZ = RAIZ / "identidade" / os.environ.get("NARRADOR", "narrador-leve")
 FALA = {
     "Willamette": "wil lam it",
     "Kalapuya": "kal uh poo yuh",
-    "Conestoga": "kon ih stoh guh",
+    "Conestoga": "konnistoga",
     "Schlissel": "shliss ul",
     "Unruh": "un roo",
     "laudanum": "law dun um",
     "camphor": "kam fer",
     "Platte": "plat",
     "Dalles": "dals",
-    "Laramie": "lair uh mee",
+    "Laramie": "larremee",
     "Sierra Nevada": "see air uh nuh vad uh",
-    "Missouri": "mih zoor ee",
+    "Missouri": "mizzoori",
     "Marcy": "mar see",
 }
 

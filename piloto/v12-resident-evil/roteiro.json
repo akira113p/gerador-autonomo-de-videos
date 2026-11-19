@@ -1,0 +1,1415 @@
+{
+ "titulo": "Could YOU Escape Raccoon City? (Resident Evil 2026)",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "In Resident Evil, Raccoon City has one night left, and you live there.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "002",
+   "texto": "No badge. No gun. No Umbrella ID card. Just you, a car with half a tank, and snow coming down.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "003",
+   "texto": "Somewhere in this night is the exact moment you had to leave.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "004",
+   "texto": "By the end, you'll know when it was, and why almost nobody leaves in time.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "005",
+   "texto": "Because real cities have been here before.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "006",
+   "texto": "In 1979, a cloud of anthrax spores escaped from a military lab in the Soviet city of Sverdlovsk.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "007",
+   "texto": "Dozens of people died, almost all of them along one narrow strip of the city.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "008",
+   "texto": "The government told everyone it was contaminated meat.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "009",
+   "texto": "Remember that. Raccoon City gets a cover story too.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "010",
+   "texto": "The new Resident Evil, directed by Zach Cregger, takes place over one snowy night in the mountains of Colorado.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "011",
+   "texto": "The director says it happens in 2026, alongside the events of Resident Evil 2.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "012",
+   "texto": "The film follows a medical courier driving in from outside.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "013",
+   "texto": "It barely shows the people who actually live there. So this story follows you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "014",
+   "texto": "For the city and the night, we'll use the film. For what the authorities do, the games. And for how people really behave, real disasters.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "015",
+   "texto": "It's 9:40 on a winter night. Dinner's done. The snow has been falling since the afternoon.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "016",
+   "texto": "Your phone buzzes. A friend downtown: \"Something's going on near the hospital.\"",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "017",
+   "texto": "Then a local news alert: a disturbance downtown. Possibly a riot.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "018",
+   "texto": "In the games, that's exactly how the city first hears about it. First a riot. Later, a radiation spill. Then a skin disease.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "019",
+   "texto": "And in the games, the hospital had been seeing patients for days, with something locals called the \"cannibal disease.\"",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "020",
+   "texto": "But tonight, all you know is the word riot.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "021",
+   "texto": "So you do what almost everyone does.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "022",
+   "texto": "You look for more information.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "023",
+   "texto": "You refresh the news. You text three people. You turn on the TV.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "024",
+   "texto": "Disaster researchers have a name for this. They call it milling.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "025",
+   "texto": "On 9/11, after the first plane hit the North Tower, people below the impact zone waited a median of three minutes before starting down the stairs.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "026",
+   "texto": "With a fire burning above them.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "027",
+   "texto": "And investigators found that the more people stopped to talk and look for information, the longer they took to leave.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "028",
+   "texto": "You have the whole internet in your hand. Your milling can last all night.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "029",
+   "texto": "Researchers found something else, and it's not what the movies show.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "030",
+   "texto": "In real disasters, mass panic is rare. Most people stay calm, and they help each other.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "031",
+   "texto": "That's good news for the world.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "032",
+   "texto": "It's bad news for you tonight. Because calm people wait.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "033",
+   "texto": "At 10:15, your friend downtown stops answering.",
+   "capitulo": "1",
+   "nome_capitulo": "9:40 PM",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "034",
+   "texto": "At 10:30, you decide to leave.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "035",
+   "texto": "First you try to call your family. The call doesn't go through. Neither does the next one.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "036",
+   "texto": "That part is real too.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "037",
+   "texto": "In 2011, an earthquake shook Virginia and the East Coast. No cell towers came down.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "038",
+   "texto": "But so many people called at once that even emergency calls got stuck in the network.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "039",
+   "texto": "A federal official later admitted that even the priority system for emergency workers failed, because the network was flooded with texts.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "040",
+   "texto": "So you stop calling, and you pack.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "041",
+   "texto": "Water. A jacket. Painkillers. Your charger. The car keys.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "042",
+   "texto": "And from the kitchen drawer, the old paper map of the county you never thought you'd use.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "043",
+   "texto": "Raccoon City is surrounded by the Arklay Mountains.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "044",
+   "texto": "Which leaves three ways out. The highway. The tunnel. Or the mountains, on foot.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "045",
+   "texto": "You pick the highway. Everyone picks the highway.",
+   "capitulo": "2",
+   "nome_capitulo": "10:30 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "046",
+   "texto": "By 11:15, you've moved two miles in forty minutes.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "047",
+   "texto": "The line of red tail lights goes all the way up the hill.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "048",
+   "texto": "Real evacuations look exactly like this.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "049",
+   "texto": "In 2005, as Hurricane Rita approached Texas, the official hurricane report says more than two million people may have fled.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "050",
+   "texto": "Some drives from Houston to Dallas, normally about four hours, took twenty.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "051",
+   "texto": "The storm itself killed seven people directly.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "052",
+   "texto": "On the road, a single bus of elderly evacuees caught fire, and more than twenty of them died.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "053",
+   "texto": "In Texas, the evacuation killed more people than the wind and the water.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "054",
+   "texto": "Now put that traffic in a city where something is biting people.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "055",
+   "texto": "Up ahead, car doors open. People are running back down the hill, between the cars.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "056",
+   "texto": "You don't wait to find out why. You turn around on the shoulder.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "057",
+   "texto": "If you want more nights like this one, that's what the subscribe button is for. Now, the tunnel.",
+   "capitulo": "3",
+   "nome_capitulo": "11:15 PM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "058",
+   "texto": "The tunnel on the old mountain road is the way the film's courier comes into town.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "059",
+   "texto": "In the film, it's choked with abandoned cars, and at the far end, a stalled RV blocks the way.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "060",
+   "texto": "You don't get that far. The cars inside are empty. Doors open. Engines off.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "061",
+   "texto": "And in the dark between them, something moves.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "062",
+   "texto": "This is when you need to understand what you're dealing with.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "063",
+   "texto": "Cregger's infected aren't the slow zombies of old movies.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "064",
+   "texto": "The infection changes bodies. Some grow tentacles. Some fuse together.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "065",
+   "texto": "And it spreads through a bite. In the film, one bite is enough to start the change.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "066",
+   "texto": "In the real world, there is one disease that spreads through bites and changes how its victims behave. Rabies.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "067",
+   "texto": "Once symptoms appear, the World Health Organization says it is fatal in one hundred percent of cases.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "068",
+   "texto": "But it's slow. Usually two to three months from the bite to the first symptoms.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "069",
+   "texto": "In Raccoon City, the film suggests it's a matter of hours.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "070",
+   "texto": "So tonight the rule is simple: nobody gets close enough to bite you.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "071",
+   "texto": "You back out of the tunnel. Two ways out are gone.",
+   "capitulo": "4",
+   "nome_capitulo": "Midnight",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "072",
+   "texto": "You drive back toward town, because that's where the fuel is, and the people, and maybe some answers.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "073",
+   "texto": "Downtown, the streetlights are still on. That's almost the worst part.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "074",
+   "texto": "Near the hospital, people are falling from the rooftops, and not getting up.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "075",
+   "texto": "And everywhere you look, there's the same red and white logo. Umbrella.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "076",
+   "texto": "In the games, Umbrella is the biggest employer in Raccoon City.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "077",
+   "texto": "In the film, the story is that Umbrella was building a serum for the US government, something that makes living things evolve fast, and there was an accident in the lab.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "078",
+   "texto": "A secret lab. An accident. A city downwind.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "079",
+   "texto": "That's Sverdlovsk again.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "080",
+   "texto": "When scientists finally studied it, in 1994, they found that most victims had lived or worked in a narrow strip running south from the military lab.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "081",
+   "texto": "Farther along that same line, livestock died of anthrax too.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "082",
+   "texto": "The strip followed the wind that had been blowing just before the outbreak.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "083",
+   "texto": "The meat story was false.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "084",
+   "texto": "Which means the people in charge of Raccoon City probably know exactly what this is.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "085",
+   "texto": "And they have a plan for the city. It isn't the one you'd hope for.",
+   "capitulo": "5",
+   "nome_capitulo": "1:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "086",
+   "texto": "By two in the morning, the radio has new instructions: stay indoors, or go to an evacuation point.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "087",
+   "texto": "In the games, that's what the authorities do. Roadblocks, evacuation points, and then the army.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "088",
+   "texto": "And in the games, the soldiers at the edge of the city have orders to shoot anyone who tries to cross the line.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "089",
+   "texto": "That sounds like something only fiction would do.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "090",
+   "texto": "In 2014, during the Ebola epidemic, Liberia sealed off West Point, a neighborhood of Monrovia with about eighty thousand people.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "091",
+   "texto": "Barbed wire. Soldiers. A quarantine meant to last twenty-one days.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "092",
+   "texto": "On the first day, people tried to push through, and soldiers opened fire.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "093",
+   "texto": "A sixteen-year-old named Shacki Kamara was shot in the legs.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "094",
+   "texto": "He lay in the street, bleeding, for at least twenty minutes before anyone took him to a hospital. He died.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "095",
+   "texto": "The quarantine was lifted after about ten days.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "096",
+   "texto": "So the edge of the city isn't safe either. Not for the infected, and not for you.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "097",
+   "texto": "Half a tank. Phone at twenty percent. Two choices left.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "098",
+   "texto": "One: the evacuation point downtown, where the helicopters land.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "099",
+   "texto": "Two: leave the car, take the map, and walk out over the mountains, in the snow, in the dark.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "100",
+   "texto": "Helicopter, or mountains? Tell me in the comments which one you'd pick.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "101",
+   "texto": "Here's what happens if you pick the helicopter.",
+   "capitulo": "6",
+   "nome_capitulo": "2:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "102",
+   "texto": "The crowd at the evacuation point is calm. Mostly. Just like the research says.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "103",
+   "texto": "People share blankets. Someone hands out water.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "104",
+   "texto": "In front of you in line, a man has his forearm wrapped in a bloody towel.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "105",
+   "texto": "He says he cut himself on glass. Maybe he did.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "106",
+   "texto": "In the games, an evacuation helicopter full of refugees went down after some of the people on board turned.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "107",
+   "texto": "A crowd is where help is. It's also where a bite finds its next victim.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "108",
+   "texto": "You remember the rule. Nobody gets close enough to bite you.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "109",
+   "texto": "You step out of the line.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "110",
+   "texto": "You leave the car, you take the map, and you walk toward the mountains.",
+   "capitulo": "7",
+   "nome_capitulo": "2:30 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "111",
+   "texto": "The road up is dark, and the snow is up to your knees.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "112",
+   "texto": "In the film, this is Arklay County: farms, pine forest, and a road where a woman steps out of the trees.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "113",
+   "texto": "In the games, this forest is where it all began: months earlier, hikers were found dead in the Arklay Mountains, and the police blamed a cannibal cult.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "114",
+   "texto": "You walk past a farmhouse with its door wide open. You don't go in.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "115",
+   "texto": "At 4:30, your phone dies. Not from the battery. From the cold.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "116",
+   "texto": "Apple itself warns that very cold conditions can shorten an iPhone's battery life, and even make it turn off.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "117",
+   "texto": "So now it's just you, a flashlight, and a paper map.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "118",
+   "texto": "The map shows an old fire road over the ridge.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "119",
+   "texto": "You follow it, one step at a time, until the sky turns grey.",
+   "capitulo": "8",
+   "nome_capitulo": "4:00 AM",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "120",
+   "texto": "At the top of the ridge, you look back.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "121",
+   "texto": "Raccoon City is down there, under the snow. A few fires. A few lights still on.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "122",
+   "texto": "The moment you had to leave wasn't two in the morning. It wasn't 10:30.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "123",
+   "texto": "It was 9:40. The first alert. The word riot.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "124",
+   "texto": "Every hour after that, the way out got smaller. First the phones. Then the highway. Then the tunnel. Then the line.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "125",
+   "texto": "And you waited for the same reason almost everyone waits. You were looking for more information.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "126",
+   "texto": "When Wuhan was locked down in 2020, the announcement came at two in the morning. The city closed at ten.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "127",
+   "texto": "Eight hours' notice, for a city of eleven million people.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "128",
+   "texto": "In the games, Raccoon City never even got the real announcement.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "129",
+   "texto": "You made it out because, at two in the morning, you stopped waiting for someone to tell you what to do.",
+   "capitulo": "9",
+   "nome_capitulo": "Dawn",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "130",
+   "texto": "As the sun comes up, you hear helicopters over the city.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "131",
+   "texto": "In the film, that's how the night ends: helicopters arriving over Raccoon City.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "132",
+   "texto": "In the games, a few days later, the government ends the city for good: one missile, at sunrise, on the first of October.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "133",
+   "texto": "The games say more than a hundred thousand people died.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "134",
+   "texto": "And the official story?",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "135",
+   "texto": "In Sverdlovsk, the truth stayed buried for thirteen years.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "136",
+   "texto": "In 1992, Boris Yeltsin, by then the president of Russia, admitted that the military was to blame.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "137",
+   "texto": "In 1979, he had been the Communist Party boss in Sverdlovsk.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "138",
+   "texto": "So when the news finally talks about Raccoon City, don't expect to hear the word Umbrella.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "139",
+   "texto": "Down below, one of the helicopters turns. Its searchlight starts to climb the ridge, toward you.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "140",
+   "texto": "You raise your arm.",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "141",
+   "texto": "In Raccoon City, that has always been the question: are they here to get you out, or to keep you in?",
+   "capitulo": "10",
+   "nome_capitulo": "Sunrise",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  }
+ ]
+}

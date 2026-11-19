@@ -1,0 +1,731 @@
+1
+00:00:02,000 --> 00:00:04,320
+It's April, eighteen fifty.
+
+2
+00:00:04,783 --> 00:00:08,783
+You're standing in a muddy street in Independence, Missouri.
+
+3
+00:00:09,250 --> 00:00:11,890
+Behind you is a wagon packed to the roof.
+
+4
+00:00:12,350 --> 00:00:16,110
+In front of you are two thousand miles of Oregon Trail.
+
+5
+00:00:16,550 --> 00:00:20,150
+No highway. No gas stations. No bathrooms.
+
+6
+00:00:20,617 --> 00:00:24,697
+Welcome to the least glamorous road trip in history.
+
+7
+00:00:25,150 --> 00:00:29,310
+And here is the part the cartoons skip: you will not be riding.
+
+8
+00:00:29,750 --> 00:00:33,590
+You'll be walking beside that wagon for four to six months.
+
+9
+00:00:34,050 --> 00:00:37,410
+That's roughly four million steps, give or take a blister.
+
+10
+00:00:37,850 --> 00:00:42,730
+Some people did it for land. Some, for gold. Some, for a better life.
+
+11
+00:00:43,183 --> 00:00:47,343
+And by one estimate, at least twenty thousand people never arrived.
+
+12
+00:00:47,783 --> 00:00:52,103
+You probably think you know what killed them. You're probably wrong.
+
+13
+00:00:52,550 --> 00:00:54,870
+So let's pack the wagon and find out.
+
+14
+00:00:56,667 --> 00:01:00,027
+First question: why would a sane person do this?
+
+15
+00:01:00,483 --> 00:01:05,763
+Start with the sales pitch. Free farmland in a green valley called the Willamette.
+
+16
+00:01:06,217 --> 00:01:11,097
+This very year, Congress will promise a married couple six hundred and forty acres.
+
+17
+00:01:11,550 --> 00:01:13,950
+A single man gets half of that.
+
+18
+00:01:14,417 --> 00:01:19,617
+Now, that valley was not empty. The Kalapuya people lived there.
+
+19
+00:01:20,083 --> 00:01:24,723
+Nobody asked them, and a treaty with them would not be signed until eighteen fifty-five.
+
+20
+00:01:25,183 --> 00:01:27,263
+The brochures leave that part out.
+
+21
+00:01:27,717 --> 00:01:30,837
+Then there's California, where gold has just been found.
+
+22
+00:01:31,283 --> 00:01:36,803
+In eighteen forty-nine, about thirty thousand people headed west, mostly for California.
+
+23
+00:01:37,250 --> 00:01:42,130
+In eighteen fifty, by one count, it was fifty-five thousand.
+
+24
+00:01:42,583 --> 00:01:48,183
+So you won't be alone. You're joining the slowest traffic jam in American history.
+
+25
+00:01:48,650 --> 00:01:53,850
+Over the whole era, historians guess that hundreds of thousands took this road.
+
+26
+00:01:54,317 --> 00:01:58,237
+Why so vague? Because nobody was counting at a toll booth.
+
+27
+00:01:58,683 --> 00:02:02,443
+For comparison, today you would rent a truck and call it a long weekend.
+
+28
+00:02:04,233 --> 00:02:07,033
+Now, shopping day. And it is not cheap.
+
+29
+00:02:07,483 --> 00:02:11,643
+A proper outfit costs roughly eight hundred to twelve hundred dollars.
+
+30
+00:02:12,083 --> 00:02:16,003
+That includes a year of supplies, because you can't grow a crop on the way.
+
+31
+00:02:16,450 --> 00:02:19,650
+In today's money, that's more than thirty thousand dollars.
+
+32
+00:02:20,117 --> 00:02:22,677
+First, the wagon. Forget the cartoons.
+
+33
+00:02:23,117 --> 00:02:26,317
+The bed is about ten feet long and four feet wide.
+
+34
+00:02:26,783 --> 00:02:31,423
+Over it, a canvas cover stretched on five or six curved wooden hoops.
+
+35
+00:02:31,883 --> 00:02:35,563
+Your entire life has to fit in something the size of a big closet.
+
+36
+00:02:36,017 --> 00:02:38,577
+And no, this is not a Conestoga wagon.
+
+37
+00:02:39,017 --> 00:02:44,457
+The Conestoga was heavy, with a swayback shape, and it rarely went past the Missouri River.
+
+38
+00:02:44,917 --> 00:02:50,357
+Pioneers used a lighter wagon with straight sides. The nickname was "prairie schooner."
+
+39
+00:02:50,817 --> 00:02:53,617
+Now the engine. Oxen, or mules?
+
+40
+00:02:54,083 --> 00:02:58,643
+Mules are faster. Oxen pull more, and they're less likely to stampede.
+
+41
+00:02:59,083 --> 00:03:06,043
+At Fort Laramie in eighteen fifty, someone counted over thirty-six thousand oxen, and about seventy-five hundred mules.
+
+42
+00:03:06,483 --> 00:03:12,003
+A few years later, Army captain Randolph Marcy priced an eight-ox team at about two hundred dollars.
+
+43
+00:03:12,450 --> 00:03:18,050
+For two thousand miles, he says, young oxen will outlast mules.
+
+44
+00:03:18,517 --> 00:03:23,877
+The lesson of the trail, so far: the fastest option is rarely the one that arrives.
+
+45
+00:03:24,317 --> 00:03:27,357
+Nobody is selling extended warranties out here.
+
+46
+00:03:29,167 --> 00:03:35,407
+Now, food. And here we get help from a classic manual, Marcy's The Prairie Traveler.
+
+47
+00:03:35,850 --> 00:03:40,170
+It came out in eighteen fifty-nine, so you're a little early. But the advice holds up.
+
+48
+00:03:40,617 --> 00:03:44,297
+His list, per grown person, for about a hundred and ten days:
+
+49
+00:03:44,750 --> 00:03:47,550
+One hundred and fifty pounds of flour.
+
+50
+00:03:48,017 --> 00:03:49,937
+Twenty-five pounds of bacon.
+
+51
+00:03:50,383 --> 00:03:53,903
+Fifteen pounds of coffee, and twenty-five of sugar.
+
+52
+00:03:54,350 --> 00:03:58,270
+That's the menu. Bread, bacon, coffee. For months.
+
+53
+00:03:58,717 --> 00:04:01,757
+Plus some cattle that walk along with you, and are also lunch.
+
+54
+00:04:02,217 --> 00:04:06,697
+Everything else is a gamble. How many shovels? How many spare wheels?
+
+55
+00:04:07,150 --> 00:04:10,350
+And remember, every pound you pack, an ox has to pull.
+
+56
+00:04:10,817 --> 00:04:15,857
+A wagon like yours can carry up to about twenty-five hundred pounds, in theory.
+
+57
+00:04:16,317 --> 00:04:19,677
+In practice, travelers aimed for sixteen to eighteen hundred.
+
+58
+00:04:20,117 --> 00:04:25,317
+So the rocking chair, the mirror, and the heavy furniture all have to go. Or go later.
+
+59
+00:04:25,783 --> 00:04:29,623
+Many families did dump things along the road, to save their animals.
+
+60
+00:04:30,083 --> 00:04:34,803
+One pioneer woman, Amelia Knight, threw out jars, buckets, and all her pickles.
+
+61
+00:04:35,250 --> 00:04:40,530
+It's a hard truth of the trail: when you're an ox, a pickle is a very heavy thing.
+
+62
+00:04:42,333 --> 00:04:44,333
+Then there's the guidebook problem.
+
+63
+00:04:44,783 --> 00:04:50,063
+One famous book was The Emigrants' Guide to Oregon and California, by Lansford Hastings.
+
+64
+00:04:50,517 --> 00:04:52,997
+It was published in eighteen forty-five.
+
+65
+00:04:53,450 --> 00:04:57,450
+Hastings told readers to bring a good gun. Fair enough.
+
+66
+00:04:57,917 --> 00:05:02,717
+He also described a shortcut across the desert west of the Great Salt Lake.
+
+67
+00:05:03,183 --> 00:05:06,143
+That description was only a few sentences long.
+
+68
+00:05:06,583 --> 00:05:09,463
+And Hastings had never actually traveled that route.
+
+69
+00:05:09,917 --> 00:05:12,957
+In eighteen forty-six, the Donner Party tried it.
+
+70
+00:05:13,417 --> 00:05:20,937
+Snow trapped them in the Sierra Nevada. Of eighty-seven people, about forty-eight survived.
+
+71
+00:05:21,383 --> 00:05:24,823
+It's the darkest story of the trail, and we won't dwell on it.
+
+72
+00:05:25,283 --> 00:05:30,883
+The lesson is smaller, and more useful: check whether the author has actually been there.
+
+73
+00:05:31,350 --> 00:05:34,310
+Which, by the way, is also a good rule for YouTube videos.
+
+74
+00:05:36,100 --> 00:05:41,860
+Now, the trail itself. Your alarm clock is a trumpet, or a rifle shot, around four in the morning.
+
+75
+00:05:42,317 --> 00:05:46,397
+Breakfast. Round up the animals. Hitch the wagons.
+
+76
+00:05:46,850 --> 00:05:51,730
+At about seven, the wagon master shouts, "Wagons roll!"
+
+77
+00:05:52,183 --> 00:05:53,223
+And then you walk.
+
+78
+00:05:53,683 --> 00:05:56,323
+The average is twelve to fifteen miles a day.
+
+79
+00:05:56,783 --> 00:06:01,663
+That's about a half marathon, every day, for months, while herding cattle.
+
+80
+00:06:02,117 --> 00:06:05,477
+At midday, there's a one-hour break called "nooning."
+
+81
+00:06:05,917 --> 00:06:09,037
+Around six, the wagons form a circle.
+
+82
+00:06:09,483 --> 00:06:12,123
+That circle is mostly a corral for the animals.
+
+83
+00:06:12,583 --> 00:06:16,343
+Out on the plains, there are almost no trees.
+
+84
+00:06:16,783 --> 00:06:22,303
+So what do you burn for dinner? Dried buffalo dung. They called it "buffalo chips."
+
+85
+00:06:22,750 --> 00:06:26,910
+Someone has to collect it. Usually, women and children.
+
+86
+00:06:27,350 --> 00:06:31,590
+Dinner: bacon, bread, and coffee, cooked over burning dung.
+
+87
+00:06:32,050 --> 00:06:37,170
+Historian Lillian Schlissel studied the diaries and letters of one hundred and three women.
+
+88
+00:06:37,617 --> 00:06:44,737
+They cook, they drive oxen, they care for children, and some give birth, all on the road.
+
+89
+00:06:45,183 --> 00:06:50,303
+Amelia Knight wrote on April twenty-third: "Dreary times, wet and muddy."
+
+90
+00:06:50,750 --> 00:06:55,310
+She was pregnant with her eighth child, who was born days after the family arrived.
+
+91
+00:06:55,750 --> 00:06:57,430
+Not exactly a vacation.
+
+92
+00:06:57,883 --> 00:07:04,123
+There is no phone to scroll. Your screen time is the horizon, and the back of an ox.
+
+93
+00:07:05,933 --> 00:07:07,693
+Then come the rivers.
+
+94
+00:07:08,150 --> 00:07:10,550
+Few of the big rivers have a bridge.
+
+95
+00:07:11,017 --> 00:07:14,537
+Sometimes you float the wagon across on a makeshift raft.
+
+96
+00:07:14,983 --> 00:07:20,663
+Sometimes you pay a ferry. In eighteen fifty, one party paid four dollars a wagon on the Platte.
+
+97
+00:07:21,117 --> 00:07:25,277
+At one crossing, Knight counted more than three hundred wagons waiting their turn.
+
+98
+00:07:25,717 --> 00:07:28,837
+Her group built a ferry out of rope and wagon beds.
+
+99
+00:07:29,283 --> 00:07:31,443
+The women and children crossed last.
+
+100
+00:07:31,883 --> 00:07:36,443
+On a steamboat, one of her oxen jumped overboard and swam across by itself.
+
+101
+00:07:36,883 --> 00:07:39,203
+It was the only one with a plan.
+
+102
+00:07:39,650 --> 00:07:44,690
+But rivers were no joke. Drowning at river crossings was a real cause of death.
+
+103
+00:07:45,150 --> 00:07:49,630
+And in summer, the opposite problem: water holes dried up, and oxen died.
+
+104
+00:07:50,083 --> 00:07:51,923
+Remember that word: water.
+
+105
+00:07:52,383 --> 00:07:56,783
+Marcy, years later, would advise boiling water from stagnant pools.
+
+106
+00:07:57,250 --> 00:08:00,850
+Good advice. Whether anyone followed it is another question.
+
+107
+00:08:02,667 --> 00:08:05,707
+Because the biggest killer on the trail was not a person.
+
+108
+00:08:06,150 --> 00:08:07,430
+It was cholera.
+
+109
+00:08:07,883 --> 00:08:13,323
+Cholera is a bacterium. It spreads through water and food contaminated by human waste.
+
+110
+00:08:13,783 --> 00:08:19,063
+Now picture a campsite with thousands of strangers, one creek, and no toilets.
+
+111
+00:08:19,517 --> 00:08:23,837
+In those early gold rush years, it struck the outfitting towns every spring.
+
+112
+00:08:24,283 --> 00:08:27,803
+Then it followed the trail, campground by campground.
+
+113
+00:08:28,250 --> 00:08:31,290
+You could be healthy in the morning and dead by noon.
+
+114
+00:08:31,750 --> 00:08:37,110
+Nobody knew what caused it. People treated it with camphor and laudanum.
+
+115
+00:08:37,550 --> 00:08:41,470
+One emigrant counted seventy-one graves at a single campground.
+
+116
+00:08:41,917 --> 00:08:46,877
+In eighteen fifty, by one count, cholera killed thousands.
+
+117
+00:08:47,317 --> 00:08:52,357
+The Bureau of Land Management says at least twenty thousand people died on the Oregon Trail.
+
+118
+00:08:52,817 --> 00:08:56,977
+Cholera, accidents, drownings, and other illnesses combined.
+
+119
+00:08:57,417 --> 00:09:01,497
+Estimates vary a lot, so treat any number as a ballpark.
+
+120
+00:09:01,950 --> 00:09:04,590
+Most of those graves are unmarked.
+
+121
+00:09:05,050 --> 00:09:10,410
+One historian, John Unruh, even argued that the trail was probably not much deadlier than staying home.
+
+122
+00:09:10,850 --> 00:09:15,810
+Because in those same years, cholera was killing thousands in cities like Saint Louis.
+
+123
+00:09:16,250 --> 00:09:21,290
+The most dangerous thing on the trail wasn't a person. It was a bucket of water.
+
+124
+00:09:23,100 --> 00:09:28,060
+Now, the scene you were waiting for. Wagons in a circle, arrows in the air.
+
+125
+00:09:28,517 --> 00:09:30,277
+Let's check the numbers.
+
+126
+00:09:30,717 --> 00:09:38,237
+Unruh counted, between eighteen forty and eighteen sixty, three hundred and sixty-two emigrants killed in clashes with Native people.
+
+127
+00:09:38,683 --> 00:09:42,843
+And four hundred and twenty-six Native people killed in the same clashes.
+
+128
+00:09:43,283 --> 00:09:46,803
+Over twenty years. Along a road used by hundreds of thousands.
+
+129
+00:09:47,250 --> 00:09:51,330
+Those figures are tentative, and probably low. But they're not thousands.
+
+130
+00:09:51,783 --> 00:09:53,623
+Compare that with cholera.
+
+131
+00:09:54,083 --> 00:09:59,843
+Even the National Park Service says wagon trains were attacked far less often than the movies suggest.
+
+132
+00:10:00,283 --> 00:10:03,723
+And most encounters, says the Park Service, were peaceful.
+
+133
+00:10:04,183 --> 00:10:09,143
+And Unruh concluded that more Native people were killed by emigrants than the other way around.
+
+134
+00:10:09,583 --> 00:10:14,623
+Many emigrants began the trip in needless fear, and sometimes fired first.
+
+135
+00:10:15,083 --> 00:10:19,243
+Amelia Knight's daughters hid in the wagon the first time they saw Native people.
+
+136
+00:10:19,683 --> 00:10:22,963
+By May second, she wrote, "Children are getting used to them."
+
+137
+00:10:23,417 --> 00:10:27,337
+Still, the fear was real, and it shaped the whole trip.
+
+138
+00:10:27,783 --> 00:10:32,663
+So the movie got one thing right: there was danger. It just got the proportions wrong.
+
+139
+00:10:34,467 --> 00:10:36,787
+But the trail was not empty land.
+
+140
+00:10:37,250 --> 00:10:39,730
+It crossed the homelands of many nations.
+
+141
+00:10:40,183 --> 00:10:47,623
+Many Native people helped. They ran ferries, offered food, and guided travelers across dangerous rivers.
+
+142
+00:10:48,083 --> 00:10:51,443
+Sometimes for payment, sometimes for free.
+
+143
+00:10:51,883 --> 00:10:57,963
+They traded, too. They wanted livestock, clothing, metal tools, and mirrors.
+
+144
+00:10:58,417 --> 00:11:01,297
+But a wagon train is not a quiet guest.
+
+145
+00:11:01,750 --> 00:11:07,350
+Emigrant livestock stripped the grass for several miles on each side of the trail.
+
+146
+00:11:07,817 --> 00:11:12,057
+The traffic disrupted the buffalo migrations that Plains peoples depended on.
+
+147
+00:11:12,517 --> 00:11:16,117
+And cholera followed the trail into Native camps and villages.
+
+148
+00:11:16,583 --> 00:11:23,463
+In September eighteen fifty-one, the United States held a council at Horse Creek, east of Fort Laramie.
+
+149
+00:11:23,917 --> 00:11:28,957
+The goal was to legalize emigrant passage through Native lands, and reduce violence.
+
+150
+00:11:29,417 --> 00:11:35,817
+The United States promised yearly payments for fifty years. As ratified, Congress cut that to ten.
+
+151
+00:11:36,283 --> 00:11:41,563
+So when you picture the trail from the wagon seat, remember there was a very different view from the other side.
+
+152
+00:11:42,017 --> 00:11:44,737
+Their story did not end where the wagon trail did.
+
+153
+00:11:46,533 --> 00:11:49,733
+By midsummer, you reach Independence Rock, in Wyoming.
+
+154
+00:11:50,183 --> 00:11:55,703
+A priest called it the "Great Register of the Desert," because of all the names carved there.
+
+155
+00:11:56,150 --> 00:11:59,190
+Today, there are more than five thousand names.
+
+156
+00:11:59,650 --> 00:12:03,410
+Next comes South Pass, the easy way over the Rockies.
+
+157
+00:12:03,850 --> 00:12:08,890
+It's a valley about twelve miles wide. A wagon can cross it without any climbing drama.
+
+158
+00:12:09,350 --> 00:12:15,270
+Then comes the hard part: dry stretches, tired oxen, and the Columbia River still ahead.
+
+159
+00:12:15,717 --> 00:12:17,957
+Near the end, you face a choice.
+
+160
+00:12:18,417 --> 00:12:23,217
+Float down the Columbia River by boat, or take the Barlow Road around Mount Hood.
+
+161
+00:12:23,683 --> 00:12:30,803
+Until the Barlow Road opened in eighteen forty-six, the overland trail effectively ended at a town called The Dalles.
+
+162
+00:12:31,250 --> 00:12:37,490
+The Barlow Road is a toll road. Five dollars per wagon, plus ten cents per head of livestock.
+
+163
+00:12:37,950 --> 00:12:42,030
+It includes Laurel Hill, a descent of roughly two thousand feet.
+
+164
+00:12:42,483 --> 00:12:46,003
+Wagons were chained by the wheels and lowered with ropes.
+
+165
+00:12:46,450 --> 00:12:51,330
+Over the years, the ropes wore chutes in the hill as deep as seven feet.
+
+166
+00:12:51,783 --> 00:12:55,223
+It was a one-way road, with a toll booth and a very steep hill.
+
+167
+00:12:57,033 --> 00:13:00,553
+The trail officially ends at Oregon City, Oregon.
+
+168
+00:13:01,017 --> 00:13:04,217
+But let's finish with Amelia Knight, in eighteen fifty-three.
+
+169
+00:13:04,683 --> 00:13:09,083
+Her diary ends with these words: "This is the journey's end."
+
+170
+00:13:09,550 --> 00:13:15,390
+Her husband traded two yoke of oxen for half a section of land, and a small log cabin.
+
+171
+00:13:15,850 --> 00:13:18,810
+That's three hundred and twenty acres, for two yoke of oxen.
+
+172
+00:13:19,250 --> 00:13:22,530
+Her eighth child was born just days after they arrived.
+
+173
+00:13:22,983 --> 00:13:26,423
+In eighteen sixty-nine, the railroad changed everything.
+
+174
+00:13:26,883 --> 00:13:31,203
+An emigrant could go from Omaha to the Pacific in less than two weeks.
+
+175
+00:13:31,650 --> 00:13:36,930
+The wagon trail faded. But about three hundred miles of ruts are still there.
+
+176
+00:13:37,383 --> 00:13:39,303
+So what was the Oregon Trail, really?
+
+177
+00:13:39,750 --> 00:13:44,950
+Not a western movie. A long, slow commute, on foot, by ordinary people.
+
+178
+00:13:45,417 --> 00:13:49,417
+Where the most dangerous thing was a bucket of water, not an arrow.
+
+179
+00:13:49,883 --> 00:13:53,163
+And where the "empty land" at the end was somebody's home.
+
+180
+00:13:53,617 --> 00:14:00,657
+For many settlers, the gamble paid off. For the people already there, it was the start of a very hard chapter.
+
+181
+00:14:01,117 --> 00:14:04,077
+Which brings us back to that muddy street in Independence.
+
+182
+00:14:04,517 --> 00:14:08,197
+Would you walk four million steps for a farm in someone else's valley?
+
+183
+00:14:08,650 --> 00:14:11,850
+Tell me in the comments: what's the first thing you'd leave behind?

@@ -1,0 +1,1265 @@
+{
+ "titulo": "What Would YOUR Life Be Like If You Joined the Bloods?",
+ "cenas": [
+  {
+   "id": "001",
+   "texto": "You're eighteen, you live in the Bronx, and the Red Nation wants you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "002",
+   "texto": "This is what the next year of your life looks like if you say yes.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "003",
+   "texto": "Not the version from music videos. The version from federal court records, police data, and decades of research on gangs.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "004",
+   "texto": "And it starts with a number that surprises most people.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "005",
+   "texto": "Researchers who followed young people in the United States and in Europe found that the most common length of a gang membership is about one year.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "006",
+   "texto": "One year.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "007",
+   "texto": "So the question isn't whether this lasts. It's how your year ends, and what it costs you.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "008",
+   "texto": "One more thing before we start.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "009",
+   "texto": "This isn't a guide, and it isn't a tribute. Every claim about a crime in this video comes from a court record or a study, and the sources are in the description.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "010",
+   "texto": "The Red Nation didn't start on a street corner.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "011",
+   "texto": "They started in a jail.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "012",
+   "texto": "In 1993, on Rikers Island, an inmate founded what became the United Red Nation.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "013",
+   "texto": "The way his followers told it, it was about protection, for Black inmates who were outnumbered by other gangs.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "014",
+   "texto": "The way federal prosecutors put it, he founded it \"to amass power.\"",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "015",
+   "texto": "Keep both versions in mind. You're about to hear the first one.",
+   "capitulo": "0",
+   "nome_capitulo": "Abertura",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "016",
+   "texto": "It's June. School's out. Your mother works nights, and your little brother follows you everywhere.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "017",
+   "texto": "There's an older guy on your block. Everyone knows him. He's always been decent to you.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "018",
+   "texto": "Lately, he's been asking how you're doing. Whether anyone's been bothering you. Whether you need money.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "019",
+   "texto": "Nobody says the word \"recruiting.\" Nobody has to.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "020",
+   "texto": "What he's offering is exactly what researchers and police analysts list as the reasons people join.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "021",
+   "texto": "Protection. Status. Money. And a sense of belonging.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "022",
+   "texto": "In a long study of teenagers in Rochester, New York, focused on high-risk neighborhoods, almost a third joined a gang at some point.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "023",
+   "texto": "Across the United States, the age when joining peaks is fourteen.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "024",
+   "texto": "At eighteen, you're actually late.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "025",
+   "texto": "And here's the part nobody on your block mentions.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "026",
+   "texto": "A study that followed gang members over time found that the ones who joined for protection stayed in longer, and were victimized more.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "027",
+   "texto": "The ones who joined for money were more likely to be out within a year.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "028",
+   "texto": "Protection is the promise. It's also the trap.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "029",
+   "texto": "One night in July, you say yes.",
+   "capitulo": "1",
+   "nome_capitulo": "June",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "030",
+   "texto": "Getting in usually means a test of loyalty.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "031",
+   "texto": "Police intelligence reports describe new members being beaten by several members at once.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "032",
+   "texto": "Court records describe something worse.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "033",
+   "texto": "In 1999, according to federal prosecutors, the founder of the Red Nation ordered a teenager to shoot a rival, and told him it would be his initiation.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "034",
+   "texto": "The man who was shot survived. The founder was later convicted for it, along with much more.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "035",
+   "texto": "That's the trade, from day one. The gang asks for something you can't take back.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "036",
+   "texto": "And something else happens the moment you're in. It happens on paper.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "037",
+   "texto": "The New York Police Department keeps a gang database.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "038",
+   "texto": "At the end of 2022, it held sixteen thousand, one hundred and forty-one names.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "039",
+   "texto": "Ninety-nine percent of them were Black or Hispanic.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "040",
+   "texto": "And the most common reason for being added was the simplest one: the person said it. To an officer, or on social media.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "041",
+   "texto": "The city's own investigators found that the police didn't give officers clear enough rules for who gets added.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "042",
+   "texto": "So the first time you post about it, you may already be on a list.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "043",
+   "texto": "If you want more stories told from the records instead of the myths, that's what the subscribe button is for.",
+   "capitulo": "2",
+   "nome_capitulo": "July",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "044",
+   "texto": "September. Membership comes with obligations.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "045",
+   "texto": "In federal indictments, prosecutors describe members paying dues, and being expected to commit crimes to keep their place and to move up.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "046",
+   "texto": "And the people giving orders aren't always on the street.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "047",
+   "texto": "In one Manhattan case, prosecutors described a gang with two leaderships: a street lineup, and a prison lineup made up of members behind bars.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "048",
+   "texto": "The thing you joined still answers to a jail.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "049",
+   "texto": "You start doing things you wouldn't have done in May.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "050",
+   "texto": "The research says that isn't an accident.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "051",
+   "texto": "In the Rochester study, gang members were about a third of the teenagers, and committed about two thirds of the offenses.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "052",
+   "texto": "One of the researchers said that gun use, in his words, \"goes up dramatically\" when adolescents join gangs.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "053",
+   "texto": "Then there's your phone.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "054",
+   "texto": "Researchers have a name for gang conflict that plays out online: \"internet banging.\"",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "055",
+   "texto": "Bragging, insults and threats, posted where everyone can see them.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "056",
+   "texto": "A post that takes ten seconds to write can follow you into neighborhoods you've never set foot in.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "057",
+   "texto": "And remember the database. Posts count.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "058",
+   "texto": "By the end of September, there are blocks you don't walk down anymore.",
+   "capitulo": "3",
+   "nome_capitulo": "September",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "059",
+   "texto": "November.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "060",
+   "texto": "Here's something most people don't know about getting shot in an American city.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "061",
+   "texto": "It isn't random.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "062",
+   "texto": "In Chicago, researchers mapped six years of shootings.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "063",
+   "texto": "Seventy percent of the people who survived a gunshot belonged to networks of people arrested together that made up less than six percent of the city.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "064",
+   "texto": "In Boston, another study found that the closer you are to a gunshot victim in your social network, the higher your own odds of being shot.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "065",
+   "texto": "Your risk doesn't depend only on what you do. It depends on who you know.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "066",
+   "texto": "And now you know a lot of the wrong people.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "067",
+   "texto": "Researchers who studied gang members in Texas prisons found the same pattern behind bars: members were far more likely to be victims of violence than non-members.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "068",
+   "texto": "In November, someone you came up with is shot. He lives. You find out from a post.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "069",
+   "texto": "Your little brother saw it before you did.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "070",
+   "texto": "And for the first time, you think about getting out.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "071",
+   "texto": "You've heard the rule a hundred times. Blood in, blood out. Nobody leaves alive.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "072",
+   "texto": "Is that true? We'll get there.",
+   "capitulo": "4",
+   "nome_capitulo": "November",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "073",
+   "texto": "March. Six in the morning.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "074",
+   "texto": "Someone is pounding on your mother's door.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "075",
+   "texto": "It isn't a rival. It's federal agents and the NYPD.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "076",
+   "texto": "In 2025 alone, the NYPD carried out seventy gang takedowns like this one.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "077",
+   "texto": "Your mother is standing in the hallway in her work clothes. Your brother is behind her.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "078",
+   "texto": "And you learn a new word. RICO.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "079",
+   "texto": "It's a federal law originally aimed at organized crime.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "080",
+   "texto": "Under it, a group of people can be charged as a criminal enterprise, with no office and no paperwork, just the fact that they act together.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "081",
+   "texto": "Prosecutors have to show a pattern: at least two crimes, tied to that enterprise.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "082",
+   "texto": "So the case isn't only about what you did. It's about the whole group, and your part in it.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "083",
+   "texto": "Then there are the guns.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "084",
+   "texto": "Under federal law, using or carrying a gun during a violent crime or a drug deal adds at least five years. Seven if it's brandished. Ten if it's fired.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "085",
+   "texto": "And those years don't run at the same time as the rest of the sentence. They come after it.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "086",
+   "texto": "This is exactly what happened to a set called the Nine-Three, in Manhattan, starting in 2018.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "087",
+   "texto": "Federal prosecutors charged six members and associates in November. By the end of January, there were ten.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "088",
+   "texto": "One defendant who pleaded guilty was sentenced to fifteen years.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "089",
+   "texto": "A high-ranking member who went to trial got twenty-four.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "090",
+   "texto": "And the best-known defendant in the case was a rapper with millions of fans.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "091",
+   "texto": "What he did next is the choice in front of you now.",
+   "capitulo": "5",
+   "nome_capitulo": "March",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "092",
+   "texto": "In April, your lawyer brings you an offer.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "093",
+   "texto": "Testify against the others, and the government will ask the judge for less time.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "094",
+   "texto": "In the Nine-Three case, prosecutors said the charges against that rapper carried at least forty-seven years.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "095",
+   "texto": "He cooperated, and he testified at trial.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "096",
+   "texto": "He was sentenced to two years.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "097",
+   "texto": "Prosecutors said that once his cooperation became public, several of his co-defendants contacted the government to start plea talks of their own.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "098",
+   "texto": "And his family had to be moved before anyone found out.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "099",
+   "texto": "That's the offer. Decades of your life back, in exchange for being the one who talked, for the rest of your life.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "100",
+   "texto": "Cooperate, or go to trial? Tell me in the comments what you would do.",
+   "capitulo": "6",
+   "nome_capitulo": "April",
+   "trilha": "tensa",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "101",
+   "texto": "While you think about it, let's settle that rule. Blood in, blood out.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "102",
+   "texto": "David Pyrooz, a criminologist at the University of Colorado, studied hundreds of men in Texas prisons.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "103",
+   "texto": "His conclusion: \"This idea of blood in, blood out is a myth.\"",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "104",
+   "texto": "Most of the men who had joined a gang inside had already left it before they were released.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "105",
+   "texto": "On the outside, the numbers look the same.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "106",
+   "texto": "Every year in the United States, researchers estimate, about four hundred thousand young people join a gang, and almost as many leave.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "107",
+   "texto": "So yes. People walk away. Most of them do.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "108",
+   "texto": "But leaving the gang isn't the same as leaving the danger.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "109",
+   "texto": "Another study found that people who stay tied to their old gang friends after leaving keep getting victimized, and that risk fades only with time.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "110",
+   "texto": "The way out is real. It just takes years to close behind you.",
+   "capitulo": "7",
+   "nome_capitulo": "The rule",
+   "trilha": "jazz",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "111",
+   "texto": "So how does your year end?",
+   "capitulo": "8",
+   "nome_capitulo": "One year",
+   "trilha": "piano",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "112",
+   "texto": "Exactly the way the research said it would. About a year after you said yes, you're out.",
+   "capitulo": "8",
+   "nome_capitulo": "One year",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "113",
+   "texto": "Not because you walked away. Because the government took you out.",
+   "capitulo": "8",
+   "nome_capitulo": "One year",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "114",
+   "texto": "You're nineteen, in a federal jail in Brooklyn, with an offer on the table, and a possible sentence longer than your life so far.",
+   "capitulo": "8",
+   "nome_capitulo": "One year",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": true
+  },
+  {
+   "id": "115",
+   "texto": "Fifteen years. Twenty-four. Or two, and your mother and your brother moving somewhere nobody knows.",
+   "capitulo": "8",
+   "nome_capitulo": "One year",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "116",
+   "texto": "And the city you left behind?",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": true,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "117",
+   "texto": "In 2025, New York had six hundred and eighty-eight shooting incidents, the fewest in its recorded history.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "118",
+   "texto": "In 2022, it had been one thousand, two hundred and ninety-four.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "119",
+   "texto": "Across the country, researchers estimate that only about two percent of young people are in a gang at any given time.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": true
+  },
+  {
+   "id": "120",
+   "texto": "Most people your age never join anything.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "121",
+   "texto": "And the founder, the man who said it was all about protection?",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "122",
+   "texto": "A federal jury convicted him on ten counts, including racketeering and conspiracy to commit murder.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "123",
+   "texto": "In 2003, he was sentenced to fifty years in federal prison.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": true,
+   "extra": false
+  },
+  {
+   "id": "124",
+   "texto": "It started in a jail, with a promise of protection.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "125",
+   "texto": "For him, it ended in one.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  },
+  {
+   "id": "126",
+   "texto": "For you, it has been exactly one year.",
+   "capitulo": "9",
+   "nome_capitulo": "The founder",
+   "trilha": "piano",
+   "inicio_capitulo": false,
+   "cartao": false,
+   "extra": false
+  }
+ ]
+}

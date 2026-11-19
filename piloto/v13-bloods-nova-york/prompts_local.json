@@ -1,0 +1,884 @@
+[
+ {
+  "cena": 1,
+  "texto": "You're eighteen, you live in the Bronx, and the Red Nation wants you.",
+  "prompt": "the stick figure young man in the grey hoodie sitting on the front steps of a brick apartment building on a quiet Bronx street in early evening, looking up at the viewer, warm streetlights, parked cars.",
+  "ref2": "007_v12",
+  "cartao": false
+ },
+ {
+  "cena": 2,
+  "texto": "This is what the next year of your life looks like if you say yes.",
+  "prompt": "A paper wall calendar with twelve empty month boxes on a plain wall, an empty box at the start, soft daylight.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 3,
+  "texto": "Not the version from music videos. The version from federal court records, police data, and decades of research on gangs.",
+  "prompt": "Split screen divided by a vertical black dashed line. Left: a glowing phone screen with flashy colored lights. Right: a stack of plain court documents and a judge's wooden gavel on a desk.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 4,
+  "texto": "And it starts with a number that surprises most people.",
+  "prompt": "the stick figure young man in the grey hoodie looking surprised at a large blank white card on an easel, plain cream background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 5,
+  "texto": "Researchers who followed young people in the United States and in Europe found that the most common length of a gang membership is about one year.",
+  "prompt": "A plain simple outline of the United States and of Europe side by side on a pale wall chart, small stick figure groups next to each, a thin timeline arrow under them, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 6,
+  "texto": "One year.",
+  "prompt": "A single wooden hourglass on a table with sand running, a dim apartment window behind it.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 7,
+  "texto": "So the question isn't whether this lasts. It's how your year ends, and what it costs you.",
+  "prompt": "the stick figure young man in the grey hoodie standing at a fork in a city sidewalk at dusk, one path leading toward a courthouse with columns, the other toward a quiet park.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 8,
+  "texto": "One more thing before we start.",
+  "prompt": "the stick figure young man in the grey hoodie facing the viewer with a serious face, hands in his hoodie pockets, plain grey background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 9,
+  "texto": "This isn't a guide, and it isn't a tribute. Every claim about a crime in this video comes from a court record or a study, and the sources are in the description.",
+  "prompt": "A tall stack of court records and research papers with blue folder tabs on a library desk, reading glasses beside them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 10,
+  "texto": "The Red Nation didn't start on a street corner.",
+  "prompt": "An empty Bronx street corner at night under a streetlight, a closed bodega with its shutter down.",
+  "ref2": "007_v12",
+  "cartao": false
+ },
+ {
+  "cena": 11,
+  "texto": "They started in a jail.",
+  "prompt": "Aerial view of a large island prison complex of low beige buildings in a river, a long bridge connecting it to the city, overcast sky.",
+  "ref2": "007_v12",
+  "cartao": false
+ },
+ {
+  "cena": 12,
+  "texto": "In 1993, on Rikers Island, an inmate founded what became the United Red Nation.",
+  "prompt": "A narrow 1990s jail corridor with beige walls and steel cell doors, a single inmate stick figure in a plain grey jumpsuit seen from behind, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 13,
+  "texto": "The way his followers told it, it was about protection, for Black inmates who were outnumbered by other gangs.",
+  "prompt": "A crowded jail day room with many inmate stick figures in plain grey jumpsuits, one small group standing close together looking worried.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 14,
+  "texto": "The way federal prosecutors put it, he founded it \"to amass power.\"",
+  "prompt": "A plain federal prosecutor's office: a stick figure in a dark suit reading a typed document at a desk with an American flag in the corner.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 15,
+  "texto": "Keep both versions in mind. You're about to hear the first one.",
+  "prompt": "Two framed speech bubbles side by side on a plain wall, one with a small shield icon and one with a small crown icon.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 16,
+  "texto": "It's June. School's out. Your mother works nights, and your little brother follows you everywhere.",
+  "prompt": "A small Bronx apartment kitchen in the evening; a stick figure woman with a dark hair bun in plain blue work scrubs puts on a coat by the door, a smaller stick figure boy in a yellow t-shirt stands beside the stick figure young man in the grey hoodie at the table.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 17,
+  "texto": "There's an older guy on your block. Everyone knows him. He's always been decent to you.",
+  "prompt": "On a brick Bronx sidewalk in daylight, a minimalist stick figure adult man with a plain white circle head, dot eyes and no hair, in a plain olive jacket stands friendly with empty hands, neighbors in the background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 18,
+  "texto": "Lately, he's been asking how you're doing. Whether anyone's been bothering you. Whether you need money.",
+  "prompt": "a minimalist stick figure adult man with a plain white circle head, dot eyes and no hair, in a plain olive jacket talks calmly with the stick figure young man in the grey hoodie on a sidewalk, hands empty, concerned look, warm late afternoon light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 19,
+  "texto": "Nobody says the word \"recruiting.\" Nobody has to.",
+  "prompt": "the stick figure young man in the grey hoodie and a minimalist stick figure adult man with a plain white circle head, dot eyes and no hair, in a plain olive jacket standing a little apart on a quiet street corner, an empty speech bubble floating between them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 20,
+  "texto": "What he's offering is exactly what researchers and police analysts list as the reasons people join.",
+  "prompt": "the stick figure young man in the grey hoodie sitting on a stoop thinking, a thought bubble with four simple icons: a shield, a crown, a coin, two linked circles.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 21,
+  "texto": "Protection. Status. Money. And a sense of belonging.",
+  "prompt": "A row of four simple icons on a brick wall: a shield, a crown, a stack of coins, two linked rings.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 22,
+  "texto": "In a long study of teenagers in Rochester, New York, focused on high-risk neighborhoods, almost a third joined a gang at some point.",
+  "prompt": "A simple city map of a neighborhood with grey blocks and a pale ring around one block, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 23,
+  "texto": "Across the United States, the age when joining peaks is fourteen.",
+  "prompt": "A school hallway with lockers and a stick figure teenager with a backpack, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 24,
+  "texto": "At eighteen, you're actually late.",
+  "prompt": "the stick figure young man in the grey hoodie looking at a clock on a wall, standing alone in a plain hallway, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 25,
+  "texto": "And here's the part nobody on your block mentions.",
+  "prompt": "the stick figure young man in the grey hoodie walking away down a brick street, seen from behind, warm streetlights coming on.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 26,
+  "texto": "A study that followed gang members over time found that the ones who joined for protection stayed in longer, and were victimized more.",
+  "prompt": "the stick figure young man in the grey hoodie sitting on a stoop, glancing over his shoulder at a dark empty street.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 27,
+  "texto": "The ones who joined for money were more likely to be out within a year.",
+  "prompt": "the stick figure young man in the grey hoodie counting a few folded bills at a kitchen table in daylight.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 28,
+  "texto": "Protection is the promise. It's also the trap.",
+  "prompt": "A heavy steel padlock hanging open on a chain beside a brick wall, evening light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 29,
+  "texto": "One night in July, you say yes.",
+  "prompt": "the stick figure young man in the grey hoodie standing at night under a streetlight on a Bronx block, looking at a minimalist stick figure adult man with a plain white circle head, dot eyes and no hair, in a plain olive jacket who nods, both with empty hands.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 30,
+  "texto": "Getting in usually means a test of loyalty.",
+  "prompt": "A heavy wooden apartment building door slowly closing on a dark hallway, pale yellow light from the street.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 31,
+  "texto": "Police intelligence reports describe new members being beaten by several members at once.",
+  "prompt": "A dark apartment hallway with several long shadows of people cast on the far wall, no figures visible.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 32,
+  "texto": "Court records describe something worse.",
+  "prompt": "A dim stairwell with concrete steps going up into shadow, a single bulb overhead.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 33,
+  "texto": "In 1999, according to federal prosecutors, the founder of the Red Nation ordered a teenager to shoot a rival, and told him it would be his initiation.",
+  "prompt": "A federal courtroom wall of dark wood with a judge's bench, empty, seen from the back of the room.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 34,
+  "texto": "The man who was shot survived. The founder was later convicted for it, along with much more.",
+  "prompt": "A hospital corridor at night with a single empty gurney, soft green light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 35,
+  "texto": "That's the trade, from day one. The gang asks for something you can't take back.",
+  "prompt": "the stick figure young man in the grey hoodie standing alone at night, one hand open in front of him as if holding something he cannot give back, dim street.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 36,
+  "texto": "And something else happens the moment you're in. It happens on paper.",
+  "prompt": "A sheet of paper lying on a metal desk under a lamp, rows of blank lines.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 37,
+  "texto": "The New York Police Department keeps a gang database.",
+  "prompt": "A police precinct front desk with a computer monitor and a stick figure officer in a navy uniform seen from behind.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 38,
+  "texto": "At the end of 2022, it held sixteen thousand, one hundred and forty-one names.",
+  "prompt": "A wall of small file drawers with index cards poking out, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 39,
+  "texto": "Ninety-nine percent of them were Black or Hispanic.",
+  "prompt": "A tall filing cabinet with many drawers, seen from slightly below, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 40,
+  "texto": "And the most common reason for being added was the simplest one: the person said it. To an officer, or on social media.",
+  "prompt": "the stick figure young man in the grey hoodie speaking to a stick figure officer in a navy uniform on a street, a phone in his own hand.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 41,
+  "texto": "The city's own investigators found that the police didn't give officers clear enough rules for who gets added.",
+  "prompt": "A minimalist stick figure investigator with a plain white circle head and dot eyes, in a dark suit, at a desk with a thick stack of papers and a magnifying glass, plain office, daylight.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 42,
+  "texto": "So the first time you post about it, you may already be on a list.",
+  "prompt": "The stick figure young man in the grey hoodie sitting on the edge of a bed in a dark bedroom, looking at his glowing phone, the grey hoodie clearly visible.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 43,
+  "texto": "If you want more stories told from the records instead of the myths, that's what the subscribe button is for.",
+  "prompt": "A friendly empty bell icon glowing on a dark wall next to a stack of court papers.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 44,
+  "texto": "September. Membership comes with obligations.",
+  "prompt": "the stick figure young man in the grey hoodie standing at a kitchen table with a small stack of folded bills, a notebook beside it, evening.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 45,
+  "texto": "In federal indictments, prosecutors describe members paying dues, and being expected to commit crimes to keep their place and to move up.",
+  "prompt": "A plain federal indictment document on a desk with a stack of cash beside it, lamp light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 46,
+  "texto": "And the people giving orders aren't always on the street.",
+  "prompt": "A tall gray jail building seen from the street at dusk, many small barred windows, a phone line on a pole.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 47,
+  "texto": "In one Manhattan case, prosecutors described a gang with two leaderships: a street lineup, and a prison lineup made up of members behind bars.",
+  "prompt": "A jail cell block with steel bars in the foreground, through the bars a distant Manhattan street block with brick buildings, filling the whole picture.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 48,
+  "texto": "The thing you joined still answers to a jail.",
+  "prompt": "A heavy iron cell door in a long gray corridor, a single lamp, seen from the outside.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 49,
+  "texto": "You start doing things you wouldn't have done in May.",
+  "prompt": "the stick figure young man in the grey hoodie walking through a dim parking garage, head slightly lowered, evening.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 50,
+  "texto": "The research says that isn't an accident.",
+  "prompt": "Minimalist stick figures with white circle heads sitting around a long table covered with open research papers, in a plain study room with a window onto a grey city, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 51,
+  "texto": "In the Rochester study, gang members were about a third of the teenagers, and committed about two thirds of the offenses.",
+  "prompt": "A simple study room with a whiteboard of plain bar shapes and a table with papers, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 52,
+  "texto": "One of the researchers said that gun use, in his words, \"goes up dramatically\" when adolescents join gangs.",
+  "prompt": "A university researcher stick figure at a podium in a lecture room, a plain slide behind him.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 53,
+  "texto": "Then there's your phone.",
+  "prompt": "the stick figure young man in the grey hoodie holding a phone in a dark apartment, the lit screen on his face.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 54,
+  "texto": "Researchers have a name for gang conflict that plays out online: \"internet banging.\"",
+  "prompt": "A laptop and a phone side by side in a dark room, glowing blank grey screens with no writing, three empty round speech bubble shapes floating above them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 55,
+  "texto": "Bragging, insults and threats, posted where everyone can see them.",
+  "prompt": "A phone screen full of empty speech bubbles and thumbs-down icons, dark background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 56,
+  "texto": "A post that takes ten seconds to write can follow you into neighborhoods you've never set foot in.",
+  "prompt": "A tiny paper plane flying out of a phone and across a map of the city at night, trailing a thin line.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 57,
+  "texto": "And remember the database. Posts count.",
+  "prompt": "A phone with a list icon on its screen resting on a police desk, lamp light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 58,
+  "texto": "By the end of September, there are blocks you don't walk down anymore.",
+  "prompt": "the stick figure young man in the grey hoodie standing at a street corner at dusk, looking down a long block, the street ahead dim and empty.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 59,
+  "texto": "November.",
+  "prompt": "A plain blank paper wall calendar page with an empty grid of boxes and no writing, beside a quiet city street under a gray November sky, bare trees.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 60,
+  "texto": "Here's something most people don't know about getting shot in an American city.",
+  "prompt": "A stick figure silhouette standing in a city street at night, a city map pinned on the wall behind, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 61,
+  "texto": "It isn't random.",
+  "prompt": "A single question mark made of streetlight glow on a dark wet street.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 62,
+  "texto": "In Chicago, researchers mapped six years of shootings.",
+  "prompt": "A city map with grid streets drawn in soft grey with thin dotted lines, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 63,
+  "texto": "Seventy percent of the people who survived a gunshot belonged to networks of people arrested together that made up less than six percent of the city.",
+  "prompt": "A grey city map with a small tight cluster of connected dots and thin lines in one corner, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 64,
+  "texto": "In Boston, another study found that the closer you are to a gunshot victim in your social network, the higher your own odds of being shot.",
+  "prompt": "A web of connected dots and thin lines over a city map, one dot slightly larger, plain dark background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 65,
+  "texto": "Your risk doesn't depend only on what you do. It depends on who you know.",
+  "prompt": "the stick figure young man in the grey hoodie standing in the middle of a web of thin lines connecting many stick figures, plain dark background.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 66,
+  "texto": "And now you know a lot of the wrong people.",
+  "prompt": "the stick figure young man in the grey hoodie surrounded by a ring of stick figures in dark jackets on a street corner, night.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 67,
+  "texto": "Researchers who studied gang members in Texas prisons found the same pattern behind bars: members were far more likely to be victims of violence than non-members.",
+  "prompt": "A Texas prison exterior: a plain beige low building with a fence and a watch tower, flat sunset sky.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 68,
+  "texto": "In November, someone you came up with is shot. He lives. You find out from a post.",
+  "prompt": "the stick figure young man in the grey hoodie looking at a phone in a dim apartment, a notification badge on the screen, a smaller stick figure boy in a yellow t-shirt watching from the doorway.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 69,
+  "texto": "Your little brother saw it before you did.",
+  "prompt": "a smaller stick figure boy in a yellow t-shirt sitting on a sofa holding a phone, looking at it with a worried face, evening light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 70,
+  "texto": "And for the first time, you think about getting out.",
+  "prompt": "The stick figure young man in the grey hoodie standing at a window at night looking out at a rain-streaked street with pale yellow and blue lights only, hands in pockets.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 71,
+  "texto": "You've heard the rule a hundred times. Blood in, blood out. Nobody leaves alive.",
+  "prompt": "the stick figure young man in the grey hoodie in a dim hallway in front of a closed door with a slit of light under it.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 72,
+  "texto": "Is that true? We'll get there.",
+  "prompt": "A single large question mark drawn in chalk on dark pavement, a streetlight above it.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 73,
+  "texto": "March. Six in the morning.",
+  "prompt": "An apartment hallway at six in the morning, pale blue light, a closed door, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 74,
+  "texto": "Someone is pounding on your mother's door.",
+  "prompt": "a stick figure woman with a dark hair bun in plain blue work scrubs wearing a robe opens an apartment door a crack, pale hallway light, stick figure agents in plain navy jackets outside, seen in silhouette.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 75,
+  "texto": "It isn't a rival. It's federal agents and the NYPD.",
+  "prompt": "A narrow apartment hallway filled with stick figure agents in plain navy jackets, dawn light, seen from the end of the hall.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 76,
+  "texto": "In 2025 alone, the NYPD carried out seventy gang takedowns like this one.",
+  "prompt": "A line of dark vans parked on a Bronx street at dawn, streetlight still on, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 77,
+  "texto": "Your mother is standing in the hallway in her work clothes. Your brother is behind her.",
+  "prompt": "a stick figure woman with a dark hair bun in plain blue work scrubs standing in a hallway in work scrubs, a smaller stick figure boy in a yellow t-shirt behind her holding her hand, a door behind them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 78,
+  "texto": "And you learn a new word. RICO.",
+  "prompt": "A plain courtroom wall with a gavel on a desk and a stack of thick binders, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 79,
+  "texto": "It's a federal law originally aimed at organized crime.",
+  "prompt": "A thick law book open on a wooden desk, a gavel beside it, library light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 80,
+  "texto": "Under it, a group of people can be charged as a criminal enterprise, with no office and no paperwork, just the fact that they act together.",
+  "prompt": "A simple diagram of many small stick figures linked by thin lines inside a big circle, on a paper pinned with black pins to a grey wall, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 81,
+  "texto": "Prosecutors have to show a pattern: at least two crimes, tied to that enterprise.",
+  "prompt": "Two small crates linked by a chain on a desk, a judge's gavel beside them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 82,
+  "texto": "So the case isn't only about what you did. It's about the whole group, and your part in it.",
+  "prompt": "the stick figure young man in the grey hoodie seated at a table across from a lawyer in a dark suit, a thick folder between them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 83,
+  "texto": "Then there are the guns.",
+  "prompt": "A closed steel case locked on a table, under a lamp, plain wall.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 84,
+  "texto": "Under federal law, using or carrying a gun during a violent crime or a drug deal adds at least five years. Seven if it's brandished. Ten if it's fired.",
+  "prompt": "A courthouse hallway with a large clean wall, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 85,
+  "texto": "And those years don't run at the same time as the rest of the sentence. They come after it.",
+  "prompt": "Three stacked stone blocks on a courtroom desk, each larger than the last, a gavel.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 86,
+  "texto": "This is exactly what happened to a set called the Nine-Three, in Manhattan, starting in 2018.",
+  "prompt": "A federal courthouse in Manhattan with tall columns and wide steps, overcast sky.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 87,
+  "texto": "Federal prosecutors charged six members and associates in November. By the end of January, there were ten.",
+  "prompt": "A federal courthouse lobby with marble floor, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 88,
+  "texto": "One defendant who pleaded guilty was sentenced to fifteen years.",
+  "prompt": "A courtroom bench from the front, a stick figure defendant in a gray suit at a table with his lawyer, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 89,
+  "texto": "A high-ranking member who went to trial got twenty-four.",
+  "prompt": "A courtroom with a jury box of stick figures, wood paneling, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 90,
+  "texto": "And the best-known defendant in the case was a rapper with millions of fans.",
+  "prompt": "A stage with a microphone and a spotlight in an empty dark concert hall, a crowd of faint silhouettes beyond.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 91,
+  "texto": "What he did next is the choice in front of you now.",
+  "prompt": "The stick figure young man in the grey hoodie, hands empty, standing in a gray prison corridor that splits into two doors, one on the left and one on the right.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 92,
+  "texto": "In April, your lawyer brings you an offer.",
+  "prompt": "A lawyer in a dark suit sliding a paper across a table in a plain visiting room to the stick figure young man in the grey hoodie seated across, window light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 93,
+  "texto": "Testify against the others, and the government will ask the judge for less time.",
+  "prompt": "A pair of scales of justice on a desk, one pan lower than the other, courtroom light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 94,
+  "texto": "In the Nine-Three case, prosecutors said the charges against that rapper carried at least forty-seven years.",
+  "prompt": "A federal courthouse hallway with a long bench, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 95,
+  "texto": "He cooperated, and he testified at trial.",
+  "prompt": "A witness stand in a courtroom with a microphone, empty, seen from the jury box.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 96,
+  "texto": "He was sentenced to two years.",
+  "prompt": "A plain sentencing courtroom, a judge's bench in the distance, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 97,
+  "texto": "Prosecutors said that once his cooperation became public, several of his co-defendants contacted the government to start plea talks of their own.",
+  "prompt": "Minimalist stick figure lawyers with plain white circle heads and dot eyes, in dark suits, sitting around a table with folders and phones, a window behind them.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 98,
+  "texto": "And his family had to be moved before anyone found out.",
+  "prompt": "A moving truck parked at dusk in front of an apartment building, a stick figure woman with a dark hair bun in plain blue work scrubs and a smaller stick figure boy in a yellow t-shirt carrying a single box up its ramp.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 99,
+  "texto": "That's the offer. Decades of your life back, in exchange for being the one who talked, for the rest of your life.",
+  "prompt": "The stick figure young man in the grey hoodie sitting at a plain table in a federal visiting room with bare walls, head lowered, hands on the table.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 100,
+  "texto": "Cooperate, or go to trial? Tell me in the comments what you would do.",
+  "prompt": "the stick figure young man in the grey hoodie facing the viewer in a federal visiting room, a plain table in front of him, serious face.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 101,
+  "texto": "While you think about it, let's settle that rule. Blood in, blood out.",
+  "prompt": "A quiet library research room at night with a lamp, a stack of books, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 102,
+  "texto": "David Pyrooz, a criminologist at the University of Colorado, studied hundreds of men in Texas prisons.",
+  "prompt": "A professor stick figure in a dark sweater at a desk with study folders, a tall window behind him.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 103,
+  "texto": "His conclusion: \"This idea of blood in, blood out is a myth.\"",
+  "prompt": "A professor stick figure at a podium, an open book on the stand, mountains visible through a window.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 104,
+  "texto": "Most of the men who had joined a gang inside had already left it before they were released.",
+  "prompt": "A prison yard with several stick figures in grey jumpsuits walking away from a wire fence, overcast sky.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 105,
+  "texto": "On the outside, the numbers look the same.",
+  "prompt": "A prison release door standing open onto a bright empty street, morning light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 106,
+  "texto": "Every year in the United States, researchers estimate, about four hundred thousand young people join a gang, and almost as many leave.",
+  "prompt": "Two plain grey city skyline silhouettes facing each other across a wide river, a row of small arrows crossing in both directions, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 107,
+  "texto": "So yes. People walk away. Most of them do.",
+  "prompt": "A bright open door leading from a gray hallway to a sunlit street, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 108,
+  "texto": "But leaving the gang isn't the same as leaving the danger.",
+  "prompt": "the stick figure young man in the grey hoodie walking out of a doorway onto a sunlit street and looking back over his shoulder at a dark corridor.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 109,
+  "texto": "Another study found that people who stay tied to their old gang friends after leaving keep getting victimized, and that risk fades only with time.",
+  "prompt": "the stick figure young man in the grey hoodie standing alone on a sunny sidewalk while distant dark silhouettes wait at the end of the block.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 110,
+  "texto": "The way out is real. It just takes years to close behind you.",
+  "prompt": "A long road winding toward a distant sunrise over a city, a mile marker beside it.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 111,
+  "texto": "So how does your year end?",
+  "prompt": "A plain blank paper wall calendar with an empty grid of twelve boxes and no writing, hanging on a grey wall, soft daylight.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 112,
+  "texto": "Exactly the way the research said it would. About a year after you said yes, you're out.",
+  "prompt": "A plain blank paper wall calendar with an empty grid and no writing, one box circled in pencil, on a grey wall, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 113,
+  "texto": "Not because you walked away. Because the government took you out.",
+  "prompt": "A minimalist stick figure federal agent with a plain white circle head and dot eyes, in a navy jacket, handing the stick figure young man in the grey hoodie a folded paper in a gray hallway.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 114,
+  "texto": "You're nineteen, in a federal jail in Brooklyn, with an offer on the table, and a possible sentence longer than your life so far.",
+  "prompt": "A federal jail cell in Brooklyn: a narrow window, a bunk, the stick figure young man in the grey hoodie sitting on the bunk with a sheet of paper in his hands.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 115,
+  "texto": "Fifteen years. Twenty-four. Or two, and your mother and your brother moving somewhere nobody knows.",
+  "prompt": "the stick figure young man in the grey hoodie sitting on the cell bunk, a paper on his lap, in a bare gray cell, narrow window light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 116,
+  "texto": "And the city you left behind?",
+  "prompt": "A view over the Bronx rooftops at dawn, water towers, a quiet street below.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 117,
+  "texto": "In 2025, New York had six hundred and eighty-eight shooting incidents, the fewest in its recorded history.",
+  "prompt": "A city skyline at dusk, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 118,
+  "texto": "In 2022, it had been one thousand, two hundred and ninety-four.",
+  "prompt": "A city skyline at dusk filling the whole picture, a taller thin line chart sketched in the sky behind it, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 119,
+  "texto": "Across the country, researchers estimate that only about two percent of young people are in a gang at any given time.",
+  "prompt": "A large clean pale background with a few stick figures standing apart from a single small group, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 120,
+  "texto": "Most people your age never join anything.",
+  "prompt": "A group of stick figure teenagers walking together through a bright schoolyard, backpacks, daylight.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 121,
+  "texto": "And the founder, the man who said it was all about protection?",
+  "prompt": "A founder stick figure in a dark suit sitting in a federal courtroom at a table, lamp light.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 122,
+  "texto": "A federal jury convicted him on ten counts, including racketeering and conspiracy to commit murder.",
+  "prompt": "A jury of stick figures in a courtroom listening, a foreperson standing, wood paneling.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 123,
+  "texto": "In 2003, he was sentenced to fifty years in federal prison.",
+  "prompt": "A federal prison building with fences and a gray sky, with a large empty clear area in the lower center.",
+  "ref2": "010",
+  "cartao": true
+ },
+ {
+  "cena": 124,
+  "texto": "It started in a jail, with a promise of protection.",
+  "prompt": "The aerial island prison complex at dusk, a bridge leading to the city lights, overcast sky.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 125,
+  "texto": "For him, it ended in one.",
+  "prompt": "An empty federal prison corridor lit by one lamp, a closed steel door at the end.",
+  "ref2": "010",
+  "cartao": false
+ },
+ {
+  "cena": 126,
+  "texto": "For you, it has been exactly one year.",
+  "prompt": "the stick figure young man in the grey hoodie sitting on the cell bunk, head lowered, narrow window light, quiet.",
+  "ref2": "010",
+  "cartao": false
+ }
+]

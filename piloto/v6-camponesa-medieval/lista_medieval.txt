@@ -1,0 +1,367 @@
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/001.png'
+duration 6.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/002.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/003.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/004.png'
+duration 3.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/005.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/006.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/007.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/008.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/009.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/010.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/011.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/012.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/013.png'
+duration 5.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/014.png'
+duration 2.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/015.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/016.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/017.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/018.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/019.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/020.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/021.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/022.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/023.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/024.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/025.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/026.png'
+duration 6.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/027.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/028.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/029.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/030.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/031.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/032.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/033.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/034.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/035.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/036.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/037.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/038.png'
+duration 3.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/039.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/040.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/041.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/042.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/043.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/044.png'
+duration 7.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/045.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/046.png'
+duration 7.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/047.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/048.png'
+duration 5.633333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/049.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/050.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/051.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/052.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/053.png'
+duration 6.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/054.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/055.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/056.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/057.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/058.png'
+duration 6.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/059.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/060.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/061.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/062.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/063.png'
+duration 6.833333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/064.png'
+duration 6.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/065.png'
+duration 3.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/066.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/067.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/068.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/069.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/070.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/071.png'
+duration 6.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/072.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/073.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/074.png'
+duration 3.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/075.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/076.png'
+duration 3.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/077.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/078.png'
+duration 4.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/079.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/080.png'
+duration 6.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/081.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/082.png'
+duration 7.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/083.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/084.png'
+duration 8.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/085.png'
+duration 3.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/086.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/087.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/088.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/089.png'
+duration 5.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/090.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/091.png'
+duration 4.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/092.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/093.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/094.png'
+duration 6.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/095.png'
+duration 7.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/096.png'
+duration 7.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/097.png'
+duration 6.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/098.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/099.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/100.png'
+duration 5.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/101.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/102.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/103.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/104.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/105.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/106.png'
+duration 8.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/107.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/108.png'
+duration 5.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/109.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/110.png'
+duration 7.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/111.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/112.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/113.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/114.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/115.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/116.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/117.png'
+duration 3.633333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/118.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/119.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/120.png'
+duration 7.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/121.png'
+duration 5.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/122.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/123.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/124.png'
+duration 3.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/125.png'
+duration 2.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/126.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/127.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/128.png'
+duration 5.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/129.png'
+duration 3.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/130.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/131.png'
+duration 3.100000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/132.png'
+duration 4.533333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/133.png'
+duration 6.833333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/134.png'
+duration 5.500000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/135.png'
+duration 2.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/136.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/137.png'
+duration 6.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/138.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/139.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/140.png'
+duration 8.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/141.png'
+duration 6.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/142.png'
+duration 6.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/143.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/144.png'
+duration 3.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/145.png'
+duration 2.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/146.png'
+duration 3.266667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/147.png'
+duration 6.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/148.png'
+duration 4.066667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/149.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/150.png'
+duration 6.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/151.png'
+duration 2.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/152.png'
+duration 8.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/153.png'
+duration 5.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/154.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/155.png'
+duration 1.966667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/156.png'
+duration 3.800000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/157.png'
+duration 5.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/158.png'
+duration 3.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/159.png'
+duration 6.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/160.png'
+duration 5.333333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/161.png'
+duration 4.866667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/162.png'
+duration 5.400000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/163.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/164.png'
+duration 5.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/165.png'
+duration 4.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/166.png'
+duration 4.133333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/167.png'
+duration 4.300000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/168.png'
+duration 4.200000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/169.png'
+duration 6.366667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/170.png'
+duration 5.166667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/171.png'
+duration 7.733333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/172.png'
+duration 1.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/173.png'
+duration 4.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/174.png'
+duration 6.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/175.png'
+duration 6.933333
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/176.png'
+duration 4.766667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/177.png'
+duration 5.900000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/178.png'
+duration 4.466667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/179.png'
+duration 2.700000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/180.png'
+duration 3.566667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/181.png'
+duration 5.666667
+file 'D:/programacao/projetos/videos/v1 geracao de videos/piloto/v6-camponesa-medieval/imagens/182.png'
+duration 10.600000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'
+duration 15.000000
+file 'D:/programacao/projetos/videos/v1 geracao de videos/identidade/pocket-history/tela_final.png'
